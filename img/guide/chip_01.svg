@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="24" viewBox="0 0 522 24">
+  <defs>
+    <style>
+      .a {
+        fill: #838f93;
+      }
+
+      .b, .c {
+        fill: #fff;
+      }
+
+      .b {
+        fill-rule: evenodd;
+      }
+
+      .c {
+        font-size: 15px;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .d {
+        letter-spacing: -0.01em;
+      }
+
+      .e {
+        letter-spacing: -0.004em;
+      }
+
+      .f {
+        letter-spacing: -0.006em;
+      }
+
+      .g {
+        letter-spacing: -0.002em;
+      }
+
+      .h {
+        letter-spacing: -0.006em;
+      }
+
+      .i {
+        letter-spacing: -0.003em;
+      }
+    </style>
+  </defs>
+  <title>chip_01</title>
+  <g>
+    <g>
+      <path class="a" d="M12,24A12,12,0,0,1,12,0h99a12,12,0,0,1,0,24Z"/>
+      <polygon class="b" points="102.02 7.08 103.081 6.02 107.501 10.44 111.919 6.02 112.98 7.08 108.561 11.5 112.98 15.92 111.919 16.98 107.501 12.56 103.081 16.98 102.02 15.92 106.44 11.5 102.02 7.08"/>
+      <text class="c" transform="translate(12.001 17)"><tspan class="d">R</tspan><tspan class="e" x="9.121" y="0">em</tspan><tspan class="f" x="31.363" y="0">o</tspan><tspan class="g" x="40.33" y="0">v</tspan><tspan class="h" x="47.812" y="0">a</tspan><tspan class="i" x="56.062" y="0">b</tspan><tspan class="e" x="65.203" y="0">l</tspan><tspan x="68.932" y="0">e</tspan></text>
+    </g>
+    <g>
+      <path class="a" d="M145,24a12,12,0,1,1,0-24h99a12,12,0,0,1,0,24Z"/>
+      <polygon class="b" points="235.02 7.08 236.081 6.02 240.501 10.44 244.919 6.02 245.98 7.08 241.561 11.5 245.98 15.92 244.919 16.98 240.501 12.56 236.081 16.98 235.02 15.92 239.44 11.5 235.02 7.08"/>
+      <text class="c" transform="translate(145.001 17)"><tspan class="d">R</tspan><tspan class="e" x="9.121" y="0">em</tspan><tspan class="f" x="31.363" y="0">o</tspan><tspan class="g" x="40.33" y="0">v</tspan><tspan class="h" x="47.812" y="0">a</tspan><tspan class="i" x="56.062" y="0">b</tspan><tspan class="e" x="65.203" y="0">l</tspan><tspan x="68.932" y="0">e</tspan></text>
+    </g>
+    <g>
+      <path class="a" d="M278,24a12,12,0,0,1,0-24h99a12,12,0,0,1,0,24Z"/>
+      <polygon class="b" points="368.022 7.08 369.08 6.02 373.501 10.44 377.92 6.02 378.98 7.08 374.561 11.5 378.98 15.92 377.92 16.98 373.501 12.56 369.08 16.98 368.022 15.92 372.44 11.5 368.022 7.08"/>
+      <text class="c" transform="translate(278.001 17)"><tspan class="d">R</tspan><tspan class="e" x="9.121" y="0">em</tspan><tspan class="f" x="31.363" y="0">o</tspan><tspan class="g" x="40.33" y="0">v</tspan><tspan class="h" x="47.812" y="0">a</tspan><tspan class="i" x="56.062" y="0">b</tspan><tspan class="e" x="65.203" y="0">l</tspan><tspan x="68.932" y="0">e</tspan></text>
+    </g>
+    <g>
+      <path class="a" d="M411,24a12,12,0,0,1,0-24h99a12,12,0,0,1,0,24Z"/>
+      <polygon class="b" points="501.022 7.08 502.08 6.02 506.501 10.44 510.92 6.02 511.979 7.08 507.561 11.5 511.979 15.92 510.92 16.98 506.501 12.56 502.08 16.98 501.022 15.92 505.44 11.5 501.022 7.08"/>
+      <text class="c" transform="translate(411.001 17)"><tspan class="d">R</tspan><tspan class="e" x="9.121" y="0">em</tspan><tspan class="f" x="31.363" y="0">o</tspan><tspan class="g" x="40.33" y="0">v</tspan><tspan class="h" x="47.812" y="0">a</tspan><tspan class="i" x="56.062" y="0">b</tspan><tspan class="e" x="65.203" y="0">l</tspan><tspan x="68.932" y="0">e</tspan></text>
+    </g>
+  </g>
+</svg>

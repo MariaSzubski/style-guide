@@ -1,0 +1,429 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="273" viewBox="0 0 340 273">
+  <defs>
+    <style>
+      .a {
+        opacity: 0.25;
+      }
+
+      .b {
+        fill: #fff;
+      }
+
+      .c {
+        fill: #bbb;
+      }
+
+      .d {
+        font-size: 15px;
+        font-family: OpenSans-Semibold, Open Sans;
+      }
+
+      .d, .z {
+        fill: #354052;
+      }
+
+      .e {
+        font-weight: 700;
+      }
+
+      .f {
+        letter-spacing: -0.002em;
+      }
+
+      .g {
+        letter-spacing: -0.006em;
+      }
+
+      .h {
+        letter-spacing: -0.002em;
+      }
+
+      .i {
+        letter-spacing: -0.003em;
+      }
+
+      .j {
+        letter-spacing: -0.001em;
+      }
+
+      .k, .z {
+        font-size: 13px;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .l {
+        letter-spacing: -0.008em;
+      }
+
+      .m {
+        letter-spacing: -0.005em;
+      }
+
+      .n {
+        letter-spacing: 0.001em;
+      }
+
+      .o {
+        letter-spacing: -0.004em;
+      }
+
+      .p {
+        letter-spacing: 0.005em;
+      }
+
+      .q {
+        letter-spacing: -0.008em;
+      }
+
+      .r {
+        letter-spacing: -0.003em;
+      }
+
+      .s {
+        letter-spacing: 0.001em;
+      }
+
+      .t {
+        letter-spacing: -0.003em;
+      }
+
+      .u {
+        letter-spacing: 0.006em;
+      }
+
+      .v {
+        letter-spacing: -0.004em;
+      }
+
+      .w {
+        letter-spacing: 0.003em;
+      }
+
+      .x {
+        letter-spacing: -0.007em;
+      }
+
+      .y {
+        letter-spacing: -0.004em;
+      }
+
+      .aa {
+        letter-spacing: -0.003em;
+      }
+
+      .ab {
+        letter-spacing: -0.008em;
+      }
+
+      .ac {
+        letter-spacing: -0.004em;
+      }
+
+      .ad {
+        letter-spacing: 0.003em;
+      }
+
+      .ae {
+        letter-spacing: 0.008em;
+      }
+
+      .af {
+        letter-spacing: 0.005em;
+      }
+
+      .ag {
+        letter-spacing: -0.003em;
+      }
+
+      .ah {
+        letter-spacing: 0.005em;
+      }
+
+      .ai {
+        letter-spacing: -0.006em;
+      }
+
+      .aj {
+        letter-spacing: -0.002em;
+      }
+
+      .ak {
+        letter-spacing: -0.005em;
+      }
+
+      .al {
+        letter-spacing: -0.084em;
+      }
+
+      .am {
+        letter-spacing: 0.001em;
+      }
+
+      .an {
+        letter-spacing: -0.007em;
+      }
+
+      .ao {
+        letter-spacing: -0.009em;
+      }
+
+      .ap {
+        letter-spacing: 0.016em;
+      }
+
+      .aq {
+        letter-spacing: -0.008em;
+      }
+
+      .ar {
+        letter-spacing: -0.003em;
+      }
+
+      .as {
+        letter-spacing: 0.017em;
+      }
+
+      .at {
+        letter-spacing: 0em;
+      }
+
+      .au {
+        letter-spacing: -0.007em;
+      }
+
+      .av {
+        letter-spacing: -0.005em;
+      }
+
+      .aw {
+        letter-spacing: -0.008em;
+      }
+
+      .ax {
+        letter-spacing: -0.009em;
+      }
+
+      .ay {
+        letter-spacing: 0.005em;
+      }
+
+      .az {
+        letter-spacing: -0.005em;
+      }
+
+      .ba {
+        letter-spacing: -0.003em;
+      }
+
+      .bb {
+        letter-spacing: 0.001em;
+      }
+
+      .bc {
+        letter-spacing: -0.006em;
+      }
+
+      .bd {
+        letter-spacing: -0.003em;
+      }
+
+      .be {
+        letter-spacing: 0.013em;
+      }
+
+      .bf {
+        letter-spacing: -0.01em;
+      }
+
+      .bg {
+        letter-spacing: -0.006em;
+      }
+
+      .bh {
+        letter-spacing: -0.008em;
+      }
+
+      .bi {
+        letter-spacing: -0.006em;
+      }
+
+      .bj {
+        letter-spacing: 0.011em;
+      }
+
+      .bk {
+        letter-spacing: 0.002em;
+      }
+
+      .bl {
+        letter-spacing: -0.003em;
+      }
+
+      .bm {
+        letter-spacing: -0.006em;
+      }
+
+      .bn {
+        letter-spacing: 0em;
+      }
+
+      .bo {
+        letter-spacing: -0.011em;
+      }
+
+      .bp {
+        letter-spacing: -0.004em;
+      }
+
+      .bq {
+        letter-spacing: 0.01em;
+      }
+
+      .br {
+        letter-spacing: 0.018em;
+      }
+
+      .bs {
+        letter-spacing: -0.001em;
+      }
+
+      .bt {
+        letter-spacing: -0.001em;
+      }
+
+      .bu {
+        letter-spacing: -0.016em;
+      }
+
+      .bv {
+        letter-spacing: 0.02em;
+      }
+
+      .bw {
+        letter-spacing: 0.011em;
+      }
+
+      .bx {
+        letter-spacing: -0.006em;
+      }
+
+      .by {
+        letter-spacing: -0.007em;
+      }
+
+      .bz {
+        letter-spacing: 0.002em;
+      }
+
+      .ca {
+        letter-spacing: -0.006em;
+      }
+
+      .cb {
+        letter-spacing: 0.001em;
+      }
+
+      .cc {
+        letter-spacing: -0.01em;
+      }
+
+      .cd {
+        letter-spacing: 0em;
+      }
+
+      .ce {
+        letter-spacing: -0.01em;
+      }
+
+      .cf {
+        letter-spacing: 0.011em;
+      }
+
+      .cg {
+        letter-spacing: 0.003em;
+      }
+
+      .ch {
+        letter-spacing: 0.005em;
+      }
+
+      .ci {
+        letter-spacing: -0.007em;
+      }
+
+      .cj {
+        letter-spacing: -0.008em;
+      }
+
+      .ck {
+        letter-spacing: 0.004em;
+      }
+
+      .cl {
+        letter-spacing: -0.005em;
+      }
+
+      .cm {
+        letter-spacing: 0.011em;
+      }
+
+      .cn {
+        letter-spacing: 0.011em;
+      }
+
+      .co {
+        letter-spacing: -0.006em;
+      }
+
+      .cp {
+        letter-spacing: 0.036em;
+      }
+
+      .cq {
+        letter-spacing: -0.005em;
+      }
+
+      .cr {
+        letter-spacing: -0.003em;
+      }
+
+      .cs {
+        fill: #eee;
+      }
+
+      .ct {
+        fill: none;
+      }
+    </style>
+    <image id="a" width="332" height="76" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUwAAABMCAYAAAAGGY7rAAAACXBIWXMAAAsSAAALEgHS3X78AAAFGElEQVR4Xu3aQYiVVRjG8deZ0UadjLLAdJRqqHTpQgcckxZBUzsX6XY2MhZKBNX60l43ilNEtGgjtGolrYQpg2otBIHgVEIrQwNDs9vz3HMuzp25Di+68vgf+A0Mc79zd3/ec84X3W437kc/6wDgcbJmE9eI5IiMVmMA0Lh+79y+ofEcFsuR+vAGGZdNslkmAKBRbpxb5+a5fW5gL5xDgxn3YrleNsoW2SrbZLtMyk4AaIzb5sa5dW6e2+cGuoUD0RwWS5f2Wdkle2SvTMsBmZGDANAIN81tc+Pcut1R2udweuIciObyYI7VDzwnL9cF3pKjMifHZL46DgCPuH7P3LY5OSKzsk+mokTTk6bbuK62shdLH3Q+IU/LS1GK+468L5/IaTkr52QBABrhprltp6QjJ+Sw7I8yaXp77jPNkeXBdEG9FX8+yljqBz6sC30t38pFWZTvAKARbprbdkHORxkOHU1Pmj6S9JQ5HmWodCt7+3MX9Cl5UQ5FGVFd3G/kJ/lFrshVWQKARrhpbttluRQlmp0oR5EeHn0R5KPKVcH0dvwVeVM+kC+i1PdX+VP+khtyEwAa4aZdl2tRoulJ08PiXJR7nB1Rdt+9c0zpBdPnl8/Iq/K2fCxfRZkuf6+L/iO35Q4ANMJNuxUlmp40vT0/E2WX7bucySjvaQ4Ec/mE6b37R1GC+XOU8v5dF78r/wFAI9w0R9NDobfn3lX7Isi35zNR3tNcFUy/a+QzzCl5I8qW/Ev5Uf6IEsx/6xd0AaARbpqHQW/PfabpiyDfnvu1I7+nuSqY/uVg+vr8BXldTsrn8kOULXl/wiSYAFryQMH0H09Gee/okLwnn8n38ltdjGACaM0DB3Oi/vM1eVc+rQ8vBcEE0KaHDubB+uGFIJgA2kYwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIIpgAkEQwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIIpgAkEQwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIIpgAkEQwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIIpgAkEQwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIIpgAkEQwASCJYAJAEsEEgCSCCQBJBBMAkggmACQRTABIeuhgzsi8nJNFuSo35LbcrV8AAC1w09w2N86tc/PcPjfQLVwzmJNyQI7JGbkoV+S63KoL3wGARrhpbpsb59a5eW6fG+gWuolDg7lZdsi0zMkpuSCX5Vpd0BW+CQCNcNPcNjfOrXPz3L65KC10E93GgWCOyibZJnvlqHTkvFyqC7m+HlmXAKARbprb5sa5dW5eJ0oD3UI30W10IweCOS5bZY/Mygk5XRdwdT2qLkY5FAWAFrhpbpsb59a5eW6fG+gWuolu42i4ld2uL4piRDbIFtkl++VwfbATZUQ9G+UwdAEAGuGmuW1uXCdK89w+N9AtdBPdxpFeK2sw++eYG6MUdUr2RanskSj7eR+CzlfHAeAR1++Z2zYXpXWzUdrnBrqFbmLv/HJlMD1lro+yX/cHXdfdUfbx01FujGaivJsEAC1w09w2N86tc/PcPjfQLXQT3cZ7wRwSTVd1S33Ih57bo1yv7wSAxrhtbpxb5+a5fW7gQCwHgrkimh5BvW8fj1JZX6tPAECj3Di3zs1z+9zAgViuCuayaPbDOVqNAUDj+r3rhTJWxHJoMO8TTwB4LKzVxP8BnN6S/ZHyF9gAAAAASUVORK5CYII="/>
+  </defs>
+  <title>toast_02</title>
+  <g>
+    <g>
+      <use class="a" transform="translate(4 4)" xlink:href="#a"/>
+      <g>
+        <rect class="b" x="10.5" y="10.5" width="319" height="63" rx="3.5" ry="3.5"/>
+        <path class="c" d="M326,11a3,3,0,0,1,3,3V70a3,3,0,0,1-3,3H14a3,3,0,0,1-3-3V14a3,3,0,0,1,3-3H326m0-1H14a4.012,4.012,0,0,0-4,4V70a4.012,4.012,0,0,0,4,4H326a4.012,4.012,0,0,0,4-4V14a4.012,4.012,0,0,0-4-4Z"/>
+      </g>
+    </g>
+    <text class="d" transform="translate(26 37.4)"><tspan class="e"><tspan class="f">H</tspan><tspan class="g" x="11.23" y="0">e</tspan><tspan class="h" x="19.78" y="0">a</tspan><tspan class="i" x="28.451" y="0">d</tspan><tspan class="j" x="37.744" y="0">e</tspan><tspan x="46.377" y="0">r</tspan></tspan><tspan class="k"><tspan class="l" x="0" y="20">Si</tspan><tspan class="m" x="10.225" y="20">n</tspan><tspan class="n" x="18.133" y="20">g</tspan><tspan class="o" x="25.271" y="20">l</tspan><tspan x="28.512" y="20">e </tspan><tspan class="p" x="39.182" y="20">L</tspan><tspan class="q" x="45.988" y="20">i</tspan><tspan class="r" x="49.173" y="20">n</tspan><tspan x="57.114" y="20">e D</tspan><tspan class="s" x="77.261" y="20">es</tspan><tspan class="t" x="90.785" y="20">c</tspan><tspan class="u" x="96.93" y="20">r</tspan><tspan class="q" x="102.321" y="20">i</tspan><tspan class="v" x="105.506" y="20">p</tspan><tspan class="w" x="113.424" y="20">t</tspan><tspan class="x" x="118.054" y="20">i</tspan><tspan class="y" x="121.246" y="20">o</tspan><tspan x="129.044" y="20">n</tspan></tspan></text>
+    <g>
+      <use class="a" transform="translate(4 193)" xlink:href="#a"/>
+      <g>
+        <rect class="b" x="10.5" y="199.5" width="319" height="63" rx="3.5" ry="3.5"/>
+        <path class="c" d="M326,200a3,3,0,0,1,3,3v56a3,3,0,0,1-3,3H14a3,3,0,0,1-3-3V203a3,3,0,0,1,3-3H326m0-1H14a4.012,4.012,0,0,0-4,4v56a4.012,4.012,0,0,0,4,4H326a4.012,4.012,0,0,0,4-4V203a4.012,4.012,0,0,0-4-4Z"/>
+      </g>
+    </g>
+    <text class="z" transform="translate(26 224.88)">D<tspan class="s" x="9.477" y="0">es</tspan><tspan class="aa" x="23.001" y="0">c</tspan><tspan class="u" x="29.146" y="0">r</tspan><tspan class="ab" x="34.537" y="0">i</tspan><tspan class="ac" x="37.722" y="0">p</tspan><tspan class="ad" x="45.64" y="0">t</tspan><tspan class="x" x="50.27" y="0">i</tspan><tspan class="y" x="53.462" y="0">o</tspan><tspan x="61.261" y="0">n </tspan><tspan class="ae" x="72.617" y="0">w</tspan><tspan class="af" x="82.835" y="0">i</tspan><tspan class="ad" x="86.19" y="0">t</tspan><tspan class="ag" x="90.82" y="0">ho</tspan><tspan class="ah" x="106.573" y="0">u</tspan><tspan x="114.621" y="0">t </tspan><tspan class="ag" x="122.587" y="0">h</tspan><tspan class="ai" x="130.527" y="0">e</tspan><tspan class="aj" x="137.738" y="0">a</tspan><tspan class="ak" x="144.946" y="0">d</tspan><tspan class="o" x="152.854" y="0">e</tspan><tspan class="al" x="160.1" y="0">r</tspan><tspan x="164.317" y="0">. </tspan><tspan class="am" x="171.154" y="0">D</tspan><tspan class="an" x="180.649" y="0">u</tspan><tspan class="ao" x="188.535" y="0">i</tspan><tspan x="191.707" y="0">s </tspan><tspan class="ap" x="201.286" y="0">v</tspan><tspan class="aq" x="208.002" y="0">ul</tspan><tspan class="ar" x="219.062" y="0">p</tspan><tspan class="ah" x="226.995" y="0">u</tspan><tspan class="as" x="235.043" y="0">t</tspan><tspan class="at" x="239.854" y="0">a</tspan><tspan class="ao" x="247.08" y="0">t</tspan><tspan x="251.553" y="0">e </tspan><tspan class="au" x="0" y="20">m</tspan><tspan class="av" x="12.001" y="20">a</tspan><tspan class="aw" x="19.167" y="20">u</tspan><tspan class="u" x="27.046" y="20">r</tspan><tspan class="ao" x="32.438" y="20">i</tspan><tspan x="35.61" y="20">s </tspan><tspan class="ax" x="45.188" y="20">s</tspan><tspan class="ay" x="51.278" y="20">i</tspan><tspan x="54.634" y="20">t </tspan><tspan class="az" x="62.601" y="20">a</tspan><tspan class="ba" x="69.76" y="20">m</tspan><tspan class="bb" x="81.811" y="20">e</tspan><tspan x="89.112" y="20">t </tspan><tspan class="n" x="97.079" y="20">g</tspan><tspan class="bc" x="104.216" y="20">r</tspan><tspan class="bd" x="109.445" y="20">a</tspan><tspan class="be" x="116.637" y="20">v</tspan><tspan class="m" x="123.321" y="20">i</tspan><tspan class="bf" x="126.538" y="20">d</tspan><tspan x="134.377" y="20">a </tspan><tspan class="bg" x="144.984" y="20">a</tspan><tspan class="bh" x="152.142" y="20">l</tspan><tspan class="bg" x="155.329" y="20">i</tspan><tspan class="bi" x="158.545" y="20">q</tspan><tspan class="ak" x="166.434" y="20">u</tspan><tspan class="bb" x="174.354" y="20">e</tspan><tspan class="bj" x="181.656" y="20">t</tspan><tspan x="186.388" y="20">.</tspan></text>
+    <g>
+      <image class="a" width="332" height="117" transform="translate(4 78)" xlink:href="data:image/png;base64,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"/>
+      <g>
+        <rect class="b" x="10.5" y="84.5" width="319" height="104" rx="3.5" ry="3.5"/>
+        <path class="c" d="M326,85a3,3,0,0,1,3,3v97a3,3,0,0,1-3,3H14a3,3,0,0,1-3-3V88a3,3,0,0,1,3-3H326m0-1H14a4.012,4.012,0,0,0-4,4v97a4.012,4.012,0,0,0,4,4H326a4.012,4.012,0,0,0,4-4V88a4.012,4.012,0,0,0-4-4Z"/>
+      </g>
+    </g>
+    <text class="d" transform="translate(71 112.4)"><tspan class="e"><tspan class="f">H</tspan><tspan class="g" x="11.23" y="0">e</tspan><tspan class="h" x="19.78" y="0">a</tspan><tspan class="i" x="28.451" y="0">d</tspan><tspan class="j" x="37.744" y="0">e</tspan><tspan x="46.377" y="0">r </tspan><tspan class="bk" x="56.741" y="0">w</tspan><tspan class="bl" x="69.025" y="0">i</tspan><tspan class="bm" x="73.169" y="0">t</tspan><tspan x="78.98" y="0">h </tspan><tspan class="bn" x="92.398" y="0">I</tspan><tspan class="bo" x="96.97" y="0">c</tspan><tspan class="bp" x="104.234" y="0">o</tspan><tspan x="113.338" y="0">n</tspan></tspan><tspan class="k"><tspan class="ak" x="0" y="20">M</tspan><tspan class="aq" x="11.678" y="20">u</tspan><tspan class="ay" x="19.553" y="20">l</tspan><tspan class="w" x="22.909" y="20">t</tspan><tspan class="bq" x="27.539" y="20">i</tspan><tspan class="br" x="30.962" y="20">-</tspan><tspan class="p" x="35.375" y="20">L</tspan><tspan class="ab" x="42.181" y="20">i</tspan><tspan class="ag" x="45.367" y="20">n</tspan><tspan x="53.307" y="20">e D</tspan><tspan class="s" x="73.454" y="20">es</tspan><tspan class="t" x="86.978" y="20">c</tspan><tspan class="u" x="93.123" y="20">r</tspan><tspan class="ab" x="98.514" y="20">i</tspan><tspan class="ac" x="101.699" y="20">p</tspan><tspan class="ad" x="109.617" y="20">t</tspan><tspan class="x" x="114.247" y="20">i</tspan><tspan class="y" x="117.439" y="20">o</tspan><tspan class="bs" x="125.238" y="20">n</tspan><tspan x="133.205" y="20">. </tspan><tspan class="ag" x="140.042" y="20">M</tspan><tspan class="y" x="151.739" y="20">o</tspan><tspan class="u" x="159.538" y="20">r</tspan><tspan class="ac" x="164.929" y="20">b</tspan><tspan x="172.847" y="20">i </tspan><tspan class="bt" x="179.512" y="20">e</tspan><tspan class="bu" x="186.788" y="20">g</tspan><tspan class="s" x="193.696" y="20">e</tspan><tspan class="bv" x="201.004" y="20">s</tspan><tspan class="as" x="207.462" y="20">t</tspan><tspan class="bc" x="212.273" y="20">a</tspan><tspan class="bw" x="219.425" y="20">s</tspan><tspan x="225.773" y="20">, </tspan><tspan class="au" x="0" y="40">m</tspan><tspan class="bx" x="12.001" y="40">a</tspan><tspan class="n" x="19.157" y="40">g</tspan><tspan class="by" x="26.295" y="40">n</tspan><tspan x="34.186" y="40">a </tspan><tspan class="ag" x="44.792" y="40">n</tspan><tspan class="bz" x="52.732" y="40">e</tspan><tspan x="60.047" y="40">c </tspan><tspan class="ca" x="69.613" y="40">f</tspan><tspan class="ak" x="73.942" y="40">e</tspan><tspan class="bi" x="81.177" y="40">u</tspan><tspan class="cb" x="89.079" y="40">g</tspan><tspan class="cc" x="96.216" y="40">i</tspan><tspan class="cd" x="99.375" y="40">a</tspan><tspan x="106.6" y="40">t </tspan><tspan class="ba" x="114.566" y="40">a</tspan><tspan class="ce" x="121.755" y="40">c</tspan><tspan class="bs" x="127.809" y="40">c</tspan><tspan class="aw" x="133.986" y="40">u</tspan><tspan class="bc" x="141.865" y="40">m</tspan><tspan class="cf" x="153.879" y="40">s</tspan><tspan class="az" x="160.219" y="40">a</tspan><tspan class="cg" x="167.378" y="40">n</tspan><tspan x="175.399" y="40">, </tspan><tspan class="ch" x="181.962" y="40">e</tspan><tspan x="189.322" y="40">x </tspan><tspan class="ci" x="199.51" y="40">d</tspan><tspan class="cc" x="207.383" y="40">i</tspan><tspan class="az" x="210.542" y="40">a</tspan><tspan x="217.702" y="40">m </tspan><tspan class="m" x="0" y="60">a</tspan><tspan class="cj" x="7.159" y="60">l</tspan><tspan class="bg" x="10.345" y="60">i</tspan><tspan class="bi" x="13.562" y="60">q</tspan><tspan class="ak" x="21.45" y="60">u</tspan><tspan class="bb" x="29.371" y="60">e</tspan><tspan x="36.672" y="60">t </tspan><tspan class="ba" x="44.638" y="60">m</tspan><tspan class="bb" x="56.689" y="60">e</tspan><tspan class="ck" x="63.99" y="60">t</tspan><tspan class="cl" x="68.626" y="60">u</tspan><tspan class="cm" x="76.538" y="60">s</tspan><tspan x="82.885" y="60">, a </tspan><tspan class="cn" x="100.055" y="60">s</tspan><tspan class="co" x="106.395" y="60">a</tspan><tspan class="n" x="113.551" y="60">g</tspan><tspan class="af" x="120.688" y="60">i</tspan><tspan class="cp" x="124.044" y="60">t</tspan><tspan class="w" x="129.104" y="60">t</tspan><tspan class="ao" x="133.733" y="60">i</tspan><tspan x="136.906" y="60">s </tspan><tspan class="cq" x="146.484" y="60">v</tspan><tspan class="cr" x="152.927" y="60">e</tspan><tspan class="bh" x="160.187" y="60">l</tspan><tspan class="af" x="163.374" y="60">i</tspan><tspan class="bj" x="166.729" y="60">t</tspan><tspan x="171.461" y="60">.</tspan></tspan></text>
+    <rect class="cs" x="27" y="101" width="32" height="32"/>
+    <rect class="ct" width="340" height="273"/>
+  </g>
+</svg>

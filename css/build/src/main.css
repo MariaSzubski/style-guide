@@ -1,0 +1,129 @@
+main{
+  background-color:#fff;
+}
+main header{
+  height:40px;
+}
+main header h2,main header img{
+  position:absolute;
+  top:50%;
+  -webkit-transform:translateY(-50%);
+          transform:translateY(-50%);
+}
+main header h2{
+  left:42px;
+  font-size:20px;
+  font-size:1.25rem;
+  color:#000;
+  text-transform:uppercase;
+  font-weight:400;
+}
+article{
+  padding:24px;
+  position:relative;
+  min-height:calc(100% - 40px);
+  height:auto;
+}
+article section{
+  margin-bottom:48px;
+  width:calc(100% - 304px);
+  min-width:648px;
+}
+article h4{
+  color:#989ea7;
+  font-size:13px;
+  font-size:.8125rem;
+  font-weight:600;
+  text-transform:uppercase;
+  text-align:center;
+  margin-bottom:12px;
+}
+article img{
+  display:block;
+  margin:0 auto;
+}
+article.iframe{
+  height:calc(100% - 40px);
+}
+article.iframe #container{
+  height:100%;
+}
+aside{
+  position:absolute;
+  top:0;
+  right:24px;
+  width:280px;
+  min-height:calc(100% - 48px);
+  padding-left:24px;
+  border-radius:2px;
+  margin:24px auto;
+  background-color:#fff;
+  border-left:1px solid #eee;
+}
+aside dl *{
+  font-family:Roboto Mono,monospace;
+  color:#464646;
+  font-size:13px;
+  font-size:.8125rem;
+  line-height:1.5;
+}
+aside dt{
+  text-transform:uppercase;
+  font-weight:600;
+  padding-top:20px;
+  color:#00aeef;
+}
+aside dt:first-of-type{
+  padding-top:0;
+}
+aside dd{
+  padding-left:18px;
+  text-indent:-6px;
+}
+aside .sub dt{
+  text-transform:capitalize;
+  font-weight:600;
+  color:#464646;
+}
+aside .sub dt:first-of-type{
+  padding-top:20px;
+}
+aside .sub dd{
+  padding-left:0;
+}
+aside .note{
+  text-indent:0;
+  margin-left:-6px;
+}
+div.desc{
+  width:680px;
+  position:absolute;
+  top:20%;
+  left:50%;
+  -webkit-transform:translateX(-50%);
+          transform:translateX(-50%);
+}
+section.desc p{
+  width:680px;
+  margin:0 auto;
+  text-align:center;
+}
+.desc h2{
+  color:#00aeef;
+  font-size:32px;
+  font-size:2rem;
+  font-weight:400;
+  line-height:2;
+  text-transform:uppercase;
+}
+.desc p{
+  color:#464646;
+  font-size:20px;
+  font-size:1.25rem;
+  line-height:1.6;
+  font-weight:400;
+  margin-bottom:16px;
+}
+iframe{
+  height:100%;
+}

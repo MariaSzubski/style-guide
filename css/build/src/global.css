@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Mono:400,600,700");
+*{
+  box-sizing:border-box;
+  font-family:Open Sans,sans-serif;
+  margin:0;
+  padding:0;
+  border:0;
+}
+li,ul{
+  list-style-type:none;
+}
+body,html,main{
+  height:100%;
+}
+main{
+  position:absolute;
+  left:0;
+  width:100%;
+  min-width:768px;
+  overflow:auto;
+}
+main.opened{
+  left:280px;
+  width:calc(100% - 280px);
+}
+nav{
+  position:fixed;
+  left:0;
+  width:280px;
+  height:100%;
+  overflow:auto;
+}
+a:link,a:visited{
+  color:#00aeef;
+  text-decoration:none;
+}
+a:active,a:hover{
+  text-decoration:underline;
+}
+a:active{
+  color:#005778;
+}
+::-webkit-scrollbar{
+  width:12px;
+  width:.75rem;
+}
+::-webkit-scrollbar-track{
+  box-shadow:inset 0 0 5px rgba(0,0,0,.4);
+}
+::-webkit-scrollbar-thumb{
+  border-radius:.75rem;
+  background:#d5d7d8;
+  box-shadow:inset 0 0 3px rgba(0,0,0,.4);
+}
+::-webkit-scrollbar-thumb:window-inactive{
+  background:#e6e8e9;
+}

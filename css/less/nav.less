@@ -1,0 +1,112 @@
+@import (reference) 'var_mix.less';
+
+header{
+	position: relative;
+
+	img{
+		position: absolute;
+		cursor: pointer;
+	}
+
+	#icon_nav{
+		left: 0px;
+		margin: auto 6px;
+		padding: 7px;
+	}
+	#icon_ntab{
+		right: 24px;
+		margin: auto;
+	}
+}
+
+nav{
+	background-color: @navy;
+
+	header{
+		padding: 36px 24px;
+		text-align: center;
+		border-bottom: 1px solid lighten(@navy, 10%);
+		h1{
+			font-size: 1.25em;
+			color: @white;
+			text-transform: uppercase;
+			font-weight: 400;
+			line-height: 1.5;
+		}
+		h3{
+			margin-top: 12px;
+			font-size: .6875rem;
+			color: @white;
+			text-transform: uppercase;
+			font-weight: 400;
+		}
+	}
+
+	h4{
+		font-size: @text-lg;
+		text-transform: uppercase;
+		font-weight:600;
+		color: @white;
+		height: 30px;
+		padding: 24px;
+	}
+
+	ul{
+		border-bottom: 1px solid lighten(@navy, 10%);
+		padding-bottom: 24px;
+	}
+
+	li{
+		position: relative;
+		height: 30px;
+		padding-left: 48px;
+		margin: 5px 0px;
+		background-color: inherit;
+		transition: background-color .4s ease;
+		&:hover{
+			background-color: #647484;
+			transition: background-color .5s ease;
+			cursor: pointer;
+		}
+		&.selected{
+			background-color: @white;
+			transition: background-color .3s ease;
+			& a{
+				color: @navy;
+			}
+		}
+	}
+
+	a{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		font-size: @text-sm;
+		color: @white;
+		&:link, &:visited{
+			color: @white;
+		}
+		&:hover{
+			text-decoration: none;
+		}
+	}
+
+	&::-webkit-scrollbar {
+	    width: .75rem;
+	}
+
+	&::-webkit-scrollbar-track {
+		background: lighten(@navy, 8%);
+	    box-shadow: inset 0 0 5px @black;
+	}
+
+	&::-webkit-scrollbar-thumb {
+	    border-radius: .75rem;
+	    background: shade(@navy, 50%);
+	    box-shadow: inset 0 0 3px @black;
+	}
+
+	&::-webkit-scrollbar-thumb:window-inactive {
+		background: shade(@navy, 10%);
+	}
+}
