@@ -14,7 +14,26 @@
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
-
+			<div id="container">
+				<section>
+					<h4></h4>
+					<img src="img/guide/button_01.svg" alt="Raised">
+				</section>
+				<section>
+					<h4></h4>
+					<img src="img/guide/button_02.svg" alt="Raised">
+				</section>
+				<section>
+					<h4></h4>
+					<img src="img/guide/button_03.svg" alt="Raised">
+				</section>
+				<section>
+					<h4></h4>
+					<img src="img/guide/button_04.svg" alt="Raised">
+				</section>
+				<aside>
+				</aside>
+			</div>
 		</article>
 	</main>
 	<?php require 'template/nav.inc.php'; ?>

@@ -15,29 +15,59 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Brand Bar</h4>
+					<img src="img/guide/toolbar_01.svg" alt="Brand Bar">
+				</section>
+				<section>
+					<h4>Content Toolbars</h4>
+					<img src="img/guide/toolbar_02.svg" alt="Content Toolbars">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Brand Bar</dt>
+						<dd>Background: #354052</dd>
+						<dd>Border-Bottom: 3px #009DD9</dd>
+						<dd>Text: 20px (15pt) #EDEEF0</dd>
+						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>App Name</dt>
+								<dd>[App Name Typestyle]</dd>
+								<dd>Weight: 600</dd>
+								<dd>Case: Uppercase</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Page Title</dt>
+								<dd>[Page Title Typestyle]</dd>
+								<dd>Weight: 400</dd>
+								<dd>Case: Capitalize</dd>
+								<dd>Two spaces around vertical pipe</dd>
+								<!-- -->
+								<dt>Icons</dt>
+								<dd>Unselected: #EDEEF0 (White)</dd>
+								<dd>Selected: #354052 (Gray)</dd>
+								<dd>Selected BG: #EDEEF0 (White)</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Content Toolbars</dt>
+						<!-- -->
+						<dd>
+							<dl class="sub">
+								<dt>Background Colors</dt>
+								<dd>White: #FFFFFF</dd>
+								<dd>Light Gray: #F5F5F5</dd>
+								<dd>Dark Gray: #EEEEEE</dd>
+								<!-- -->
+								<dt>Text Buttons</dt>
+								<dd>[Body Text Typestyle]</dd>
+								<dd>Text: 13px (10pt) #354052</dd>
+								<dd>Weight: 600</dd>
+								<!-- -->
+								<dt>Buttons with Dark Background</dt>
+								<dd>See Button component for recommendations.</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

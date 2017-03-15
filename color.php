@@ -15,31 +15,10 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
-				<section>
+				<section class="full">
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/color_01.svg" alt="Color Palette">
 				</section>
-				<aside>
-					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
-					</dl>
-				</aside>
 			</div>
 		</article>
 	</main>

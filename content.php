@@ -15,29 +15,39 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/content_01.svg" alt="Content">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Type Styles</dt>
+						<dd>Font Family: Open Sans</dd>
+						<dd>Recommended: 13 words per line</dd>
+						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Panel Title</dt>
+								<dd>Text: 20px (15pt) #354052</dd>
+								<dd>Weight: 600</dd>
+								<dd>Case: capitalize</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Body Text</dt>
+								<dd>Text: 13px (10pt) $151921</dd>
+								<dd>Weight: 400, 600, 700</dd>
+								<dd>Line Height: 20px</dd>
+								<dd>Paragraph Spacing: 13px</dd>
+								<!-- -->
+								<dt>Small Text</dt>
+								<dd>Text: 11px (8pt) $151921</dd>
+								<dd>Weight: 400, 700</dd>
+								<dd>Line Height: 15px</dd>
+								<!-- -->
+								<dt>Links</dt>
+								<dd>Color: #0098F3</dd>
+								<dd>Text Decoration: Underline</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
 					</dl>
 				</aside>
 			</div>

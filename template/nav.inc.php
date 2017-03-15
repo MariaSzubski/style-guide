@@ -21,9 +21,7 @@
 		<li class="<?php echo ($current == "date_picker.php" ? "selected" : "")?>"><a href="date_picker.php">Date Picker</a></li>
 		<li class="<?php echo ($current == "dialog.php" ? "selected" : "")?>"><a href="dialog.php">Dialog</a></li>
 		<li class="<?php echo ($current == "divider.php" ? "selected" : "")?>"><a href="divider.php">Divider</a></li>
-		<li class="<?php echo ($current == "icon.php" ? "selected" : "")?>"><a href="icon.php">Icon</a></li>
 		<li class="<?php echo ($current == "input.php" ? "selected" : "")?>"><a href="input.php">Input</a></li>
-		<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
 		<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
 		<li class="<?php echo ($current == "panel.php" ? "selected" : "")?>"><a href="panel.php">Panel</a></li>
 		<li class="<?php echo ($current == "progress_circular.php" ? "selected" : "")?>"><a href="progress_circular.php">Progress Circular</a></li>
@@ -33,7 +31,6 @@
 		<li class="<?php echo ($current == "sidenav_left.php" ? "selected" : "")?>"><a href="sidenav_left.php">Sidenav (Left)</a></li>
 		<li class="<?php echo ($current == "sidenav_right.php" ? "selected" : "")?>"><a href="sidenav_right.php">Sidenav (Right)</a></li>
 		<li class="<?php echo ($current == "subheader.php" ? "selected" : "")?>"><a href="subheader.php">Subheader</a></li>
-		<li class="<?php echo ($current == "switch.php" ? "selected" : "")?>"><a href="switch.php">Switch</a></li>
 		<li class="<?php echo ($current == "tabs.php" ? "selected" : "")?>"><a href="tabs.php">Tabs</a></li>
 		<li class="<?php echo ($current == "toast.php" ? "selected" : "")?>"><a href="toast.php">Toast</a></li>
 		<li class="<?php echo ($current == "toolbar.php" ? "selected" : "")?>"><a href="toolbar.php">Toolbar</a></li>

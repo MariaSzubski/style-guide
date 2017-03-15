@@ -15,29 +15,21 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/panel_01.svg" alt="Panel">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
+						<dt>Panel</dt>
+						<dd>Background: #FFFFFF</dd>
+						<dd>Border: 1px #BBBBBB</dd>
+						<dd>Box Shadow: 0, 0px, 3px, rgba(0,0,0,.25)</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Title</dt>
+						<dd>[Page/Panel Title Typestyle]</dd>
+						<dd>Text: 20px (15pt) #354052</dd>
+						<dd>Case: Capitalize</dd>
 					</dl>
 				</aside>
 			</div>

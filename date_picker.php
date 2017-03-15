@@ -15,29 +15,14 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/date_picker_01.svg" alt="Date Picker">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Date Picker</dt>
+						<dd>See Input Component for recommendations</dd>
 					</dl>
 				</aside>
 			</div>

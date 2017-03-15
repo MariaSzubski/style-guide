@@ -15,29 +15,62 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>All Content Types</h4>
+					<img src="img/guide/card_01.svg" alt="Card Layout - All Content Types">
+				</section>
+				<section>
+					<h4>Card Examples</h4>
+					<img src="img/guide/card_02.svg" alt="Card Example 1">
+					<img src="img/guide/card_03.svg" alt="Card Example 2">
+					<img src="img/guide/card_04.svg" alt="Card Example 3">
+					<img src="img/guide/card_05.svg" alt="Card Example 4">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Card</dt>
+						<dd>Divider: 1px #DDDDDD</dd>
+						<dd>Background: #FFFFFF</dd>
+						<dd>Corner Radius: 5px</dd>
+						<dd>Box Shadow:	0, 0px, 3px, rgba(0,0,0,.25)</dd>
+						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Primary Actions</dt>
+								<dd>Divider: 1px #BBBBBB</dd>
+								<dd>Background: #F5F5F5</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Type Styles</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Title</dt>
+								<dd>[Page/Panel Typestyle]</dd>
+								<dd>Text: 20px (15pt) #0098F3</dd>
+								<dd>Line Height: 25px</dd>
+								<dd>Weight: 600</dd>
+								<!-- -->
+								<dt>Subheader</dt>
+								<dd>[Small Text Typestyle]</dd>
+								<dd>Text: 11px (8pt) #989EA7</dd>
+								<dd>Line Height: 15px</dd>
+								<!-- -->
+								<dt>Description</dt>
+								<dd>[Body Text Typestyle]</dd>
+								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Line Height: 20px</dd>
+								<!-- -->
+								<dt>Keyword Chips</dt>
+								<dd>See Chips component for recommendations.</dd>
+								<!-- -->
+								<dt>Author Name &amp; Buttons</dt>
+								<dd>[Body Text Typestyle]</dd>
+								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Line Height: 20px</dd>
+								<dd>Weight: 600</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

@@ -48,6 +48,9 @@ article.iframe{
 article.iframe #container{
   height:100%;
 }
+article .full{
+  width:100%;
+}
 aside{
   position:absolute;
   top:0;

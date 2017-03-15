@@ -20,26 +20,26 @@
 					<img src="img/guide/tabs_01.svg" alt="Static Tabs">
 				</section>
 				<section class="desc">
-					<h4>Navigation Tabs</h4>
+					<h4>Nav Bar</h4>
 					<p>
-						See <a href="navbar.html">Nav Bar</a> Component
+						See <a href="nav_bar.php">Nav Bar</a> Component
 					</p>
 				</section>
 				<aside>
 					<dl>
-						<dt>Static Tabs</dt>
+						<dt>Static Tab Bar</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border-Bottom: 1px #DDDDDD</dd>
 						<dd>Tab Alignment: Left</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt>Unselected State</dt>
+								<dt>Unselected Tab</dt>
 								<dd>[Large Text Typestyle]</dd>
 								<dd>Text: 15px (11pt) #0098F3</dd>
 								<dd>Text Align: Center</dd>
 								<!-- -->
-								<dt>Selected State</dt>
+								<dt>Selected Tab</dt>
 								<dd>Text: 15px (11pt) #172730</dd>
 								<dd>Border-Bottom: 2px #172730</dd>
 								<dd>Text Align: Center</dd>

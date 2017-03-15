@@ -15,29 +15,36 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Nav Bar</h4>
+					<img src="img/guide/nav_bar_01.svg" alt="Navigation Bar">
+				</section>
+				<section class="desc">
+					<h4>Static Tabs</h4>
+					<p>
+						See <a href="tabs.php">Tabs</a> Component
+					</p>
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Nav Bar</dt>
+						<dd>Background: #FFFFFF</dd>
+						<dd>Border-Bottom: 1px #DDDDDD</dd>
+						<dd>Tab Alignment: Center</dd>
+						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Unselected Tab</dt>
+								<dd>[Large Text Typestyle]</dd>
+								<dd>Text: 15px (11pt) #0098F3</dd>
+								<dd>Text Align: Center</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Selected Tab</dt>
+								<dd>Text: 15px (11pt) #172730</dd>
+								<dd>Border-Bottom: 2px #172730</dd>
+								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
 					</dl>
 				</aside>
 			</div>
