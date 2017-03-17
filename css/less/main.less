@@ -44,9 +44,7 @@ article{
 	}
 	&.iframe{
 		height: calc(100% - 40px);
-		#container{
-			 height: 100%;
-		}
+		min-height: calc(100% - 40px);
 	}
 	& .full{
 		width: 100%;
@@ -121,6 +119,28 @@ aside{
 		width: auto;
 		max-width: 680px;
 		min-width: 392px;
+		margin: 0px auto;
+		text-align: center;
+	}
+	& h2{
+		.text-section;
+	}
+	& p{
+		.text-desc;
+		margin-bottom: 16px;
+	}
+}
+
+.desc_i{
+	div&{
+		width: 670px;
+		position: absolute;
+		top: 20%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	section& p{
+		width: 670px;
 		margin: 0px auto;
 		text-align: center;
 	}

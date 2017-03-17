@@ -15,7 +15,7 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
+				<div class="desc_i">
 					<h2>Introduction</h2>
 					<p>
 						As we unify our product ecosystem, we have taken the opportunity to build a more flexible, modern, and communicative set of UX standards.

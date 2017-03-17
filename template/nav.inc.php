@@ -70,8 +70,5 @@
 	<!-- -->
 	<h4>Examples</h4>
 	<ul>
-		<li class="<?php echo ($current == "t_datagrid_layout.php" ? "selected" : "")?>"><a href="t_datagrid_layout.php">Datagrid Layout</a></li>
-		<li class="<?php echo ($current == "t_four_chart_report.php" ? "selected" : "")?>"><a href="t_four_chart_report.php">Four Chart Report</a></li>
-		<li class="<?php echo ($current == "large_chart_grid_report.php" ? "selected" : "")?>"><a href="large_chart_grid_report.php">Large Chart &amp; Grid Report</a></li>
 	</ul>
 </nav>
