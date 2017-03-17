@@ -46,11 +46,10 @@
 		<li class="<?php echo ($current == "brand_bar.php" ? "selected" : "")?>"><a href="brand_bar.php">Brand Bar</a></li>
 		<li class="<?php echo ($current == "charts.php" ? "selected" : "")?>"><a href="charts.php">Charts</a></li>
 		<li class="<?php echo ($current == "copyright.php" ? "selected" : "")?>"><a href="copyright.php">Copyright</a></li>
-		<li class="<?php echo ($current == "drag_drop.php" ? "selected" : "")?>"><a href="drag_drop.php">Drag &amp; Drop</a></li>
-		<li class="<?php echo ($current == "grids.php" ? "selected" : "")?>"><a href="grids.php">Grids</a></li>
+		<li class="<?php echo ($current == "grid.php" ? "selected" : "")?>"><a href="grid.php">Grid</a></li>
 		<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
 		<li class="<?php echo ($current == "reporting_palette.php" ? "selected" : "")?>"><a href="reporting_palette.php">Reporting Palette</a></li>
-		<li class="<?php echo ($current == "wizards.php" ? "selected" : "")?>"><a href="wizards.php">Wizard</a></li>
+		<li class="<?php echo ($current == "wizard.php" ? "selected" : "")?>"><a href="wizard.php">Wizard</a></li>
 	</ul>
 	<!-- -->
 	<h4>Typography</h4>
