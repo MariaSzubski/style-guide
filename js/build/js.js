@@ -49,13 +49,17 @@ $(function(){
 
 	// Show & Hide Sidebar
 	(function side_nav(){
-		let counter = 1;
 		$('#icon_nav').click(function(e){
-			// ----------------- Sidebar
-			$('nav').toggle('slide', {direction: 'left', easing: 'easeOutExpo'}, 700);
-
-			// ----------------- Main
-			$('main').toggleClass('opened', 700, 'easeOutExpo').css('overflow', 'auto');
+			e.stopPropagation();
+			$('nav,main').toggleClass('default_state',  700, 'easeOutExpo').css('overflow', 'auto');
 		});
+		$('main').click(function(e){
+			e.stopPropagation();
+			if (($(document ).width() < 1200) && (!$('nav').hasClass('default_state'))){
+					$('nav,main').toggleClass('default_state', 700, 'easeOutExpo').css('overflow', 'auto');
+
+			}
+		});
+
 	})();
 });

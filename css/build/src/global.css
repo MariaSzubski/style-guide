@@ -19,16 +19,19 @@ main{
   min-width:768px;
   overflow:auto;
 }
-main.opened{
+main.default_state{
   left:280px;
   width:calc(100% - 280px);
 }
 nav{
-  position:fixed;
-  left:0;
+  position:absolute;
+  left:-280px;
   width:280px;
   height:100%;
   overflow:auto;
+}
+nav.default_state{
+  left:0;
 }
 a:link,a:visited{
   color:#00aeef;
@@ -54,4 +57,23 @@ a:active{
 }
 ::-webkit-scrollbar-thumb:window-inactive{
   background:#e6e8e9;
+}
+@media (max-width:1200px){
+  main,main.default_state{
+    left:12px;
+    width:calc(100% - 12px);
+  }
+  nav{
+    left:0;
+  }
+  nav,nav.default_state{
+    -webkit-transition:.45s ease-in-out;
+    transition:.45s ease-in-out;
+  }
+  nav.default_state{
+    left:-268px;
+  }
+  nav:hover{
+    left:0;
+  }
 }

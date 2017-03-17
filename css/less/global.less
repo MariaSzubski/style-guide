@@ -26,18 +26,21 @@ main{
 	min-width: 768px;
 	height: 100%;
 	overflow: auto;
-	&.opened{
+	&.default_state{
 		left: 280px;
 		width: calc(100% - 280px);
 	}
 }
 
 nav{
-	position: fixed;
-	left: 0px;
+	position: absolute;
+	left: -280px;
 	width: 280px;
 	height: 100%;
 	overflow: auto;
+	&.default_state{
+		left: 0px;
+	}
 }
 
 /* --------------------- STYLES */
@@ -81,4 +84,30 @@ a{
 
 ::-webkit-scrollbar-thumb:window-inactive {
 	background: shade(@white, 3%);
+}
+
+
+/* --------------------- STYLES */
+
+@media (max-width: 1200px) {
+	main{
+		left: 12px;
+		width: calc(100% - 12px);
+		&.default_state{
+			left: 12px;
+			width: calc(100% - 12px);
+		}
+	}
+	nav{
+		left:0px;
+		transition: .45s ease-in-out;
+		&.default_state{
+			left: -268px;
+			transition: .45s ease-in-out;
+		}
+		&:hover{
+			left:0px;
+
+		}
+	}
 }

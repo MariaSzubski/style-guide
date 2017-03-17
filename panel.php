@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
-	<main class="opened">
+	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Panel</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">

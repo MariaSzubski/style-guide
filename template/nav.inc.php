@@ -1,4 +1,4 @@
-<nav>
+<nav class="default_state">
 	<header>
 		<h1>Nielsen Experience UI Guidelines</h1>
 		<h3>Updated March 31, 2017</h3>
