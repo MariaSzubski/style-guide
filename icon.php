@@ -15,29 +15,45 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Toolbar Icons</h4>
+					<img src="img/guide/icon_01.svg" alt="Toolbar Icons">
+				</section>
+				<section>
+					<h4>Brand Logos</h4>
+					<img src="img/guide/icon_02.svg" alt="Brand Logos">
+				</section>
+				<section>
+					<h4>App Icons</h4>
+					<img src="img/guide/icon_03.svg" alt="App Icons">
+				</section>
+				<section class="desc">
+					<h4>Icon Library</h4>
+					<p>
+						See Iconography section in the sidebar for full Nielsen icon library. Use <a href="https://material.io/icons/" target="blank">Google Material Design</a> icons as an extended library.
+					</p>
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Toolbar Icons</dt>
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Icon Colors</dt>
+								<dd>Dark: #354052</dd>
+								<dd>Light: #EDEEF0</dd>
+								<dd>Background Square: #354052</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Background Square @ 32px</dt>
+								<dd>Padding: 12px</dd>
+								<dd>Corner Radius: 8px</dd>
+								<!-- -->
+								<dt>Background Square @ 16px</dt>
+								<dd>Padding: 6px</dd>
+								<dd>Corner Radius: 4px</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>App Icons</dt>
+						<dd>Box Shadow:	0px 0px 3px rgba(0,0,0,0.25)</dd>
 					</dl>
 				</aside>
 			</div>

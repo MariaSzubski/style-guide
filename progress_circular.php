@@ -15,15 +15,23 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
+				<section class="desc">
+					<h4>Default Progress Circular</h4>
+					<p>
+						Use Material Design Progress Circular in Nielsen Blue or Navy.
+					</p>
+				</section>
 				<section>
-					<h4></h4>
+					<h4>Alternate Progress Circular</h4>
 					<img src="img/guide/throbber.gif" alt="Progress Circular">
 				</section>
 				<aside>
 					<dl>
 						<dt>Progress Circular</dt>
-						<dd>Icon: throbber.gif</dd>
-						<dd>Color: #354052</dd>
+
+						<dd>Navy: #354052</dd>
+						<dd>Blue: #00AEEF</dd>
+						<dd>Alternate Icon: throbber.gif</dd>
 					</dl>
 				</aside>
 			</div>

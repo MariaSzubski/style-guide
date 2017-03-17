@@ -16,21 +16,19 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
-					<img src="img/guide/progress_linear_01.svg" alt="Progress Linear">
+					<h4>Attached to Brand Bar</h4>
+					<img src="img/guide/progress_linear_01.svg" alt="Attached to Brand Bar">
+				</section>
+				<section>
+					<h4>Floating</h4>
+					<img src="img/guide/progress_linear_02.svg" alt="Floating">
 				</section>
 				<aside>
 					<dl>
 						<dt>Progress Linear</dt>
-						<dd>Height: 3px</dd>
+						<dd>Color: #00AEEF
+						<dd>Height: 5px</dd>
 						<dd>Track: 30% opacity</dd>
-						<!-- -->
-						<dt>App Category Colors</dt>
-						<dd>Consumer (Blue): #009DD9</dd>
-						<dd>Event (Yellow): #FFCD00</dd>
-						<dd>Panelist (Orange): #FF8300</dd>
-						<dd>Client (Green): #85C63F</dd>
-						<dd>Internal (Purple): #9E28B5</dd>
 					</dl>
 				</aside>
 			</div>

@@ -25,9 +25,8 @@ article{
   height:auto;
 }
 article section{
-  margin-bottom:48px;
+  margin-bottom:60px;
   width:calc(100% - 304px);
-  min-width:648px;
 }
 article h4{
   color:#989ea7;
@@ -99,15 +98,18 @@ aside .note{
   margin-left:-6px;
 }
 div.desc{
-  width:680px;
   position:absolute;
   top:20%;
   left:50%;
   -webkit-transform:translateX(-50%);
           transform:translateX(-50%);
 }
+div.desc,section.desc p{
+  width:auto;
+  max-width:680px;
+  min-width:392px;
+}
 section.desc p{
-  width:680px;
   margin:0 auto;
   text-align:center;
 }

@@ -3,26 +3,34 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Date Picker</title>
+	<title id="title">NX Guidelines - Switch</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Date Picker</h2>
+			<h2 id="pg_header">Switch</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
-					<img src="img/guide/date_picker_01.svg" alt="Date Picker">
+					<h4>Color Options</h4>
+					<img src="img/guide/switch_01.png" alt="Color Options">
+				</section>
+				<section class="desc">
+					<h4>Switch</h4>
+					<p>
+						Use standard Material Design switch.
+					</p>
 				</section>
 				<aside>
 					<dl>
-						<dt>Date Picker</dt>
-						<dd>See Input component for style recommendations</dd>
+						<dt>Switch</dt>
+						<dd>Blue: #00AEEF</dd>
+						<dd>Green: #26B910</dd>
+						<dd>Navy: #354052</dd>
 					</dl>
 				</aside>
 			</div>
