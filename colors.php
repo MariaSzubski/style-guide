@@ -16,8 +16,16 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					<h4></h4>
-					<img src="img/guide/color_01.svg" alt="Color Palette">
+					<h4>Text Colors</h4>
+					<img src="img/guide/color_01.svg" alt="Text Colors">
+				</section>
+				<section class="full">
+					<h4>Layout Colors</h4>
+					<img src="img/guide/color_02.svg" alt="Layout Colors">
+				</section>
+				<section class="full">
+					<h4>Content Colors</h4>
+					<img src="img/guide/color_03.svg" alt="Content Colors">
 				</section>
 			</div>
 		</article>

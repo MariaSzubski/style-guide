@@ -16,27 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
+					<h4>Chart Colors</h4>
 					<img src="img/guide/reporting_palette_01.svg" alt="Reporting Palette">
 				</section>
 				<section class="full">
+					<h4>Threshold Colors</h4>
 					<img src="img/guide/reporting_palette_02.svg" alt="Threshold Palette">
 				</section>
-				<aside>
-					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
-					</dl>
 				</aside>
 			</div>
 		</article>

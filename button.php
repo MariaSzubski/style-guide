@@ -17,22 +17,98 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/button_01.svg" alt="Raised">
-				</section>
-				<section>
-					<h4></h4>
-					<img src="img/guide/button_02.svg" alt="Raised">
-				</section>
-				<section>
-					<h4></h4>
-					<img src="img/guide/button_03.svg" alt="Raised">
-				</section>
-				<section>
-					<h4></h4>
-					<img src="img/guide/button_04.svg" alt="Raised">
+					<img src="img/guide/button_01.svg" alt="Buttons">
 				</section>
 				<aside>
+					<dl>
+						<dt>All Buttons</dt>
+						<dd>[Body Text Typestyle]</dd>
+						<dd>Text: 15px (11pt)</dd>
+						<dd>Case: Capitalize</dd>
+						<dd>Weight: 600</dd>
+						<dd>Corner Radius: 4px</dd>
+						<!-- -->
+						<dt>Green Buttons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Raised (Primary)</dt>
+								<dd>Text Color: #FFFFFF</dd>
+								<dd>Background: #26B910</dd>
+								<dd>Hover Background: #1D8E0C</dd>
+								<dd>Down Background: #135807</dd>
+								<!-- -->
+								<dt>Raised (Standard)</dt>
+								<dd>Text Color: #26B910</dd>
+								<dd>Border: 1.5px #26B910</dd>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Hover Background: #D0F7CC</dd>
+								<dd>Down Background: #B6EEAF</dd>
+								<!-- -->
+								<dt>Flat (Tertiary)</dt>
+								<dd>Text Color: #26B910</dd>
+								<dd>Hover Text Color: #1D8D0C</dd>
+								<dd>Down Text Color: #135807</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Blue Buttons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Raised (Primary)</dt>
+								<dd>Text Color: #FFFFFF</dd>
+								<dd>Background: #0098F3</dd>
+								<dd>Hover Background: #007BC5</dd>
+								<dd>Down Background: #00568B</dd>
+								<!-- -->
+								<dt>Raised (Standard)</dt>
+								<dd>Text Color: #0098F3</dd>
+								<dd>Border: 1.5px #0098F3</dd>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Hover Background: #D4EEFD</dd>
+								<dd>Down Background: #B4E0FC</dd>
+								<!-- -->
+								<dt>Flat (Tertiary)</dt>
+								<dd>Text Color: #0098F3</dd>
+								<dd>Hover Text Color: #007BC4</dd>
+								<dd>Down Text Color: #00568A</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Disabled Buttons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Raised (Primary)</dt>
+								<dd>Text Color: #FFFFFF</dd>
+								<dd>Background: #CCCCCC</dd>
+								<!-- -->
+								<dt>Raised (Standard)</dt>
+								<dd>Text Color: #CCCCCC</dd>
+								<dd>Border Color: #CCCCCC</dd>
+								<!-- -->
+								<dt>Flat (Tertiary)</dt>
+								<dd>Text Color: #CCCCCC</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Icons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Raised</dt>
+								<dd>Text Color: #FFFFFF</dd>
+								<dd>Background: #354052</dd>
+								<dd>Hover Background: #151921</dd>
+								<dd>Down Background: #838F93</dd>
+								<!-- -->
+								<dt>Flat</dt>
+								<dd>Color: #354052</dd>
+								<!-- -->
+								<dt>Library</dt>
+								<dd>See Iconography section for full icon library.</dd>
+							</dl>
+						</dd>
+					</dl>
 				</aside>
+			</div>
 			</div>
 		</article>
 	</main>
