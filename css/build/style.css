@@ -131,6 +131,19 @@ article.iframe{
 article .full{
   width:100%;
 }
+article .download img{
+  display:inline;
+  vertical-align:middle;
+  margin-right:8px;
+  margin-right:.5rem;
+}
+article .download a{
+  vertical-align:text-top;
+  padding:8px 11.2px;
+  padding:.5rem .7rem;
+  font-size:75%;
+  margin:0 auto;
+}
 aside{
   position:absolute;
   top:0;

@@ -15,31 +15,17 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
-				<section>
+			<section class="desc full">
+				<h4>Downloads</h4>
+				<p class="download">
+					<a href="img/nx_iconography_communication.zip" download><img src="img/download.svg" alt="Download">Communication Icons (zip)</a>
+					<a href="img/nx_iconography.zip" download><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
+				</p>
+			</section>
+				<section class="full">
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/i_communication.svg" alt="Iconography - Communication">
 				</section>
-				<aside>
-					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
-					</dl>
-				</aside>
 			</div>
 		</article>
 	</main>

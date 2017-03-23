@@ -18,7 +18,6 @@
 				<section>
 					<h4>Basic Chip</h4>
 					<img src="img/guide/chip_01.svg" alt="Basic Chip">
-
 				</section>
 				<section>
 					<h4>Static Chip</h4>

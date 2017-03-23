@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Iconography - Brand Bar</title>
+	<title id="title">NX Guidelines - Iconography &ndash; Brand Bar</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
@@ -15,31 +15,17 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
-				<section>
+			<section class="desc full">
+				<h4>Downloads</h4>
+				<p class="download">
+					<a href="img/nx_iconography_brand-bar.zip" download><img src="img/download.svg" alt="Download">Brand Bar Icons (zip)</a>
+					<a href="img/nx_iconography.zip" download><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
+				</p>
+			</section>
+				<section class="full">
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/i_brand-bar.svg" alt="Iconography - Brand Bar">
 				</section>
-				<aside>
-					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
-					</dl>
-				</aside>
 			</div>
 		</article>
 	</main>
