@@ -15,29 +15,41 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
 					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<img src="img/guide/pagination_01.svg" alt="Pagnation">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+
+						<dt>Numbers</dt>
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Unselected Page</dt>
+								<dd>Text: 13px (10pt) #0098F3</dd>
+								<dd>Alignment: Centered</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Selected Page</dt>
+								Text: 13px (10pt) #EDEEF0
+								<dd>Alignment: Centered</dd>
+								<dd>Background: #354052</dd>
+								<dd>Corner Radius: 4px</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>‘Go to Page’</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Label</dt>
+								<dd>Text: 12px (9pt) #989EA7</dd>
+								<dd>Case: Uppercase</dd>
+								<!-- -->
+								<dt>Field</dt>
+								<dd>Border: 1px #A7AEB2</dd>
+								<dd>Text Color: #0098F3</dd>
+							</dl>
+						</dd>
+
 					</dl>
 				</aside>
 			</div>

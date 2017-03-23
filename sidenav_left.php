@@ -65,7 +65,7 @@
 						</dd>
 						<!-- -->
 						<dt>Copyright</dt>
-						<dd>See Copyright Component</dd>
+						<dd class="note">See Copyright Component</dd>
 					</dl>
 				</aside>
 			</div>

@@ -65,7 +65,7 @@
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Buttons with Dark Background</dt>
-								<dd>See Button component for recommendations.</dd>
+								<dd class="note">See Button component for recommendations.</dd>
 							</dl>
 						</dd>
 					</dl>

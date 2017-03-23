@@ -22,7 +22,7 @@
 				<aside>
 					<dl>
 						<dt>Date Picker</dt>
-						<dd>See Input component for style recommendations</dd>
+						<dd class="note">See Input component for style recommendations</dd>
 					</dl>
 				</aside>
 			</div>

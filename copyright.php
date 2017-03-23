@@ -15,29 +15,42 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Option 1: In Navigation Menu</h4>
+					<img src="img/guide/copyright_01.svg" alt="Option 1: In Navigation Menu">
+				</section>
+				<section>
+					<h4>Option 2: In Page Footer</h4>
+					<img src="img/guide/copyright_02.svg" alt="Option 2: In Page Footer">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>In Navigation Menu</dt>
+						<dd>[Small Text Typestyle]</dd>
+						<dd>Text: 11px (8pt) #8F9BA8</dd>
+						<dd>Line height: 15px</dd>
+						<dd>Divider: 1px #495970</dd>
+						<dd>Nielsen Logo: #EDEEF0</dd>
+						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Links</dt>
+								<dd>Text Decoration: Underline</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>In Page Footer</dt>
+						<dd>[Small Text Typestyle]</dd>
+						<dd>Text: 11px (8pt) #354052</dd>
+						<dd>Alignment: Centered</dd>
+						<dd>Background Color: #DDDDDD</dd>
+						<!-- -->
+						<dd>
+							<dl class="sub">
+								<dt>Links</dt>
+								<dd>Text Decoration: Underline</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

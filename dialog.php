@@ -58,10 +58,10 @@
 								<dd>Text: 15px (11pt) #172730</dd>
 								<!-- -->
 								<dt>Tabs</dt>
-								<dd>See Tabs component for recommendations.</dd>
+								<dd class="note">See Tabs component for recommendations.</dd>
 								<!-- -->
 								<dt>Buttons</dt>
-								<dd>See Button component for recommendations.</dd>
+								<dd class="note">See Button component for recommendations.</dd>
 							</dl>
 						</dd>
 						<!-- -->

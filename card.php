@@ -62,7 +62,7 @@
 								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Keyword Chips</dt>
-								<dd>See Chips component for recommendations.</dd>
+								<dd class="note">See Chips component for recommendations.</dd>
 								<!-- -->
 								<dt>Author Name &amp; Buttons</dt>
 								<dd>[Body Text Typestyle]</dd>

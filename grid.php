@@ -15,29 +15,55 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Small Data Grid (For Data Analysis)</h4>
+					<img src="img/guide/grid_01.svg" alt="Small Data Grid">
+				</section>
+				<section>
+					<h4>Large Data Grid (For Lists)</h4>
+					<img src="img/guide/grid_02.svg" alt="Large Data Grid">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Row Highlights</dt>
+						<dd>Selected Row (Yellow): #FFF9B8</dd>
+						<dd>Hover Row (Blue): #D4EEFD</dd>
+						<dd>Alt Row Shading: #F5F5F5</dd>
+						<!-- -->
+						<dt>Small Grid</dt>
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Text</dt>
+								<dd>[Body Text Typestyle]</dd>
+								<dd>Header: 13px (10pt) Bold #172730</dd>
+								<dd>Data: 13px (10pt) #172730</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Alignment</dt>
+								<dd>Descriptive Columns: Left Aligned</dd>
+								<dd>Numeric Columns: Right Aligned</dd>
+								<!-- -->
+								<dt>Purpose</dt>
+								<dd class="note">Small grids are used for data analysis and large data sets. The condensed row height allows more content to fit on the screen.</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Large Grid</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Text</dt>
+								<dd>[Large Text Typestyle]</dd>
+								<dd>Header: 15px (11pt) Bold #172730</dd>
+								<dd>Data: 15px (11pt) #172730</dd>
+								<!-- -->
+								<dt>Alignment</dt>
+								<dd>Descriptive Columns: Left Aligned</dd>
+								<dd>Numeric Columns: Right Aligned</dd>
+								<!-- -->
+								<dt>Purpose</dt>
+								<dd class="note">Large grids are used for lists, dashboards, and small data sets. The larger row height gives content more breathing room.</dd>
+							</dl>
+						</dd>
+						<!-- -->
 					</dl>
 				</aside>
 			</div>

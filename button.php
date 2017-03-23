@@ -28,6 +28,13 @@
 						<dd>Weight: 600</dd>
 						<dd>Corner Radius: 4px</dd>
 						<!-- -->
+						<dd>
+							<dl class="sub">
+								<dt>Grouping</dt>
+								<dd class="note">Actions and Toolbar Buttons should not be grouped together. Action buttons advance the user's workflow. Toolbar buttons perform in-page functions.</dd>
+							</dl>
+						</dd>
+						<!-- -->
 						<dt>Green Buttons</dt>
 						<dd>
 							<dl class="sub">
@@ -74,6 +81,25 @@
 							</dl>
 						</dd>
 						<!-- -->
+						<dt>Navy Buttons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Raised (Toolbar)</dt>
+								<dd>Text: 13px (10pt)</dd>
+								<dd>Content Color: #EDEEF0</dd>
+								<dd>Background: #354052</dd>
+								<dd>Hover Background: #151921</dd>
+								<dd>Down Background: #838F93</dd>
+								<!-- -->
+								<dt>Flat (Toolbar)</dt>
+								<dd>Text: 13px (10pt) #354052</dd>
+								<!-- -->
+								<dt>Purpose</dt>
+								<dd class="note">This style is for buttons that perform in-page actions. It is not used for actions that advance the user’s workflow.
+								</dd>
+							</dl>
+						</dd>
+						<!-- -->
 						<dt>Disabled Buttons</dt>
 						<dd>
 							<dl class="sub">
@@ -103,7 +129,7 @@
 								<dd>Color: #354052</dd>
 								<!-- -->
 								<dt>Library</dt>
-								<dd>See Iconography section for full icon library.</dd>
+								<dd class="note">See Iconography section for full icon library.</dd>
 							</dl>
 						</dd>
 					</dl>
