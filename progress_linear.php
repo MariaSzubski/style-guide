@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Attached to Brand Bar</h4>
-					<img src="img/guide/progress_linear_01.svg" alt="Attached to Brand Bar">
+					<!-- <h4>Attached to Brand Bar</h4> -->
+					<img src="img/guide/progress_linear_01.svg" alt="Progress Linear">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Floating</h4>
 					<img src="img/guide/progress_linear_02.svg" alt="Floating">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Progress Linear</dt>

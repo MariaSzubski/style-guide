@@ -16,17 +16,17 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					<h4>Text Colors</h4>
-					<img src="img/guide/color_01.svg" alt="Text Colors">
+					<!-- <h4>Text Colors</h4> -->
+					<img src="img/guide/colors_01.svg" alt="Content Colors">
 				</section>
-				<section class="full">
+				<!-- <section class="full">
 					<h4>Layout Colors</h4>
 					<img src="img/guide/color_02.svg" alt="Layout Colors">
 				</section>
 				<section class="full">
 					<h4>Content Colors</h4>
 					<img src="img/guide/color_03.svg" alt="Content Colors">
-				</section>
+				</section> -->
 			</div>
 		</article>
 	</main>

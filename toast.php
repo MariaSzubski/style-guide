@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Simple Toast</h4>
-					<img src="img/guide/toast_01.svg" alt="Simple Toast">
+					<!-- <h4>Simple Toast</h4> -->
+					<img src="img/guide/toast_01.svg" alt="Toasts">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Notification</h4>
 					<img src="img/guide/toast_02.svg" alt="Notification">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Location on Screen</dt>
@@ -33,7 +33,7 @@
 						<dd>Text: 15px (11pt) #354052</dd>
 						<dd>Text Align: Centered</dd>
 						<dd>Corner Radius: 4px</dd>
-						<dd>Box Shadow:	0px 0px 2px rgba(0,0,0,0.25)</dd>
+						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -56,8 +56,8 @@
 						<!-- -->
 						<dt>Notification</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border: 1px #BBBBBB</dd>
-						<dd>Box Shadow:	0px 0px 2px rgba(0,0,0,0.25)</dd>
+						<dd>Border: 1px #BBCCDB</dd>
+						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

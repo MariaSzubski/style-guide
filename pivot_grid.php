@@ -3,40 +3,41 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Brand Bar</title>
+	<title id="title">NX Guidelines - Pivot Grid</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Brand Bar</h2>
+			<h2 id="pg_header">Pivot Grid</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
+				<div class="desc">
+					<!--Remove-->
+					<p>Coming Soon</p>
+				</div>
 				<section>
 					<h4></h4>
-					<img src="img/guide/brand_bar_01.svg" alt="Brand Bar">
+					<!-- <img src="img/guide/" alt=""> -->
 				</section>
 				<aside>
 					<dl>
-						<dt>Brand Bar</dt>
-						<dd>Background: #354052</dd>
-						<dd>Height: 48px</dd>
-						<dd>App Name: Knockout 24px (18pt)</dd>
-						<dd>Text: #FFFFFF</dd>
-						<dd>Weight: 48 Featherweight</dd>
-						<dd>Case: Uppercase</dd>
-						<!-- -->
+						<dt></dt>
 						<dd>
 							<dl class="sub">
-								<dt>Icons</dt>
-								<dd>Unselected: #FFFFFF</dd>
-								<dd>Selected: #354052</dd>
-								<dd>Selected Background: #FFFFFF</dd>
+								<dt></dt>
+								<dd></dd>
+								<!-- -->
+								<dt></dt>
+								<dd></dd>
 							</dl>
 						</dd>
+						<!-- -->
+						<dt></dt>
+						<dd></dd>
 					</dl>
 				</aside>
 			</div>

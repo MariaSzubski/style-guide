@@ -16,10 +16,10 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Alert Dialog</h4>
-					<img src="img/guide/dialog_01.svg" alt="Alert Dialog">
+					<!-- <h4>Alert Dialog</h4> -->
+					<img src="img/guide/dialog_01.svg" alt="Dialogs">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Confirm Dialog</h4>
 					<img src="img/guide/dialog_02.svg" alt="Confirm Dialog">
 				</section>
@@ -30,7 +30,7 @@
 				<section>
 					<h4>Tab Dialog</h4>
 					<img src="img/guide/dialog_04.svg" alt="Tab Dialog">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Page Mask</dt>
@@ -40,7 +40,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Border: none</dd>
-						<dd>Box Shadow: 0px 0px 5px rgba(0,0,0,0.25)</dd>
+						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -70,7 +70,7 @@
 						<dd>Lower Background: #354052 (gray) or #0098F3 (blue)</dd>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Border: none</dd>
-						<dd>Box Shadow:	0px 0px 3px rgba(0,0,0,0.25)</dd>
+						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -87,7 +87,7 @@
 								<dd>Line Height: 25px</dd>
 								<!-- -->
 								<dt>Icons</dt>
-								<dd>Back/Forward: #0098F3</dd>
+								<dd>Back/Forward: #FFFFFF</dd>
 								<dd>Close: #989EA7</dd>
 							</dl>
 						</dd>

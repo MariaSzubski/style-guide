@@ -105,14 +105,14 @@
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
 								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #CCCCCC</dd>
+								<dd>Background: #D5D7DB</dd>
 								<!-- -->
 								<dt>Raised (Standard)</dt>
-								<dd>Text Color: #CCCCCC</dd>
-								<dd>Border Color: #CCCCCC</dd>
+								<dd>Text Color: #D5D7DB</dd>
+								<dd>Border Color: #D5D7DB</dd>
 								<!-- -->
 								<dt>Flat (Tertiary)</dt>
-								<dd>Text Color: #CCCCCC</dd>
+								<dd>Text Color: #D5D7DB</dd>
 							</dl>
 						</dd>
 						<!-- -->

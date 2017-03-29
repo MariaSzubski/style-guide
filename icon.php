@@ -16,17 +16,17 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Toolbar Icons</h4>
-					<img src="img/guide/icon_01.svg" alt="Toolbar Icons">
+					<!-- <h4>Toolbar Icons</h4> -->
+					<img src="img/guide/icon_01.svg" alt="Icons">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Brand Logos</h4>
 					<img src="img/guide/icon_02.svg" alt="Brand Logos">
 				</section>
 				<section>
 					<h4>App Icons</h4>
 					<img src="img/guide/icon_03.svg" alt="App Icons">
-				</section>
+				</section> -->
 				<section class="desc">
 					<h4>Icon Library</h4>
 					<p>
@@ -53,7 +53,7 @@
 							</dl>
 						</dd>
 						<dt>App Icons</dt>
-						<dd>Box Shadow:	0px 0px 3px rgba(0,0,0,0.25)</dd>
+						<dd>Box Shadow:	0px 1px 3px rgba(0,0,0,0.45)</dd>
 					</dl>
 				</aside>
 			</div>

@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Basic Tooltip</h4>
-					<img src="img/guide/tooltip_01.svg" alt="Basic Tooltips">
+					<!-- <h4>Basic Tooltip</h4> -->
+					<img src="img/guide/tooltip_01.svg" alt="Tooltips">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Data Tooltip</h4>
 					<img src="img/guide/tooltip_02.svg" alt="Data Tooltips">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Basic Tooltip</dt>

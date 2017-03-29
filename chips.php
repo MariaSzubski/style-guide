@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Basic Chip</h4>
-					<img src="img/guide/chip_01.svg" alt="Basic Chip">
+					<!-- <h4>Basic Chip</h4> -->
+					<img src="img/guide/chips_01.svg" alt="Chips">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Static Chip</h4>
 					<img src="img/guide/chip_02.svg" alt="Static Chip">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Chips</dt>

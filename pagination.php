@@ -30,7 +30,7 @@
 								<dd>Alignment: Centered</dd>
 								<!-- -->
 								<dt>Selected Page</dt>
-								Text: 13px (10pt) #EDEEF0
+								<dd>Text: 13px (10pt) #EDEEF0</dd>
 								<dd>Alignment: Centered</dd>
 								<dd>Background: #354052</dd>
 								<dd>Corner Radius: 4px</dd>

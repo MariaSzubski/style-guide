@@ -3,39 +3,43 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Toolbar</title>
+	<title id="title">NX Guidelines - App Bar</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Toolbar</h2>
+			<h2 id="pg_header">App Bar</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Content Toolbars</h4> -->
-					<img src="img/guide/toolbar_01.svg" alt="Content Toolbars">
+					<h4></h4>
+					<img src="img/guide/app_bar_01.svg" alt="App Bar">
 				</section>
 				<aside>
 					<dl>
-						<dt>Content Toolbars</dt>
+						<dt>App Bar</dt>
+
+						<dd>Background: #FFFFFF</dd>
+						<dd>Height: 50px</dd>
+						<dd>App Name: Knockout 26px (20pt)</dd>
+						<dd>Text: #354052</dd>
+						<dd>Weight: 48 Featherweight</dd>
+						<dd>Case: Uppercase</dd>
+						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
-								<dt>Background Colors</dt>
-								<dd>White: #FFFFFF</dd>
-								<dd>Optional Background: #F5F9FC</dd>
-								<!-- -->
-								<dt>Text Buttons</dt>
-								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #354052</dd>
-								<dd>Weight: 600</dd>
-								<!-- -->
-								<dt>Buttons with Dark Background</dt>
-								<dd class="note">See Button component for recommendations.</dd>
+								<dt>Header Image</dt>
+								<dd>Height: 5px
+								<dd class="note">Use Nielsen Data Texture</dd>
+								<dt>Icons</dt>
+								<dd>Unselected: #354052</dd>
+								<dd>Selected: #EDEEF0</dd>
+								<dd>Selected Background: #354052</dd>
 							</dl>
 						</dd>
 					</dl>

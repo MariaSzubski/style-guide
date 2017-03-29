@@ -1,6 +1,6 @@
 $(function(){
 	// Detect History API
-	Modernizr.history ? dynamic_load() : null;
+	Modernizr.history && document.location.hostname ? dynamic_load() : null;
 
 	// Dynamic Page Load
 	function dynamic_load(){

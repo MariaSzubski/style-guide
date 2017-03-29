@@ -9,37 +9,18 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Changelog</h2>
+			<h2 id="pg_header"></h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
+				<div class="desc_i">
+					<h2>Changelog</h2>
+					<p>
+						View the <a href="https://drive.google.com/open?id=1BGwxisB0GUFKE62S1xLnshi9za0QYOyACbjxpsUvSRA" target="blank">Changelog</a> on Google Drive.
+					</p>
 				</div>
-				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
-				</section>
-				<aside>
-					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
-					</dl>
-				</aside>
 			</div>
 		</article>
 	</main>

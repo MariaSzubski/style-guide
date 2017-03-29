@@ -16,14 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					<h4>Chart Colors</h4>
+					<!-- <h4>Chart Colors</h4> -->
 					<img src="img/guide/reporting_palette_01.svg" alt="Reporting Palette">
 				</section>
-				<section class="full">
+				<!-- <section class="full">
 					<h4>Threshold Colors</h4>
 					<img src="img/guide/reporting_palette_02.svg" alt="Threshold Palette">
-				</section>
-				</aside>
+				</section> -->
 			</div>
 		</article>
 	</main>

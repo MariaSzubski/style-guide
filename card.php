@@ -16,20 +16,17 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>All Content Types</h4>
+					<!-- <h4>All Content Types</h4> -->
 					<img src="img/guide/card_01.svg" alt="Card Layout - All Content Types">
 				</section>
-				<section>
+				<!-- <section>
 					<h4>Card Examples</h4>
 					<img src="img/guide/card_02.svg" alt="Card Example 1">
-					<img src="img/guide/card_03.svg" alt="Card Example 2">
-					<img src="img/guide/card_04.svg" alt="Card Example 3">
-					<img src="img/guide/card_05.svg" alt="Card Example 4">
-				</section>
+				</section> -->
 				<aside>
 					<dl>
 						<dt>Card</dt>
-						<dd>Divider: 1px #DDDDDD</dd>
+						<dd>Dividers: 1px #DDE6ED</dd>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Corner Radius: 5px</dd>
 						<dd>Box Shadow:	0, 0px, 3px, rgba(0,0,0,.25)</dd>
@@ -37,8 +34,8 @@
 						<dd>
 							<dl class="sub">
 								<dt>Primary Actions</dt>
-								<dd>Divider: 1px #BBBBBB</dd>
-								<dd>Background: #F5F5F5</dd>
+								<dd>Divider: 1px #BBCCDB</dd>
+								<dd>Background: #F5F9FC</dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -54,7 +51,6 @@
 								<dt>Subheader</dt>
 								<dd>[Small Text Typestyle]</dd>
 								<dd>Text: 11px (8pt) #989EA7</dd>
-								<dd>Line Height: 15px</dd>
 								<!-- -->
 								<dt>Description</dt>
 								<dd>[Body Text Typestyle]</dd>

@@ -15,7 +15,7 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
+				<div class="desc_i">
 					<h2>Nielsen Brand</h2>
 					<p>
 						Explanation of Nielsen Marketing Standards vs Product Standards

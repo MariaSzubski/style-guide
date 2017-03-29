@@ -113,3 +113,20 @@ a{
 		}
 	}
 }
+@media print{
+	#icon_nav,
+	#icon_ntab,
+	nav.default_state{
+		display: none;
+	}
+	main{
+		overflow: visible;
+	}
+	#pg_header{
+		font-size: 2.5rem;
+		color: #00aeef;
+	}
+	aside dl *{
+		line-height: 1.2;
+	}
+}

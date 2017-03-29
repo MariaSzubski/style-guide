@@ -22,8 +22,10 @@
 		<li class="<?php echo ($current == "date_picker.php" ? "selected" : "")?>"><a href="date_picker.php">Date Picker</a></li>
 		<li class="<?php echo ($current == "dialog.php" ? "selected" : "")?>"><a href="dialog.php">Dialog</a></li>
 		<li class="<?php echo ($current == "divider.php" ? "selected" : "")?>"><a href="divider.php">Divider</a></li>
+		<li class="<?php echo ($current == "grid_list.php" ? "selected" : "")?>"><a href="grid_list.php">Grid List</a></li>
 		<li class="<?php echo ($current == "icon.php" ? "selected" : "")?>"><a href="icon.php">Icon</a></li>
 		<li class="<?php echo ($current == "input.php" ? "selected" : "")?>"><a href="input.php">Input</a></li>
+		<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
 		<li class="<?php echo ($current == "menu.php" ? "selected" : "")?>"><a href="menu.php">Menu</a></li>
 		<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
 		<li class="<?php echo ($current == "panel.php" ? "selected" : "")?>"><a href="panel.php">Panel</a></li>
@@ -43,10 +45,12 @@
 	<!-- -->
 	<h4>Custom Components</h4>
 	<ul>
-		<li class="<?php echo ($current == "brand_bar.php" ? "selected" : "")?>"><a href="brand_bar.php">Brand Bar</a></li>
+		<li class="<?php echo ($current == "app_bar.php" ? "selected" : "")?>"><a href="app_bar.php">App Bar</a></li>
 		<li class="<?php echo ($current == "charts.php" ? "selected" : "")?>"><a href="charts.php">Charts</a></li>
 		<li class="<?php echo ($current == "copyright.php" ? "selected" : "")?>"><a href="copyright.php">Copyright</a></li>
+		<li class="<?php echo ($current == "data_selector.php" ? "selected" : "")?>"><a href="data_selector.php">Data Selector</a></li>
 		<li class="<?php echo ($current == "grid.php" ? "selected" : "")?>"><a href="grid.php">Grid</a></li>
+		<li class="<?php echo ($current == "pivot_grid.php" ? "selected" : "")?>"><a href="pivot_grid.php">Grid (Pivot)</a></li>
 		<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
 		<li class="<?php echo ($current == "reporting_palette.php" ? "selected" : "")?>"><a href="reporting_palette.php">Reporting Palette</a></li>
 		<li class="<?php echo ($current == "wizard.php" ? "selected" : "")?>"><a href="wizard.php">Wizard</a></li>
@@ -59,7 +63,7 @@
 	<!-- -->
 	<h4>Iconography</h4>
 	<ul>
-		<li class="<?php echo ($current == "i_brand_bar.php" ? "selected" : "")?>"><a href="i_brand_bar.php">Brand Bar</a></li>
+		<li class="<?php echo ($current == "i_app_bar.php" ? "selected" : "")?>"><a href="i_app_bar.php">App Bar</a></li>
 		<li class="<?php echo ($current == "i_common_actions.php" ? "selected" : "")?>"><a href="i_common_actions.php">Common Actions</a></li>
 		<li class="<?php echo ($current == "i_communication.php" ? "selected" : "")?>"><a href="i_communication.php">Communication</a></li>
 		<li class="<?php echo ($current == "i_data_report_types.php" ? "selected" : "")?>"><a href="i_data_report_types.php">Data &amp; Report Types</a></li>

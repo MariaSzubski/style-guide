@@ -23,6 +23,11 @@
 					<dl>
 						<dt>Date Picker</dt>
 						<dd class="note">See Input component for style recommendations</dd>
+						<!-- -->
+						<dt>Calendar</dt>
+						<dd class="note">Use default framework calendar</dd>
+						<dd>Hover State: #D4EEFD</dd>
+						<dd>Selected State: #354042</dd>
 					</dl>
 				</aside>
 			</div>

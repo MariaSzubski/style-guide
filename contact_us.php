@@ -15,7 +15,7 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
+				<div class="desc_i">
 					<h2>Contact Us</h2>
 					<p>
 						Sign up to receive notifications of updates.

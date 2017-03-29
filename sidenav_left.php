@@ -21,7 +21,7 @@
 				</section>
 				<section>
 					<h4>Tree View</h4>
-					<img src="img/guide/sidenav_02.svg" alt="Tree View">
+					<!-- <img src="img/guide/sidenav_02.svg" alt="Tree View"> -->
 				</section>
 				<aside>
 					<dl>
