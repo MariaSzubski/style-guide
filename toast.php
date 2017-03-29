@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Simple Toast</h4> -->
-					<img src="img/guide/toast_01.svg" alt="Toasts">
+					<h4>Simple Toast</h4>
+					<img src="img/guide/toast_01.svg" alt="Simple Toast">
 				</section>
-				<!-- <section>
+				<section>
 					<h4>Notification</h4>
 					<img src="img/guide/toast_02.svg" alt="Notification">
-				</section> -->
+				</section>
 				<aside>
 					<dl>
 						<dt>Location on Screen</dt>

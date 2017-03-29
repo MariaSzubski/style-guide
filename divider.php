@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Primary</h4> -->
-					<img src="img/guide/divider_01.svg" alt="Dividers">
+					<h4>Primary</h4>
+					<img src="img/guide/divider_01.svg" alt="Primary Divider">
 				</section>
-				<!-- <section>
+				<section>
 					<h4>Secondary</h4>
 					<img src="img/guide/divider_02.svg" alt="Secondary Divider">
-				</section> -->
+				</section>
 				<aside>
 					<dl>
 						<dt>Divider</dt>

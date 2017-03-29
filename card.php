@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>All Content Types</h4> -->
+					<h4>All Content Types</h4>
 					<img src="img/guide/card_01.svg" alt="Card Layout - All Content Types">
 				</section>
-				<!-- <section>
+				<section>
 					<h4>Card Examples</h4>
-					<img src="img/guide/card_02.svg" alt="Card Example 1">
-				</section> -->
+					<img src="img/guide/card_02.svg" alt="Card Examples">
+				</section>
 				<aside>
 					<dl>
 						<dt>Card</dt>

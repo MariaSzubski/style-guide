@@ -16,13 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Input Select Field</h4> -->
-					<img src="img/guide/select_01.svg" alt="Select">
+					<h4>Input Select Field</h4>
+					<img src="img/guide/select_01.svg" alt="Input Select Field">
 				</section>
-				<!-- <section>
+				<section>
 					<h4>Alternate Select Field</h4>
 					<img src="img/guide/select_02.svg" alt="Alternate Select Field">
-				</section> -->
+				</section>
 				<aside>
 					<dl>
 						<dt>Basic Style</dt>

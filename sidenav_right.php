@@ -16,17 +16,17 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Basic Sidenav</h4> -->
-					<img src="img/guide/sidenav_02.svg" alt="Sidenav (Right)">
+					<h4>Basic Sidenav</h4>
+					<img src="img/guide/sidenav_r_01.svg" alt="Basic Sidenav (Right)">
 				</section>
-				<!-- <section>
+				<section>
 					<h4>App Drawer (Grid View)</h4>
-					<img src="img/guide/sidenav_04.svg" alt="App Drawer (Grid View)">
+					<img src="img/guide/sidenav_r_02.svg" alt="App Drawer (Grid View)">
 				</section>
 				<section>
 					<h4>App Drawer (Tree View)</h4>
-					<img src="img/guide/sidenav_05.svg" alt="App Drawer (Tree View)">
-				</section> -->
+					<img src="img/guide/sidenav_r_03.svg" alt="App Drawer (Tree View)">
+				</section>
 				<aside>
 					<dl>
 						<dt>Layout</dt>
