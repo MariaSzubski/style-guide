@@ -21,7 +21,7 @@
 				</section>
 				<section>
 					<h4>Opened Calenedar</h4>
-					<img src="img/guide/date_picker_02.png" alt="Opened Calendar">
+					<img src="img/guide/date_picker_02.svg" alt="Opened Calendar">
 				</section>
 				<aside>
 					<dl>
@@ -30,6 +30,7 @@
 						<!-- -->
 						<dt>Calendar</dt>
 						<dd class="note">Use default framework calendar</dd>
+						<dd>Weekday Background: #DDE6ED</dd>
 						<dd>Hover State: #D4EEFD</dd>
 						<dd>Selected State: #354042</dd>
 					</dl>

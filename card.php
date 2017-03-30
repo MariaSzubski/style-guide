@@ -26,10 +26,10 @@
 				<aside>
 					<dl>
 						<dt>Card</dt>
-						<dd>Dividers: 1px #DDE6ED</dd>
+						<dd>Dividers: 1px #DCE5EC</dd>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Corner Radius: 5px</dd>
-						<dd>Box Shadow:	0, 0px, 3px, rgba(0,0,0,.25)</dd>
+						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,.45)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

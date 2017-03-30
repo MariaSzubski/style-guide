@@ -43,7 +43,7 @@
 						<dd>[Small Text Typestyle]</dd>
 						<dd>Text: 11px (8pt) #354052</dd>
 						<dd>Alignment: Centered</dd>
-						<dd>Background Color: #DDDDDD</dd>
+						<dd>Background Color: #DDE6ED</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

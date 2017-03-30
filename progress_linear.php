@@ -16,13 +16,9 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Attached to Brand Bar</h4> -->
+					<h4></h4>
 					<img src="img/guide/progress_linear_01.svg" alt="Progress Linear">
 				</section>
-				<!-- <section>
-					<h4>Floating</h4>
-					<img src="img/guide/progress_linear_02.svg" alt="Floating">
-				</section> -->
 				<aside>
 					<dl>
 						<dt>Progress Linear</dt>

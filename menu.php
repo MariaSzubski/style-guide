@@ -26,8 +26,8 @@
 						<dd>Text: 15px (11pt) #354052</dd>
 						<dd>Row Height: 48px</dd>
 						<dd>Corner Radius: 4px</dd>
-						<dd>Border: 1px #BBBBBB</dd>
-						<dd>Dividers: 1px #DDDDDD</dd>
+						<dd>Border: 1px #BBCCDB</dd>
+						<dd>Dividers: 1px #DDE6ED</dd>
 						<!-- -->
 						<dt>Icons</dt>
 						<dd>Icon Color: #354052</dd>

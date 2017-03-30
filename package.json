@@ -1,6 +1,6 @@
 {
   "name": "v8_guidelines",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,14 @@
   "devDependencies": {
     "autoprefixer": "^6.7.6",
     "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
     "grunt-contrib-concat": "^1.0.1",
-    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-uglify": "^2.2.0",
     "grunt-contrib-watch": "^1.0.0",
+    "grunt-cssnano": "^2.1.0",
+    "grunt-pixrem": "^0.1.2",
     "grunt-postcss": "^0.8.0"
-  }
+  },
+  "dependencies": {}
 }

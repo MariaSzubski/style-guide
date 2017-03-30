@@ -32,18 +32,18 @@
 						<dt>Layout</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Height: Browser Height</dd>
-						<dd>Border: 1px #BBBBBB</dd>
-						<dd>Box Shadow: 0, 3px, 4px, rgba(0,0,0,.33)</dd>
+						<dd>Border: 1px #BBCCDB</dd>
+						<dd>Box Shadow: -2px 0px 3px rgba(0,0,0,.25)</dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>[Overlay Title Typestyle]</dd>
 						<dd>Text: 20px (15pt) #354052</dd>
 						<dd>Weight: 600</dd>
 						<dd>Background: #EEEEEE</dd>
-						<dd>Border-Bottom: 1px #BBBBBB</dd>
+						<dd>Border-Bottom: 1px #BBCCDB</dd>
 						<!-- -->
 						<dt>Snippet</dt>
-						<dd>Dividers: 1px #DDDDDD</dd>
+						<dd>Dividers: 1px #DDE6ED</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

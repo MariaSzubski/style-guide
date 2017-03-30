@@ -35,7 +35,6 @@
 		<li class="<?php echo ($current == "select.php" ? "selected" : "")?>"><a href="select.php">Select</a></li>
 		<li class="<?php echo ($current == "sidenav_left.php" ? "selected" : "")?>"><a href="sidenav_left.php">Sidenav (Left)</a></li>
 		<li class="<?php echo ($current == "sidenav_right.php" ? "selected" : "")?>"><a href="sidenav_right.php">Sidenav (Right)</a></li>
-		<li class="<?php echo ($current == "subheader.php" ? "selected" : "")?>"><a href="subheader.php">Subheader</a></li>
 		<li class="<?php echo ($current == "switch.php" ? "selected" : "")?>"><a href="switch.php">Switch</a></li>
 		<li class="<?php echo ($current == "tabs.php" ? "selected" : "")?>"><a href="tabs.php">Tabs</a></li>
 		<li class="<?php echo ($current == "toast.php" ? "selected" : "")?>"><a href="toast.php">Toast</a></li>

@@ -25,22 +25,27 @@
 				</section>
 				<aside>
 					<dl>
-						<dt>Row Highlights</dt>
+						<dt>Cell Styles</dt>
 						<dd>Selected Row (Yellow): #FFF9B8</dd>
 						<dd>Hover Row (Blue): #D4EEFD</dd>
-						<dd>Alt Row Shading: #F5F5F5</dd>
+						<dd>Alt Row Shading: #F5F9FC</dd>
+						<dd>Dividers: 1px #DDE6ED</dd>
+						<dd>Header Divider: 1px #BBCCDB</dd>
 						<!-- -->
 						<dt>Small Grid</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Text</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Header: 13px (10pt) Bold #172730</dd>
+								<dd>Header: 13px (10pt) #172730</dd>
+								<dd>Header Weight: 700</dd>
 								<dd>Data: 13px (10pt) #172730</dd>
 								<!-- -->
 								<dt>Alignment</dt>
-								<dd>Descriptive Columns: Left Aligned</dd>
-								<dd>Numeric Columns: Right Aligned</dd>
+								<dd>Descriptive Columns: Top Left</dd>
+								<dd>Numeric Columns: Top Right</dd>
+								<dd>Row Padding (T/B): 9px</dd>
+								<dd>Column Padding (L/R): 12px</dd>
 								<!-- -->
 								<dt>Purpose</dt>
 								<dd class="note">Small grids are used for data analysis and large data sets. The condensed row height allows more content to fit on the screen.</dd>
@@ -52,12 +57,15 @@
 							<dl class="sub">
 								<dt>Text</dt>
 								<dd>[Large Text Typestyle]</dd>
-								<dd>Header: 15px (11pt) Bold #172730</dd>
+								<dd>Header: 15px (11pt) #172730</dd>
+								<dd>Header Weight: 700</dd>
 								<dd>Data: 15px (11pt) #172730</dd>
 								<!-- -->
 								<dt>Alignment</dt>
-								<dd>Descriptive Columns: Left Aligned</dd>
-								<dd>Numeric Columns: Right Aligned</dd>
+								<dd>Descriptive Column: Top Left</dd>
+								<dd>Numeric Column: Top Right</dd>
+								<dd>Row Padding (T/B): 18px</dd>
+								<dd>Column Padding (L/R): 24px</dd>
 								<!-- -->
 								<dt>Purpose</dt>
 								<dd class="note">Large grids are used for lists, dashboards, and small data sets. The larger row height gives content more breathing room.</dd>

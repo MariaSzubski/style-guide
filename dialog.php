@@ -16,21 +16,9 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<!-- <h4>Alert Dialog</h4> -->
+					<h4</h4>
 					<img src="img/guide/dialog_01.svg" alt="Dialogs">
 				</section>
-				<!-- <section>
-					<h4>Confirm Dialog</h4>
-					<img src="img/guide/dialog_02.svg" alt="Confirm Dialog">
-				</section>
-				<section>
-					<h4>Custom Dialog</h4>
-					<img src="img/guide/dialog_03.svg" alt="Custom Dialog">
-				</section>
-				<section>
-					<h4>Tab Dialog</h4>
-					<img src="img/guide/dialog_04.svg" alt="Tab Dialog">
-				</section> -->
 				<aside>
 					<dl>
 						<dt>Page Mask</dt>
@@ -51,7 +39,7 @@
 								<dd>Alert Header: #FF8100</dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Weight: 600</dd>
-								<dd>Divider: 1px #DDDDDD</dd>
+								<dd>Divider: 1px #DDE6ED</dd>
 								<!-- -->
 								<dt>Content</dt>
 								<dd>[Large Text Typestyle]</dd>

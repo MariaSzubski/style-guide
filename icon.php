@@ -53,7 +53,7 @@
 							</dl>
 						</dd>
 						<dt>App Icons</dt>
-						<dd>Box Shadow:	0px 1px 3px rgba(0,0,0,0.45)</dd>
+						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,0.45)</dd>
 					</dl>
 				</aside>
 			</div>

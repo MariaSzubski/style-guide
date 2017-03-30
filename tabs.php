@@ -29,7 +29,7 @@
 					<dl>
 						<dt>Static Tab Bar</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Bottom: 1px #DDDDDD</dd>
+						<dd>Border-Bottom: 1px #DDE6ED</dd>
 						<dd>Tab Alignment: Left</dd>
 						<!-- -->
 						<dd>

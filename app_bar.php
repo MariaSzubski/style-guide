@@ -33,7 +33,7 @@
 						<dd>Text: #354052</dd>
 						<dd>Weight: 48 Featherweight</dd>
 						<dd>Case: Uppercase</dd>
-						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,.45)</dd>
+						<dd>Box Shadow: 0px 2px 3px rgba(0,0,0,.25)</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

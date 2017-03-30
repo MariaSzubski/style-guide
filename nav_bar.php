@@ -29,7 +29,7 @@
 					<dl>
 						<dt>Nav Bar</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Bottom: 1px #DDDDDD</dd>
+						<dd>Border-Bottom: 1px #DDE6ED</dd>
 						<dd>Tab Alignment: Center</dd>
 						<!-- -->
 						<dd>

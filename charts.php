@@ -15,29 +15,67 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Bar Chart</h4>
+					<img src="img/guide/charts_01.svg" alt="Bar Chart">
+				</section>
+				<section>
+					<h4>Grouped Data Points</h4>
+					<img src="img/guide/charts_02.svg" alt="Grouped Data Points">
+				</section>
+				<section>
+					<h4>Bubble Chart</h4>
+					<img src="img/guide/charts_03.svg" alt="Bubble Chart">
+				</section>
+				<section>
+					<h4>Ring Chart</h4>
+					<img src="img/guide/charts_04.svg" alt="Ring Chart">
+				</section>
+				<section>
+					<h4>Data Values</h4>
+					<img src="img/guide/charts_05.svg" alt="Data Values">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
+						<dt>Using Frameworks</dt>
+						<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between Nielsen products.</dd>
+						<!-- -->
+						<dt>Chart Styles</dt>
+						<dd>Primary Axis: 2px #151921</dd>
+						<dd>Secondary Lines 1px #DDE6ED</dd>
+						<dd>Background Color: #FFFFFF</dd>
+						<!-- -->
+						<dt>Data Colors</dt>
+						<dd class="note">See Reporting Palette section.</dd>
+						<!-- -->
+						<dt>Axis Label</dt>
+						<dd>[Label Typestyle]</dd>
+						<dd>Text: 12px (9pt) #989EA7</dd>
+						<dd>Weight: 600</dd>
+						<dd>X-Axis Labels: Horizontal or 45º angle</dd>
 						<dd>
 							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
+								<dt>Primary Axis Lines</dt>
+								<dd class="note">The dark axis line highlights the baseline of the chart, usually ‘0’. These aren’t necessarily the bottom- and left-most axis lines.</dd>
 								<!-- -->
-								<dt></dt>
-								<dd></dd>
+								<dt>Vertical Axis Lines</dt>
+								<dd class="note">Use vertical axis lines when more than one data point is grouped on a single x-axis label.</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>Data Values</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Label</dt>
+								<dd>[Label Typestyle]</dd>
+								<dd>Text: 12px (9pt) #989EA7</dd>
+								<dd>Case: Uppercase</dd>
+								<!-- -->
+								<dt>Value</dt>
+								<dd>Text: 24px (18pt) #172730</dd>
+								<dd>Line Height: 30px</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

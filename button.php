@@ -21,21 +21,14 @@
 				</section>
 				<aside>
 					<dl>
-						<dt>All Buttons</dt>
-						<dd>[Body Text Typestyle]</dd>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Weight: 600</dd>
-						<dd>Corner Radius: 4px</dd>
-						<!-- -->
-						<dd>
-							<dl class="sub">
-								<dt>Grouping</dt>
-								<dd class="note">Actions and Toolbar Buttons should not be grouped together. Action buttons advance the user's workflow. Toolbar buttons perform in-page functions.</dd>
-							</dl>
-						</dd>
+						<dt>Grouping</dt>
+						<dd class="note">Actions and Toolbar Buttons should not be grouped together. Action buttons advance the user's workflow. Toolbar buttons perform in-page functions.</dd>
 						<!-- -->
 						<dt>Green Buttons</dt>
+						<dd>Text: 15px (11pt)</dd>
+						<dd>Weight: 600</dd>
+						<dd>Case: Capitalize</dd>
+						<dd>Corner Radius: 4px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
@@ -59,6 +52,10 @@
 						</dd>
 						<!-- -->
 						<dt>Blue Buttons</dt>
+						<dd>Text: 15px (11pt)</dd>
+						<dd>Weight: 600</dd>
+						<dd>Case: Capitalize</dd>
+						<dd>Corner Radius: 4px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
@@ -82,10 +79,13 @@
 						</dd>
 						<!-- -->
 						<dt>Navy Buttons</dt>
+						<dd>Text: 13px (10pt)</dd>
+						<dd>Weight: 600</dd>
+						<dd>Case: Capitalize</dd>
+						<dd>Corner Radius: 4px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Toolbar)</dt>
-								<dd>Text: 13px (10pt)</dd>
 								<dd>Content Color: #EDEEF0</dd>
 								<dd>Background: #354052</dd>
 								<dd>Hover Background: #151921</dd>
@@ -105,14 +105,14 @@
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
 								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #D5D7DB</dd>
+								<dd>Background: #D4D6DA</dd>
 								<!-- -->
 								<dt>Raised (Standard)</dt>
-								<dd>Text Color: #D5D7DB</dd>
-								<dd>Border Color: #D5D7DB</dd>
+								<dd>Text Color: #D4D6DA</dd>
+								<dd>Border Color: #D4D6DA</dd>
 								<!-- -->
 								<dt>Flat (Tertiary)</dt>
-								<dd>Text Color: #D5D7DB</dd>
+								<dd>Text Color: #D4D6DA</dd>
 							</dl>
 						</dd>
 						<!-- -->

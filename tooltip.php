@@ -27,7 +27,7 @@
 					<dl>
 						<dt>Basic Tooltip</dt>
 						<dd>Corner Radius: 4px</dd>
-						<dd>Box Shadow: 0px 0px 2px rgba(0,0,0,0.25)</dd>
+						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Dark Background</dt>
@@ -37,7 +37,7 @@
 								<dt>Light Background</dt>
 								<dd>Text: 13px (10pt) #354052</dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #BBBBBB</dd>
+								<dd>Border: 1px #BBCCDB</dd>
 							</dl>
 						</dd>
 						<dt>Data Tooltip</dt>
@@ -45,7 +45,7 @@
 							<dl class="sub">
 								<dt>Default Style</dt>
 								<dd>Background: #354052</dd>
-								<dd>Box Shadow: 0px 0px 2px rgba(0,0,0,0.25)</dd>
+								<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 								<!-- -->
 								<dt>With Reporting Palette</dt>
 								<dd>Border: 2px #FFFFFF</dd>

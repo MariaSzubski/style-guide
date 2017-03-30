@@ -18,13 +18,13 @@
 				<div class="desc_i">
 					<h2>Introduction</h2>
 					<p>
-						As we unify our product ecosystem, we have taken the opportunity to build a more flexible, modern, and communicative set of UX standards.
+						In our effort to be an Open, Connected, and Personal company, we have created a more flexible, modern, and communicative set of Nielsen Experience standards. It is a structured system of elements that brings unity to our diverse global product ecosystem.
 					</p>
 					<p>
-						This new visual language articulates Nielsen's client-centered approach to product delivery and is one of the outcomes of our discovery driven process. It is a technology agnostic, structured system of elements that brings continuity to our diverse global products.
+						The visual language is infused with our new brand. It results from a collaboration between Nielsen Experience and the Global Brand team with input from Product Leadership and Engineering. The new documentation reflects the structure of several modern Material Design libraries.
 					</p>
 					<p>
-						We will refine and add to these standards periodically through 2017.
+						We will update the standards periodically during 2017.
 					</p>
 				</div>
 			</div>

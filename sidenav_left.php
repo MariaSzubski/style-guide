@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>List View</h4>
-					<img src="img/guide/sidenav_01.svg" alt="List View">
+					<img src="img/guide/sidenav_l_01.svg" alt="List View">
 				</section>
 				<section>
 					<h4>Tree View</h4>
-					<!-- <img src="img/guide/sidenav_02.svg" alt="Tree View"> -->
+					<img src="img/guide/sidenav_l_02.svg" alt="Tree View">
 				</section>
 				<aside>
 					<dl>
@@ -29,7 +29,7 @@
 						<dd>Background: #3E4A5B</dd>
 						<dd>Height: Browser Height</dd>
 						<dd>Width: 350px</dd>
-						<dd>Box Shadow: 0, 0px, 5px, rgba(0,0,0,.25)</dd>
+						<dd>Box Shadow: 2px 0px 3px rgba(0,0,0,.25)</dd>
 						<!-- -->
 						<dt>Menu Items</dt>
 						<dd>[Large Text Typestyle]</dd>
