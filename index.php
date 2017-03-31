@@ -21,7 +21,7 @@
 						In our effort to be an Open, Connected, and Personal company, we have created a more flexible, modern, and communicative set of Nielsen Experience standards. It is a structured system of elements that brings unity to our diverse global product ecosystem.
 					</p>
 					<p>
-						The visual language is infused with our new brand. It results from a collaboration between Nielsen Experience and the Global Brand team with input from Product Leadership and Engineering. The new documentation reflects the structure of several modern Material Design libraries.
+						The visual language is infused with our new brand. It results from a collaboration between Nielsen Experience and the Global Brand team with input from Product Leadership and Engineering. The new documentation reflects the structure of several Material Design libraries.
 					</p>
 					<p>
 						We will update the standards periodically during 2017.

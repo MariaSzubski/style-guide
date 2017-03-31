@@ -25,7 +25,7 @@
 						<dd>
 							<dl class="sub">
 								<dt>Usage</dt>
-								<dd class="note">The shadwos applied to content panels convey elevation. Use one of the three shadows defined below, based on content type.</dd>
+								<dd class="note">The shadows applied to content panels convey elevation. Use one of the three shadows defined below, based on content type.</dd>
 								<!-- -->
 								<dt>Level 1</dt>
 								<dd>Box Shadow: <br>0px 1px 2px rgba(0,0,0,.45)</dd>

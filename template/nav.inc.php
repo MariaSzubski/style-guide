@@ -49,9 +49,7 @@
 		<li class="<?php echo ($current == "app_bar.php" ? "selected" : "")?>"><a href="app_bar.php">App Bar</a></li>
 		<li class="<?php echo ($current == "charts.php" ? "selected" : "")?>"><a href="charts.php">Charts</a></li>
 		<li class="<?php echo ($current == "copyright.php" ? "selected" : "")?>"><a href="copyright.php">Copyright</a></li>
-		<li class="<?php echo ($current == "data_selector.php" ? "selected" : "")?>"><a href="data_selector.php">Data Selector</a></li>
 		<li class="<?php echo ($current == "grid.php" ? "selected" : "")?>"><a href="grid.php">Grid</a></li>
-		<li class="<?php echo ($current == "pivot_grid.php" ? "selected" : "")?>"><a href="pivot_grid.php">Grid (Pivot)</a></li>
 		<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
 		<li class="<?php echo ($current == "reporting_palette.php" ? "selected" : "")?>"><a href="reporting_palette.php">Reporting Palette</a></li>
 		<li class="<?php echo ($current == "wizard.php" ? "selected" : "")?>"><a href="wizard.php">Wizard</a></li>

@@ -34,8 +34,6 @@
 						<dd>Margin: 12px</dd>
 						<dd class="note">Items wrap from left to right.</dd>
 						<dd class="note">The number of items per row varies based on the width of the container.</dd>
-
-
 					</dl>
 				</aside>
 			</div>

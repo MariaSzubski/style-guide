@@ -18,13 +18,13 @@
 				<div class="desc_i">
 					<h2>Usage</h2>
 					<p>
-						The Nielsen Experience Standards are used to create continuity and connectedness among Nielsen’s diverse product ecosystem. It results from a collaboration between Nielsen Experience and the Global Brand.
+						The Nielsen Experience Standards are used to create continuity and connectedness among Nielsen’s diverse product ecosystem. It results from a collaboration between Nielsen Experience and Global Brand.
 					</p>
 					<p>
 						If you are creating a marketing or communication piece (infographic, video, poster, etc.) and need Brand Assets, request them from the <a href="https://docs.google.com/a/nielsen.com/forms/d/e/1FAIpQLSc36ja3pqa90ffKdTo7BnG0TalMWtVzC9R9xYdIiixCBEQCiw/viewform" target="blank">Global Brand Team</a>. Keep in mind, you’ll need to complete Brand Training to be eligible to receive the Design Assets.
 					</p>
 					<p>
-						To learn more about Nielsen Experience, visit the <a href="http://experience.nielsen.com/" target="_blank">Nielsen Experience Exchange</a>. The exchange is a global resource for all things UX - Research, Design, and Best Practices. It provides insights and assets that enable product experiences that are a delight to use. 
+						To learn more about Nielsen Experience, visit the <a href="http://experience.nielsen.com/" target="_blank">Nielsen Experience Exchange</a>. The exchange is a global resource for all things UX - Research, Design, and Best Practices. It provides insights and assets that enable product experiences that are a delight to use.
 					</p>
 				</div>
 			</div>

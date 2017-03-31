@@ -18,8 +18,8 @@
 			<section class="desc full">
 				<h4>Downloads</h4>
 				<p class="guide_link">
-					<a href="img/nx_iconography_view-controls.zip" download><img src="img/download.svg" alt="Download">View Control Icons (zip)</a>
-					<a href="img/nx_iconography.zip" download><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
+					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDSE16Y01Kb2Z0NkE"><img src="img/download.svg" alt="Download">View Control Icons (zip)</a>
+					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDWXJGeVQyZE0zLVU"><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
 				</p>
 			</section>
 				<section class="full">
