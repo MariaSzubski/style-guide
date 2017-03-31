@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Nielsen Experience UI Guidelines</h1>
-		<h3>V8.1 &ndash; Updated March 31, 2017</h3>
+		<h3>V8.0 &ndash; Updated March 31, 2017</h3>
 	</header>
 	<h4>About the Guidelines</h4>
 	<ul>
@@ -75,5 +75,7 @@
 	<!-- -->
 	<h4>Examples</h4>
 	<ul>
+		<li class="<?php echo ($current == "ex_multi-panel.php" ? "selected" : "")?>"><a href="ex_multi-panel.php">Multi-Panel Layout</a></li>
+		<li class="<?php echo ($current == "ex_single-panel.php" ? "selected" : "")?>"><a href="ex_single-panel.php">Single Panel Layout</a></li>
 	</ul>
 </nav>

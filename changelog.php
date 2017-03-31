@@ -18,7 +18,7 @@
 				<div class="desc_i">
 					<h2>Changelog</h2>
 					<p>
-						View the <a href="https://drive.google.com/open?id=1BGwxisB0GUFKE62S1xLnshi9za0QYOyACbjxpsUvSRA" target="blank">Changelog</a> on Google Drive.
+						View the <a href="https://drive.google.com/open?id=1HGS7Z-jtTj_qkWGO2A6D0B48kbvqTd82XbW6s5YbO6Q" target="blank">Changelog</a> on Google Drive.
 					</p>
 				</div>
 			</div>

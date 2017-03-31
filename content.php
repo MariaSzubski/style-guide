@@ -29,17 +29,17 @@
 							<dl class="sub">
 								<dt>Panel Title</dt>
 								<dd>Text: 20px (15pt) #354052</dd>
-								<dd>Weight: 600</dd>
+								<dd>Weight: 400</dd>
 								<dd>Case: capitalize</dd>
 								<!-- -->
 								<dt>Body Text</dt>
-								<dd>Text: 13px (10pt) $151921</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Weight: 400, 600, 700</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Paragraph Spacing: 13px</dd>
 								<!-- -->
 								<dt>Small Text</dt>
-								<dd>Text: 11px (8pt) $151921</dd>
+								<dd>Text: 11px (8pt) #151921</dd>
 								<dd>Weight: 400, 700</dd>
 								<dd>Line Height: 15px</dd>
 								<!-- -->

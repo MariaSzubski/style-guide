@@ -3,36 +3,24 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Chips</title>
+	<title id="title">NX Guidelines - Multi-Panel Layout</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Chips</h2>
+			<h2 id="pg_header">Multi-Panel Layout</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4>Basic Chip</h4>
-					<img src="img/guide/chips_01.png" alt="Basic Chip">
+				<section class="desc full">
+					<p class="guide_link">
+						<a href="img/guide/nx_v8-0_example_multi-panel.png" target="_blank"><img src="img/new_tab.svg" alt="New Tab">Open Screenhot In New Tab</a>
+					</p>
+					<img src="img/guide/nx_v8-0_example_multi-panel.png" alt="">
 				</section>
-				<section>
-					<h4>Static Chip</h4>
-					<img src="img/guide/chips_02.png" alt="Static Chip">
-				</section>
-				<aside>
-					<dl>
-						<dt>Chips</dt>
-						<dd>[Large Text Typestyle]</dd>
-						<dd>Text: 15px (11pt) #FFFFFF</dd>
-						<dd>Background: #838F93</dd>
-						<dd>Corner Radius: 12px</dd>
-						<dd>Height: 24px</dd>
-					</dl>
-				</aside>
 			</div>
 		</article>
 	</main>

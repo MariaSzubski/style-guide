@@ -29,6 +29,8 @@
 						<dd>Weight: 600</dd>
 						<dd>Case: Capitalize</dd>
 						<dd>Corner Radius: 4px</dd>
+						<dd>Height: 36px</dd>
+						<dd>Padding L/R: 20px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
@@ -56,6 +58,8 @@
 						<dd>Weight: 600</dd>
 						<dd>Case: Capitalize</dd>
 						<dd>Corner Radius: 4px</dd>
+						<dd>Height: 36px</dd>
+						<dd>Padding L/R: 20px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Primary)</dt>
@@ -83,6 +87,8 @@
 						<dd>Weight: 600</dd>
 						<dd>Case: Capitalize</dd>
 						<dd>Corner Radius: 4px</dd>
+						<dd>Height: 28px</dd>
+						<dd>Padding L/R: 12px</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Raised (Toolbar)</dt>
@@ -126,7 +132,7 @@
 								<dd>Down Background: #838F93</dd>
 								<!-- -->
 								<dt>Flat</dt>
-								<dd>Color: #354052</dd>
+								<dd>Icon Color: #354052</dd>
 								<!-- -->
 								<dt>Library</dt>
 								<dd class="note">See Iconography section for full icon library.</dd>

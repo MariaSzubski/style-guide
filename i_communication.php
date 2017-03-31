@@ -17,7 +17,7 @@
 			<div id="container">
 			<section class="desc full">
 				<h4>Downloads</h4>
-				<p class="download">
+				<p class="guide_link">
 					<a href="img/nx_iconography_communication.zip" download><img src="img/download.svg" alt="Download">Communication Icons (zip)</a>
 					<a href="img/nx_iconography.zip" download><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
 				</p>

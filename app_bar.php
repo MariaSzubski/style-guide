@@ -40,7 +40,7 @@
 							<dl class="sub">
 								<dt>Header Image</dt>
 								<dd>Height: 5px
-								<dd class="note">Use Nielsen Data Texture</dd>
+								<dd class="note">Texture: app_bar_texture.png</dd>
 								<dt>Icons</dt>
 								<dd>Unselected: #354052</dd>
 								<dd>Selected: #EDEEF0</dd>

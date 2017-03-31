@@ -17,15 +17,15 @@
 			<div id="container">
 			<section class="desc full">
 				<h4>Downloads</h4>
-				<p class="download">
+				<p class="guide_link">
 					<a href="img/nx_iconography_common-actions.zip" download><img src="img/download.svg" alt="Download">Common Action Icons (zip)</a>
 					<a href="img/nx_iconography.zip" download><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
 				</p>
 			</section>
-				<section class="full">
-					<h4></h4>
-					<img src="img/guide/i_common-actions.png" alt="Iconography - Common Actions">
-				</section>
+			<section class="full">
+				<h4></h4>
+				<img src="img/guide/i_common-actions.png" alt="Iconography - Common Actions">
+			</section>
 			</div>
 		</article>
 	</main>
