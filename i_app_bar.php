@@ -24,7 +24,7 @@
 			</section>
 				<section class="full">
 					<h4></h4>
-					<img src="img/guide/i_app-bar.svg" alt="Iconography - App Bar">
+					<img src="img/guide/i_app-bar.png" alt="Iconography - App Bar">
 				</section>
 			</div>
 		</article>

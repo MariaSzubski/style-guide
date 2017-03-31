@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>All Content Types</h4>
-					<img src="img/guide/card_01.svg" alt="Card Layout - All Content Types">
+					<img src="img/guide/card_01.png" alt="Card Layout - All Content Types">
 				</section>
 				<section>
 					<h4>Card Examples</h4>
-					<img src="img/guide/card_02.svg" alt="Card Examples">
+					<img src="img/guide/card_02.png" alt="Card Examples">
 				</section>
 				<aside>
 					<dl>

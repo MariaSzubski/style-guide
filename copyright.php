@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Option 1: In Navigation Menu</h4>
-					<img src="img/guide/copyright_01.svg" alt="Option 1: In Navigation Menu">
+					<img src="img/guide/copyright_01.png" alt="Option 1: In Navigation Menu">
 				</section>
 				<section>
 					<h4>Option 2: In Page Footer</h4>
-					<img src="img/guide/copyright_02.svg" alt="Option 2: In Page Footer">
+					<img src="img/guide/copyright_02.png" alt="Option 2: In Page Footer">
 				</section>
 				<aside>
 					<dl>

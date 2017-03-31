@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/check_01.svg" alt="Checkboxes">
+					<img src="img/guide/check_01.png" alt="Checkboxes">
 				</section>
 				<aside>
 					<dl>

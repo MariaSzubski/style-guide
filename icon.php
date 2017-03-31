@@ -17,15 +17,15 @@
 			<div id="container">
 				<section>
 					<h4>Toolbar Icons</h4>
-					<img src="img/guide/icon_01.svg" alt="Toolbar Icons">
+					<img src="img/guide/icon_01.png" alt="Toolbar Icons">
 				</section>
 				<section>
 					<h4>Brand Logos</h4>
-					<img src="img/guide/icon_02.svg" alt="Brand Logos">
+					<img src="img/guide/icon_02.png" alt="Brand Logos">
 				</section>
 				<section>
 					<h4>App Icons</h4>
-					<img src="img/guide/icon_03.svg" alt="App Icons">
+					<img src="img/guide/icon_03.png" alt="App Icons">
 				</section>
 				<section class="desc">
 					<h4>Icon Library</h4>

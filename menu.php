@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/menu_01.svg" alt="">
+					<img src="img/guide/menu_01.png" alt="">
 				</section>
 				<aside>
 					<dl>

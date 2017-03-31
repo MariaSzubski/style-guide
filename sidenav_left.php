@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>List View</h4>
-					<img src="img/guide/sidenav_l_01.svg" alt="List View">
+					<img src="img/guide/sidenav_l_01.png" alt="List View">
 				</section>
 				<section>
 					<h4>Tree View</h4>
-					<img src="img/guide/sidenav_l_02.svg" alt="Tree View">
+					<img src="img/guide/sidenav_l_02.png" alt="Tree View">
 				</section>
 				<aside>
 					<dl>
@@ -60,7 +60,7 @@
 								<dd>Indent: 20px</dd>
 								<!-- -->
 								<dt>Collapsed Folder Containg Selection</dt>
-								<dd>Icon: wizard_completed.svg</dd>
+								<dd>Icon: wizard_completed.png</dd>
 							</dl>
 						</dd>
 						<!-- -->

@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Simple Toast</h4>
-					<img src="img/guide/toast_01.svg" alt="Simple Toast">
+					<img src="img/guide/toast_01.png" alt="Simple Toast">
 				</section>
 				<section>
 					<h4>Notification</h4>
-					<img src="img/guide/toast_02.svg" alt="Notification">
+					<img src="img/guide/toast_02.png" alt="Notification">
 				</section>
 				<aside>
 					<dl>

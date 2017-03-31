@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/progress_linear_01.svg" alt="Progress Linear">
+					<img src="img/guide/progress_linear_01.png" alt="Progress Linear">
 				</section>
 				<aside>
 					<dl>

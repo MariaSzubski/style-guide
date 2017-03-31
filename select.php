@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Input Select Field</h4>
-					<img src="img/guide/select_01.svg" alt="Input Select Field">
+					<img src="img/guide/select_01.png" alt="Input Select Field">
 				</section>
 				<section>
 					<h4>Alternate Select Field</h4>
-					<img src="img/guide/select_02.svg" alt="Alternate Select Field">
+					<img src="img/guide/select_02.png" alt="Alternate Select Field">
 				</section>
 				<aside>
 					<dl>

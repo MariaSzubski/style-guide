@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4>Static Tabs</h4>
-					<img src="img/guide/tabs_01.svg" alt="Static Tabs">
+					<img src="img/guide/tabs_01.png" alt="Static Tabs">
 				</section>
 				<section class="desc">
 					<h4>Nav Bar</h4>

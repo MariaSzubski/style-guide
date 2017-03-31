@@ -17,15 +17,15 @@
 			<div id="container">
 				<section class="full">
 					<h4>Text Colors</h4>
-					<img src="img/guide/colors_01.svg" alt="Text Colors">
+					<img src="img/guide/colors_01.png" alt="Text Colors">
 				</section>
 				<section class="full">
 					<h4>Layout Colors</h4>
-					<img src="img/guide/colors_02.svg" alt="Layout Colors">
+					<img src="img/guide/colors_02.png" alt="Layout Colors">
 				</section>
 				<section class="full">
 					<h4>Content Colors</h4>
-					<img src="img/guide/colors_03.svg" alt="Content Colors">
+					<img src="img/guide/colors_03.png" alt="Content Colors">
 				</section>
 			</div>
 		</article>

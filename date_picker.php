@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Date Picker</h4>
-					<img src="img/guide/date_picker_01.svg" alt="Date Picker">
+					<img src="img/guide/date_picker_01.png" alt="Date Picker">
 				</section>
 				<section>
 					<h4>Opened Calenedar</h4>
-					<img src="img/guide/date_picker_02.svg" alt="Opened Calendar">
+					<img src="img/guide/date_picker_02.png" alt="Opened Calendar">
 				</section>
 				<aside>
 					<dl>

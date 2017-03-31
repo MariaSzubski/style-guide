@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/input_01.svg" alt="Input States">
+					<img src="img/guide/input_01.png" alt="Input States">
 				</section>
 				<aside>
 					<dl>

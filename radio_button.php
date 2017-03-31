@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/radio_01.svg" alt="Radio Buttons">
+					<img src="img/guide/radio_01.png" alt="Radio Buttons">
 				</section>
 				<aside>
 					<dl>

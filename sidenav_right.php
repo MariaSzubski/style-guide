@@ -17,15 +17,15 @@
 			<div id="container">
 				<section>
 					<h4>Basic Sidenav</h4>
-					<img src="img/guide/sidenav_r_01.svg" alt="Basic Sidenav (Right)">
+					<img src="img/guide/sidenav_r_01.png" alt="Basic Sidenav (Right)">
 				</section>
 				<section>
 					<h4>App Drawer (Grid View)</h4>
-					<img src="img/guide/sidenav_r_02.svg" alt="App Drawer (Grid View)">
+					<img src="img/guide/sidenav_r_02.png" alt="App Drawer (Grid View)">
 				</section>
 				<section>
 					<h4>App Drawer (Tree View)</h4>
-					<img src="img/guide/sidenav_r_03.svg" alt="App Drawer (Tree View)">
+					<img src="img/guide/sidenav_r_03.png" alt="App Drawer (Tree View)">
 				</section>
 				<aside>
 					<dl>

@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<!-- <h4>Content Toolbars</h4> -->
-					<img src="img/guide/toolbar_01.svg" alt="Content Toolbars">
+					<img src="img/guide/toolbar_01.png" alt="Content Toolbars">
 				</section>
 				<aside>
 					<dl>

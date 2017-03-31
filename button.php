@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/button_01.svg" alt="Buttons">
+					<img src="img/guide/button_01.png" alt="Buttons">
 				</section>
 				<aside>
 					<dl>

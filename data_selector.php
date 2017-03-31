@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/data_selector_01.svg" alt="Data Selector">
+					<img src="img/guide/data_selector_01.png" alt="Data Selector">
 				</section>
 				<aside>
 					<dl>

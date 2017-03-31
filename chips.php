@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Basic Chip</h4>
-					<img src="img/guide/chips_01.svg" alt="Basic Chip">
+					<img src="img/guide/chips_01.png" alt="Basic Chip">
 				</section>
 				<section>
 					<h4>Static Chip</h4>
-					<img src="img/guide/chip_02.svg" alt="Static Chip">
+					<img src="img/guide/chip_02.png" alt="Static Chip">
 				</section>
 				<aside>
 					<dl>

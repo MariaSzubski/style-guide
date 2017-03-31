@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Primary</h4>
-					<img src="img/guide/divider_01.svg" alt="Primary Divider">
+					<img src="img/guide/divider_01.png" alt="Primary Divider">
 				</section>
 				<section>
 					<h4>Secondary</h4>
-					<img src="img/guide/divider_02.svg" alt="Secondary Divider">
+					<img src="img/guide/divider_02.png" alt="Secondary Divider">
 				</section>
 				<aside>
 					<dl>

@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/pagination_01.svg" alt="Pagnation">
+					<img src="img/guide/pagination_01.png" alt="Pagnation">
 				</section>
 				<aside>
 					<dl>

@@ -21,11 +21,11 @@
 				</section>
 				<section>
 					<h4>Grouped Actions (Large)</h4>
-					<img src="img/guide/switch_02.svg" alt="Grouped Actions (Large)">
+					<img src="img/guide/switch_02.png" alt="Grouped Actions (Large)">
 				</section>
 				<section>
 					<h4>Grouped Toolbar (Small)</h4>
-					<img src="img/guide/switch_03.svg" alt="Grouped Toolbar Options (Small)">
+					<img src="img/guide/switch_03.png" alt="Grouped Toolbar Options (Small)">
 				</section>
 				<aside>
 					<dl>

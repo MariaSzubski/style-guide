@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Basic Tooltip</h4>
-					<img src="img/guide/tooltip_01.svg" alt="Basic Tooltip">
+					<img src="img/guide/tooltip_01.png" alt="Basic Tooltip">
 				</section>
 				<section>
 					<h4>Data Tooltip</h4>
-					<img src="img/guide/tooltip_02.svg" alt="Data Tooltips">
+					<img src="img/guide/tooltip_02.png" alt="Data Tooltips">
 				</section>
 				<aside>
 					<dl>

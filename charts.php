@@ -17,23 +17,23 @@
 			<div id="container">
 				<section>
 					<h4>Bar Chart</h4>
-					<img src="img/guide/charts_01.svg" alt="Bar Chart">
+					<img src="img/guide/charts_01.png" alt="Bar Chart">
 				</section>
 				<section>
 					<h4>Grouped Data Points</h4>
-					<img src="img/guide/charts_02.svg" alt="Grouped Data Points">
+					<img src="img/guide/charts_02.png" alt="Grouped Data Points">
 				</section>
 				<section>
 					<h4>Bubble Chart</h4>
-					<img src="img/guide/charts_03.svg" alt="Bubble Chart">
+					<img src="img/guide/charts_03.png" alt="Bubble Chart">
 				</section>
 				<section>
 					<h4>Ring Chart</h4>
-					<img src="img/guide/charts_04.svg" alt="Ring Chart">
+					<img src="img/guide/charts_04.png" alt="Ring Chart">
 				</section>
 				<section>
 					<h4>Data Values</h4>
-					<img src="img/guide/charts_05.svg" alt="Data Values">
+					<img src="img/guide/charts_05.png" alt="Data Values">
 				</section>
 				<aside>
 					<dl>
