@@ -1,24 +1,22 @@
 {
   "name": "v8_guidelines",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Maria Szubski",
   "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
   "devDependencies": {
-    "autoprefixer": "^6.7.6",
-    "grunt": "^1.0.1",
-    "grunt-autoprefixer": "^3.0.4",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-less": "^1.4.1",
-    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-uglify": "^2.2.1",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-cssnano": "^2.1.0",
     "grunt-pixrem": "^0.1.2",
     "grunt-postcss": "^0.8.0"
-  },
-  "dependencies": {}
+  }
 }
