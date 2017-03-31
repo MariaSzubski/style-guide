@@ -19,8 +19,12 @@
 					<h4>Static Tabs</h4>
 					<img src="img/guide/tabs_01.png" alt="Static Tabs">
 				</section>
+				<section>
+					<h4>Secondary Tabs</h4>
+					<img src="img/guide/tabs_02.png" alt="Secondary Tabs">
+				</section>
 				<section class="desc">
-					<h4>Nav Bar</h4>
+					<h4>Nav Bar Tabs</h4>
 					<p>
 						See <a href="nav_bar.php">Nav Bar</a> Component
 					</p>
@@ -31,6 +35,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border-Bottom: 1px #DDE6ED</dd>
 						<dd>Tab Alignment: Left</dd>
+						<dd>Bar Height: 40px</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -42,6 +47,26 @@
 								<dt>Selected Tab</dt>
 								<dd>Text: 15px (11pt) #172730</dd>
 								<dd>Border-Bottom: 2px #172730</dd>
+								<dd>Text Align: Center</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Secondary Tab Bar</dt>
+						<dd>Background: #DDE6ED</dd>
+						<dd>Border T/B: 1px #BBCCDB</dd>
+						<dd>Tab Alignment: Left</dd>
+						<dd>Bar Height: 46px</dd>
+						<dd>Tab Height: 36px</dd>
+						<!-- -->
+						<dd>
+							<dl class="sub">
+								<dt>Unselected Tab</dt>
+								<dd>Text: 12px (9pt) #0098F3</dd>
+								<dd>Text Align: Center</dd>
+								<!-- -->
+								<dt>Selected Tab</dt>
+								<dd>Text: 12px (9pt) #172730</dd>
+								<dd>Border: 1px #BBCCDB</dd>
 								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>

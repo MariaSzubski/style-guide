@@ -18,13 +18,7 @@
 				<div class="desc_i">
 					<h2>Contact Us</h2>
 					<p>
-						Sign up to receive notifications of updates.
-					</p>
-					<p>
-						Email form here.
-					</p>
-					<p>
-						Back to Nielsen Experience Site
+						The Standards documented here are used to create continuity and connectedness among Nielsen’s diverse product ecosystem. If you have questions about how use the Nielsen Experience Standards or need guidance for your product, contact us with the details of your request.
 					</p>
 				</div>
 			</div>

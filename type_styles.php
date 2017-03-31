@@ -19,6 +19,19 @@
 					<h4></h4>
 					<img src="img/guide/type_styles_01.png" alt="Type Styles">
 				</section>
+				<section class="full desc">
+					<h4>Open Sans</h4>
+					<p>
+						Access <a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:400,600,700" target="blank">Open Sans</a> on Google Fonts in weights 400, 600, and 700.
+					</p>
+				</section>
+				<section class="full desc">
+					<h4>Knockout</h4>
+					<p>
+						To receive access to Knockout, please <a href="https://goo.gl/forms/CXs2n3vbWpNp2FSv2" target="blank">complete this form</a>.
+					</p>
+				</section>
+
 			</div>
 		</article>
 	</main>

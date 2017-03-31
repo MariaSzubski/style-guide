@@ -15,29 +15,27 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>Grid List: List View</h4>
+					<img src="img/guide/grid_list_01.png" alt="Grid List: List View">
+				</section>
+				<section>
+					<h4>Grid List: Grid View</h4>
+					<img src="img/guide/grid_list_02.png" alt="Grid List: Grid View">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>List View</dt>
+						<dd>Icon Size: 48x48px</dd>
+						<dd>Margin: 12px</dd>
+						<dd class="note">Items are stacked vertically.</dd>
+						<dt>Grid View</dt>
+						<dd>Icons: 64x64px</dd>
+						<dd>Margin: 12px</dd>
+						<dd class="note">Items wrap from left to right.</dd>
+						<dd class="note">The number of items per row varies based on the width of the container.</dd>
+
+
 					</dl>
 				</aside>
 			</div>

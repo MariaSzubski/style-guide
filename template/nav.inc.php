@@ -7,7 +7,7 @@
 	<ul>
 		<li class="<?php echo ($current == "index.php" ? "selected" : "")?>"><a href="index.php">Introduction</a></li>
 		<li class="<?php echo ($current == "changelog.php" ? "selected" : "")?>"><a href="changelog.php">Changelog</a></li>
-		<li class="<?php echo ($current == "nielsen_brand.php" ? "selected" : "")?>"><a href="nielsen_brand.php">Nielsen Brand</a></li>
+		<li class="<?php echo ($current == "usage.php" ? "selected" : "")?>"><a href="usage.php">Usage</a></li>
 		<li class="<?php echo ($current == "contact_us.php" ? "selected" : "")?>"><a href="contact_us.php">Contact Us</a></li>
 	</ul>
 	<!-- -->
@@ -27,6 +27,7 @@
 		<li class="<?php echo ($current == "input.php" ? "selected" : "")?>"><a href="input.php">Input</a></li>
 		<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
 		<li class="<?php echo ($current == "menu.php" ? "selected" : "")?>"><a href="menu.php">Menu</a></li>
+		<li class="<?php echo ($current == "menu_bar.php" ? "selected" : "")?>"><a href="menu_bar.php">Menu Bar</a></li>
 		<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
 		<li class="<?php echo ($current == "panel.php" ? "selected" : "")?>"><a href="panel.php">Panel</a></li>
 		<li class="<?php echo ($current == "progress_circular.php" ? "selected" : "")?>"><a href="progress_circular.php">Progress Circular</a></li>
