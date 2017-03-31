@@ -40,8 +40,8 @@
 								<dd>Text Align: Center</dd>
 								<!-- -->
 								<dt>Selected Tab</dt>
-								<dd>Text: 15px (11pt) #172730</dd>
-								<dd>Border-Bottom: 2px #172730</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Border-Bottom: 2px #151921</dd>
 								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>

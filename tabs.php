@@ -45,8 +45,8 @@
 								<dd>Text Align: Center</dd>
 								<!-- -->
 								<dt>Selected Tab</dt>
-								<dd>Text: 15px (11pt) #172730</dd>
-								<dd>Border-Bottom: 2px #172730</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Border-Bottom: 2px #151921</dd>
 								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>
@@ -65,7 +65,7 @@
 								<dd>Text Align: Center</dd>
 								<!-- -->
 								<dt>Selected Tab</dt>
-								<dd>Text: 12px (9pt) #172730</dd>
+								<dd>Text: 12px (9pt) #151921</dd>
 								<dd>Border: 1px #BBCCDB</dd>
 								<dd>Text Align: Center</dd>
 							</dl>

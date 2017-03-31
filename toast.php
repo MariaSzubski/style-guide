@@ -34,6 +34,7 @@
 						<dd>Text Align: Centered</dd>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
+						<dd>Angular Shadow: 6dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -58,6 +59,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border: 1px #BBCCDB</dd>
 						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
+						<dd>Angular Shadow: 6dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

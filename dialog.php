@@ -29,6 +29,7 @@
 						<dd>Corner Radius: 4px</dd>
 						<dd>Border: none</dd>
 						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,0.45)</dd>
+						<dd>Angular Shadow: 6dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -43,7 +44,7 @@
 								<!-- -->
 								<dt>Content</dt>
 								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #172730</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
 								<!-- -->
 								<dt>Tabs</dt>
 								<dd class="note">See Tabs component for recommendations.</dd>
@@ -59,6 +60,7 @@
 						<dd>Corner Radius: 4px</dd>
 						<dd>Border: none</dd>
 						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
+						<dd>Angular Shadow: 6dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

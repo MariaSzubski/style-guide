@@ -25,6 +25,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border: 1px #BBCCDB</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Angular Shadow: 2dp</dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>[Page/Panel Title Typestyle]</dd>

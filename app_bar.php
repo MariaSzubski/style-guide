@@ -34,6 +34,7 @@
 						<dd>Weight: 48 Featherweight</dd>
 						<dd>Case: Uppercase</dd>
 						<dd>Box Shadow: 0px 2px 3px rgba(0,0,0,.25)</dd>
+						<dd>Angular Shadow: 4dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">

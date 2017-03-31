@@ -37,9 +37,9 @@
 							<dl class="sub">
 								<dt>Text</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Header: 13px (10pt) #172730</dd>
+								<dd>Header: 13px (10pt) #151921</dd>
 								<dd>Header Weight: 700</dd>
-								<dd>Data: 13px (10pt) #172730</dd>
+								<dd>Data: 13px (10pt) #151921</dd>
 								<!-- -->
 								<dt>Alignment</dt>
 								<dd>Descriptive Columns: Top Left</dd>
@@ -57,9 +57,9 @@
 							<dl class="sub">
 								<dt>Text</dt>
 								<dd>[Large Text Typestyle]</dd>
-								<dd>Header: 15px (11pt) #172730</dd>
+								<dd>Header: 15px (11pt) #151921</dd>
 								<dd>Header Weight: 700</dd>
-								<dd>Data: 15px (11pt) #172730</dd>
+								<dd>Data: 15px (11pt) #151921</dd>
 								<!-- -->
 								<dt>Alignment</dt>
 								<dd>Descriptive Column: Top Left</dd>

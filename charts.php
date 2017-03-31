@@ -72,7 +72,7 @@
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Value</dt>
-								<dd>Text: 24px (18pt) #172730</dd>
+								<dd>Text: 24px (18pt) #151921</dd>
 								<dd>Line Height: 30px</dd>
 							</dl>
 						</dd>

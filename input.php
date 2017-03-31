@@ -26,13 +26,13 @@
 							<dl class="sub">
 								<dt>Primary Label</dt>
 								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #172730</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
 								<dd>Weight: 600</dd>
 								<dd>Required Asterisk: #FF8300</dd>
 								<!-- -->
 								<dt>Helper Text</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Weight: 400</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Error Color: #FF8100</dd>
@@ -41,7 +41,7 @@
 						<!-- -->
 						<dt>Input Text</dt>
 						<dd>[Body Text Typestyle]</dd>
-						<dd>Text: 13px (10pt)  #172730</dd>
+						<dd>Text: 13px (10pt)  #151921</dd>
 						<dd>Hint Text: #A8AFB3</dd>
 						<!-- -->
 						<dt>Field States</dt>

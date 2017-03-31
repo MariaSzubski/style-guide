@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Nielsen Experience UI Guidelines</h1>
-		<h3>Updated March 31, 2017</h3>
+		<h3>V8.1 &ndash; Updated March 31, 2017</h3>
 	</header>
 	<h4>About the Guidelines</h4>
 	<ul>
@@ -41,6 +41,7 @@
 		<li class="<?php echo ($current == "toast.php" ? "selected" : "")?>"><a href="toast.php">Toast</a></li>
 		<li class="<?php echo ($current == "toolbar.php" ? "selected" : "")?>"><a href="toolbar.php">Toolbar</a></li>
 		<li class="<?php echo ($current == "tooltip.php" ? "selected" : "")?>"><a href="tooltip.php">Tooltip</a></li>
+		<li class="<?php echo ($current == "whiteframe.php" ? "selected" : "")?>"><a href="whiteframe.php">Whiteframe</a></li>
 	</ul>
 	<!-- -->
 	<h4>Custom Components</h4>

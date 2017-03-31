@@ -54,6 +54,7 @@
 						</dd>
 						<dt>App Icons</dt>
 						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,0.45)</dd>
+						<dd>Angular Shadow: 2dp</dd>
 					</dl>
 				</aside>
 			</div>

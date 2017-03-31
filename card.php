@@ -30,6 +30,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Corner Radius: 5px</dd>
 						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Angular Shadow: 2dp</dd>
 						<!-- -->
 						<dd>
 							<dl class="sub">
@@ -54,7 +55,7 @@
 								<!-- -->
 								<dt>Description</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Keyword Chips</dt>
@@ -62,7 +63,7 @@
 								<!-- -->
 								<dt>Author Name &amp; Buttons</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Weight: 600</dd>
 							</dl>

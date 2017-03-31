@@ -28,6 +28,7 @@
 						<dt>Basic Tooltip</dt>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Angular Shadow: 2dp</dd>
 						<dd>
 							<dl class="sub">
 								<dt>Dark Background</dt>
@@ -46,6 +47,7 @@
 								<dt>Default Style</dt>
 								<dd>Background: #354052</dd>
 								<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+								<dd>Angular Shadow: 2dp</dd>
 								<!-- -->
 								<dt>With Reporting Palette</dt>
 								<dd>Border: 2px #FFFFFF</dd>

@@ -15,29 +15,27 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc">
-					<!--Remove-->
-					<p>Coming Soon</p>
-				</div>
 				<section>
-					<h4></h4>
-					<!-- <img src="img/guide/" alt=""> -->
+					<h4>On Page Background</h4>
+					<img src="img/guide/list_01.png" alt="List On Page Background">
+				</section>
+				<section>
+					<h4>In Panel</h4>
+					<img src="img/guide/list_02.png" alt="List In Panel">
 				</section>
 				<aside>
 					<dl>
-						<dt></dt>
-						<dd>
-							<dl class="sub">
-								<dt></dt>
-								<dd></dd>
-								<!-- -->
-								<dt></dt>
-								<dd></dd>
-							</dl>
-						</dd>
+						<dt>Label</dt>
+						<dd>Text: 15px (11pt) #354052</dd>
+						<dd>Weight: 700</dd>
+						<dd>Gap Between Groups: 32px</dd>
 						<!-- -->
-						<dt></dt>
-						<dd></dd>
+						<dt>List Items</dt>
+						<dd>Text: 13px (10pt) #151921</dd>
+						<dd>Weight: 400</dd>
+						<dd>Line Height: 24px</dd>
+
+
 					</dl>
 				</aside>
 			</div>

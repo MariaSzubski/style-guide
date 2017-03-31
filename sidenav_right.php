@@ -34,6 +34,7 @@
 						<dd>Height: Browser Height</dd>
 						<dd>Border: 1px #BBCCDB</dd>
 						<dd>Box Shadow: -2px 0px 3px rgba(0,0,0,.25)</dd>
+						<dd>Angular Shadow: 4dp</dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>[Overlay Title Typestyle]</dd>
@@ -49,14 +50,14 @@
 							<dl class="sub">
 								<dt>Header</dt>
 								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #172730</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Weight: 700</dd>
 								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Subheader &amp; Description</dt>
 								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #172730</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Link Color: #00983</dd>
 								<dd>Weight: 400</dd>
 								<dd>Line Height: 20px</dd>
