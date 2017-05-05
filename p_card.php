@@ -9,27 +9,28 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Card</h2>
+			<h2 id="pg_header">Card Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Default Card</h4>
-					<img src="img/guide/card_01.png" alt="Default Card">
+					<h4>All Content Types</h4>
+					<img src="img/guide/p_card_01.png" alt="Card Layout - All Content Types">
 				</section>
 				<section>
-					<h4>Locked Card</h4>
-					<img src="img/guide/card_02.png" alt="Locked Card">
+					<h4>Card Examples</h4>
+					<img src="img/guide/p_card_02.png" alt="Card Examples">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_card.php">Card Patterns</a></dd>
+						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
+						<!-- -->
 						<dt>Card</dt>
 						<dd>Dividers: 1px #DCE5EC</dd>
 						<dd>Background: #FFFFFF</dd>

@@ -24,7 +24,7 @@
 					<img src="img/guide/sidenav_l_02.png" alt="Tree View">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Layout</dt>
 						<dd>Background: #3E4A5B</dd>
 						<dd>Height: Browser Height</dd>

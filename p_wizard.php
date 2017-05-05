@@ -20,7 +20,7 @@
 					<img src="img/guide/wizard_01.png" alt="Wizard">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Wizard Breadcrumbs</dt>
 						<dd>[Labels Typestyle]</dd>
 						<dd>Text: 12px (9pt)</dd>

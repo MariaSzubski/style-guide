@@ -34,14 +34,14 @@ nav.default_state{
   left:0;
 }
 a:link,a:visited{
-  color:#00aeef;
+  color:#0098f3;
   text-decoration:none;
 }
 a:active,a:hover{
   text-decoration:underline;
 }
 a:active{
-  color:#005778;
+  color:#004c7a;
 }
 ::-webkit-scrollbar{
   width:12px;

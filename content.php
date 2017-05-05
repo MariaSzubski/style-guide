@@ -20,7 +20,7 @@
 					<img src="img/guide/content_01.png" alt="Content">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Type Styles</dt>
 						<dd>Font Family: Open Sans</dd>
 						<dd>Recommended: 13 words per line</dd>

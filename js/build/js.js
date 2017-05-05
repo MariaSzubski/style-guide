@@ -5,14 +5,13 @@ $(function(){
 	// Dynamic Page Load
 	function dynamic_load(){
 
-		// Navigation Menu
+		// Navigation Menu & Links
 		$('nav li').click(function(e){
 			e.preventDefault();
 			let url = $(this).children('a').attr('href');
 			load_content(url);
 			history.pushState(null, null, url);
 		});
-
 
 		// Browser History
 		$(window).on('popstate', function(){

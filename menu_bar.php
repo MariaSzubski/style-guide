@@ -20,7 +20,7 @@
 					<img src="img/guide/menu_bar_01.png" alt="Menu Bar">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Selector</dt>
 						<dd>Text: 13px (9pt) #354052</dd>
 						<dd>Font Weight: 600</dd>

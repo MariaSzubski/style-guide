@@ -16,15 +16,15 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Basic Chip</h4>
+					<h4>Large Chip</h4>
 					<img src="img/guide/chips_01.png" alt="Basic Chip">
 				</section>
 				<section>
-					<h4>Static Chip</h4>
+					<h4>Small Chip</h4>
 					<img src="img/guide/chips_02.png" alt="Static Chip">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Chips</dt>
 						<dd>[Large Text Typestyle]</dd>
 						<dd>Text: 15px (11pt) #FFFFFF</dd>

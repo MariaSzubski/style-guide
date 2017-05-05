@@ -26,7 +26,7 @@
 					<img src="img/guide/throbber.gif" alt="Progress Circular">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Progress Circular</dt>
 
 						<dd>Navy: #354052</dd>

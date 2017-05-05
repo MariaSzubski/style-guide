@@ -24,7 +24,7 @@
 					<img src="img/guide/list_02.png" alt="List In Panel">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Label</dt>
 						<dd>Text: 15px (11pt) #354052</dd>
 						<dd>Weight: 700</dd>

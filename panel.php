@@ -20,7 +20,7 @@
 					<img src="img/guide/panel_01.png" alt="Panel">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Panel</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border: 1px #BBCCDB</dd>

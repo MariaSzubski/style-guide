@@ -28,7 +28,7 @@
 					<img src="img/guide/sidenav_r_03.png" alt="App Drawer (Tree View)">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Layout</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Height: Browser Height</dd>

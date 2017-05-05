@@ -20,11 +20,16 @@
 					<img src="img/guide/date_picker_01.png" alt="Date Picker">
 				</section>
 				<section>
-					<h4>Opened Calenedar</h4>
+					<h4>Opened Date Picker</h4>
 					<img src="img/guide/date_picker_02.png" alt="Opened Calendar">
 				</section>
 				<aside>
-					<dl>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="input.php">Input Component</a></dd>
+					</dl>
+					<!-- -->
+					<dl class="dl_root">
 						<dt>Date Picker</dt>
 						<dd class="note">See Input component for style recommendations</dd>
 						<!-- -->

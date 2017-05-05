@@ -34,7 +34,7 @@
 					</p>
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Toolbar Icons</dt>
 						<dd>
 							<dl class="sub">

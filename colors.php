@@ -5,7 +5,6 @@
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Color</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
-	<link rel="stylesheet" href="css/build/src/colors.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">

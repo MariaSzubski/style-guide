@@ -20,7 +20,7 @@
 					<img src="img/guide/whiteframe_01.png" alt="Whiteframe">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Whiteframes</dt>
 						<dd>
 							<dl class="sub">

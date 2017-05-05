@@ -16,19 +16,11 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="desc">
-					<h4>Material Design Switch</h4>
+					<h4></h4>
 					<img src="img/guide/switch_01.png" alt="Color Options">
 				</section>
-				<section>
-					<h4>Grouped Actions (Large)</h4>
-					<img src="img/guide/switch_02.png" alt="Grouped Actions (Large)">
-				</section>
-				<section>
-					<h4>Grouped Toolbar (Small)</h4>
-					<img src="img/guide/switch_03.png" alt="Grouped Toolbar Options (Small)">
-				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Material Design Switch</dt>
 						<dd>Blue: #00AEEF</dd>
 						<dd>Green: #26B910</dd>

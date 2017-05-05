@@ -24,7 +24,13 @@
 					<img src="img/guide/select_02.png" alt="Alternate Select Field">
 				</section>
 				<aside>
-					<dl>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="input.php">Input Component</a></dd>
+						<dd class="pg_link"><a href="menu.php">Menu Component</a></dd>
+					</dl>
+					<!-- -->
+					<dl class="dl_root">
 						<dt>Input Select</dt>
 						<dd class="note">See Input component</dd>
 						<dd>Row Height: 36px</dd>

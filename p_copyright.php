@@ -24,7 +24,7 @@
 					<img src="img/guide/copyright_02.png" alt="Option 2: In Page Footer">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>In Navigation Menu</dt>
 						<dd>[Small Text Typestyle]</dd>
 						<dd>Text: 11px (8pt) #8F9BA8</dd>

@@ -24,7 +24,7 @@
 					<img src="img/guide/divider_02.png" alt="Secondary Divider">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Divider</dt>
 						<dd>Primary: 1px #BBCCDB</dd>
 						<dd>Secondary: 1px #DDE6ED</dd>

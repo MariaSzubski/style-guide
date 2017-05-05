@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
-		<h1>Nielsen Experience UI Guidelines</h1>
-		<h3>V8.0 &ndash; Updated March 31, 2017</h3>
+		<h1>Nielsen Experience<br/>UI Guidelines</h1>
+		<h3>V8.1 &ndash; Updated May 9, 2017</h3>
 	</header>
 
 	<details open>
@@ -17,7 +17,8 @@
 	<details open>
 		<summary><span>Components</span></summary>
 		<ul>
-			<li class="<?php echo ($current == "button.php" ? "selected" : "")?>"><a href="button.php">Button</a></li>
+			<li class="<?php echo ($current == "button_raised.php" ? "selected" : "")?>"><a href="button_raised.php">Button (Raised)</a></li>
+			<li class="<?php echo ($current == "button_flat.php" ? "selected" : "")?>"><a href="button_flat.php">Button (Flat)</a></li>
 			<li class="<?php echo ($current == "card.php" ? "selected" : "")?>"><a href="card.php">Card</a></li>
 			<li class="<?php echo ($current == "checkbox.php" ? "selected" : "")?>"><a href="checkbox.php">Checkbox</a></li>
 			<li class="<?php echo ($current == "chips.php" ? "selected" : "")?>"><a href="chips.php">Chips</a></li>
@@ -52,13 +53,14 @@
 	<details open>
 		<summary><span>Patterns</span></summary>
 		<ul>
-			<li class="<?php echo ($current == "app_bar.php" ? "selected" : "")?>"><a href="app_bar.php">App Bar</a></li>
-			<li class="<?php echo ($current == "charts.php" ? "selected" : "")?>"><a href="charts.php">Charts</a></li>
-			<li class="<?php echo ($current == "copyright.php" ? "selected" : "")?>"><a href="copyright.php">Copyright</a></li>
-			<li class="<?php echo ($current == "grid.php" ? "selected" : "")?>"><a href="grid.php">Grid</a></li>
-			<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
-			<li class="<?php echo ($current == "reporting_palette.php" ? "selected" : "")?>"><a href="reporting_palette.php">Reporting Palette</a></li>
-			<li class="<?php echo ($current == "wizard.php" ? "selected" : "")?>"><a href="wizard.php">Wizard</a></li>
+			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
+			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
+			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
+			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
+			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
+			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
+			<li class="<?php echo ($current == "p_reporting_palette.php" ? "selected" : "")?>"><a href="p_reporting_palette.php">Reporting Palette</a></li>
+			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>
 		</ul>
 	</details>
 	<!-- -->

@@ -20,7 +20,7 @@
 					<img src="img/guide/toolbar_01.png" alt="Content Toolbars">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Content Toolbars</dt>
 						<!-- -->
 						<dd>

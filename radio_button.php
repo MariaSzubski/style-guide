@@ -16,11 +16,20 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
-					<img src="img/guide/radio_01.png" alt="Radio Buttons">
+					<h4>Small Radio Button</h4>
+					<img src="img/guide/radio_01.png" alt="Radio Button Small">
+				</section>
+				<section>
+					<h4>Large Radio Button</h4>
+					<img src="img/guide/radio_02.png" alt="Radio Button Large">
 				</section>
 				<aside>
-					<dl>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="checkbox.php">Checkbox Component</a></dd>
+					</dl>
+					<!-- -->
+					<dl class="dl_root">
 						<dt>Radio Button</dt>
 						<dd>Selected Value: #26B910</dd>
 					</dl>

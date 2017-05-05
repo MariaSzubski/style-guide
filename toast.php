@@ -24,7 +24,7 @@
 					<img src="img/guide/toast_02.png" alt="Notification">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Location on Screen</dt>
 						<dd>Simple Toast: Top Center</dd>
 						<dd>Notification: Bottom Right</dd>

@@ -24,7 +24,7 @@
 					<img src="img/guide/grid_02.png" alt="Large Data Grid">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Cell Styles</dt>
 						<dd>Selected Row (Yellow): #FFF9B8</dd>
 						<dd>Hover Row (Blue): #D4EEFD</dd>

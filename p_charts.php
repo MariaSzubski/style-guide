@@ -36,7 +36,7 @@
 					<img src="img/guide/charts_05.png" alt="Data Values">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Using Frameworks</dt>
 						<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between Nielsen products.</dd>
 						<!-- -->

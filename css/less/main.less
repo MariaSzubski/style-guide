@@ -68,14 +68,15 @@ article{
 aside{
 	position: absolute;
 	top: 0px;
-	right: 24px;
-	width: 280px;
+	right: 0px;
+	width: 304px;
 	min-height: calc(100% - 48px);
-	padding-left: 24px;
 	border-radius: 2px;
 	margin: 24px auto;
 	background-color: white;
 	border-left: 1px solid @matte;
+
+
 
 	& dl *{
 		font-family: 'Roboto Mono', monospace;
@@ -84,14 +85,30 @@ aside{
 		line-height: 1.5;
 	}
 
+	& dl.dl_root{
+		padding: 0px 24px;
+	}
+
 	& dt{
 		text-transform: uppercase;
 		font-weight: 600;
-		padding-top: 20px;
+		padding-top: 24px;
 		color: @blue;
 		&:first-of-type{
 			padding-top: 0px;
 		}
+	}
+
+	& .related{
+		background-color: #FFDEFA;
+		border-top: 1px solid #F7BFF2;
+		border-bottom: 1px solid #F7BFF2;
+		padding: 16px 24px;
+		margin-bottom: 24px;
+		dt{
+			color:@purple;
+		}
+
 	}
 
 	& dd {

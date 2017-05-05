@@ -24,7 +24,7 @@
 					<img src="img/guide/tooltip_02.png" alt="Data Tooltips">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Basic Tooltip</dt>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>

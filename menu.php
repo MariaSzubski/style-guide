@@ -20,7 +20,7 @@
 					<img src="img/guide/menu_01.png" alt="">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Menu</dt>
 						<dd>[Large Text Typestyle]</dd>
 						<dd>Text: 15px (11pt) #354052</dd>

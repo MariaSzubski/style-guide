@@ -20,7 +20,7 @@
 					<img src="img/guide/" alt="">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt></dt>
 						<dd>
 							<dl class="sub">

@@ -24,7 +24,7 @@
 					<img src="img/guide/grid_list_02.png" alt="Grid List: Grid View">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>List View</dt>
 						<dd>Icon Size: 48x48px</dd>
 						<dd>Margin: 12px</dd>

@@ -16,11 +16,25 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					<h4>Input States</h4>
 					<img src="img/guide/input_01.png" alt="Input States">
 				</section>
+				<section>
+					<h4>Primary Input</h4>
+					<img src="img/guide/input_02.png" alt="Primary Input">
+				</section>
+				<section>
+					<h4>Large Input</h4>
+					<img src="img/guide/input_03.png" alt="Large Input">
+				</section>
 				<aside>
-					<dl>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="date_picker.php">Date Picker Component</a></dd>
+						<dd class="pg_link"><a href="select.php">Select Component</a></dd>
+					</dl>
+					<!-- -->
+					<dl class="dl_root">
 						<dt>Labels</dt>
 						<dd>
 							<dl class="sub">

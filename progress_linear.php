@@ -20,7 +20,7 @@
 					<img src="img/guide/progress_linear_01.png" alt="Progress Linear">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Progress Linear</dt>
 						<dd>Color: #00AEEF
 						<dd>Height: 5px</dd>

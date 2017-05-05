@@ -64,10 +64,9 @@ article .guide_link a{
 aside{
   position:absolute;
   top:0;
-  right:24px;
-  width:280px;
+  right:0;
+  width:304px;
   min-height:calc(100% - 48px);
-  padding-left:24px;
   border-radius:2px;
   margin:24px auto;
   background-color:#fff;
@@ -80,14 +79,27 @@ aside dl *{
   font-size:.8125rem;
   line-height:1.5;
 }
+aside dl.dl_root{
+  padding:0 24px;
+}
 aside dt{
   text-transform:uppercase;
   font-weight:600;
-  padding-top:20px;
-  color:#00aeef;
+  padding-top:24px;
+  color:#0098f3;
 }
 aside dt:first-of-type{
   padding-top:0;
+}
+aside .related{
+  background-color:#ffdefa;
+  border-top:1px solid #f7bff2;
+  border-bottom:1px solid #f7bff2;
+  padding:16px 24px;
+  margin-bottom:24px;
+}
+aside .related dt{
+  color:#b21dac;
 }
 aside dd{
   padding-left:18px;
@@ -125,7 +137,7 @@ section.desc p{
   text-align:center;
 }
 .desc h2{
-  color:#00aeef;
+  color:#0098f3;
   font-size:32px;
   font-size:2rem;
   font-weight:400;
@@ -154,7 +166,7 @@ section.desc_i p{
   text-align:center;
 }
 .desc_i h2{
-  color:#00aeef;
+  color:#0098f3;
   font-size:32px;
   font-size:2rem;
   font-weight:400;

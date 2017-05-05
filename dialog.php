@@ -20,7 +20,7 @@
 					<img src="img/guide/dialog_01.png" alt="Dialogs">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>Page Mask</dt>
 						<dd>Background: rgba(0,0,0,0.55)</dd>
 						<!-- -->

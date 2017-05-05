@@ -24,7 +24,7 @@
 					<img src="img/guide/app_bar_02.png" alt="Icon Selected State">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 						<dt>App Bar</dt>
 
 						<dd>Background: #FFFFFF</dd>

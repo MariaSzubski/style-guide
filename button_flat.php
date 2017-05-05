@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Button</h2>
+			<h2 id="pg_header">Button (Flat)</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -17,10 +17,15 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/button_01.png" alt="Buttons">
+					<img src="img/guide/button_flat_01.png" alt="Raised Buttons">
 				</section>
 				<aside>
-					<dl>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="button_raised.php">Raised Button Component</a></dd>
+					</dl>
+					<!-- -->
+					<dl class="dl_root">
 						<dt>Grouping</dt>
 						<dd class="note">Actions and Toolbar Buttons should not be grouped together. Action buttons advance the user's workflow. Toolbar buttons perform in-page functions.</dd>
 						<!-- -->

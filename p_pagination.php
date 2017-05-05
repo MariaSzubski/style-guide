@@ -20,7 +20,7 @@
 					<img src="img/guide/pagination_01.png" alt="Pagnation">
 				</section>
 				<aside>
-					<dl>
+					<dl class="dl_root">
 
 						<dt>Numbers</dt>
 						<dd>
