@@ -10,11 +10,11 @@ table.colors{
   color:#fff;
 }
 table.colors tr{
-  height:40px;
+  height:42px;
 }
 table.colors td{
   border:none;
-  padding:0 12px;
+  padding:0 16px;
 }
 table.colors td:last-of-type{
   text-align:right;
@@ -229,4 +229,73 @@ table.colors #r800{
 }
 table.colors #r900{
   background-color:#610008;
+}
+table.colors #c1{
+  background-color:#069;
+}
+table.colors #c2{
+  background-color:#4aa;
+}
+table.colors #c3{
+  background-color:#473;
+}
+table.colors #c4{
+  background-color:#ba4;
+}
+table.colors #c5{
+  background-color:#c71;
+}
+table.colors #c6{
+  background-color:#934;
+}
+table.colors #c7{
+  background-color:#a5a;
+}
+table.colors #c8{
+  background-color:#528;
+}
+table.colors #c9{
+  background-color:#999;
+  color:#354052;
+}
+table.colors #c10{
+  background-color:#79b;
+  color:#354052;
+}
+table.colors #c11{
+  background-color:#acc;
+  color:#354052;
+}
+table.colors #c12{
+  background-color:#8a7;
+  color:#354052;
+}
+table.colors #c13{
+  background-color:#ed5;
+  color:#354052;
+}
+table.colors #c14{
+  background-color:#da7;
+  color:#354052;
+}
+table.colors #c15{
+  background-color:#c78;
+  color:#354052;
+}
+table.colors #c16{
+  background-color:#dcd;
+  color:#354052;
+}
+table.colors #c17{
+  background-color:#97b;
+  color:#354052;
+}
+table.colors #c18{
+  background-color:#777;
+}
+table.colors #t1{
+  background-color:#26b910;
+}
+table.colors #t2{
+  background-color:#dd0014;
 }

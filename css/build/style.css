@@ -273,6 +273,10 @@ iframe{
 
 header{
   position:relative;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+      -ms-user-select:none;
+          user-select:none;
 }
 header img{
   position:absolute;
@@ -309,14 +313,47 @@ nav header h3{
   font-size:12px;
   font-size:.75rem;
 }
-nav h4{
+nav summary{
+  position:relative;
   font-size:15px;
   font-size:.9375rem;
   text-transform:uppercase;
   font-weight:600;
   color:#edeff0;
-  height:30px;
-  padding:24px;
+  height:32px;
+  padding:0 24px 24px;
+  outline:none;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+      -ms-user-select:none;
+          user-select:none;
+}
+nav summary:hover{
+  cursor:pointer;
+}
+nav summary::-webkit-details-marker{
+  display:none;
+}
+nav summary span{
+  position:absolute;
+  top:50%;
+  -webkit-transform:translateY(-50%);
+          transform:translateY(-50%);
+}
+nav details{
+  padding-top:24px;
+}
+nav details>summary:before{
+  display:inline-block;
+  content:url(../../img/select.svg);
+  -webkit-transform:rotate(-90deg);
+          transform:rotate(-90deg);
+  margin-right:8px;
+  margin-top:4px;
+}
+nav details[open]>summary:before{
+  -webkit-transform:rotate(0deg);
+          transform:rotate(0deg);
 }
 nav ul{
   border-bottom:1px solid #495871;
@@ -330,6 +367,10 @@ nav li{
   background-color:inherit;
   -webkit-transition:background-color .4s ease;
   transition:background-color .4s ease;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+      -ms-user-select:none;
+          user-select:none;
 }
 nav li:hover{
   background-color:#647484;
