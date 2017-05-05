@@ -1,0 +1,232 @@
+table,td,tr{
+  border-collapse:collapse;
+  font-family:Roboto Mono,monospace;
+  font-size:13px;
+  font-size:.8125rem;
+}
+table.colors{
+  width:600px;
+  margin:auto;
+  color:#fff;
+}
+table.colors tr{
+  height:40px;
+}
+table.colors td{
+  border:none;
+  padding:0 12px;
+}
+table.colors td:last-of-type{
+  text-align:right;
+}
+table.colors .ltbg{
+  color:#354052;
+}
+table.colors #g50{
+  background-color:#f5f9fc;
+  color:#354052;
+}
+table.colors #g100{
+  background-color:#edeef0;
+  color:#354052;
+}
+table.colors #g200{
+  background-color:#dde6ed;
+  color:#354052;
+}
+table.colors #g300{
+  background-color:#d5d7db;
+  color:#354052;
+}
+table.colors #g400{
+  background-color:#bbccda;
+  color:#354052;
+}
+table.colors #g500{
+  background-color:#9baab8;
+  color:#354052;
+}
+table.colors #g600{
+  background-color:#79818c;
+}
+table.colors #g700{
+  background-color:#5d6574;
+}
+table.colors #g800{
+  background-color:#354052;
+}
+table.colors #g900{
+  background-color:#151921;
+}
+table.colors #b50{
+  background-color:#d4eefd;
+  color:#354052;
+}
+table.colors #b100{
+  background-color:#b4e0fc;
+  color:#354052;
+}
+table.colors #b200{
+  background-color:#8cd1fa;
+  color:#354052;
+}
+table.colors #b300{
+  background-color:#5bbff5;
+  color:#354052;
+}
+table.colors #b400{
+  background-color:#00aeef;
+}
+table.colors #b500{
+  background-color:#0098f3;
+}
+table.colors #b600{
+  background-color:#008ce0;
+}
+table.colors #b700{
+  background-color:#007bc5;
+}
+table.colors #b800{
+  background-color:#0068a6;
+}
+table.colors #b900{
+  background-color:#00568b;
+}
+table.colors #gr50{
+  background-color:#d0f7cc;
+  color:#354052;
+}
+table.colors #gr100{
+  background-color:#b6eeaf;
+  color:#354052;
+}
+table.colors #gr200{
+  background-color:#90e085;
+  color:#354052;
+}
+table.colors #gr300{
+  background-color:#66d156;
+  color:#354052;
+}
+table.colors #gr400{
+  background-color:#40c32d;
+}
+table.colors #gr500{
+  background-color:#26b810;
+}
+table.colors #gr600{
+  background-color:#23a60f;
+}
+table.colors #gr700{
+  background-color:#1d8d0c;
+}
+table.colors #gr800{
+  background-color:#18720a;
+}
+table.colors #gr900{
+  background-color:#135807;
+}
+table.colors #y50{
+  background-color:#fff7de;
+  color:#354052;
+}
+table.colors #y100{
+  background-color:#ffeeba;
+  color:#354052;
+}
+table.colors #y200{
+  background-color:#ffe299;
+  color:#354052;
+}
+table.colors #y300{
+  background-color:#ffd670;
+  color:#354052;
+}
+table.colors #y400{
+  background-color:#ffc742;
+  color:#354052;
+}
+table.colors #y500{
+  background-color:#ffb100;
+  color:#354052;
+}
+table.colors #y600{
+  background-color:#f29100;
+  color:#354052;
+}
+table.colors #y700{
+  background-color:#e67219;
+}
+table.colors #y800{
+  background-color:#cf5900;
+}
+table.colors #y900{
+  background-color:#ab4a0e;
+}
+table.colors #p50{
+  background-color:#ffdefa;
+  color:#354052;
+}
+table.colors #p100{
+  background-color:#f7bff2;
+  color:#354052;
+}
+table.colors #p200{
+  background-color:#eb9fe3;
+  color:#354052;
+}
+table.colors #p300{
+  background-color:#db78d0;
+  color:#354052;
+}
+table.colors #p400{
+  background-color:#c24abd;
+}
+table.colors #p500{
+  background-color:#b21dac;
+}
+table.colors #p600{
+  background-color:#9c1596;
+}
+table.colors #p700{
+  background-color:#80157b;
+}
+table.colors #p800{
+  background-color:#61115e;
+}
+table.colors #p900{
+  background-color:#4f0d4c;
+}
+table.colors #r50{
+  background-color:#fce1e1;
+  color:#354052;
+}
+table.colors #r100{
+  background-color:#ffc9cc;
+  color:#354052;
+}
+table.colors #r200{
+  background-color:#faa7aa;
+  color:#354052;
+}
+table.colors #r300{
+  background-color:#ff7d7d;
+}
+table.colors #r400{
+  background-color:#fa4f4f;
+}
+table.colors #r500{
+  background-color:#dd0014;
+}
+table.colors #r600{
+  background-color:#bf0012;
+}
+table.colors #r700{
+  background-color:#9c000d;
+}
+table.colors #r800{
+  background-color:#7d000b;
+}
+table.colors #r900{
+  background-color:#610008;
+}

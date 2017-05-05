@@ -1,0 +1,102 @@
+@import (reference) 'var_mix.less';
+
+
+
+table, td, tr {
+   border-collapse: collapse;
+   font-family: 'Roboto Mono', monospace;
+   font-size: @text-sm;
+}
+
+table.colors{
+	width: 600px;
+	margin: auto;
+	color: #FFF;
+
+	tr{
+		height:40px;
+	}
+	td{
+		border:none;
+		padding: 0px 12px;
+		&:last-of-type{
+			text-align: right;
+		}
+	}
+
+	/* Colors */
+	.ltbg{ color: @navy; }
+
+	/*					GRAY */
+	#g50  { background-color: #F5F9FC; .ltbg; }
+	#g100 { background-color: #EDEEF0; .ltbg; }
+	#g200 { background-color: #DDE6ED; .ltbg; }
+	#g300 { background-color: #D5D7DB; .ltbg; }
+	#g400 { background-color: #BBCCDA; .ltbg; }
+	#g500 { background-color: #9BAAB8; .ltbg; }
+	#g600 { background-color: #79818C; }
+	#g700 { background-color: #5D6574; }
+	#g800 { background-color: #354052; }
+	#g900 { background-color: #151921; }
+
+	/*					BLUE */
+	#b50  { background-color: #D4EEFD; .ltbg; }
+	#b100 { background-color: #B4E0FC; .ltbg; }
+	#b200 { background-color: #8CD1FA; .ltbg; }
+	#b300 { background-color: #5BBFF5; .ltbg; }
+	#b400 { background-color: #00AEEF; }
+	#b500 { background-color: #0098F3; }
+	#b600 { background-color: #008CE0; }
+	#b700 { background-color: #007BC5; }
+	#b800 { background-color: #0068A6; }
+	#b900 { background-color: #00568B; }
+
+	/*					GREEN */
+	#gr50  { background-color: #D0F7CC; .ltbg; }
+	#gr100 { background-color: #B6EEAF; .ltbg; }
+	#gr200 { background-color: #90E085; .ltbg; }
+	#gr300 { background-color: #66D156; .ltbg; }
+	#gr400 { background-color: #40C32D; }
+	#gr500 { background-color: #26B810; }
+	#gr600 { background-color: #23A60F; }
+	#gr700 { background-color: #1D8D0C; }
+	#gr800 { background-color: #18720A; }
+	#gr900 { background-color: #135807; }
+
+	/*					YELLOW */
+	#y50  { background-color: #FFF7DE; .ltbg; }
+	#y100 { background-color: #FFEEBA; .ltbg; }
+	#y200 { background-color: #FFE299; .ltbg; }
+	#y300 { background-color: #FFD670; .ltbg; }
+	#y400 { background-color: #FFC742; .ltbg; }
+	#y500 { background-color: #FFB100; .ltbg; }
+	#y600 { background-color: #F29100; .ltbg; }
+	#y700 { background-color: #E67219; }
+	#y800 { background-color: #CF5900; }
+	#y900 { background-color: #AB4A0E; }
+
+	/*					PURPLE */
+	#p50  { background-color: #FFDEFA; .ltbg; }
+	#p100 { background-color: #F7BFF2; .ltbg; }
+	#p200 { background-color: #EB9FE3; .ltbg; }
+	#p300 { background-color: #DB78D0; .ltbg; }
+	#p400 { background-color: #C24ABD; }
+	#p500 { background-color: #B21DAC; }
+	#p600 { background-color: #9C1596; }
+	#p700 { background-color: #80157B; }
+	#p800 { background-color: #61115E; }
+	#p900 { background-color: #4F0D4C; }
+
+	/*					RED */
+	#r50  { background-color: #FCE1E1; .ltbg; }
+	#r100 { background-color: #FFC9CC; .ltbg; }
+	#r200 { background-color: #FAA7AA; .ltbg; }
+	#r300 { background-color: #FF7D7D; }
+	#r400 { background-color: #FA4F4F; }
+	#r500 { background-color: #DD0014; }
+	#r600 { background-color: #BF0012; }
+	#r700 { background-color: #9C000D; }
+	#r800 { background-color: #7D000B; }
+	#r900 { background-color: #610008; }
+
+}

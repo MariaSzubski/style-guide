@@ -47,7 +47,7 @@ module.exports = function(grunt){
 		},
 		concat: {
 			css: {
-				src: 	['css/build/src/global.css','css/build/src/*.css'],
+				src: 	['css/build/src/global.css','css/build/src/*.css', '!css/build/src/colors.css'],
 				dest:	'css/build/style.css',
 			},
 		},
