@@ -16,16 +16,21 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Option 1: In Navigation Menu</h4>
-					<img src="img/guide/copyright_01.png" alt="Option 1: In Navigation Menu">
+					<h4>Option 1: In Sidenav</h4>
+					<img src="img/guide/p_copyright_01.png" alt="Option 1: In Navigation Menu">
 				</section>
 				<section>
 					<h4>Option 2: In Page Footer</h4>
-					<img src="img/guide/copyright_02.png" alt="Option 2: In Page Footer">
+					<img src="img/guide/p_copyright_02.png" alt="Option 2: In Page Footer">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="p_sidenav_left.php">Sidenav (Left) Pattern</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
-						<dt>In Navigation Menu</dt>
+						<dt>In Sidenav Menu</dt>
 						<dd>[Small Text Typestyle]</dd>
 						<dd>Text: 11px (8pt) #8F9BA8</dd>
 						<dd>Line height: 15px</dd>

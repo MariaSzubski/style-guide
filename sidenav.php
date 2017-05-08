@@ -3,47 +3,41 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Card</title>
+	<title id="title">NX Guidelines - Sidenav (Left)</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Card</h2>
+			<h2 id="pg_header">Sidenav</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Default Card</h4>
-					<img src="img/guide/card_01.png" alt="Default Card">
-				</section>
-				<section>
-					<h4>Locked Card</h4>
-					<img src="img/guide/card_02.png" alt="Locked Card">
+					<h4>Sidenav Drawer</h4>
+					<img src="img/guide/sidenav_01.png" alt="Sidenav Drawer">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_card.php">Card Patterns</a></dd>
-						<dd class="pg_link"><a href="p_panel.php">Panel Patterns</a></dd>
+						<dd class="pg_link"><a href="p_sidenav_left.php">Sidenav (Left) Patterns</a></dd>
+						<dd class="pg_link"><a href="p_sidenav_right.php">Sidenav (Right) Patterns</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Panel</dt>
+						<dt>Layout</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
-						<dd>Angular Shadow: 2dp</dd>
-						<dd>Padding: 24px</dd>
-						<dd>Corner Radius: 5px</dd>
-						<dd>Padding: 16px</dd>
+						<dd>Height: Browser Height</dd>
+						<dd>Width: 350px</dd>
+						<dd>Box Shadow: 2px 0px 3px rgba(0,0,0,.25)</dd>
+						<dd>Angular Shadow: 4dp</dd>
 						<!-- -->
-						<dt>Title</dt>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Line Height: 20px</dd>
-						<dd>Top Margin: 18px</dd>
+						<dt>Menu Icon</dt>
+						<dd>Background: #354052</dd>
+						<dd>Icon Color: #EDEEF0</dd>
+						<dd>Corner Radius: 4px</dd>
 					</dl>
 				</aside>
 			</div>

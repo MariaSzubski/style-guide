@@ -17,20 +17,25 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/panel_01.png" alt="Panel">
+					<img src="img/guide/p_panel_01.png" alt="Panel">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt>Panel</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Border: 1px #BBCCDB</dd>
-						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
-						<dd>Angular Shadow: 2dp</dd>
+						<dd class="note">See Card Component</dd>
+						<dd>Padding: 24px</dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>[Page/Panel Title Typestyle]</dd>
 						<dd>Text: 20px (15pt) #354052</dd>
 						<dd>Case: Capitalize</dd>
+						<dd>Title Bar Height: 41px</dd>
+						<dd>Divider: 1px #BBCCDA</dd>
 					</dl>
 				</aside>
 			</div>

@@ -16,11 +16,11 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>On Page Background</h4>
+					<h4>List With Dividers on Page Background</h4>
 					<img src="img/guide/list_01.png" alt="List On Page Background">
 				</section>
 				<section>
-					<h4>In Panel</h4>
+					<h4>List Without Dividers in Card</h4>
 					<img src="img/guide/list_02.png" alt="List In Panel">
 				</section>
 				<aside>

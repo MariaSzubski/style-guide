@@ -411,6 +411,12 @@
 						</tr>
 					</table>
 				</section>
+				<section class="desc full">
+					<h4>Reporting Palette</h4>
+					<p>
+						See <a href="p_reporting_palette.php">Reporting Palette</a> Pattern
+					</p>
+				</section>
 			</div>
 		</article>
 	</main>

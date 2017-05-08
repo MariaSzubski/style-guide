@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>App Bar</h4>
-					<img src="img/guide/app_bar_01.png" alt="App Bar">
+					<img src="img/guide/p_app_bar_01.png" alt="App Bar">
 				</section>
 				<section>
 					<h4>Icon Selected State</h4>
-					<img src="img/guide/app_bar_02.png" alt="Icon Selected State">
+					<img src="img/guide/p_app_bar_02.png" alt="Icon Selected State">
 				</section>
 				<aside>
 					<dl class="dl_root">

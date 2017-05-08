@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Whiteframe</h2>
+			<h2 id="pg_header">Elevation</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -21,7 +21,7 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-						<dt>Whiteframes</dt>
+						<dt>Elevation</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Usage</dt>

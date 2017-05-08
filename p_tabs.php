@@ -16,26 +16,13 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Primary Tabs</h4>
-					<img src="img/guide/tabs_01.png" alt="Primary Tabs">
-				</section>
-				<section>
-					<h4>Secondary Tabs</h4>
-					<img src="img/guide/tabs_02.png" alt="Secondary Tabs">
-				</section>
-				<section>
-					<h4>Tertiary Tabs</h4>
-					<img src="img/guide/tabs_03.png" alt="Tertiary Tabs">
-				</section>
-				<section>
-					<h4>Tertiary Tabs (Alternate Style)</h4>
-					<img src="img/guide/tabs_04.png" alt="Tertiary Tabs (Alternate Style)">
+					<h4>Tab Levels In Context</h4>
+					<img src="img/guide/p_tabs_01.png" alt="Tab Levels In Context">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_tabs.php">Tab Patterns</a></dd>
-						<dd class="pg_link"><a href="nav_bar.php">Nav Bar Component</a></dd>
+						<dd class="pg_link"><a href="tabs.php">Tab Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

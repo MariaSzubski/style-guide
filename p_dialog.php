@@ -17,12 +17,12 @@
 			<div id="container">
 				<section>
 					<h4</h4>
-					<img src="img/guide/dialog_01.png" alt="Dialogs">
+					<img src="img/guide/p_dialog_01.png" alt="Dialogs Patterns">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_dialog.php">Dialog Patterns</a></dd>
+						<dd class="pg_link"><a href="dialog.php">Dialog Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
@@ -31,7 +31,7 @@
 						<!-- -->
 						<dt>Dialog</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Corner Radius: 5px</dd>
+						<dd>Corner Radius: 4px</dd>
 						<dd>Border: none</dd>
 						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<dd>Angular Shadow: 6dp</dd>

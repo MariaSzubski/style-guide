@@ -17,21 +17,20 @@
 			<div id="container">
 				<section>
 					<h4>List View</h4>
-					<img src="img/guide/sidenav_l_01.png" alt="List View">
+					<img src="img/guide/p_sidenav_l_01.png" alt="List View">
 				</section>
 				<section>
 					<h4>Tree View</h4>
-					<img src="img/guide/sidenav_l_02.png" alt="Tree View">
+					<img src="img/guide/p_sidenav_l_02.png" alt="Tree View">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="sidenav.php">Sidenav Component</a></dd>
+						<dd class="pg_link"><a href="p_copyright.php">Copyright Pattern</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
-						<dt>Layout</dt>
-						<dd>Background: #3E4A5B</dd>
-						<dd>Height: Browser Height</dd>
-						<dd>Width: 350px</dd>
-						<dd>Box Shadow: 2px 0px 3px rgba(0,0,0,.25)</dd>
-						<dd>Angular Shadow: 4dp</dd>
-						<!-- -->
 						<dt>Menu Items</dt>
 						<dd>[Large Text Typestyle]</dd>
 						<dd>Text: 15px (11pt) #FFFFFF</dd>
@@ -66,7 +65,7 @@
 						</dd>
 						<!-- -->
 						<dt>Copyright</dt>
-						<dd class="note">See Copyright Component</dd>
+						<dd class="note">See Copyright Pattern</dd>
 					</dl>
 				</aside>
 			</div>

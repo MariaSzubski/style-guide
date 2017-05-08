@@ -17,11 +17,11 @@
 			<div id="container">
 				<section>
 					<h4>Small Data Grid (For Data Analysis)</h4>
-					<img src="img/guide/grid_01.png" alt="Small Data Grid">
+					<img src="img/guide/p_grid_01.png" alt="Small Data Grid">
 				</section>
 				<section>
 					<h4>Large Data Grid (For Lists)</h4>
-					<img src="img/guide/grid_02.png" alt="Large Data Grid">
+					<img src="img/guide/p_grid_02.png" alt="Large Data Grid">
 				</section>
 				<aside>
 					<dl class="dl_root">

@@ -23,30 +23,24 @@
 			<li class="<?php echo ($current == "checkbox.php" ? "selected" : "")?>"><a href="checkbox.php">Checkbox</a></li>
 			<li class="<?php echo ($current == "chips.php" ? "selected" : "")?>"><a href="chips.php">Chips</a></li>
 			<li class="<?php echo ($current == "colors.php" ? "selected" : "")?>"><a href="colors.php">Colors</a></li>
-			<li class="<?php echo ($current == "content.php" ? "selected" : "")?>"><a href="content.php">Content</a></li>
 			<li class="<?php echo ($current == "date_picker.php" ? "selected" : "")?>"><a href="date_picker.php">Date Picker</a></li>
 			<li class="<?php echo ($current == "dialog.php" ? "selected" : "")?>"><a href="dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "divider.php" ? "selected" : "")?>"><a href="divider.php">Divider</a></li>
-			<li class="<?php echo ($current == "grid_list.php" ? "selected" : "")?>"><a href="grid_list.php">Grid List</a></li>
 			<li class="<?php echo ($current == "icon.php" ? "selected" : "")?>"><a href="icon.php">Icon</a></li>
 			<li class="<?php echo ($current == "input.php" ? "selected" : "")?>"><a href="input.php">Input</a></li>
 			<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
 			<li class="<?php echo ($current == "menu.php" ? "selected" : "")?>"><a href="menu.php">Menu</a></li>
-			<li class="<?php echo ($current == "menu_bar.php" ? "selected" : "")?>"><a href="menu_bar.php">Menu Bar</a></li>
 			<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
-			<li class="<?php echo ($current == "panel.php" ? "selected" : "")?>"><a href="panel.php">Panel</a></li>
 			<li class="<?php echo ($current == "progress_circular.php" ? "selected" : "")?>"><a href="progress_circular.php">Progress Circular</a></li>
 			<li class="<?php echo ($current == "progress_linear.php" ? "selected" : "")?>"><a href="progress_linear.php">Progress Linear</a></li>
 			<li class="<?php echo ($current == "radio_button.php" ? "selected" : "")?>"><a href="radio_button.php">Radio Button</a></li>
 			<li class="<?php echo ($current == "select.php" ? "selected" : "")?>"><a href="select.php">Select</a></li>
-			<li class="<?php echo ($current == "sidenav_left.php" ? "selected" : "")?>"><a href="sidenav_left.php">Sidenav (Left)</a></li>
-			<li class="<?php echo ($current == "sidenav_right.php" ? "selected" : "")?>"><a href="sidenav_right.php">Sidenav (Right)</a></li>
+			<li class="<?php echo ($current == "sidenav.php" ? "selected" : "")?>"><a href="sidenav.php">Sidenav</a></li>
 			<li class="<?php echo ($current == "switch.php" ? "selected" : "")?>"><a href="switch.php">Switch</a></li>
 			<li class="<?php echo ($current == "tabs.php" ? "selected" : "")?>"><a href="tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "toast.php" ? "selected" : "")?>"><a href="toast.php">Toast</a></li>
 			<li class="<?php echo ($current == "toolbar.php" ? "selected" : "")?>"><a href="toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "tooltip.php" ? "selected" : "")?>"><a href="tooltip.php">Tooltip</a></li>
-			<li class="<?php echo ($current == "whiteframe.php" ? "selected" : "")?>"><a href="whiteframe.php">Whiteframe</a></li>
 		</ul>
 	</details>
 	<!-- -->
@@ -56,17 +50,24 @@
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
 			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
+			<li class="<?php echo ($current == "p_content.php" ? "selected" : "")?>"><a href="p_content.php">Content</a></li>
 			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
+			<li class="<?php echo ($current == "p_dialog.php" ? "selected" : "")?>"><a href="p_dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
+			<li class="<?php echo ($current == "p_panel.php" ? "selected" : "")?>"><a href="p_panel.php">Panel</a></li>
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
 			<li class="<?php echo ($current == "p_reporting_palette.php" ? "selected" : "")?>"><a href="p_reporting_palette.php">Reporting Palette</a></li>
+			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
+			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
+			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>
 		</ul>
 	</details>
 	<!-- -->
 	<details open>
-		<summary><span>Typography</span></summary>
+		<summary><span>Reference</span></summary>
 		<ul>
+			<li class="<?php echo ($current == "elevation.php" ? "selected" : "")?>"><a href="elevation.php">Elevation</a></li>
 			<li class="<?php echo ($current == "type_styles.php" ? "selected" : "")?>"><a href="type_styles.php">Type Styles</a></li>
 		</ul>
 	</details>

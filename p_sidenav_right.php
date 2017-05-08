@@ -17,25 +17,23 @@
 			<div id="container">
 				<section>
 					<h4>Basic Sidenav</h4>
-					<img src="img/guide/sidenav_r_01.png" alt="Basic Sidenav (Right)">
+					<img src="img/guide/p_sidenav_r_01.png" alt="Basic Sidenav (Right)">
 				</section>
 				<section>
 					<h4>App Drawer (Grid View)</h4>
-					<img src="img/guide/sidenav_r_02.png" alt="App Drawer (Grid View)">
+					<img src="img/guide/p_sidenav_r_02.png" alt="App Drawer (Grid View)">
 				</section>
 				<section>
 					<h4>App Drawer (Tree View)</h4>
-					<img src="img/guide/sidenav_r_03.png" alt="App Drawer (Tree View)">
+					<img src="img/guide/p_sidenav_r_03.png" alt="App Drawer (Tree View)">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="sidenav.php">Sidenav Component</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
-						<dt>Layout</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Height: Browser Height</dd>
-						<dd>Border: 1px #BBCCDB</dd>
-						<dd>Box Shadow: -2px 0px 3px rgba(0,0,0,.25)</dd>
-						<dd>Angular Shadow: 4dp</dd>
-						<!-- -->
 						<dt>Title</dt>
 						<dd>[Overlay Title Typestyle]</dd>
 						<dd>Text: 20px (15pt) #354052</dd>

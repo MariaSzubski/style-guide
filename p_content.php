@@ -17,7 +17,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/content_01.png" alt="Content">
+					<img src="img/guide/p_content_01.png" alt="Content">
 				</section>
 				<aside>
 					<dl class="dl_root">
