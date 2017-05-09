@@ -448,6 +448,10 @@ article.iframe{
 article .full{
   width:100%;
 }
+article .full img{
+  width:auto;
+  max-width:100%;
+}
 article .guide_link img{
   display:inline;
   vertical-align:middle;

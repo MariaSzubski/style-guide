@@ -17,9 +17,9 @@
 			<div id="container">
 				<section class="desc full">
 					<p class="guide_link">
-						<a href="img/guide/nx_v8-0_example_single-panel.png" target="_blank"><img src="img/new_tab.svg" alt="New Tab">Open Screenshot In New Tab</a>
+						<a href="img/guide/nx_v8_example_single-panel.png" target="_blank"><img src="img/new_tab.svg" alt="New Tab">Open Screenshot In New Tab</a>
 					</p>
-					<img src="img/guide/nx_v8-0_example_single-panel.png" alt="">
+					<img src="img/guide/nx_v8_example_single-panel.png" alt="">
 				</section>
 			</div>
 		</article>

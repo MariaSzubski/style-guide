@@ -9,24 +9,20 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Toolbar</h2>
+			<h2 id="pg_header">Toolbar Pattens</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Floating Toolbar</h4>
-					<img src="img/guide/toolbar_01.png" alt="Floating Toolbar">
-				</section>
-				<section>
-					<h4>Toolbar In Card Container</h4>
-					<img src="img/guide/toolbar_02.png" alt="Toolbar In Card Container">
+					<h4></h4>
+					<img src="img/guide/p_toolbar_01.png" alt="Toolbar Patterns">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_toolbar.php">Toolbar Patterns</a></dd>
+						<dd class="pg_link"><a href="toolbar.php">Toolbar Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
