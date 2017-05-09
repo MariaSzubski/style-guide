@@ -79,8 +79,11 @@
 								<dd>Disabled: #D5D7DB</dd>
 								<!-- -->
 								<dt>Tertiary</dt>
-								<dd>Text &amp; Border: #9BAAB8</dd>
+								<dd>Static Text: #9BAAB8</dd>
+								<dd>Border: #9BAAB8</dd>
+								<dd>Hover Text:	#79818C</dd>
 								<dd>Hover BG: #EDEEF0</dd>
+								<dd>Selected Text: #79818C</dd>
 								<dd>Selected BG: #D5D7DB</dd>
 								<dd>Disabled Text &amp; Border: #D5D7DB</dd>
 							</dl>

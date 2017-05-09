@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Toolbar</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Toolbar</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
@@ -16,7 +16,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					<h4>Examples of Toolbar Content</h4>
 					<img src="img/guide/p_toolbar_01.png" alt="Toolbar Patterns">
 				</section>
 				<aside>
@@ -26,23 +26,10 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Content Toolbars</dt>
-						<!-- -->
-						<dd>
-							<dl class="sub">
-								<dt>Background Colors</dt>
-								<dd>White: #FFFFFF</dd>
-								<dd>Optional Background: #F5F9FC</dd>
-								<!-- -->
-								<dt>Text Buttons</dt>
-								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #354052</dd>
-								<dd>Weight: 600</dd>
-								<!-- -->
-								<dt>Buttons with Dark Background</dt>
-								<dd class="note">See Button component for recommendations.</dd>
-							</dl>
-						</dd>
+						<dt>Styles</dt>
+						<dd>Group Divider: 1px #BBCCDD</dd>
+						<dd>Highlighted Background: #DDE6ED</dd>
+						<dd>Select Arrow: select.svg</dd>
 					</dl>
 				</aside>
 			</div>

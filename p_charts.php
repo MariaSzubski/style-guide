@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Charts</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Charts</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Charts</h2>
+			<h2 id="pg_header">Chart Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -38,7 +38,7 @@
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_reporting_palette.php">Reporting Palette</a></dd>
+						<dd class="pg_link"><a href="reporting_palette.php">Reporting Palette</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

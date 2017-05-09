@@ -31,6 +31,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border-Top: 1px #DDE6ED</dd>
 						<dd>Tab Alignment: Center</dd>
+						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>

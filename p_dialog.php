@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Dialog</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Dialog</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Dialog</h2>
+			<h2 id="pg_header">Dialog Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -23,7 +23,7 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="dialog.php">Dialog Component</a></dd>
-						<dd class="pg_link"><a href="button.php">Button Component</a></dd>
+						<dd class="pg_link"><a href="button_raised.php">Button Component</a></dd>
 						<dd class="pg_link"><a href="tabs.php">Tabs Component</a></dd>
 					</dl>
 					<!-- -->

@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Panel</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Panel</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Panel</h2>
+			<h2 id="pg_header">Panel Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -31,7 +31,6 @@
 						<dd>Padding: 24px</dd>
 						<!-- -->
 						<dt>Title</dt>
-						<dd>[Page/Panel Title Typestyle]</dd>
 						<dd>Text: 20px (15pt) #354052</dd>
 						<dd>Case: Capitalize</dd>
 						<dd>Title Bar Height: 42px</dd>

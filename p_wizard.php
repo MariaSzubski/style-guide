@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Wizard</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Wizard</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Wizard</h2>
+			<h2 id="pg_header">Wizard Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -21,26 +21,27 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-						<dt>Wizard Breadcrumbs</dt>
-						<dd>[Labels Typestyle]</dd>
+						<dt>Wizard Tabs</dt>
 						<dd>Text: 12px (9pt)</dd>
 						<dd>Case: Uppercase</dd>
 						<dd>Weight: 600</dd>
 						<dd>Alignment: Centered</dd>
-						<dd>Borders: 1px #BACBDA</dd>
+						<dd>Borders: 1px #BBCCDD</dd>
+						<dd>Height: 42px</dd>
 						<!-- -->
+						<dt>States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Completed Tab</dt>
+								<dt>Completed</dt>
 								<dd>Text Color: #0098F3</dd>
 								<dd>Background: #FFFFFF</dd>
 								<!-- -->
-								<dt>Active Tab</dt>
+								<dt>Active</dt>
 								<dd>Text Color: #354052</dd>
-								<dd>Background: #DCE5EC</dd>
+								<dd>Background: #DDE6ED</dd>
 								<!-- -->
-								<dt>Future Tab</dt>
-								<dd>Text Color: #D4D6DA</dd>
+								<dt>Future</dt>
+								<dd>Text Color: #D5D7DB</dd>
 								<dd>Background: #FFFFFF</dd>
 							</dl>
 						</dd>

@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Nielsen Experience<br/>UI Guidelines</h1>
-		<h3>V8.1 &ndash; Updated May 9, 2017</h3>
+		<h3>V8.1 &ndash; Updated May 10, 2017</h3>
 	</header>
 
 	<details open>
@@ -15,6 +15,16 @@
 	</details>
 	<!-- -->
 	<details open>
+		<summary><span>Reference</span></summary>
+		<ul>
+			<li class="<?php echo ($current == "colors.php" ? "selected" : "")?>"><a href="colors.php">Colors</a></li>
+			<li class="<?php echo ($current == "reporting_palette.php" ? "selected" : "")?>"><a href="reporting_palette.php">Reporting Palette</a></li>
+			<li class="<?php echo ($current == "type_styles.php" ? "selected" : "")?>"><a href="type_styles.php">Type Styles</a></li>
+			<li class="<?php echo ($current == "whiteframe.php" ? "selected" : "")?>"><a href="whiteframe.php">Whiteframe</a></li>
+		</ul>
+	</details>
+	<!-- -->
+	<details open>
 		<summary><span>Components</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "button_raised.php" ? "selected" : "")?>"><a href="button_raised.php">Button (Raised)</a></li>
@@ -22,7 +32,6 @@
 			<li class="<?php echo ($current == "card.php" ? "selected" : "")?>"><a href="card.php">Card</a></li>
 			<li class="<?php echo ($current == "checkbox.php" ? "selected" : "")?>"><a href="checkbox.php">Checkbox</a></li>
 			<li class="<?php echo ($current == "chips.php" ? "selected" : "")?>"><a href="chips.php">Chips</a></li>
-			<li class="<?php echo ($current == "colors.php" ? "selected" : "")?>"><a href="colors.php">Colors</a></li>
 			<li class="<?php echo ($current == "date_picker.php" ? "selected" : "")?>"><a href="date_picker.php">Date Picker</a></li>
 			<li class="<?php echo ($current == "dialog.php" ? "selected" : "")?>"><a href="dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "divider.php" ? "selected" : "")?>"><a href="divider.php">Divider</a></li>
@@ -55,23 +64,14 @@
 			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
 			<li class="<?php echo ($current == "p_dialog.php" ? "selected" : "")?>"><a href="p_dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
-			<li class="<?php echo ($current == "p_panel.php" ? "selected" : "")?>"><a href="p_panel.php">Panel</a></li>
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
-			<li class="<?php echo ($current == "p_reporting_palette.php" ? "selected" : "")?>"><a href="p_reporting_palette.php">Reporting Palette</a></li>
+			<li class="<?php echo ($current == "p_panel.php" ? "selected" : "")?>"><a href="p_panel.php">Panel</a></li>
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
 			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "p_toolbar.php" ? "selected" : "")?>"><a href="p_toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "p_tooltip.php" ? "selected" : "")?>"><a href="p_tooltip.php">Tooltip</a></li>
 			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>
-		</ul>
-	</details>
-	<!-- -->
-	<details open>
-		<summary><span>Reference</span></summary>
-		<ul>
-			<li class="<?php echo ($current == "elevation.php" ? "selected" : "")?>"><a href="elevation.php">Elevation</a></li>
-			<li class="<?php echo ($current == "type_styles.php" ? "selected" : "")?>"><a href="type_styles.php">Type Styles</a></li>
 		</ul>
 	</details>
 	<!-- -->

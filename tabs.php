@@ -27,10 +27,6 @@
 					<h4>Tertiary Tabs</h4>
 					<img src="img/guide/tabs_03.png" alt="Tertiary Tabs">
 				</section>
-				<section>
-					<h4>Tertiary Tabs (Alternate Style)</h4>
-					<img src="img/guide/tabs_04.png" alt="Tertiary Tabs (Alternate Style)">
-				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
@@ -97,8 +93,10 @@
 								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
 								<dt>Select State</dt>
-								<dd>Text &amp; Border Color: #151921</dd>
-								<dd>Border-Bottom: 2px</dd>
+								<dd>Text Color: #151921</dd>
+								<dd>Background: #F5F9FC</dd>
+								<dd>Border: 2px #BBCCDD</dd>
+								<dd>Box Height: 24px</dd>
 							</dl>
 						</dd>
 					</dl>

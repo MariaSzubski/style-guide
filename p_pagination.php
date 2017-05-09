@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Pagination</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Pagination</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Pagination</h2>
+			<h2 id="pg_header">Pagination Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -21,7 +21,6 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-
 						<dt>Numbers</dt>
 						<dd>
 							<dl class="sub">
@@ -34,6 +33,8 @@
 								<dd>Alignment: Centered</dd>
 								<dd>Background: #354052</dd>
 								<dd>Corner Radius: 4px</dd>
+								<dd>Padding: 16px</dd>
+								<dd>Height: 28px</dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -41,12 +42,13 @@
 						<dd>
 							<dl class="sub">
 								<dt>Label</dt>
-								<dd>Text: 12px (9pt) #989EA7</dd>
+								<dd>Text: 12px (9pt) #9BAAB8</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Field</dt>
-								<dd>Border: 1px #A7AEB2</dd>
-								<dd>Text Color: #0098F3</dd>
+								<dd>Border: 1px #9BAAB8</dd>
+								<dd>Text Color: #151921</dd>
+								<dd>Height: 28px</dd>
 							</dl>
 						</dd>
 

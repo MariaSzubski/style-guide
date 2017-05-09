@@ -15,17 +15,16 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-			<section class="desc full">
-				<h4>Downloads</h4>
-				<p class="guide_link">
-					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDRWx0SXZNcVFaV3c"><img src="img/download.svg" alt="Download">Common Action Icons (zip)</a>
-					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDWXJGeVQyZE0zLVU"><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
-				</p>
-			</section>
-			<section class="full">
-				<h4></h4>
-				<img src="img/guide/i_common-actions.png" alt="Iconography - Common Actions">
-			</section>
+				<section class="desc full">
+					<h4>Download</h4>
+					<p class="guide_link">
+						<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDWXJGeVQyZE0zLVU"><img src="img/download.svg" alt="Download">NX Icon Library (zip)</a>
+					</p>
+				</section>
+				<section class="full">
+					<h4></h4>
+					<img src="img/guide/i_common-actions.png" alt="Iconography - Common Actions">
+				</section>
 			</div>
 		</article>
 	</main>

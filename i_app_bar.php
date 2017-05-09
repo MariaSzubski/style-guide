@@ -16,10 +16,9 @@
 		<article id="guidelines">
 			<div id="container">
 			<section class="desc full">
-				<h4>Downloads</h4>
+				<h4>Download</h4>
 				<p class="guide_link">
-					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDRm53WEoybHIxQTg"><img src="img/download.svg" alt="Download">App Bar Icons (zip)</a>
-					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDWXJGeVQyZE0zLVU"><img src="img/download.svg" alt="Download">All Nielsen Icons (zip)</a>
+					<a href="https://drive.google.com/open?id=0B4FYNrkqg7oDWXJGeVQyZE0zLVU"><img src="img/download.svg" alt="Download">NX Icon Library (zip)</a>
 				</p>
 			</section>
 				<section class="full">

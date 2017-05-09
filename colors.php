@@ -213,72 +213,6 @@
 						</tr>
 					</table>
 				</section>
-				<!--					YELLOW -->
-				<section class="full">
-					<h4>Yellow (Accent Color)</h4>
-					<table class="colors">
-						<tr id="y50">
-							<td>50</td>
-							<td>#FFF7DE</td>
-							<td>rgb(255,247,222)</td>
-							<td></td>
-						</tr>
-						<tr id="y100">
-							<td>100</td>
-							<td>#FFEEBA</td>
-							<td>rgb(255,238,186)</td>
-							<td></td>
-						</tr>
-						<tr id="y200">
-							<td>200</td>
-							<td>#FFE299</td>
-							<td>rgb(255,226,153)</td>
-							<td></td>
-						</tr>
-						<tr id="y300">
-							<td>300</td>
-							<td>#FFD670</td>
-							<td>rgb(255,214,112)</td>
-							<td></td>
-						</tr>
-						<tr id="y400">
-							<td>400</td>
-							<td>#FFC742</td>
-							<td>rgb(255,199,66)</td>
-							<td></td>
-						</tr>
-						<tr id="y500">
-							<td>500</td>
-							<td>#FFB100</td>
-							<td>rgb(255,177,0)</td>
-							<td>Nielsen Gold</td>
-						</tr>
-						<tr id="y600">
-							<td>600</td>
-							<td>#F29100</td>
-							<td>rgb(242,145,0)</td>
-							<td></td>
-						</tr>
-						<tr id="y700">
-							<td>700</td>
-							<td>#E67219</td>
-							<td>rgb(230,114,25)</td>
-							<td></td>
-						</tr>
-						<tr id="y800">
-							<td>800</td>
-							<td>#CF5900</td>
-							<td>rgb(207,89,0)</td>
-							<td></td>
-						</tr>
-						<tr id="y900">
-							<td>900</td>
-							<td>#AB4A0E</td>
-							<td>rgb(171,74,14)</td>
-							<td></td>
-						</tr>
-					</table>
-				</section>
 				<!--					PURPLE -->
 				<section class="full">
 					<h4>Purple (Accent Color)</h4>
@@ -345,9 +279,75 @@
 						</tr>
 					</table>
 				</section>
+				<!--					YELLOW -->
+				<section class="full">
+					<h4>Yellow (Alert Color)</h4>
+					<table class="colors">
+						<tr id="y50">
+							<td>50</td>
+							<td>#FFF7DE</td>
+							<td>rgb(255,247,222)</td>
+							<td></td>
+						</tr>
+						<tr id="y100">
+							<td>100</td>
+							<td>#FFEEBA</td>
+							<td>rgb(255,238,186)</td>
+							<td></td>
+						</tr>
+						<tr id="y200">
+							<td>200</td>
+							<td>#FFE299</td>
+							<td>rgb(255,226,153)</td>
+							<td></td>
+						</tr>
+						<tr id="y300">
+							<td>300</td>
+							<td>#FFD670</td>
+							<td>rgb(255,214,112)</td>
+							<td></td>
+						</tr>
+						<tr id="y400">
+							<td>400</td>
+							<td>#FFC742</td>
+							<td>rgb(255,199,66)</td>
+							<td></td>
+						</tr>
+						<tr id="y500">
+							<td>500</td>
+							<td>#FFB100</td>
+							<td>rgb(255,177,0)</td>
+							<td>Nielsen Gold</td>
+						</tr>
+						<tr id="y600">
+							<td>600</td>
+							<td>#F29100</td>
+							<td>rgb(242,145,0)</td>
+							<td></td>
+						</tr>
+						<tr id="y700">
+							<td>700</td>
+							<td>#E67219</td>
+							<td>rgb(230,114,25)</td>
+							<td></td>
+						</tr>
+						<tr id="y800">
+							<td>800</td>
+							<td>#CF5900</td>
+							<td>rgb(207,89,0)</td>
+							<td></td>
+						</tr>
+						<tr id="y900">
+							<td>900</td>
+							<td>#AB4A0E</td>
+							<td>rgb(171,74,14)</td>
+							<td></td>
+						</tr>
+					</table>
+				</section>
 				<!--					REDS -->
 				<section class="full">
-					<h4>Red (Warning)</h4>
+					<h4>Red (Error Color)</h4>
 					<table class="colors">
 						<tr id="r50">
 							<td>50</td>
@@ -414,7 +414,7 @@
 				<section class="desc full">
 					<h4>Reporting Palette</h4>
 					<p>
-						See <a href="p_reporting_palette.php">Reporting Palette</a> Pattern
+						See <a href="reporting_palette.php">Reporting Palette</a> Pattern
 					</p>
 				</section>
 			</div>

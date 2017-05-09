@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Grid</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Grid</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Grid</h2>
+			<h2 id="pg_header">Grid Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -25,21 +25,33 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-						<dt>Cell Styles</dt>
-						<dd>Selected Row (Yellow): #FFF9B8</dd>
-						<dd>Hover Row (Blue): #D4EEFD</dd>
+						<dt>Grid Styles</dt>
+						<dd>Background Color: #FFFFFF</dd>
 						<dd>Alt Row Shading: #F5F9FC</dd>
 						<dd>Dividers: 1px #DDE6ED</dd>
 						<dd>Header Divider: 1px #BBCCDD</dd>
 						<!-- -->
+						<dt>Row States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Hover</dt>
+								<dd>Background: #D4EEFD</dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Border-Bottom: 2px #354052</dd>
+								<dd>Background: #EDEEF0</dd>
+								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
+							</dl>
+						</dd>
+						<!-- -->
 						<dt>Small Grid</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Text</dt>
-								<dd>[Body Text Typestyle]</dd>
+								<dt>Content</dt>
 								<dd>Header: 13px (10pt) #151921</dd>
 								<dd>Header Weight: 700</dd>
 								<dd>Data: 13px (10pt) #151921</dd>
+								<dd>Row Height: 28px</dd>
 								<!-- -->
 								<dt>Alignment</dt>
 								<dd>Descriptive Columns: Top Left</dd>
@@ -55,11 +67,11 @@
 						<dt>Large Grid</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Text</dt>
-								<dd>[Large Text Typestyle]</dd>
+								<dt>Content</dt>
 								<dd>Header: 15px (11pt) #151921</dd>
 								<dd>Header Weight: 700</dd>
 								<dd>Data: 15px (11pt) #151921</dd>
+								<dd>Row Height: 48px</dd>
 								<!-- -->
 								<dt>Alignment</dt>
 								<dd>Descriptive Column: Top Left</dd>

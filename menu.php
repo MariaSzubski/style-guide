@@ -56,6 +56,7 @@
 								<dt>Selected</dt>
 								<dd>Background: #EDEEF0</dd>
 								<dd>Border-Bottom: 2px #354052</dd>
+								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
 							</dl>
 						</dd>
 					</dl>

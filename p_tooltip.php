@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Tooltip</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Tooltip</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
@@ -23,7 +23,7 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="tooltip.php">Tooltip Component</a></dd>
-						<dd class="pg_link"><a href="p_reporting_palette.php">Reporting Palette</a></dd>
+						<dd class="pg_link"><a href="reporting_palette.php">Reporting Palette</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Sidenav (Left)</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Sidenav (Left)</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Sidenav (Left)</h2>
+			<h2 id="pg_header">Sidenav (Left) Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -32,7 +32,6 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Menu Items</dt>
-						<dd>[Large Text Typestyle]</dd>
 						<dd>Text: 15px (11pt) #FFFFFF</dd>
 						<dd>Case: Capitalize</dd>
 						<!-- -->

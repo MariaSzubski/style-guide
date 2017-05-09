@@ -73,16 +73,16 @@
 								<dd>Disabled: #B6EEAF</dd>
 								<!-- -->
 								<dt>Secondary</dt>
-								<dd>Static: #79818C</dd>
-								<dd>Hover: #5D6574</dd>
-								<dd>Selected Text: #5D6574</dd>
+								<dd>Static: #5D6574</dd>
+								<dd>Hover: #151921</dd>
+								<dd>Selected Text: #151921</dd>
 								<dd>Selected BG: #D5D7DB</dd>
 								<dd>Disabled: #D5D7DB</dd>
 								<!-- -->
 								<dt>Tertiary</dt>
 								<dd>Static: #9BAAB8</dd>
-								<dd>Hover: #9BAAB8</dd>
-								<dd>Selected Text: #9BAAB8</dd>
+								<dd>Hover: #79818C</dd>
+								<dd>Selected Text: 	#79818C</dd>
 								<dd>Selected BG: #EDEEF0</dd>
 								<dd>Disabled: #D5D7DB</dd>
 							</dl>
