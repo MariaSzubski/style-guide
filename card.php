@@ -33,10 +33,9 @@
 					<dl class="dl_root">
 						<dt>Panel</dt>
 						<dd>Background: #FFFFFF</dd>
+						<dd>Locked Background: #F5F9FC</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 						<dd>Angular Shadow: 2dp</dd>
-						<dd>Padding: 24px</dd>
-						<dd>Corner Radius: 5px</dd>
 						<dd>Padding: 16px</dd>
 						<!-- -->
 						<dt>Title</dt>

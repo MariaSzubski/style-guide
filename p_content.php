@@ -20,21 +20,26 @@
 					<img src="img/guide/p_content_01.png" alt="Content">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="type_styles.php">Type Styles</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt>Type Styles</dt>
-						<dd>Font Family: Open Sans</dd>
-						<dd>Recommended: 13 words per line</dd>
-						<!-- -->
 						<dd>
 							<dl class="sub">
+								<dt>Font Family</dt>
+								<dd>Open Sans</dd>
+								<!-- -->
 								<dt>Panel Title</dt>
 								<dd>Text: 20px (15pt) #354052</dd>
 								<dd>Weight: 400</dd>
-								<dd>Case: capitalize</dd>
+								<dd>Case: Capitalize</dd>
 								<!-- -->
 								<dt>Body Text</dt>
 								<dd>Text: 13px (10pt) #151921</dd>
-								<dd>Weight: 400, 600, 700</dd>
+								<dd>Weight Options: 400, 600, 700</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Paragraph Spacing: 13px</dd>
 								<!-- -->

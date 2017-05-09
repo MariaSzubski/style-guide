@@ -31,13 +31,20 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Date Picker</dt>
-						<dd class="note">See Input component for style recommendations</dd>
+						<dd class="note">Uses standard Input Component</dd>
 						<!-- -->
-						<dt>Calendar</dt>
-						<dd class="note">Use default framework calendar</dd>
-						<dd>Weekday Background: #DDE6ED</dd>
-						<dd>Hover State: #D4EEFD</dd>
-						<dd>Selected State: #354042</dd>
+						<dt>Opened Date Picker</dt>
+						<dd>Text Color: #151921</dd>
+						<dd>Weekday BG: #DDE6ED</dd>
+						<dd>Hover BG: #D4EEFD</dd>
+						<dd>Selected Text: #354042</dd>
+						<dd>Selected BG: #EDEEF0</dd>
+						<dd>
+							<dl class="sub">
+								<dt>&nbsp;</dt>
+								<dd class="note">Use default framework calendar when possible.</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

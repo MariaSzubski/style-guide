@@ -45,8 +45,8 @@
 						</tr>
 						<tr id="g400">
 							<td>400</td>
-							<td>#BBCCDA</td>
-							<td>rgb(187,204,218)</td>
+							<td>#BBCCDD</td>
+							<td>rgb(187,204,221)</td>
 							<td>Primary Dividers</td>
 						</tr>
 						<tr id="g500">

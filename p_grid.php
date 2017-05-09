@@ -30,7 +30,7 @@
 						<dd>Hover Row (Blue): #D4EEFD</dd>
 						<dd>Alt Row Shading: #F5F9FC</dd>
 						<dd>Dividers: 1px #DDE6ED</dd>
-						<dd>Header Divider: 1px #BBCCDB</dd>
+						<dd>Header Divider: 1px #BBCCDD</dd>
 						<!-- -->
 						<dt>Small Grid</dt>
 						<dd>

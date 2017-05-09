@@ -30,39 +30,46 @@
 						<dd>Notification: Bottom Right</dd>
 						<!-- -->
 						<dt>Simple Toast</dt>
-						<dd>Text: 15px (11pt) #354052</dd>
-						<dd>Text Align: Centered</dd>
+						<dd>Height: 44px</dd>
+						<dd>Minimum Width: 170px</dd>
 						<dd>Corner Radius: 4px</dd>
+						<dd>Text: 15px (11pt)</dd>
 						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
 						<dd>Angular Shadow: 6dp</dd>
 						<!-- -->
+						<dt>States</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Green (Positive)</dt>
-								<dd>Background: #BCE7C9</dd>
-								<dd>Icon Background: #E3F5E9</dd>
-								<dd>Border: 1px #00BC65</dd>
+								<dd>Text Color: #1D8D0C</dd>
+								<dd>Background: #B6EEAF</dd>
+								<dd>Icon Background: #D0F7CC</dd>
+								<dd>Border: 1px #23A60F</dd>
 								<!-- -->
 								<dt>Yellow (Warning)</dt>
-								<dd>Background: #FFE1B1</dd>
-								<dd>Icon Background: #FFF3E0</dd>
-								<dd>Border: 1px #FFA900</dd>
+								<dd>Text Color: #E67219</dd>
+								<dd>Background: #FFEEBA</dd>
+								<dd>Icon Background: #FFF7DE</dd>
+								<dd>Border: 1px #F29100</dd>
 								<!-- -->
 								<dt>Red (Error)</dt>
-								<dd>Background: #FFCED3</dd>
-								<dd>Icon Background: #FFECEF</dd>
-								<dd>Border: 1px #FF7474</dd>
+								<dd>Text Color: #DD0014</dd>
+								<dd>Background: #FFC9CC</dd>
+								<dd>Icon Background: #FCE1E1</dd>
+								<dd>Border: 1px #FA4F4F</dd>
 							</dl>
 						</dd>
 						<!-- -->
 						<dt>Notification</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Border: 1px #BBCCDB</dd>
-						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
-						<dd>Angular Shadow: 6dp</dd>
-						<!-- -->
 						<dd>
 							<dl class="sub">
+								<dt>Container</dt>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Padding: 16px</dd>
+								<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
+								<dd>Angular Shadow: 6dp</dd>
+								<dd>Margin Between Notifications: 10px</dd>
+								<!-- -->
 								<dt>Header</dt>
 								<dd>Text: 15px (11pt) #354052</dd>
 								<dd>Weight: 600</dd>

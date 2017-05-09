@@ -34,8 +34,8 @@
 						<dd>[Page/Panel Title Typestyle]</dd>
 						<dd>Text: 20px (15pt) #354052</dd>
 						<dd>Case: Capitalize</dd>
-						<dd>Title Bar Height: 41px</dd>
-						<dd>Divider: 1px #BBCCDA</dd>
+						<dd>Title Bar Height: 42px</dd>
+						<dd>Divider: 1px #BBCCDD</dd>
 					</dl>
 				</aside>
 			</div>

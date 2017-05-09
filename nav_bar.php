@@ -19,30 +19,34 @@
 					<h4>Nav Bar</h4>
 					<img src="img/guide/nav_bar_01.png" alt="Navigation Bar">
 				</section>
-				<section class="desc">
-					<h4>Static Tabs</h4>
-					<p>
-						See <a href="tabs.php">Tabs</a> Component
-					</p>
-				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="tabs.php">Tab Component</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt>Nav Bar</dt>
+						<dd>Height: 42px</dd>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Bottom: 1px #DDE6ED</dd>
+						<dd>Border-Top: 1px #DDE6ED</dd>
 						<dd>Tab Alignment: Center</dd>
 						<!-- -->
+						<dt>States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Unselected Tab</dt>
-								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #0098F3</dd>
-								<dd>Text Align: Center</dd>
+								<dt>All Tabs</dt>
+								<dd>Text: 15px (11pt)</dd>
+								<dd>Case: Capitalize</dd>
+								<dd>Padding: 12px
+								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
-								<dt>Selected Tab</dt>
-								<dd>Text: 15px (11pt) #151921</dd>
+								<dt>Unselected</dt>
+								<dd>Text Color: #0098F3</dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Text Color: #151921</dd>
 								<dd>Border-Bottom: 2px #151921</dd>
-								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>
 					</dl>

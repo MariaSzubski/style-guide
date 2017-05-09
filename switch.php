@@ -21,60 +21,38 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-						<dt>Material Design Switch</dt>
-						<dd>Blue: #00AEEF</dd>
-						<dd>Green: #26B910</dd>
-						<dd>Navy: #354052</dd>
-						<!-- -->
-						<dt>Grouped Actions (Large)</dt>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Corner Radius: 4px</dd>
+						<dt>Switch States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Selected State</dt>
-								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #0098F3</dd>
+								<dt>Off</dt>
+								<dd>Thumb: #FFFFFF</dd>
+								<dd>Track: #DDE6ED</dd>
 								<!-- -->
-								<dt>Hover State</dt>
-								<dd>Text Color: #0098F3</dd>
-								<dd>Border: 1px #0098F3</dd>
-								<dd>Background: #D4EEFD</dd>
+								<dt>Off, Disabled</dt>
+								<dd>Thumb: #D5D7DB</dd>
+								<dd>Track: #EDEEF0</dd>
 								<!-- -->
-								<dt>Unselected State</dt>
-								<dd>Text Color: #0098F3</dd>
-								<dd>Border: 1px #0098F3</dd>
-								<dd>Background: #FFFFFF</dd>
+								<dt>On</dt>
+								<dd>Thumb: #26B810</dd>
+								<dd>Track: #B6EEAF</dd>
+								<!-- -->
+								<dt>Invalid</dt>
+								<dd>Thumb: 	#DD0014</dd>
+								<dd>Track: #FFC9CC</dd>
+								<!-- -->
+								<dt>Accent (Blue)</dt>
+								<dd>Thumb: #0098F3</dd>
+								<dd>Track: #B4E0FC</dd>
+								<!-- -->
+								<dt>Accent (Purple)</dt>
+								<dd>Thumb: #B21DAC</dd>
+								<dd>Track: #F7BFF2</dd>
+								<!-- -->
+								<dt>On, Disabled</dt>
+								<dd>Thumb: #D5D7DB</dd>
+								<dd>Track: #EDEEF0</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt>Grouped Toolbar (Small)</dt>
-						<dd>Text: 13px (10pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>
-							<dl class="sub">
-								<dt>Selected State</dt>
-								<dd>Text Color: #EDEEF0</dd>
-								<dd>Background: #354052</dd>
-								<!-- -->
-								<dt>Hover State</dt>
-								<dd>Text Color: #354052</dd>
-								<dd>Border: 1px #354052</dd>
-								<dd>Background: #DDE6ED</dd>
-								<!-- -->
-								<dt>Unselected State</dt>
-								<dd>Text Color: #354052</dd>
-								<dd>Border: 1px #354052</dd>
-								<dd>Background: #FFFFFF</dd>
-							</dl>
-						</dd>
-
-
-
-
 					</dl>
 				</aside>
 			</div>

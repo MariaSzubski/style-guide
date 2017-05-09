@@ -32,8 +32,9 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Input Select</dt>
-						<dd class="note">See Input component</dd>
-						<dd>Row Height: 36px</dd>
+						<dd class="note">Uses standard Input Component</dd>
+						<dd>Selector Icon: select.svg</dd>
+						<dd>Icon Color: #9BAAB8</dd>
 						<!-- -->
 						<dt>Toolbar Select</dt>
 						<dd>
@@ -41,24 +42,25 @@
 								<dt>Selector</dt>
 								<dd>Text: 13px (9pt) #354052</dd>
 								<dd>Font Weight: 600</dd>
+								<dd>Selector Icon: select.svg</dd>
+								<dd>Icon Color: #151921</dd>
 								<!-- -->
 								<dt>Menu</dt>
-								<dd>Border: 1px #A8AFB3</dd>
-								<dd>Row Height: 48px</dd>
-								<dd>Corner Radius: 4px</dd>
-								<dd>Section Divider: 1px #DDE6ED</dd>
-								<dd>Text: 13px (9pt) #354052</dd>
-								<dd>Font Weight: 400</dd>
+								<dd>Uses standard Menu Component</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Menu Item States</dt>
-						<dd>Hover Background: #D4EEFD</dd>
-						<dd>Selected Background: #354052</dd>
-						<dd>Selected Content: #EDEEF0</dd>
-						<!-- -->
-						<dt>Icons</dt>
-						<dd class="note">Menu item icons are optional.</dd>
+						<dt>States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Hover</dt>
+								<dd>Background: #D4EEFD</dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Background: #EDEEF0</dd>
+								<dd>Border-Bottom: 2px #354052</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

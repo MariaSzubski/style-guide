@@ -50,6 +50,7 @@
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
 			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
+			<li class="<?php echo ($current == "p_chips.php" ? "selected" : "")?>"><a href="p_chips.php">Chips</a></li>
 			<li class="<?php echo ($current == "p_content.php" ? "selected" : "")?>"><a href="p_content.php">Content</a></li>
 			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
 			<li class="<?php echo ($current == "p_dialog.php" ? "selected" : "")?>"><a href="p_dialog.php">Dialog</a></li>
@@ -61,6 +62,7 @@
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
 			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "p_toolbar.php" ? "selected" : "")?>"><a href="p_toolbar.php">Toolbar</a></li>
+			<li class="<?php echo ($current == "p_tooltip.php" ? "selected" : "")?>"><a href="p_tooltip.php">Tooltip</a></li>
 			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>
 		</ul>
 	</details>

@@ -27,51 +27,45 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
+						<dd class="pg_link"><a href="chip.php">Chip Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
+						<dt>Measurements</dt>
+						<dd>Margin: 12px</dd>
 						<!-- -->
-						<dt>Card</dt>
-						<dd>Dividers: 1px #DCE5EC</dd>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Corner Radius: 5px</dd>
-						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,.45)</dd>
-						<dd>Angular Shadow: 2dp</dd>
-						<!-- -->
+						<dt>Content</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Primary Actions</dt>
-								<dd>Divider: 1px #BBCCDB</dd>
-								<dd>Background: #F5F9FC</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Type Styles</dt>
-						<dd>
-							<dl class="sub">
+								<dt>Dividers</dt>
+								<dd>Primary: 1px #BBCCDD</dd>
+								<dd>Secondary: 1px #DDE6ED</dd>
+								<!-- -->
 								<dt>Title</dt>
-								<dd>[Page/Panel Typestyle]</dd>
-								<dd>Text: 20px (15pt) #0098F3</dd>
-								<dd>Line Height: 25px</dd>
+								<dd>Text: 15px (11pt)</dd>
 								<dd>Weight: 600</dd>
+								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Subheader</dt>
-								<dd>[Small Text Typestyle]</dd>
-								<dd>Text: 11px (8pt) #989EA7</dd>
+								<dd>Text: 11px (8pt) #9BAAB8</dd>
+								<dd>Weight: 500</dd>
+								<dd>Line Height: 24px</dd>
 								<!-- -->
 								<dt>Description</dt>
-								<dd>[Body Text Typestyle]</dd>
 								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Line Height: 20px</dd>
 								<!-- -->
-								<dt>Keyword Chips</dt>
-								<dd class="note">See Chips component for recommendations.</dd>
+								<dt>Chips</dt>
+								<dd class="note">See Chips component</dd>
 								<!-- -->
 								<dt>Author Name &amp; Buttons</dt>
-								<dd>[Body Text Typestyle]</dd>
-								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Text: 13px (10pt) #9BAAB8</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Weight: 600</dd>
+								<!-- -->
+								<dt>Primary Actions</dt>
+								<dd>Divider: 1px #BBCCDD</dd>
+								<dd>Background: #F5F9FC</dd>
 							</dl>
 						</dd>
 					</dl>

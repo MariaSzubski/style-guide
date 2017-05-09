@@ -39,43 +39,66 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Static Tab Bar</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Bottom: 1px #DDE6ED</dd>
-						<dd>Tab Alignment: Left</dd>
-						<dd>Bar Height: 40px</dd>
-						<!-- -->
+						<dt>Primary Tabs</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Unselected Tab</dt>
-								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #0098F3</dd>
-								<dd>Text Align: Center</dd>
+								<dt>Bar</dt>
+								<dd>Height: 42px</dd>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Border-Bottom: 1px #BBCCDD</dd>
 								<!-- -->
-								<dt>Selected Tab</dt>
-								<dd>Text: 15px (11pt) #151921</dd>
-								<dd>Border-Bottom: 2px #151921</dd>
-								<dd>Text Align: Center</dd>
+								<dt>Tabs</dt>
+								<dd>Text: 15px (11pt) #0098F3</dd>
+								<dd>Case: Capitalize</dd>
+								<dd>Padding: 12px</dd>
+								<dd>Margin Between Tabs: 16px</dd>
+								<!-- -->
+								<dt>Select State</dt>
+								<dd>Text &amp; Border Color: #151921</dd>
+								<dd>Border-Bottom: 2px</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Secondary Tab Bar</dt>
-						<dd>Background: #DDE6ED</dd>
-						<dd>Border T/B: 1px #BBCCDB</dd>
-						<dd>Tab Alignment: Left</dd>
-						<dd>Bar Height: 46px</dd>
-						<dd>Tab Height: 36px</dd>
-						<!-- -->
+						<dt>Secondary Tabs</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Unselected Tab</dt>
-								<dd>Text: 12px (9pt) #0098F3</dd>
-								<dd>Text Align: Center</dd>
+								<dt>Bar</dt>
+								<dd>Height: 45px</dd>
+								<dd>Background: #DDE6ED</dd>
+								<dd>Border-Bottom: 1px #BBCCDD</dd>
 								<!-- -->
-								<dt>Selected Tab</dt>
-								<dd>Text: 12px (9pt) #151921</dd>
-								<dd>Border: 1px #BBCCDB</dd>
-								<dd>Text Align: Center</dd>
+								<dt>Tabs</dt>
+								<dd>Text: 12px (9pt) #0098F3</dd>
+								<dd>Case: Uppercase</dd>
+								<dd>Padding: 12px</dd>
+								<dd>Margin Between Tabs: 16px</dd>
+								<!-- -->
+								<dt>Select State</dt>
+								<dd>Text Color: #151921</dd>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Border: 1px #BBCCDD</dd>
+								<dd>Corner Radius: 4px</dd>
+								<dd>Height: 36px</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Tertiary Tabs</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Bar</dt>
+								<dd>Height: 45px</dd>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Border-Bottom: 1px #DDE6ED</dd>
+								<!-- -->
+								<dt>Tabs</dt>
+								<dd>Text: 13px (10pt) #0098F3</dd>
+								<dd>Case: Capitalize</dd>
+								<dd>Padding: 12px</dd>
+								<dd>Margin Between Tabs: 16px</dd>
+								<!-- -->
+								<dt>Select State</dt>
+								<dd>Text &amp; Border Color: #151921</dd>
+								<dd>Border-Bottom: 2px</dd>
 							</dl>
 						</dd>
 					</dl>

@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Tooltip</title>
+	<title id="title">NX Guidelines - Chips</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Tooltip</h2>
+			<h2 id="pg_header">Chip Patterns</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -17,23 +17,27 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/tooltip_01.png" alt="Basic Tooltip">
-				</section>
+					<img src="img/guide/p_chips_01.png" alt="Accented Chip">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_tooltip.php">Tooltip Patterns</a></dd>
+						<dd class="pg_link"><a href="chips.php">Chip Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Tooltip</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Padding: 16px</dd>
-						<dd>Text: 13px (9pt) #151921</dd>
-						<dd>Box Shadow: 0px 2px 3px rgba(0,0,0,.45)</dd>
-						<dd>Angular Shadow: 4dp</dd>
+						<dt>Accented Chip States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Default</dt>
+								<dd>Text Color: #B21DAC</dd>
+								<dd>Border: 1px #F7BFF2</dd>
+								<dd>Background: #FFFFFF</dd>
+								<!-- -->
+								<dt>Hover</dt>
+								<dd>Background: #FFDEFA</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

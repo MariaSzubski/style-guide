@@ -39,7 +39,7 @@
 						<dd>Text: 20px (15pt) #354052</dd>
 						<dd>Weight: 600</dd>
 						<dd>Background: #EEEEEE</dd>
-						<dd>Border-Bottom: 1px #BBCCDB</dd>
+						<dd>Border-Bottom: 1px #BBCCDD</dd>
 						<!-- -->
 						<dt>Snippet</dt>
 						<dd>Dividers: 1px #DDE6ED</dd>

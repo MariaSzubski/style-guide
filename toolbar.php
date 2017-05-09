@@ -30,21 +30,21 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Content Toolbars</dt>
+						<dt>Container</dt>
+						<dd>Background: #FFFFFF</dd>
+						<dd>Height: 42px</dd>
+						<dd>Divider: 1px #DDE6ED</dd>
 						<!-- -->
+						<dt>Contents</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Background Colors</dt>
-								<dd>White: #FFFFFF</dd>
-								<dd>Optional Background: #F5F9FC</dd>
-								<!-- -->
 								<dt>Text Buttons</dt>
-								<dd>[Body Text Typestyle]</dd>
 								<dd>Text: 13px (10pt) #354052</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
-								<dt>Buttons with Dark Background</dt>
-								<dd class="note">See Button component for recommendations.</dd>
+								<dt>Icons</dt>
+								<dd>Size: 16px</dd>
+								<dd>Margin Between Icons: 24px</dd>
 							</dl>
 						</dd>
 					</dl>

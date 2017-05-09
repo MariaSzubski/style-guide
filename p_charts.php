@@ -36,44 +36,37 @@
 					<img src="img/guide/charts_05.png" alt="Data Values">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="p_reporting_palette.php">Reporting Palette</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
-						<dt>Using Frameworks</dt>
-						<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between Nielsen products.</dd>
-						<!-- -->
-						<dt>Chart Styles</dt>
+						<dt>Chart</dt>
 						<dd>Primary Axis: 2px #151921</dd>
-						<dd>Secondary Lines 1px #DDE6ED</dd>
+						<dd>Secondary Axis: 1px #DDE6ED</dd>
 						<dd>Background Color: #FFFFFF</dd>
 						<!-- -->
-						<dt>Data Colors</dt>
-						<dd class="note">See Reporting Palette section.</dd>
-						<!-- -->
 						<dt>Axis Label</dt>
-						<dd>[Label Typestyle]</dd>
 						<dd>Text: 12px (9pt) #989EA7</dd>
 						<dd>Weight: 600</dd>
-						<dd>X-Axis Labels: Horizontal or 45º angle</dd>
+						<dd>X-Axis Orientation: Horizontal or 45º angle</dd>
+						<!-- -->
+						<dt>Data Colors</dt>
+						<dd class="note">See Reporting Palette</dd>
+						<!-- -->
+						<dt>Notes</dt>
 						<dd>
 							<dl class="sub">
+								<dt>Using Frameworks</dt>
+								<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between Nielsen products.</dd>
+								<!-- -->
 								<dt>Primary Axis Lines</dt>
 								<dd class="note">The dark axis line highlights the baseline of the chart, usually ‘0’. These aren’t necessarily the bottom- and left-most axis lines.</dd>
 								<!-- -->
 								<dt>Vertical Axis Lines</dt>
 								<dd class="note">Use vertical axis lines when more than one data point is grouped on a single x-axis label.</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Data Values</dt>
-						<dd>
-							<dl class="sub">
-								<dt>Label</dt>
-								<dd>[Label Typestyle]</dd>
-								<dd>Text: 12px (9pt) #989EA7</dd>
-								<dd>Case: Uppercase</dd>
-								<!-- -->
-								<dt>Value</dt>
-								<dd>Text: 24px (18pt) #151921</dd>
-								<dd>Line Height: 30px</dd>
+
 							</dl>
 						</dd>
 					</dl>

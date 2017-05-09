@@ -18,7 +18,7 @@
 				<section class="desc">
 					<h4>Default Progress Circular</h4>
 					<p>
-						Use Material Design Progress Circular in Nielsen Blue or Navy.
+						Use Material Design Progress Circular in Blue or Navy.
 					</p>
 				</section>
 				<section>
@@ -28,9 +28,8 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Progress Circular</dt>
-
+						<dd>Blue: #0098F3</dd>
 						<dd>Navy: #354052</dd>
-						<dd>Blue: #00AEEF</dd>
 						<dd>Alternate Icon: throbber.gif</dd>
 					</dl>
 				</aside>

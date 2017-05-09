@@ -48,7 +48,7 @@
 						<!-- -->
 						<dt>Secondary Tab Bar</dt>
 						<dd>Background: #DDE6ED</dd>
-						<dd>Border T/B: 1px #BBCCDB</dd>
+						<dd>Border T/B: 1px #BBCCDD</dd>
 						<dd>Tab Alignment: Left</dd>
 						<dd>Bar Height: 46px</dd>
 						<dd>Tab Height: 36px</dd>
@@ -61,7 +61,7 @@
 								<!-- -->
 								<dt>Selected Tab</dt>
 								<dd>Text: 12px (9pt) #151921</dd>
-								<dd>Border: 1px #BBCCDB</dd>
+								<dd>Border: 1px #BBCCDD</dd>
 								<dd>Text Align: Center</dd>
 							</dl>
 						</dd>

@@ -26,7 +26,7 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Divider</dt>
-						<dd>Primary: 1px #BBCCDB</dd>
+						<dd>Primary: 1px #BBCCDD</dd>
 						<dd>Secondary: 1px #DDE6ED</dd>
 					</dl>
 				</aside>

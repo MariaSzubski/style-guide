@@ -30,32 +30,19 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>In Sidenav Menu</dt>
-						<dd>[Small Text Typestyle]</dd>
-						<dd>Text: 11px (8pt) #8F9BA8</dd>
-						<dd>Line height: 15px</dd>
+						<dt>In Sidenav</dt>
 						<dd>Divider: 1px #495970</dd>
-						<dd>Nielsen Logo: #EDEEF0</dd>
-						<!-- -->
-						<dd>
-							<dl class="sub">
-								<dt>Links</dt>
-								<dd>Text Decoration: Underline</dd>
-							</dl>
-						</dd>
+						<dd>Text: 11px (8pt) #9BAAB8</dd>
+						<dd>Line height: 15px</dd>
+						<dd>Links: Underline</dd>
+						<dd>Nielsen Logo: nielsen_logo.svg</dd>
 						<!-- -->
 						<dt>In Page Footer</dt>
-						<dd>[Small Text Typestyle]</dd>
+						<dd>Minimum Height: 30px</dd>
+						<dd>Background Color: #DDE6ED</dd>
 						<dd>Text: 11px (8pt) #354052</dd>
 						<dd>Alignment: Centered</dd>
-						<dd>Background Color: #DDE6ED</dd>
-						<!-- -->
-						<dd>
-							<dl class="sub">
-								<dt>Links</dt>
-								<dd>Text Decoration: Underline</dd>
-							</dl>
-						</dd>
+						<dd>Links: Underline</dd>
 					</dl>
 				</aside>
 			</div>

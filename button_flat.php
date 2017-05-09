@@ -26,121 +26,65 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Grouping</dt>
-						<dd class="note">Actions and Toolbar Buttons should not be grouped together. Action buttons advance the user's workflow. Toolbar buttons perform in-page functions.</dd>
-						<!-- -->
-						<dt>Green Buttons</dt>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Height: 36px</dd>
-						<dd>Padding L/R: 20px</dd>
+						<dt>Measurements</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Raised (Primary)</dt>
-								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #26B910</dd>
-								<dd>Hover Background: #1D8E0C</dd>
-								<dd>Down Background: #135807</dd>
+								<dt>All Buttons</dt>
+								<dd>Case: Uppercase</dd>
 								<!-- -->
-								<dt>Raised (Standard)</dt>
-								<dd>Text Color: #26B910</dd>
-								<dd>Border: 1.5px #26B910</dd>
-								<dd>Background: #FFFFFF</dd>
-								<dd>Hover Background: #D0F7CC</dd>
-								<dd>Down Background: #B6EEAF</dd>
+								<dt>Default</dt>
+								<dd>Height: 36px</dd>
+								<dd>Padding: 24px</dd>
+								<dd>Margin: 12px</dd>
+								<dd>Text Size: 15px (11pt)</dd>
+								<dd>Weight: 600</dd>
 								<!-- -->
-								<dt>Flat (Tertiary)</dt>
-								<dd>Text Color: #26B910</dd>
-								<dd>Hover Text Color: #1D8D0C</dd>
-								<dd>Down Text Color: #135807</dd>
+								<dt>Large</dt>
+								<dd>Height: 64px</dd>
+								<dd>Padding: 32px</dd>
+								<dd>Margin: 20px</dd>
+								<dd>Text Size: 30px (23pt)</dd>
+								<dd>Weight: 400</dd>
+								<!-- -->
+								<dt>Small</dt>
+								<dd>Height: 28px</dd>
+								<dd>Padding: 12px</dd>
+								<dd>Margin: 10px</dd>
+								<dd>Text Size: 13px (10pt)</dd>
+								<dd>Weight: 600</dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Blue Buttons</dt>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Height: 36px</dd>
-						<dd>Padding L/R: 20px</dd>
+						<dt>States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Raised (Primary)</dt>
-								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #0098F3</dd>
-								<dd>Hover Background: #007BC5</dd>
-								<dd>Down Background: #00568B</dd>
+								<dt>Primary</dt>
+								<dd>Static: #0098F3</dd>
+								<dd>Hover: #007BC5</dd>
+								<dd>Selected Text: #00568B</dd>
+								<dd>Selected BG: #B4E0FC</dd>
+								<dd>Disabled: #B4E0FC</dd>
 								<!-- -->
-								<dt>Raised (Standard)</dt>
-								<dd>Text Color: #0098F3</dd>
-								<dd>Border: 1.5px #0098F3</dd>
-								<dd>Background: #FFFFFF</dd>
-								<dd>Hover Background: #D4EEFD</dd>
-								<dd>Down Background: #B4E0FC</dd>
+								<dt>Accent</dt>
+								<dd>Static: #26B810</dd>
+								<dd>Hover: #1D8D0C</dd>
+								<dd>Selected Text: #135807</dd>
+								<dd>Selected BG: #B6EEAF</dd>
+								<dd>Disabled: #B6EEAF</dd>
 								<!-- -->
-								<dt>Flat (Tertiary)</dt>
-								<dd>Text Color: #0098F3</dd>
-								<dd>Hover Text Color: #007BC4</dd>
-								<dd>Down Text Color: #00568A</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Navy Buttons</dt>
-						<dd>Text: 13px (10pt)</dd>
-						<dd>Weight: 600</dd>
-						<dd>Case: Capitalize</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Height: 28px</dd>
-						<dd>Padding L/R: 12px</dd>
-						<dd>
-							<dl class="sub">
-								<dt>Raised (Toolbar)</dt>
-								<dd>Content Color: #EDEEF0</dd>
-								<dd>Background: #354052</dd>
-								<dd>Hover Background: #151921</dd>
-								<dd>Down Background: #838F93</dd>
+								<dt>Secondary</dt>
+								<dd>Static: #79818C</dd>
+								<dd>Hover: #5D6574</dd>
+								<dd>Selected Text: #5D6574</dd>
+								<dd>Selected BG: #D5D7DB</dd>
+								<dd>Disabled: #D5D7DB</dd>
 								<!-- -->
-								<dt>Flat (Toolbar)</dt>
-								<dd>Text: 13px (10pt) #354052</dd>
-								<!-- -->
-								<dt>Purpose</dt>
-								<dd class="note">This style is for buttons that perform in-page actions. It is not used for actions that advance the user’s workflow.
-								</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Disabled Buttons</dt>
-						<dd>
-							<dl class="sub">
-								<dt>Raised (Primary)</dt>
-								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #D4D6DA</dd>
-								<!-- -->
-								<dt>Raised (Standard)</dt>
-								<dd>Text Color: #D4D6DA</dd>
-								<dd>Border Color: #D4D6DA</dd>
-								<!-- -->
-								<dt>Flat (Tertiary)</dt>
-								<dd>Text Color: #D4D6DA</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Icons</dt>
-						<dd>
-							<dl class="sub">
-								<dt>Raised</dt>
-								<dd>Text Color: #FFFFFF</dd>
-								<dd>Background: #354052</dd>
-								<dd>Hover Background: #151921</dd>
-								<dd>Down Background: #838F93</dd>
-								<!-- -->
-								<dt>Flat</dt>
-								<dd>Icon Color: #354052</dd>
-								<!-- -->
-								<dt>Library</dt>
-								<dd class="note">See Iconography section for full icon library.</dd>
+								<dt>Tertiary</dt>
+								<dd>Static: #9BAAB8</dd>
+								<dd>Hover: #9BAAB8</dd>
+								<dd>Selected Text: #9BAAB8</dd>
+								<dd>Selected BG: #EDEEF0</dd>
+								<dd>Disabled: #D5D7DB</dd>
 							</dl>
 						</dd>
 					</dl>

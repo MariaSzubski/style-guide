@@ -33,23 +33,31 @@
 				</section>
 				<aside>
 					<dl class="dl_root">
-						<dt>Menu</dt>
-						<dd>[Large Text Typestyle]</dd>
-						<dd>Text: 15px (11pt) #354052</dd>
-						<dd>Row Height: 48px</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Border: 1px #BBCCDB</dd>
-						<dd>Dividers: 1px #DDE6ED</dd>
+						<dt>Container</dt>
+						<dd>Background: #FFFFFF</dd>
+						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Optional Dividers: 1px #DDE6ED</dd>
 						<!-- -->
-						<dt>Icons</dt>
+						<dt>Measurements</dt>
+						<dd>Left &amp; Right Padding: 12px</dd>
+						<dd>Default Row Height: 48px</dd>
+						<dd>Compact Row Height: 36px</dd>
+						<!-- -->
+						<dt>Content</dt>
+						<dd>Text: 15px (11pt) #354052</dd>
 						<dd>Icon Color: #354052</dd>
-						<dd class="note">Menu item icons are optional.</dd>
 						<!-- -->
 						<dt>States</dt>
-						<dd>Hover Background: #D4EEFD</dd>
-						<dd>Selected Background: #354052</dd>
-						<dd>Selected Content: #EDEEF0</dd>
-
+						<dd>
+							<dl class="sub">
+								<dt>Hover</dt>
+								<dd>Background: #D4EEFD</dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Background: #EDEEF0</dd>
+								<dd>Border-Bottom: 2px #354052</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

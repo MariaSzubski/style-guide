@@ -28,14 +28,27 @@
 						<dt>Label</dt>
 						<dd>Text: 15px (11pt) #354052</dd>
 						<dd>Weight: 700</dd>
-						<dd>Gap Between Groups: 32px</dd>
+						<dd>Margin Between Groups: 32px</dd>
 						<!-- -->
 						<dt>List Items</dt>
 						<dd>Text: 13px (10pt) #151921</dd>
 						<dd>Weight: 400</dd>
 						<dd>Line Height: 24px</dd>
-
-
+						<!-- -->
+						<dt>Dividers</dt>
+						<dd>1px #DDE6ED</dd>
+						<!-- -->
+						<dt>States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Hover</dt>
+								<dd>Background: #D4EEFD</dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Background: #EDEEF0</dd>
+								<dd>Border-Bottom: 2px #354052</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

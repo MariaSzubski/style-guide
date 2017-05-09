@@ -30,8 +30,25 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Checkbox</dt>
-						<dd>Selected Value: #26B910</dd>
+						<dt>Measurements</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Small</dt>
+								<dd>Box Size: 16px</dd>
+								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Line Height: 36px</dd>
+								<!-- -->
+								<dt>Large</dt>
+								<dd>Box Size: 24px</dd>
+								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Line Height: 48px</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>States</dt>
+						<dd>Default: #5D6574</dd>
+						<dd>Accent: #26B810</dd>
+						<dd>Disabled: #D5D7DB</dd>
 					</dl>
 				</aside>
 			</div>

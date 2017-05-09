@@ -24,13 +24,41 @@
 					<img src="img/guide/chips_02.png" alt="Static Chip">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="p_chips.php">Chip Patterns</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
-						<dt>Chips</dt>
-						<dd>[Large Text Typestyle]</dd>
-						<dd>Text: 15px (11pt) #FFFFFF</dd>
-						<dd>Background: #838F93</dd>
-						<dd>Corner Radius: 12px</dd>
-						<dd>Height: 24px</dd>
+						<dt>Measurements</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Large</dt>
+								<dd>Height: 24px</dd>
+								<dd>Corner Radius: 12px</dd>
+								<dd>Padding: 12px</dd>
+								<dd>Text: 13px (10pt) #79818C</dd>
+								Margin Between Chips: 5px
+								<!-- -->
+								<dt>Small</dt>
+								<dd>Height: 18px</dd>
+								<dd>Corner Radius: 9px</dd>
+								<dd>Padding: 10px</dd>
+								<dd>Text: 11px (8pt) #79818C</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Default</dt>
+								<dd>Border: 1px #DDE6ED</dd>
+								<dd>Background: #FFFFFF</dd>
+								<!-- -->
+								<dt>Hover</dt>
+								<dd>Background: #DDE6ED</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

@@ -30,60 +30,20 @@
 						<dd>rgba(245,249,252,0.6)</dd>
 						<!-- -->
 						<dt>Dialog</dt>
-						<dd>Background: #FFFFFF</dd>
-						<dd>Corner Radius: 5px</dd>
-						<dd>Border: none</dd>
-						<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,0.45)</dd>
-						<dd>Angular Shadow: 6dp</dd>
-						<!-- -->
+
 						<dd>
 							<dl class="sub">
-								<dt>Header</dt>
-								<dd>[Overlay Title Typestyle]</dd>
-								<dd>Text: 20px (15pt)</dd>
-								<dd>Standard Header: #354052</dd>
-								<dd>Alert Header: #FF8100</dd>
-								<dd>Case: Capitalize</dd>
-								<dd>Weight: 600</dd>
-								<dd>Divider: 1px #DDE6ED</dd>
+								<dt>Container</dt>
+								<dd>Background: #FFFFFF</dd>
+								<dd>Box Shadow: 0px 3px 4px rgba(0,0,0,0.45)</dd>
+								<dd>Angular Shadow: 6dp</dd>
 								<!-- -->
-								<dt>Content</dt>
-								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #151921</dd>
-								<!-- -->
-								<dt>Tabs</dt>
-								<dd class="note">See Tabs component for recommendations.</dd>
-								<!-- -->
-								<dt>Buttons</dt>
-								<dd class="note">See Button component for recommendations.</dd>
-							</dl>
-						</dd>
-						<!-- -->
-						<dt>Custom Dialog</dt>
-						<dd>Upper Background: #FFFFFF</dd>
-						<dd>Lower Background: #354052 (gray) or #0098F3 (blue)</dd>
-						<dd>Corner Radius: 4px</dd>
-						<dd>Border: none</dd>
-						<dd>Box Shadow:	0px 3px 4px rgba(0,0,0,0.45)</dd>
-						<dd>Angular Shadow: 6dp</dd>
-						<!-- -->
-						<dd>
-							<dl class="sub">
 								<dt>Title</dt>
-								<dd>Text: 24px (18pt) #FFFFFF</dd>
-								<dd>Case: Uppercase</dd>
-								<dd>Text Alignemnt: Centered</dd>
+								<dd>Text: 20px (15pt) #354052</dd>
 								<dd>Weight: 600</dd>
-								<!-- -->
-								<dt>Description</dt>
-								<dd>[Large Text Typestyle]</dd>
-								<dd>Text: 15px (11pt) #EDEEF0</dd>
-								<dd>Text Alignment: Centered</dd>
-								<dd>Line Height: 25px</dd>
-								<!-- -->
-								<dt>Icons</dt>
-								<dd>Back/Forward: #FFFFFF</dd>
-								<dd>Close: #989EA7</dd>
+								<dd>Case: Capitalize</dd>
+								<dd>Divider: 1px #DDE6ED</dd>
+								<dd>Title Bar Height: 42px</dd>
 							</dl>
 						</dd>
 					</dl>

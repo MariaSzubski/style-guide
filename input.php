@@ -35,35 +35,40 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Labels</dt>
+						<dt>Field Measurements</dt>
+						<dd>Primary Input Height: 36px</dd>
+						<dd>Large Input Height: 45px</dd>
+						<dd>Padding: 16px</dd>
+						<dd>Margin Between Fields: 24px</dd>
+						<!-- -->
+						<dt>Text</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Primary Label</dt>
-								<dd>[Large Text Typestyle]</dd>
 								<dd>Text: 15px (11pt) #151921</dd>
 								<dd>Weight: 600</dd>
-								<dd>Required Asterisk: #FF8300</dd>
+								<dd>Required Asterisk: #B21DAC</dd>
 								<!-- -->
-								<dt>Helper Text</dt>
-								<dd>[Body Text Typestyle]</dd>
+								<dt>Helper Label</dt>
 								<dd>Text: 13px (10pt) #151921</dd>
 								<dd>Weight: 400</dd>
+								<dd>Error: #DD0014</dd>
 								<dd>Line Height: 20px</dd>
-								<dd>Error Color: #FF8100</dd>
+								<!-- -->
+								<dt>Input Text</dt>
+								<dd>Text Size: 13px (10pt)</dd>
+								<dd>Hint Text: #9BAAB8</dd>
+								<dd>User Input: #151921</dd>
+								<dd>Disabled: #D5D7DB</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt>Input Text</dt>
-						<dd>[Body Text Typestyle]</dd>
-						<dd>Text: 13px (10pt)  #151921</dd>
-						<dd>Hint Text: #A8AFB3</dd>
 						<!-- -->
 						<dt>Field States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Normal</dt>
+								<dt>Default</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #A8AFB3</dd>
+								<dd>Border: 1px #9BAAB8</dd>
 								<!-- -->
 								<dt>Focus</dt>
 								<dd>Background: #FFFFFF</dd>
@@ -71,14 +76,13 @@
 								<!-- -->
 								<dt>Error</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #FF8100</dd>
+								<dd>Border: 1px #DD0014</dd>
 								<!-- -->
 								<dt>Disabled</dt>
 								<dd>Background: #F0F0F0</dd>
-								<dd>Border: 1px #A8AFB3</dd>
+								<dd>Border: 1px #D5D7DB</dd>
 							</dl>
 						</dd>
-
 					</dl>
 				</aside>
 			</div>
