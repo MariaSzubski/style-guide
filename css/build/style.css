@@ -659,6 +659,9 @@ nav summary:hover{
 nav summary::-webkit-details-marker{
   display:none;
 }
+nav summary::-moz-list-bullet{
+  list-style-type:none;
+}
 nav summary span{
   position:absolute;
   top:50%;
