@@ -23,6 +23,10 @@
 					<h4>Large Data Grid (For Lists)</h4>
 					<img src="img/guide/p_grid_02.png" alt="Large Data Grid">
 				</section>
+				<section>
+					<h4>Yellow Option for Multi-Select</h4>
+					<img src="img/guide/p_grid_03.png" alt="Mulit-Select Grid">
+				</section>
 				<aside>
 					<dl class="dl_root">
 						<dt>Grid Styles</dt>

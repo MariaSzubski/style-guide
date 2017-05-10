@@ -37,7 +37,7 @@
 						<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 						<dd>Weekday BG: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-						<dd>Selected Text: #354042</dd>
+						<dd>Selected Text: <span title="Gray 800" class="theme">#354052</dd>
 						<dd>Selected BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 						<dd>
 							<dl class="sub">

@@ -32,6 +32,7 @@
 						<dd>Border-Top: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Tab Alignment: Center</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Angular Equivalent: 2dp</dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>
