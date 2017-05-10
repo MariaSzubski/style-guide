@@ -27,20 +27,20 @@
 					<dl class="dl_root">
 						<dt>Grid Styles</dt>
 						<dd>Background Color: #FFFFFF</dd>
-						<dd>Alt Row Shading: #F5F9FC</dd>
-						<dd>Dividers: 1px #DDE6ED</dd>
-						<dd>Header Divider: 1px #BBCCDD</dd>
+						<dd>Alt Row Shading: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
+						<dd>Dividers: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Header Divider: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 						<!-- -->
 						<dt>Row States</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Hover</dt>
-								<dd>Background: #D4EEFD</dd>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<!-- -->
 								<dt>Selected</dt>
-								<dd>Border-Bottom: 2px #354052</dd>
-								<dd>Background: #EDEEF0</dd>
-								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
+								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -48,9 +48,9 @@
 						<dd>
 							<dl class="sub">
 								<dt>Content</dt>
-								<dd>Header: 13px (10pt) #151921</dd>
+								<dd>Header: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Header Weight: 700</dd>
-								<dd>Data: 13px (10pt) #151921</dd>
+								<dd>Data: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Row Height: 28px</dd>
 								<!-- -->
 								<dt>Alignment</dt>
@@ -68,9 +68,9 @@
 						<dd>
 							<dl class="sub">
 								<dt>Content</dt>
-								<dd>Header: 15px (11pt) #151921</dd>
+								<dd>Header: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Header Weight: 700</dd>
-								<dd>Data: 15px (11pt) #151921</dd>
+								<dd>Data: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Row Height: 48px</dd>
 								<!-- -->
 								<dt>Alignment</dt>

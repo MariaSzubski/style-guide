@@ -31,10 +31,10 @@
 						<dd>Padding: 24px</dd>
 						<!-- -->
 						<dt>Title</dt>
-						<dd>Text: 20px (15pt) #354052</dd>
+						<dd>Text: 20px (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Case: Capitalize</dd>
 						<dd>Title Bar Height: 42px</dd>
-						<dd>Divider: 1px #BBCCDD</dd>
+						<dd>Divider: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 					</dl>
 				</aside>
 			</div>

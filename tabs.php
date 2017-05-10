@@ -41,16 +41,16 @@
 								<dt>Bar</dt>
 								<dd>Height: 42px</dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border-Bottom: 1px #BBCCDD</dd>
+								<dd>Border-Bottom: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
-								<dd>Text: 15px (11pt) #0098F3</dd>
+								<dd>Text: 15px (11pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Padding: 12px</dd>
 								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
 								<dt>Select State</dt>
-								<dd>Text &amp; Border Color: #151921</dd>
+								<dd>Text &amp; Border Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Border-Bottom: 2px</dd>
 							</dl>
 						</dd>
@@ -60,19 +60,19 @@
 							<dl class="sub">
 								<dt>Bar</dt>
 								<dd>Height: 45px</dd>
-								<dd>Background: #DDE6ED</dd>
-								<dd>Border-Bottom: 1px #BBCCDD</dd>
+								<dd>Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Border-Bottom: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
-								<dd>Text: 12px (9pt) #0098F3</dd>
+								<dd>Text: 12px (9pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Uppercase</dd>
 								<dd>Padding: 12px</dd>
 								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
 								<dt>Select State</dt>
-								<dd>Text Color: #151921</dd>
+								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #BBCCDD</dd>
+								<dd>Border: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<dd>Corner Radius: 4px</dd>
 								<dd>Height: 36px</dd>
 							</dl>
@@ -84,18 +84,18 @@
 								<dt>Bar</dt>
 								<dd>Height: 45px</dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border-Bottom: 1px #DDE6ED</dd>
+								<dd>Border-Bottom: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
-								<dd>Text: 13px (10pt) #0098F3</dd>
+								<dd>Text: 13px (10pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Padding: 12px</dd>
 								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
 								<dt>Select State</dt>
-								<dd>Text Color: #151921</dd>
-								<dd>Background: #F5F9FC</dd>
-								<dd>Border: 2px #BBCCDD</dd>
+								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
+								<dd>Border: 2px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<dd>Box Height: 24px</dd>
 							</dl>
 						</dd>

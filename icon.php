@@ -39,9 +39,9 @@
 						<dd>
 							<dl class="sub">
 								<dt>Icon Colors</dt>
-								<dd>Dark: #354052</dd>
-								<dd>Light: #EDEEF0</dd>
-								<dd>Background Square: #354052</dd>
+								<dd>Dark: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Light: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Background Square: <span title="Gray 800" class="theme">#354052</span></dd>
 								<!-- -->
 								<dt>Background Square @ 32px</dt>
 								<dd>Padding: 12px</dd>

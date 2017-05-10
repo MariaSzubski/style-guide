@@ -22,7 +22,7 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Progress Linear</dt>
-						<dd>Color: #00AEEF
+						<dd>Color: <span title="Blue 400" class="theme">#00AEEF</span>
 						<dd>Height: 5px</dd>
 						<dd>Track: 30% opacity</dd>
 					</dl>

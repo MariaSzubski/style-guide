@@ -26,22 +26,22 @@
 						<dd>Case: Uppercase</dd>
 						<dd>Weight: 600</dd>
 						<dd>Alignment: Centered</dd>
-						<dd>Borders: 1px #BBCCDD</dd>
+						<dd>Borders: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 						<dd>Height: 42px</dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Completed</dt>
-								<dd>Text Color: #0098F3</dd>
+								<dd>Text Color: <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Background: #FFFFFF</dd>
 								<!-- -->
 								<dt>Active</dt>
-								<dd>Text Color: #354052</dd>
-								<dd>Background: #DDE6ED</dd>
+								<dd>Text Color: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<!-- -->
 								<dt>Future</dt>
-								<dd>Text Color: #D5D7DB</dd>
+								<dd>Text Color: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 								<dd>Background: #FFFFFF</dd>
 							</dl>
 						</dd>

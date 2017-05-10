@@ -33,23 +33,23 @@
 								<dd>Open Sans</dd>
 								<!-- -->
 								<dt>Panel Title</dt>
-								<dd>Text: 20px (15pt) #354052</dd>
+								<dd>Text: 20px (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 400</dd>
 								<dd>Case: Capitalize</dd>
 								<!-- -->
 								<dt>Body Text</dt>
-								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight Options: 400, 600, 700</dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Paragraph Spacing: 13px</dd>
 								<!-- -->
 								<dt>Small Text</dt>
-								<dd>Text: 11px (8pt) #151921</dd>
+								<dd>Text: 11px (8pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400, 700</dd>
 								<dd>Line Height: 15px</dd>
 								<!-- -->
 								<dt>Links</dt>
-								<dd>Color: #0098F3</dd>
+								<dd>Color: <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Text Decoration: Underline</dd>
 							</dl>
 						</dd>

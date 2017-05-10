@@ -16,9 +16,9 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<!--					Chart Colors -->
+				<!--					Data Colors -->
 				<section class="full">
-					<h4>Chart Colors</h4>
+					<h4>Data Colors</h4>
 					<table class="colors">
 						<tr id="c1">
 							<td>#006699</td>
@@ -122,7 +122,7 @@
 							<td>Green 500</td>
 						</tr>
 						<tr id="t2">
-							<td>#DD0014</td>
+							<td><span title="Red 500" class="theme">#DD0014</span></td>
 							<td>rgb(221,0,20)</td>
 							<td>Red 500</td>
 						</tr>

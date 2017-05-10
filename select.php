@@ -34,16 +34,16 @@
 						<dt>Input Select</dt>
 						<dd class="note">Uses standard Input Component</dd>
 						<dd>Selector Icon: select.svg</dd>
-						<dd>Icon Color: #9BAAB8</dd>
+						<dd>Icon Color: <span title="Gray 500" class="theme">#94A3B0</span></dd>
 						<!-- -->
 						<dt>Toolbar Select</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Selector</dt>
-								<dd>Text: 13px (9pt) #354052</dd>
+								<dd>Text: 13px (9pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Font Weight: 600</dd>
 								<dd>Selector Icon: select.svg</dd>
-								<dd>Icon Color: #151921</dd>
+								<dd>Icon Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<!-- -->
 								<dt>Menu</dt>
 								<dd>Uses standard Menu Component</dd>
@@ -54,12 +54,12 @@
 						<dd>
 							<dl class="sub">
 								<dt>Hover</dt>
-								<dd>Background: #D4EEFD</dd>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<!-- -->
 								<dt>Selected</dt>
-								<dd>Background: #EDEEF0</dd>
-								<dd>Border-Bottom: 2px #354052</dd>
-								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
+								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
 							</dl>
 						</dd>
 					</dl>

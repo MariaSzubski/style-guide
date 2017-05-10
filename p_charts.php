@@ -43,8 +43,8 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Chart</dt>
-						<dd>Primary Axis: 2px #151921</dd>
-						<dd>Secondary Axis: 1px #DDE6ED</dd>
+						<dd>Primary Axis: 2px <span title="Gray 900" class="theme">#151921</span></dd>
+						<dd>Secondary Axis: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Background Color: #FFFFFF</dd>
 						<!-- -->
 						<dt>Axis Label</dt>

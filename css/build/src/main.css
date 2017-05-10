@@ -124,6 +124,13 @@ aside .note{
   text-indent:0;
   margin-left:-6px;
 }
+aside .theme{
+  cursor:help;
+  font-weight:600;
+}
+aside .theme:hover{
+  text-decoration:underline;
+}
 div.desc{
   position:absolute;
   top:20%;

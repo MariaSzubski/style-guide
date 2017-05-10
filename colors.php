@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Color Scales</h2>
+			<h2 id="pg_header">Color</h2>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -51,7 +51,7 @@
 						</tr>
 						<tr id="g500">
 							<td>500</td>
-							<td>#9BAAB8</td>
+							<td>#94A3B0</td>
 							<td>rgb(155,170,184)</td>
 							<td>Inputs &amp; Secondary Text</td>
 						</tr>
@@ -412,9 +412,9 @@
 					</table>
 				</section>
 				<section class="desc full">
-					<h4>Reporting Palette</h4>
+					<h4>Data Colors</h4>
 					<p>
-						See <a href="reporting_palette.php">Reporting Palette</a> Pattern
+						See <a href="reporting_palette.php">Reporting Palette</a>
 					</p>
 				</section>
 			</div>

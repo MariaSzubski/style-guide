@@ -32,7 +32,7 @@
 						<dd>
 							<dl class="sub">
 								<dt>Content</dt>
-								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 
 								<!-- -->
 								<dt>Buttons &amp; Tabs</dt>
@@ -47,8 +47,8 @@
 						<dd>
 							<dl class="sub">
 								<dt>Lower Background</dt>
-								<dd>Navy: #354052</dd>
-								<dd>Blue: #0098F3</dd>
+								<dd>Navy: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Blue: <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<!-- -->
 								<dt>Title</dt>
 								<dd>Text: 24px (18pt) #FFFFFF</dd>
@@ -57,13 +57,13 @@
 								<dd>Text Alignemnt: Centered</dd>
 								<!-- -->
 								<dt>Description</dt>
-								<dd>Text: 15px (11pt) #EDEEF0</dd>
+								<dd>Text: 15px (11pt) <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Text Alignment: Centered</dd>
 								<dd>Line Height: 25px</dd>
 								<!-- -->
 								<dt>Icons</dt>
-								<dd>Back/Forward: #0098F3</dd>
-								<dd>Close: #9BAAB8</dd>
+								<dd>Back/Forward: <span title="Blue 500" class="theme">#0098F3</span></dd>
+								<dd>Close: <span title="Gray 500" class="theme">#94A3B0</span></dd>
 							</dl>
 						</dd>
 					</dl>

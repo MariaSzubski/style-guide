@@ -30,12 +30,12 @@
 						<dd>
 							<dl class="sub">
 								<dt>Default</dt>
-								<dd>Text Color: #B21DAC</dd>
-								<dd>Border: 1px #F7BFF2</dd>
+								<dd>Text Color: <span title="Purple 500" class="theme">#B21DAC</span></dd>
+								<dd>Border: 1px <span title="Purple 100" class="theme">#F7BFF2</span></dd>
 								<dd>Background: #FFFFFF</dd>
 								<!-- -->
 								<dt>Hover</dt>
-								<dd>Background: #FFDEFA</dd>
+								<dd>Background: <span title="Purple 50" class="theme">#FFDEFA</span></dd>
 							</dl>
 						</dd>
 					</dl>

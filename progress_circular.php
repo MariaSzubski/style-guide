@@ -28,8 +28,8 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Progress Circular</dt>
-						<dd>Blue: #0098F3</dd>
-						<dd>Navy: #354052</dd>
+						<dd>Blue: <span title="Blue 500" class="theme">#0098F3</span></dd>
+						<dd>Navy: <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Alternate Icon: throbber.gif</dd>
 					</dl>
 				</aside>

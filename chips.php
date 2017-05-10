@@ -37,14 +37,14 @@
 								<dd>Height: 24px</dd>
 								<dd>Corner Radius: 12px</dd>
 								<dd>Padding: 12px</dd>
-								<dd>Text: 13px (10pt) #79818C</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 600" class="theme">#79818C</span></dd>
 								Margin Between Chips: 5px
 								<!-- -->
 								<dt>Small</dt>
 								<dd>Height: 18px</dd>
 								<dd>Corner Radius: 9px</dd>
 								<dd>Padding: 10px</dd>
-								<dd>Text: 11px (8pt) #79818C</dd>
+								<dd>Text: 11px (8pt) <span title="Gray 600" class="theme">#79818C</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -52,11 +52,11 @@
 						<dd>
 							<dl class="sub">
 								<dt>Default</dt>
-								<dd>Border: 1px #DDE6ED</dd>
+								<dd>Border: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<dd>Background: #FFFFFF</dd>
 								<!-- -->
 								<dt>Hover</dt>
-								<dd>Background: #DDE6ED</dd>
+								<dd>Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 							</dl>
 						</dd>
 					</dl>

@@ -32,15 +32,15 @@
 					<dl class="dl_root">
 						<dt>In Sidenav</dt>
 						<dd>Divider: 1px #495970</dd>
-						<dd>Text: 11px (8pt) #9BAAB8</dd>
+						<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 						<dd>Line height: 15px</dd>
 						<dd>Links: Underline</dd>
 						<dd>Nielsen Logo: nielsen_logo.svg</dd>
 						<!-- -->
 						<dt>In Page Footer</dt>
 						<dd>Minimum Height: 30px</dd>
-						<dd>Background Color: #DDE6ED</dd>
-						<dd>Text: 11px (8pt) #354052</dd>
+						<dd>Background Color: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Text: 11px (8pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Alignment: Centered</dd>
 						<dd>Links: Underline</dd>
 					</dl>

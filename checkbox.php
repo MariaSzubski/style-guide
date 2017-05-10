@@ -35,20 +35,22 @@
 							<dl class="sub">
 								<dt>Small</dt>
 								<dd>Box Size: 16px</dd>
-								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Weight: 400 or 700</dd>
 								<dd>Line Height: 36px</dd>
 								<!-- -->
 								<dt>Large</dt>
 								<dd>Box Size: 24px</dd>
-								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Weight: 400 or 700</dd>
 								<dd>Line Height: 48px</dd>
 							</dl>
 						</dd>
 						<!-- -->
 						<dt>States</dt>
-						<dd>Default: #5D6574</dd>
-						<dd>Accent: #26B810</dd>
-						<dd>Disabled: #D5D7DB</dd>
+						<dd>Default: <span title="Gray 700" class="theme">#5D6574</span></dd>
+						<dd>Accent: <span title="Green 500" class="theme">#26B810</span></dd>
+						<dd>Disabled: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 					</dl>
 				</aside>
 			</div>

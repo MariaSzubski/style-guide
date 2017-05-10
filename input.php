@@ -45,21 +45,21 @@
 						<dd>
 							<dl class="sub">
 								<dt>Primary Label</dt>
-								<dd>Text: 15px (11pt) #151921</dd>
+								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 600</dd>
-								<dd>Required Asterisk: #B21DAC</dd>
+								<dd>Required Asterisk: <span title="Purple 500" class="theme">#B21DAC</span></dd>
 								<!-- -->
 								<dt>Helper Label</dt>
-								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400</dd>
-								<dd>Error: #DD0014</dd>
+								<dd>Error: <span title="Red 500" class="theme">#DD0014</span></dd>
 								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Input Text</dt>
 								<dd>Text Size: 13px (10pt)</dd>
-								<dd>Hint Text: #9BAAB8</dd>
-								<dd>User Input: #151921</dd>
-								<dd>Disabled: #D5D7DB</dd>
+								<dd>Hint Text: <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>User Input: <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Disabled: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -68,19 +68,19 @@
 							<dl class="sub">
 								<dt>Default</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #9BAAB8</dd>
+								<dd>Border: 1px <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<!-- -->
 								<dt>Focus</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #0098F3</dd>
+								<dd>Border: 1px <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<!-- -->
 								<dt>Error</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px #DD0014</dd>
+								<dd>Border: 1px <span title="Red 500" class="theme">#DD0014</span></dd>
 								<!-- -->
 								<dt>Disabled</dt>
 								<dd>Background: #F0F0F0</dd>
-								<dd>Border: 1px #D5D7DB</dd>
+								<dd>Border: 1px <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 							</dl>
 						</dd>
 					</dl>

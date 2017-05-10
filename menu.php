@@ -36,7 +36,7 @@
 						<dt>Container</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
-						<dd>Optional Dividers: 1px #DDE6ED</dd>
+						<dd>Optional Dividers: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>Measurements</dt>
 						<dd>Left &amp; Right Padding: 12px</dd>
@@ -44,19 +44,19 @@
 						<dd>Compact Row Height: 36px</dd>
 						<!-- -->
 						<dt>Content</dt>
-						<dd>Text: 15px (11pt) #354052</dd>
-						<dd>Icon Color: #354052</dd>
+						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
+						<dd>Icon Color: <span title="Gray 800" class="theme">#354052</span></dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Hover</dt>
-								<dd>Background: #D4EEFD</dd>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<!-- -->
 								<dt>Selected</dt>
-								<dd>Background: #EDEEF0</dd>
-								<dd>Border-Bottom: 2px #354052</dd>
-								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
+								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
 							</dl>
 						</dd>
 					</dl>

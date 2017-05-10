@@ -31,20 +31,12 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Menu Items</dt>
-						<dd>Text: 15px (11pt) #FFFFFF</dd>
-						<dd>Case: Capitalize</dd>
-						<!-- -->
+						<dt>Styles</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Hover State</dt>
-								<dd>Background: #647484</dd>
-								<dd>Highlight Height: 30px</dd>
-								<!-- -->
-								<dt>Selected Item</dt>
-								<dd>Background: #EDEEF0</dd>
-								<dd>Left Border: 5px #151921</dd>
-								<dd>Text Color: #151921</dd>
+								<dt>All Menu Items</dt>
+								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Case: Capitalize</dd>
 								<!-- -->
 								<dt>List View</dt>
 								<dd>Weight: 600</dd>
@@ -52,14 +44,27 @@
 								<dd>Indent: 20px</dd>
 								<!-- -->
 								<dt>Tree View</dt>
-								<dd>Folder Weight: 600</dd>
-								<dd>Tree Item Weight: 400</dd>
+								<dd>Folder Label Weight: 600</dd>
 								<dd>Folder Line Height: 40px</dd>
-								<dd>Tree Item Line Height: 30px</dd>
+								<dd>Item Weight: 400</dd>
+								<dd>Item Line Height: 30px</dd>
 								<dd>Indent: 20px</dd>
 								<!-- -->
-								<dt>Collapsed Folder Containg Selection</dt>
-								<dd>Icon: wizard_completed.png</dd>
+								<dt>Icons</dt>
+								<dd>New Window: open_in.svg</dd>
+								<dd>Collapsed Folder With Selected Item: wizard_completed.png</dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>States</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Hover</dt>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<!-- -->
+								<dt>Selected</dt>
+								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
 							</dl>
 						</dd>
 						<!-- -->

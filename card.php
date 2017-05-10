@@ -33,7 +33,7 @@
 					<dl class="dl_root">
 						<dt>Panel</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Locked Background: #F5F9FC</dd>
+						<dd>Locked Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 						<dd>Angular Shadow: 2dp</dd>
 						<dd>Padding: 16px</dd>

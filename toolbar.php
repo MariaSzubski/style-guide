@@ -33,13 +33,13 @@
 						<dt>Container</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Height: 42px</dd>
-						<dd>Divider: 1px #DDE6ED</dd>
+						<dd>Divider: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>Contents</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Text Buttons</dt>
-								<dd>Text: 13px (10pt) #354052</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Icons</dt>

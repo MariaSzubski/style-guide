@@ -35,8 +35,8 @@
 						<dd>Angular Shadow: 4dp</dd>
 						<!-- -->
 						<dt>Menu Icon</dt>
-						<dd>Background: #354052</dd>
-						<dd>Icon Color: #EDEEF0</dd>
+						<dd>Background: <span title="Gray 800" class="theme">#354052</span></dd>
+						<dd>Icon Color: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 						<dd>Corner Radius: 4px</dd>
 					</dl>
 				</aside>

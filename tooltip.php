@@ -31,7 +31,7 @@
 						<dd>Background: #FFFFFF</dd>
 						<dd>Corner Radius: 4px</dd>
 						<dd>Padding: 16px</dd>
-						<dd>Text: 13px (9pt) #151921</dd>
+						<dd>Text: 13px (9pt) <span title="Gray 900" class="theme">#151921</span></dd>
 						<dd>Box Shadow: 0px 2px 3px rgba(0,0,0,.45)</dd>
 						<dd>Angular Shadow: 4dp</dd>
 					</dl>

@@ -41,22 +41,22 @@
 						<dd>
 							<dl class="sub">
 								<dt>Green (Positive)</dt>
-								<dd>Text Color: #1D8D0C</dd>
-								<dd>Background: #B6EEAF</dd>
-								<dd>Icon Background: #D0F7CC</dd>
-								<dd>Border: 1px #23A60F</dd>
+								<dd>Text Color: <span title="Green 700" class="theme">#1D8D0C</span></dd>
+								<dd>Background: <span title="Green 100" class="theme">#B6EEAF</span></dd>
+								<dd>Icon Background: <span title="Green 50" class="theme">#D0F7CC</span></dd>
+								<dd>Border: 1px <span title="Green 600" class="theme">#23A60F</span></dd>
 								<!-- -->
 								<dt>Yellow (Warning)</dt>
-								<dd>Text Color: #E67219</dd>
-								<dd>Background: #FFEEBA</dd>
-								<dd>Icon Background: #FFF7DE</dd>
-								<dd>Border: 1px #F29100</dd>
+								<dd>Text Color: <span title="Yellow 700" class="theme">#E67219</span></dd>
+								<dd>Background: <span title="Yellow 100" class="theme">#FFEEBA</span></dd>
+								<dd>Icon Background: <span title="Yellow 50" class="theme">#FFF7DE</span></dd>
+								<dd>Border: 1px <span title="Yellow 600" class="theme">#F29100</span></dd>
 								<!-- -->
 								<dt>Red (Error)</dt>
-								<dd>Text Color: #DD0014</dd>
-								<dd>Background: #FFC9CC</dd>
-								<dd>Icon Background: #FCE1E1</dd>
-								<dd>Border: 1px #FA4F4F</dd>
+								<dd>Text Color: <span title="Red 500" class="theme">#DD0014</span></dd>
+								<dd>Background: <span title="Red 100" class="theme">#FFC9CC</span></dd>
+								<dd>Icon Background: <span title="Red 50" class="theme">#FCE1E1</span></dd>
+								<dd>Border: 1px <span title="Red 400" class="theme">#FA4F4F</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -71,12 +71,12 @@
 								<dd>Margin Between Notifications: 10px</dd>
 								<!-- -->
 								<dt>Header</dt>
-								<dd>Text: 15px (11pt) #354052</dd>
+								<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 600</dd>
 								<dd>Line Height: 20px</dd>
 								<!-- -->
 								<dt>Description</dt>
-								<dd>Text: 13px (10pt) #354052</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Line Height: 20px</dd>
 							</dl>
 						</dd>

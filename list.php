@@ -26,28 +26,28 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Label</dt>
-						<dd>Text: 15px (11pt) #354052</dd>
+						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Weight: 700</dd>
 						<dd>Margin Between Groups: 32px</dd>
 						<!-- -->
 						<dt>List Items</dt>
-						<dd>Text: 13px (10pt) #151921</dd>
+						<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 						<dd>Weight: 400</dd>
 						<dd>Line Height: 24px</dd>
 						<!-- -->
 						<dt>Dividers</dt>
-						<dd>1px #DDE6ED</dd>
+						<dd>1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Hover</dt>
-								<dd>Background: #D4EEFD</dd>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<!-- -->
 								<dt>Selected</dt>
-								<dd>Background: #EDEEF0</dd>
-								<dd>Border-Bottom: 2px #354052</dd>
-								<dd>Optional Background for Multi-Select: #FFEEBA (Yellow)</dd>
+								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
 							</dl>
 						</dd>
 					</dl>

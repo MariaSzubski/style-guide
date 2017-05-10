@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Button</title>
+	<title id="title">NX Guidelines - Button (Flat)</title>
 	<link rel="stylesheet" href="css/build/style.css" charset="utf-8">
 </head>
 <body>
@@ -23,6 +23,8 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="button_raised.php">Raised Button Component</a></dd>
+						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
+						<dd class="pg_link"><a href="p_button.php">Button Patterns</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
@@ -59,32 +61,32 @@
 						<dd>
 							<dl class="sub">
 								<dt>Primary</dt>
-								<dd>Static: #0098F3</dd>
-								<dd>Hover: #007BC5</dd>
-								<dd>Selected Text: #00568B</dd>
-								<dd>Selected BG: #B4E0FC</dd>
-								<dd>Disabled: #B4E0FC</dd>
+								<dd>Static: <span title="Blue 500" class="theme">#0098F3</span></dd>
+								<dd>Hover: <span title="Blue 700" class="theme">#007BC5</span></dd>
+								<dd>Selected Text: <span title="Blue 900" class="theme">#00568B</span></dd>
+								<dd>Selected BG: <span title="Blue 100" class="theme">#B4E0FC</span></dd>
+								<dd>Disabled: <span title="Blue 100" class="theme">#B4E0FC</span></dd>
 								<!-- -->
 								<dt>Accent</dt>
-								<dd>Static: #26B810</dd>
-								<dd>Hover: #1D8D0C</dd>
-								<dd>Selected Text: #135807</dd>
-								<dd>Selected BG: #B6EEAF</dd>
-								<dd>Disabled: #B6EEAF</dd>
+								<dd>Static: <span title="Green 500" class="theme">#26B810</span></dd>
+								<dd>Hover: <span title="Green 700" class="theme">#1D8D0C</span></dd>
+								<dd>Selected Text: <span title="Green 900" class="theme">#135807</span></dd>
+								<dd>Selected BG: <span title="Green 100" class="theme">#B6EEAF</span></dd>
+								<dd>Disabled: <span title="Green 100" class="theme">#B6EEAF</span></dd>
 								<!-- -->
 								<dt>Secondary</dt>
-								<dd>Static: #5D6574</dd>
-								<dd>Hover: #151921</dd>
-								<dd>Selected Text: #151921</dd>
-								<dd>Selected BG: #D5D7DB</dd>
-								<dd>Disabled: #D5D7DB</dd>
+								<dd>Static: <span title="Gray 700" class="theme">#5D6574</span></dd>
+								<dd>Hover: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Selected Text: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Selected BG: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+								<dd>Disabled: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 								<!-- -->
 								<dt>Tertiary</dt>
-								<dd>Static: #9BAAB8</dd>
-								<dd>Hover: #79818C</dd>
-								<dd>Selected Text: 	#79818C</dd>
-								<dd>Selected BG: #EDEEF0</dd>
-								<dd>Disabled: #D5D7DB</dd>
+								<dd>Static: <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Hover: <span title="Gray 600" class="theme">#79818C</span></dd>
+								<dd>Selected Text: 	<span title="Gray 600" class="theme">#79818C</span></dd>
+								<dd>Selected BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Disabled: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 							</dl>
 						</dd>
 					</dl>

@@ -29,7 +29,7 @@
 						<dt>Nav Bar</dt>
 						<dd>Height: 42px</dd>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Top: 1px #DDE6ED</dd>
+						<dd>Border-Top: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Tab Alignment: Center</dd>
 						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
 						<!-- -->
@@ -43,11 +43,11 @@
 								<dd>Margin Between Tabs: 16px</dd>
 								<!-- -->
 								<dt>Unselected</dt>
-								<dd>Text Color: #0098F3</dd>
+								<dd>Text Color: <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<!-- -->
 								<dt>Selected</dt>
-								<dd>Text Color: #151921</dd>
-								<dd>Border-Bottom: 2px #151921</dd>
+								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
+								<dd>Border-Bottom: 2px <span title="Gray 900" class="theme">#151921</span></dd>
 							</dl>
 						</dd>
 					</dl>

@@ -25,13 +25,13 @@
 						<dd>
 							<dl class="sub">
 								<dt>Unselected Page</dt>
-								<dd>Text: 13px (10pt) #0098F3</dd>
+								<dd>Text: 13px (10pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Alignment: Centered</dd>
 								<!-- -->
 								<dt>Selected Page</dt>
-								<dd>Text: 13px (10pt) #EDEEF0</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Alignment: Centered</dd>
-								<dd>Background: #354052</dd>
+								<dd>Background: <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Corner Radius: 4px</dd>
 								<dd>Padding: 16px</dd>
 								<dd>Height: 28px</dd>
@@ -42,12 +42,12 @@
 						<dd>
 							<dl class="sub">
 								<dt>Label</dt>
-								<dd>Text: 12px (9pt) #9BAAB8</dd>
+								<dd>Text: 12px (9pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Field</dt>
-								<dd>Border: 1px #9BAAB8</dd>
-								<dd>Text Color: #151921</dd>
+								<dd>Border: 1px <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Height: 28px</dd>
 							</dl>
 						</dd>

@@ -47,22 +47,22 @@
 							<dl class="sub">
 								<dt>App Name</dt>
 								<dd>Text: Knockout 26px (20pt)</dd>
-								<dd>Color: #354052</dd>
+								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 48 Featherweight</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Page Name</dt>
 								<dd>Text: Knockout 26px (20pt)</dd>
-								<dd>Color: #354052</dd>
+								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 28 Junionr Featherweight</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>Size: 16px</dd>
 								<dd>Margin Between Icons: 24px</dd>
-								<dd>Color: #354052</dd>
-								<dd>Selected Color: #EDEEF0</dd>
-								<dd>Selected BG: #354052</dd>
+								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Selected Color: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Selected Square: 24px</dd>
 								<!-- -->
 								<dt>N Square</dt>

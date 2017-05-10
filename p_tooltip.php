@@ -31,11 +31,11 @@
 						<dd>
 							<dl class="sub">
 								<dt>Dark</dt>
-								<dd>Text: 13px (10pt) #EDEEF0</dd>
-								<dd>Background: #354052</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Background: <span title="Gray 800" class="theme">#354052</span></dd>
 								<!-- -->
 								<dt>Light</dt>
-								<dd>Text: 13px (10pt) #151921</dd>
+								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: #FFFFFF</dd>
 							</dl>
 						</dd>

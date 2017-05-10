@@ -27,8 +27,8 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Styles</dt>
-						<dd>Group Divider: 1px #BBCCDD</dd>
-						<dd>Highlighted Background: #DDE6ED</dd>
+						<dd>Group Divider: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+						<dd>Highlighted Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Select Arrow: select.svg</dd>
 					</dl>
 				</aside>

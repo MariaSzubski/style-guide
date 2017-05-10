@@ -29,6 +29,7 @@
 		<ul>
 			<li class="<?php echo ($current == "button_raised.php" ? "selected" : "")?>"><a href="button_raised.php">Button (Raised)</a></li>
 			<li class="<?php echo ($current == "button_flat.php" ? "selected" : "")?>"><a href="button_flat.php">Button (Flat)</a></li>
+			<li class="<?php echo ($current == "button_group.php" ? "selected" : "")?>"><a href="button_group.php">Button Group</a></li>
 			<li class="<?php echo ($current == "card.php" ? "selected" : "")?>"><a href="card.php">Card</a></li>
 			<li class="<?php echo ($current == "checkbox.php" ? "selected" : "")?>"><a href="checkbox.php">Checkbox</a></li>
 			<li class="<?php echo ($current == "chips.php" ? "selected" : "")?>"><a href="chips.php">Chips</a></li>
@@ -57,6 +58,7 @@
 		<summary><span>Patterns</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
+			<li class="<?php echo ($current == "p_button.php" ? "selected" : "")?>"><a href="p_button.php">Button</a></li>
 			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
 			<li class="<?php echo ($current == "p_chips.php" ? "selected" : "")?>"><a href="p_chips.php">Chips</a></li>

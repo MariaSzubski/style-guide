@@ -141,7 +141,7 @@ table.colors #g400{
   color:#354052;
 }
 table.colors #g500{
-  background-color:#9baab8;
+  background-color:#94a3b0;
   color:#354052;
 }
 table.colors #g600{
@@ -523,6 +523,13 @@ aside .sub dd{
 aside .note{
   text-indent:0;
   margin-left:-6px;
+}
+aside .theme{
+  cursor:help;
+  font-weight:600;
+}
+aside .theme:hover{
+  text-decoration:underline;
 }
 div.desc{
   position:absolute;

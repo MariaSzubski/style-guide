@@ -34,11 +34,11 @@
 						<dd class="note">Uses standard Input Component</dd>
 						<!-- -->
 						<dt>Opened Date Picker</dt>
-						<dd>Text Color: #151921</dd>
-						<dd>Weekday BG: #DDE6ED</dd>
-						<dd>Hover BG: #D4EEFD</dd>
+						<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
+						<dd>Weekday BG: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 						<dd>Selected Text: #354042</dd>
-						<dd>Selected BG: #EDEEF0</dd>
+						<dd>Selected BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 						<dd>
 							<dl class="sub">
 								<dt>&nbsp;</dt>

@@ -26,8 +26,8 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Divider</dt>
-						<dd>Primary: 1px #BBCCDD</dd>
-						<dd>Secondary: 1px #DDE6ED</dd>
+						<dd>Primary: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+						<dd>Secondary: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 					</dl>
 				</aside>
 			</div>
