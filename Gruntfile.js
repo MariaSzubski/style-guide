@@ -48,7 +48,7 @@ module.exports = function(grunt){
 		concat: {
 			css: {
 				src: 	['css/build/src/global.css','css/build/src/*.css',],
-				dest:	'css/build/style.css',
+				dest:	'css/build/style_v8-1.css',
 			},
 		},
 		uglify: {
