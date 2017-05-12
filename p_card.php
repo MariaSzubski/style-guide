@@ -58,14 +58,15 @@
 								<dt>Chips</dt>
 								<dd class="note">See Chips component</dd>
 								<!-- -->
-								<dt>Author Name &amp; Buttons</dt>
+								<dt>Author Name</dt>
 								<dd>Text: 13px (10pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Line Height: 20px</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
-								<dt>Primary Actions</dt>
+								<dt>Card Actions</dt>
 								<dd>Divider: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<dd>Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
+								<dd>Text: 13px (10pt) <span title="Gray 700" class="theme">#5D6574</span></dd>
 							</dl>
 						</dd>
 					</dl>
