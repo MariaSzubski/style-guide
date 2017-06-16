@@ -36,7 +36,7 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Field Measurements</dt>
-						<dd>Primary Input Height: 36px</dd>
+						<dd>Primary Input Height: <span title="36px" class="theme">2.25rem</span></dd>
 						<dd>Large Input Height: 45px</dd>
 						<dd>Padding: 16px</dd>
 						<dd>Margin Between Fields: 24px</dd>

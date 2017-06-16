@@ -41,7 +41,7 @@
 						<dt>Measurements</dt>
 						<dd>Left &amp; Right Padding: 12px</dd>
 						<dd>Default Row Height: 48px</dd>
-						<dd>Compact Row Height: 36px</dd>
+						<dd>Compact Row Height: <span title="36px" class="theme">2.25rem</span></dd>
 						<!-- -->
 						<dt>Content</dt>
 						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>

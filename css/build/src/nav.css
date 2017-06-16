@@ -18,7 +18,54 @@ header #icon_ntab{
   right:24px;
   margin:auto;
 }
-nav{
+header .btn-group{
+  position:absolute;
+  right:76px;
+  margin:8px 0;
+  color:#989ea7;
+}
+header .btn-group,header button{
+  font-size:13px;
+  font-size:.8125rem;
+  font-weight:600;
+  text-transform:uppercase;
+}
+header button{
+  display:inline-block;
+  border-radius:.25rem;
+  padding:5px 12px;
+  padding:.3125rem .75rem;
+  background:#94a3b0;
+  color:#989ea7;
+  color:#edeff0;
+  text-align:center;
+  vertical-align:middle;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+      -ms-user-select:none;
+          user-select:none;
+  cursor:pointer;
+  outline:none;
+  -webkit-transition:background-color .4s ease;
+  transition:background-color .4s ease;
+}
+header button:first-of-type{
+  border-top-right-radius:0;
+  border-bottom-right-radius:0;
+}
+header button:last-of-type{
+  margin-left:1px;
+  border-top-left-radius:0;
+  border-bottom-left-radius:0;
+}
+header button:hover{
+  background-color:#5d6574;
+}
+header button.btn-selected,header button:hover{
+  -webkit-transition:background-color .4s ease;
+  transition:background-color .4s ease;
+}
+header button.btn-selected,nav{
   background-color:#354052;
 }
 nav header{

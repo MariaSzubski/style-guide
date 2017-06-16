@@ -74,7 +74,7 @@
 								<dd>Background: #FFFFFF</dd>
 								<dd>Border: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<dd>Corner Radius: 4px</dd>
-								<dd>Height: 36px</dd>
+								<dd>Height: <span title="36px" class="theme">2.25rem</span></dd>
 							</dl>
 						</dd>
 						<!-- -->

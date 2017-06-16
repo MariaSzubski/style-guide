@@ -37,7 +37,7 @@
 								<dd>Radio Button Size: 16px</dd>
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400 or 700</dd>
-								<dd>Line Height: 36px</dd>
+								<dd>Line Height: <span title="36px" class="theme">2.25rem</span></dd>
 								<!-- -->
 								<dt>Large</dt>
 								<dd>Radio Button Size: 24px</dd>

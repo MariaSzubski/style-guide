@@ -17,6 +17,49 @@ header{
 		right: 24px;
 		margin: auto;
 	}
+
+	.btn-group{
+		position: absolute;
+		right: 76px;
+		margin: 8px 0px;
+		.text-label;
+	}
+
+	button{
+		display: inline-block;
+		border-radius: .25rem;
+		padding: 0.3125rem 0.75rem;
+		background: #94A3B0;
+		.text-label;
+		color: @white;
+		text-align: center;
+		vertical-align: middle;
+		user-select: none;
+		cursor: pointer;
+		outline: none;
+		transition: background-color .4s ease;
+
+		&:first-of-type{
+			border-top-right-radius: 0rem;
+			border-bottom-right-radius: 0rem;
+		}
+
+		&:last-of-type{
+			margin-left:1px;
+			border-top-left-radius: 0rem;
+			border-bottom-left-radius: 0rem;
+		}
+
+		&:hover{
+			background-color: #5D6574;
+			transition: background-color .4s ease;
+		}
+
+		&.btn-selected{
+			background-color: @navy;
+			transition: background-color .4s ease;
+		}
+	}
 }
 
 nav{

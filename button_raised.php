@@ -37,7 +37,7 @@
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Default</dt>
-								<dd>Height: 36px</dd>
+								<dd>Height: <span title="36px" class="theme">2.25rem</span></dd>
 								<dd>Padding: 24px</dd>
 								<dd>Margin: 12px</dd>
 								<dd>Text Size: 15px (11pt)</dd>
