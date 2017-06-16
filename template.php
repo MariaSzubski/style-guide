@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - %n</title>
-	<link rel="stylesheet" href="css/build/style_v8-1.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
@@ -20,6 +20,11 @@
 					<img src="img/guide/" alt="">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="toolbar.php">Toolbar Component</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt></dt>
 						<dd>

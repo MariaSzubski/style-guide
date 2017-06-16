@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Chips</title>
-	<link rel="stylesheet" href="css/build/style_v8-1.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
