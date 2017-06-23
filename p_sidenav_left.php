@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Sidenav (Left)</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Sidenav (Left) Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -40,15 +44,15 @@
 								<!-- -->
 								<dt>List View</dt>
 								<dd>Weight: 600</dd>
-								<dd>Line Height: 40px</dd>
-								<dd>Indent: 20px</dd>
+								<dd>Line Height: <span class="pxrem">40px</span></dd>
+								<dd>Indent: <span class="pxrem">20px</span></dd>
 								<!-- -->
 								<dt>Tree View</dt>
 								<dd>Folder Label Weight: 600</dd>
-								<dd>Folder Line Height: 40px</dd>
+								<dd>Folder Line Height: <span class="pxrem">40px</span></dd>
 								<dd>Item Weight: 400</dd>
-								<dd>Item Line Height: 30px</dd>
-								<dd>Indent: 20px</dd>
+								<dd>Item Line Height: <span class="pxrem">30px</span></dd>
+								<dd>Indent: <span class="pxrem">20px</span></dd>
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>New Window: open_in.svg</dd>

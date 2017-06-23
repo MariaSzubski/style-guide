@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Chips</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Chips</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -34,16 +38,16 @@
 						<dd>
 							<dl class="sub">
 								<dt>Large</dt>
-								<dd>Height: 24px</dd>
-								<dd>Corner Radius: 12px</dd>
-								<dd>Padding: 12px</dd>
+								<dd>Height: <span class="pxrem">24px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">12px</span></dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
 								<dd>Text: 13px (10pt) <span title="Gray 600" class="theme">#79818C</span></dd>
-								Margin Between Chips: 5px
+								Margin Between Chips: <span class="pxrem">5px</span>
 								<!-- -->
 								<dt>Small</dt>
-								<dd>Height: 18px</dd>
-								<dd>Corner Radius: 9px</dd>
-								<dd>Padding: 10px</dd>
+								<dd>Height: <span class="pxrem">18px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">9px</span></dd>
+								<dd>Padding: <span class="pxrem">10px</span></dd>
 								<dd>Text: 11px (8pt) <span title="Gray 600" class="theme">#79818C</span></dd>
 							</dl>
 						</dd>
@@ -52,7 +56,7 @@
 						<dd>
 							<dl class="sub">
 								<dt>Default</dt>
-								<dd>Border: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<dd>Background: #FFFFFF</dd>
 								<!-- -->
 								<dt>Hover</dt>

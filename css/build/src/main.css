@@ -131,6 +131,31 @@ aside .theme{
 aside .theme:hover{
   text-decoration:underline;
 }
+.desc_pattern{
+  width:auto;
+  max-width:600px;
+  min-width:392px;
+  margin:0 auto;
+}
+.desc_pattern h2{
+  color:#0098f3;
+  font-size:32px;
+  font-size:2rem;
+  font-weight:400;
+  line-height:2;
+  text-transform:uppercase;
+}
+.desc_pattern p{
+  width:auto;
+  color:#464646;
+  font-size:20px;
+  font-size:1.25rem;
+  line-height:1.6;
+  font-weight:400;
+  font-size:15px;
+  font-size:.9375rem;
+  margin-bottom:16px;
+}
 div.desc{
   position:absolute;
   top:20%;

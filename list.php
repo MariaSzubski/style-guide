@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - List</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">List</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -28,12 +32,12 @@
 						<dt>Label</dt>
 						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Weight: 700</dd>
-						<dd>Margin Between Groups: 32px</dd>
+						<dd>Margin Between Groups: <span class="pxrem">32px</span></dd>
 						<!-- -->
 						<dt>List Items</dt>
 						<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 						<dd>Weight: 400</dd>
-						<dd>Line Height: 24px</dd>
+						<dd>Line Height: <span class="pxrem">24px</span></dd>
 						<!-- -->
 						<dt>Dividers</dt>
 						<dd>1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>

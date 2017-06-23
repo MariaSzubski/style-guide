@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Tabs</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Tabs</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -39,19 +43,19 @@
 						<dd>
 							<dl class="sub">
 								<dt>Bar</dt>
-								<dd>Height: 42px</dd>
+								<dd>Height: <span class="pxrem">42px</span></dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border-Bottom: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Border-Bottom: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
 								<dd>Text: 15px (11pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Capitalize</dd>
-								<dd>Padding: 12px</dd>
-								<dd>Margin Between Tabs: 16px</dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Select State</dt>
 								<dd>Text &amp; Border Color: <span title="Gray 900" class="theme">#151921</span></dd>
-								<dd>Border-Bottom: 2px</dd>
+								<dd>Border-Bottom: <span class="pxrem">2px</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -59,22 +63,22 @@
 						<dd>
 							<dl class="sub">
 								<dt>Bar</dt>
-								<dd>Height: 45px</dd>
+								<dd>Height: <span class="pxrem">45px</span></dd>
 								<dd>Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
-								<dd>Border-Bottom: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Border-Bottom: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
 								<dd>Text: 12px (9pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Uppercase</dd>
-								<dd>Padding: 12px</dd>
-								<dd>Margin Between Tabs: 16px</dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Select State</dt>
 								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
-								<dd>Corner Radius: 4px</dd>
-								<dd>Height: <span title="36px" class="theme">2.25rem</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
+								<dd>Height: <span class="pxrem">36px</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -82,21 +86,21 @@
 						<dd>
 							<dl class="sub">
 								<dt>Bar</dt>
-								<dd>Height: 45px</dd>
+								<dd>Height: <span class="pxrem">45px</span></dd>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border-Bottom: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Border-Bottom: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<!-- -->
 								<dt>Tabs</dt>
 								<dd>Text: 13px (10pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Capitalize</dd>
-								<dd>Padding: 12px</dd>
-								<dd>Margin Between Tabs: 16px</dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Select State</dt>
 								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
-								<dd>Border: 2px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
-								<dd>Box Height: 24px</dd>
+								<dd>Border: <span class="pxrem">2px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Box Height: <span class="pxrem">24px</span></dd>
 							</dl>
 						</dd>
 					</dl>

@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Button (Raised)</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Button (Raised)</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -32,28 +36,28 @@
 						<dd>
 							<dl class="sub">
 								<dt>All Buttons</dt>
-								<dd>Corner Radius: 4px</dd>
+								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
 								<dd>Text Color: #FFFFFF</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Default</dt>
-								<dd>Height: <span title="36px" class="theme">2.25rem</span></dd>
-								<dd>Padding: 24px</dd>
-								<dd>Margin: 12px</dd>
+								<dd>Height: <span class="pxrem">36px</span></dd>
+								<dd>Padding: <span class="pxrem">24px</span></dd>
+								<dd>Margin: <span class="pxrem">12px</span></dd>
 								<dd>Text Size: 15px (11pt)</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Large</dt>
-								<dd>Height: 64px</dd>
-								<dd>Padding: 32px</dd>
-								<dd>Margin: 20px</dd>
+								<dd>Height: <span class="pxrem">64px</span></dd>
+								<dd>Padding: <span class="pxrem">32px</span></dd>
+								<dd>Margin: <span class="pxrem">20px</span></dd>
 								<dd>Text Size: 30px (23pt)</dd>
 								<dd>Weight: 400</dd>
 								<!-- -->
 								<dt>Small</dt>
-								<dd>Height: 28px</dd>
-								<dd>Padding: 12px</dd>
-								<dd>Margin: 10px</dd>
+								<dd>Height: <span class="pxrem">28px</span></dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Margin: <span class="pxrem">10px</span></dd>
 								<dd>Text Size: 13px (10pt)</dd>
 								<dd>Weight: 600</dd>
 							</dl>

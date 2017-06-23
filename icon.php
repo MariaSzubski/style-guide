@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Icon</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Icon</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -43,17 +47,17 @@
 								<dd>Light: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Background Square: <span title="Gray 800" class="theme">#354052</span></dd>
 								<!-- -->
-								<dt>Background Square @ 32px</dt>
-								<dd>Padding: 12px</dd>
-								<dd>Corner Radius: 8px</dd>
+								<dt>Background Square @ <span class="pxrem">32px</span></dt>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">8px</span></dd>
 								<!-- -->
-								<dt>Background Square @ 16px</dt>
-								<dd>Padding: 6px</dd>
-								<dd>Corner Radius: 4px</dd>
+								<dt>Background Square @ <span class="pxrem">16px</span></dt>
+								<dd>Padding: <span class="pxrem">6px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
 							</dl>
 						</dd>
 						<dt>App Icons</dt>
-						<dd>Box Shadow:	0px 1px 2px rgba(0,0,0,0.45)</dd>
+						<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,0.45)</dd>
 						<dd>Angular Shadow: 2dp</dd>
 					</dl>
 				</aside>

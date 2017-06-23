@@ -4,13 +4,17 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Reporting Palette</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 	<link rel="stylesheet" href="css/build/src/colors.css" charset="utf-8">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Reporting Palette</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>

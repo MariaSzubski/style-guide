@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Dialog</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Dialog Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -59,7 +63,7 @@
 								<dt>Description</dt>
 								<dd>Text: 15px (11pt) <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Text Alignment: Centered</dd>
-								<dd>Line Height: 25px</dd>
+								<dd>Line Height: <span class="pxrem">25px</span></dd>
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>Back/Forward: <span title="Blue 500" class="theme">#0098F3</span></dd>

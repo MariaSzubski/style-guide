@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Button Group</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Button Group</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -37,17 +41,17 @@
 								<dd class="note">Use Secondary or Tertiary Raised button style.</dd>
 								<!-- -->
 								<dt>Dividers</dt>
-								<dd>Secondary Group: 1px #FFFFFF</dd>
-								<dd>Tertiary Group: 1px <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Secondary Group: <span class="pxrem">1px</span> #FFFFFF</dd>
+								<dd>Tertiary Group: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
 							</dl>
 						</dd>
 					</dl>
 				</aside>
 			</div>
-			</div>
-		</article>
-	</main>
-	<?php require 'template/nav.inc.php'; ?>
-	<?php require 'template/scripts.inc.php'; ?>
+		</div>
+	</article>
+</main>
+<?php require 'template/nav.inc.php'; ?>
+<?php require 'template/scripts.inc.php'; ?>
 </body>
 </html>

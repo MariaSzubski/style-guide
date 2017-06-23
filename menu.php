@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Menu</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Menu</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -35,13 +39,13 @@
 					<dl class="dl_root">
 						<dt>Container</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
-						<dd>Optional Dividers: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
+						<dd>Optional Dividers: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>Measurements</dt>
-						<dd>Left &amp; Right Padding: 12px</dd>
-						<dd>Default Row Height: 48px</dd>
-						<dd>Compact Row Height: <span title="36px" class="theme">2.25rem</span></dd>
+						<dd>Left &amp; Right Padding: <span class="pxrem">12px</dd>
+						<dd>Default Row Height: <span class="pxrem">48px</dd>
+						<dd>Compact Row Height: <span class="pxrem">36px</span></dd>
 						<!-- -->
 						<dt>Content</dt>
 						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>

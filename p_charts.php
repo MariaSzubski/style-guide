@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Charts</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Chart Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -43,8 +47,8 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Chart</dt>
-						<dd>Primary Axis: 2px <span title="Gray 900" class="theme">#151921</span></dd>
-						<dd>Secondary Axis: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Primary Axis: <span class="pxrem">2px</span> <span title="Gray 900" class="theme">#151921</span></dd>
+						<dd>Secondary Axis: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Background Color: #FFFFFF</dd>
 						<!-- -->
 						<dt>Axis Label</dt>
@@ -66,7 +70,6 @@
 								<!-- -->
 								<dt>Vertical Axis Lines</dt>
 								<dd class="note">Use vertical axis lines when more than one data point is grouped on a single x-axis label.</dd>
-
 							</dl>
 						</dd>
 					</dl>

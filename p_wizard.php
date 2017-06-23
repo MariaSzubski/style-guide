@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Wizard</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Wizard Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -26,8 +30,8 @@
 						<dd>Case: Uppercase</dd>
 						<dd>Weight: 600</dd>
 						<dd>Alignment: Centered</dd>
-						<dd>Borders: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
-						<dd>Height: 42px</dd>
+						<dd>Borders: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+						<dd>Height: <span class="pxrem">42px</span></dd>
 						<!-- -->
 						<dt>States</dt>
 						<dd>

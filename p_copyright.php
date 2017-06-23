@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Copyright</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Copyright Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -31,14 +35,14 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>In Sidenav</dt>
-						<dd>Divider: 1px #495970</dd>
+						<dd>Divider: <span class="pxrem">1px</span> #495970</dd>
 						<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
-						<dd>Line height: 15px</dd>
+						<dd>Line height: <span class="pxrem">15px</span></dd>
 						<dd>Links: Underline</dd>
 						<dd>Nielsen Logo: nielsen_logo.svg</dd>
 						<!-- -->
 						<dt>In Page Footer</dt>
-						<dd>Minimum Height: 30px</dd>
+						<dd>Minimum Height: <span class="pxrem">30px</span></dd>
 						<dd>Background Color: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Text: 11px (8pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Alignment: Centered</dd>

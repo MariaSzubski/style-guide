@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; App Bar</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">App Bar Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -29,15 +33,15 @@
 						<dd>
 							<dl class="sub">
 								<dt>Data Texture</dt>
-								<dd>Height: 5px</dd>
+								<dd>Height: <span class="pxrem">5px</span></dd>
 								<dd class="note">Texture: app_bar_texture.png</dd>
 								<!-- -->
 								<dt>Toolbar</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Height: 50px</dd>
-								<dd>Padding-Left: 13px</dd>
-								<dd>Padding-Right: 24px</dd>
-								<dd>Box Shadow: 0px 2px 3px rgba(0,0,0,.25)</dd>
+								<dd>Height: <span class="pxrem">50px</span></dd>
+								<dd>Padding-Left: <span class="pxrem">13px</span></dd>
+								<dd>Padding-Right: <span class="pxrem">24px</span></dd>
+								<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">2px</span> <span class="pxrem">3px</span> rgba(0,0,0,.25)</dd>
 								<dd>Angular Shadow: 4dp</dd>
 							</dl>
 						</dd>
@@ -58,12 +62,12 @@
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Icons</dt>
-								<dd>Size: 16px</dd>
-								<dd>Margin Between Icons: 24px</dd>
+								<dd>Size: <span class="pxrem">16px</span></dd>
+								<dd>Margin Between Icons: <span class="pxrem">24px</span></dd>
 								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Selected Color: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Selected Square: 24px</dd>
+								<dd>Selected Square: <span class="pxrem">24px</span></dd>
 								<!-- -->
 								<dt>N Square</dt>
 								<dd>Size: 24px</dd>

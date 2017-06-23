@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Tooltip</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Tooltip Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -43,7 +47,7 @@
 						<dd>
 							<dl class="sub">
 								<dt>Accent Color</dt>
-								<dd>Border: 2px #FFFFFF</dd>
+								<dd>Border: <span class="pxrem">2px</span> #FFFFFF</dd>
 								<dd>Background: Matches Data</dd>
 								<!-- -->
 								<dt>Data Value</dt>
@@ -53,7 +57,7 @@
 								<dd>Text: 12px (9pt)</dd>
 								<dd>Case: Uppercase</dd>
 								<dd>Weight: 600</dd>
-								<dd>Line Height: 20px</dd>
+								<dd>Line Height: <span class="pxrem">20px</span></dd>
 							</dl>
 						</dd>
 					</dl>

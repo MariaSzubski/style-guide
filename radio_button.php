@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Radio Button</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Radio Button</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -34,16 +38,16 @@
 						<dd>
 							<dl class="sub">
 								<dt>Small</dt>
-								<dd>Radio Button Size: 16px</dd>
+								<dd>Radio Button Size: <span class="pxrem">16px</span></dd>
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400 or 700</dd>
-								<dd>Line Height: <span title="36px" class="theme">2.25rem</span></dd>
+								<dd>Line Height: <span class="pxrem">36px</span></dd>
 								<!-- -->
 								<dt>Large</dt>
-								<dd>Radio Button Size: 24px</dd>
+								<dd>Radio Button Size: <span class="pxrem">24px</span></dd>
 								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400 or 700</dd>
-								<dd>Line Height: 48px</dd>
+								<dd>Line Height: <span class="pxrem">48px</span></dd>
 							</dl>
 						</dd>
 						<!-- -->

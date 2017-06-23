@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Nav Bar</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Nav Bar</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -27,11 +31,11 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Nav Bar</dt>
-						<dd>Height: 42px</dd>
+						<dd>Height: <span class="pxrem">42px</span></dd>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Border-Top: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Border-Top: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<dd>Tab Alignment: Center</dd>
-						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
 						<dd>Angular Equivalent: 2dp</dd>
 						<!-- -->
 						<dt>States</dt>
@@ -40,8 +44,8 @@
 								<dt>All Tabs</dt>
 								<dd>Text: 15px (11pt)</dd>
 								<dd>Case: Capitalize</dd>
-								<dd>Padding: 12px
-								<dd>Margin Between Tabs: 16px</dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Unselected</dt>
 								<dd>Text Color: <span title="Blue 500" class="theme">#0098F3</span></dd>

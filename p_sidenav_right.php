@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines &ndash; Patterns &ndash; Sidenav (Right)</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Sidenav (Right) Patterns</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -35,9 +39,9 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Title</dt>
-						<dd>Text: 20px (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
+						<dd>Text: <span class="pxrem">20px</span> (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
 						<dd>Weight: 600</dd>
-						<dd>Border-Bottom: 1px <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+						<dd>Border-Bottom: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 						<!-- -->
 						<dt>Snippet</dt>
 						<!-- -->
@@ -47,14 +51,14 @@
 								<dd>Text: 15px (11pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Weight: 700</dd>
-								<dd>Line Height: 20px</dd>
+								<dd>Line Height: <span class="pxrem">20px</span></dd>
 								<!-- -->
 								<dt>Subheader &amp; Description</dt>
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Link Color:	<span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Weight: 400</dd>
-								<dd>Line Height: 20px</dd>
-								<dd>Divider: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Line Height: <span class="pxrem">20px</span></dd>
+								<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -81,13 +85,13 @@
 						<dd>
 							<dl class="sub">
 								<dt>Icons</dt>
-								<dd>App Icon: 64px</dd>
-								<dd>Star Icon: 16px</dd>
+								<dd>App Icon: <span class="pxrem">64px</span></dd>
+								<dd>Star Icon: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Margins</dt>
-								<dd>Between Star &amp; App: 4px</dd>
-								<dd>Between App Rows: 40px</dd>
-								<dd>Panel Padding (L/R): 12px</dd>
+								<dd>Between Star &amp; App: <span class="pxrem">4px</span></dd>
+								<dd>Between App Rows: <span class="pxrem">40px</span></dd>
+								<dd>Panel Padding (L/R): <span class="pxrem">12px</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
@@ -95,13 +99,13 @@
 						<dd>
 							<dl class="sub">
 								<dt>Icons</dt>
-								<dd>App Icon: 48px</dd>
-								<dd>Star Icon: 16px</dd>
+								<dd>App Icon: <span class="pxrem">48px</span></dd>
+								<dd>Star Icon: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Margins</dt>
-								<dd>Between Star &amp; App: 4px</dd>
-								<dd>Between App Rows: 12px</dd>
-								<dd>Panel Padding (L/R): 12px</dd>
+								<dd>Between Star &amp; App: <span class="pxrem">4px</span></dd>
+								<dd>Between App Rows: <span class="pxrem">12px</span></dd>
+								<dd>Panel Padding (L/R): <span class="pxrem">12px</span></dd>
 							</dl>
 						</dd>
 					</dl>

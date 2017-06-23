@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Input</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Input</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -36,10 +40,10 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>Field Measurements</dt>
-						<dd>Primary Input Height: <span title="36px" class="theme">2.25rem</span></dd>
-						<dd>Large Input Height: 45px</dd>
-						<dd>Padding: 16px</dd>
-						<dd>Margin Between Fields: 24px</dd>
+						<dd>Primary Input Height: <span class="pxrem">36px</span></dd>
+						<dd>Large Input Height: <span class="pxrem">45px</span></dd>
+						<dd>Padding: <span class="pxrem">16px</span></dd>
+						<dd>Margin Between Fields: <span class="pxrem">24px</span></dd>
 						<!-- -->
 						<dt>Text</dt>
 						<dd>
@@ -53,7 +57,7 @@
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Weight: 400</dd>
 								<dd>Error: <span title="Red 500" class="theme">#DD0014</span></dd>
-								<dd>Line Height: 20px</dd>
+								<dd>Line Height: <span class="pxrem">20px</span></dd>
 								<!-- -->
 								<dt>Input Text</dt>
 								<dd>Text Size: 13px (10pt)</dd>
@@ -68,19 +72,19 @@
 							<dl class="sub">
 								<dt>Default</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<!-- -->
 								<dt>Focus</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px <span title="Blue 500" class="theme">#0098F3</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<!-- -->
 								<dt>Error</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Border: 1px <span title="Red 500" class="theme">#DD0014</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Red 500" class="theme">#DD0014</span></dd>
 								<!-- -->
 								<dt>Disabled</dt>
 								<dd>Background: #F0F0F0</dd>
-								<dd>Border: 1px <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 							</dl>
 						</dd>
 					</dl>

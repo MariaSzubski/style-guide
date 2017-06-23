@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Card</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Card</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -34,15 +38,15 @@
 						<dt>Panel</dt>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Locked Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
-						<dd>Box Shadow: 0px 1px 2px rgba(0,0,0,.45)</dd>
+						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
 						<dd>Angular Shadow: 2dp</dd>
-						<dd>Padding: 16px</dd>
+						<dd>Padding: <span class="pxrem">16px</span></dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>Text: 15px (11pt)</dd>
 						<dd>Weight: 600</dd>
-						<dd>Line Height: 20px</dd>
-						<dd>Top Margin: 18px</dd>
+						<dd>Line Height: <span class="pxrem">20px</span></dd>
+						<dd>Top Margin: <span class="pxrem">18px</span></dd>
 					</dl>
 				</aside>
 			</div>

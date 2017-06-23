@@ -17,4 +17,4 @@
 	integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
 	crossorigin="anonymous"></script>
 <script src="js/build/modernizr.js" charset="utf-8"></script>
-<script src="js/build/js.js" charset="utf-8"></script>
+<script src="js/build/js_v8-2.js" charset="utf-8"></script>

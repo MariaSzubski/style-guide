@@ -4,12 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<title id="title">NX Guidelines - Toolbar</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css" charset="utf-8">
+	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Toolbar</h2>
+			<div class="btn-group" role="group">
+				Units:
+				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
+			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
 		</header>
@@ -32,8 +36,8 @@
 					<dl class="dl_root">
 						<dt>Container</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Height: 42px</dd>
-						<dd>Divider: 1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Height: <span class="pxrem">42px</span></dd>
+						<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>Contents</dt>
 						<dd>
@@ -43,8 +47,8 @@
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Icons</dt>
-								<dd>Size: 16px</dd>
-								<dd>Margin Between Icons: 24px</dd>
+								<dd>Size: <span class="pxrem">16px</span></dd>
+								<dd>Margin Between Icons: <span class="pxrem">24px</span></dd>
 							</dl>
 						</dd>
 					</dl>
