@@ -43,7 +43,7 @@
 								<dd class="note">See Button &amp; Tab Component</dd>
 								<!-- -->
 								<dt>Alert Header</dt>
-								<dd>Color: #FF8100</dd>
+								<dd>Color: <span title="Yellow 500" class="theme">#FFB100<span></dd>
 							</dl>
 						</dd>
 						<!-- -->

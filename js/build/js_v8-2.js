@@ -33,7 +33,7 @@ $(function(){
 			// ----------------- Guidlines
 			$('#container').remove();
 			$('#guidelines').load((url + ' #container'), function(){
-				toggle_pxrem(); // Check px/rem units
+				Modernizr.localstorage ? toggle_pxrem() : null; // Set px/rem units
 			}).hide().fadeIn(300);
 
 			// ----------------- Page Header
@@ -58,64 +58,61 @@ $(function(){
 			e.stopPropagation();
 			if (($(document ).width() < 1200) && (!$('nav').hasClass('default_state'))){
 					$('nav,main').toggleClass('default_state', 700, 'easeOutExpo').css('overflow', 'auto');
-
 			}
 		});
-
 	})();
 
 
-	// ----------------- PX to REM Conversion
+	// PX to REM Conversion
+	if (Modernizr.localstorage) {
+		// ----------------- On initial load: check local storange and convert units
+		toggle_pxrem();
 
-	// Convert units on initial load
-	toggle_pxrem();
+		// ----------------- On button press: update localStorage and convert units
+		(function pxrem(){
+			$('button').click(function(e){
+				$('button').toggleClass('btn-selected');
+				if ($('#size-px').hasClass('btn-selected')){
+					localStorage.setItem('pxrem', 'px');
+				}else{
+					localStorage.setItem('pxrem', 'rem');
+				}
+				convert();
+			});
+		})();
 
-	// Convert units on button press
-	(function pxrem(){
-		$('button').click(function(e){
-			$('button').toggleClass('btn-selected');
-			if ($('#size-px').hasClass('btn-selected')){
-				localStorage.setItem('pxrem', 'px');
-			}else{
-				localStorage.setItem('pxrem', 'rem');
-			}
+		// ----------------- Check local storange and convert units
+		function toggle_pxrem(){
+			$('.btn-group button').removeClass('btn-selected');
+			(localStorage.pxrem == 'rem') ?	$('#size-rem').addClass('btn-selected') : null;
+			(localStorage.pxrem == 'px') ? $('#size-px').addClass('btn-selected') : null;
 			convert();
-		});
-	})();
+		}
 
-	// Convert units on load
-	function toggle_pxrem(){
-		$('.btn-group button').removeClass('btn-selected');
-		(localStorage.pxrem == 'rem') ?	$('#size-rem').addClass('btn-selected') : null;
-		(localStorage.pxrem == 'px') ? $('#size-px').addClass('btn-selected') : null;
-		convert();
-	}
-
-	// Convert Units
-	function convert(){
-		if ($('#size-px').hasClass('btn-selected')){
-			$('.pxrem').each(function(){
-				let px = $(this).html();
-				if (px.includes('rem')) {
-					let px_arr = px.match(/[^rem]+|rem/g);
-					px_arr[0] = px_arr[0] * 16;
-					px_arr[1] = 'px';
-					px = px_arr.join('');
-					$(this).html(px);
-				};
-			});
+		// ----------------- Convert units
+		function convert(){
+			// rem -> px
+			if ($('#size-px').hasClass('btn-selected')){
+				$('.pxrem').each(function(){
+					let px = $(this).html();
+					if (px.includes('rem')) {
+						let px_arr = px.match(/[^rem]+|rem/g);
+						px_arr[0] = px_arr[0] * 16;
+						px_arr[1] = 'px';
+						$(this).html(px_arr.join(''));
+					};
+				});
+			}
+			// px -> rem
+			else if ($('#size-rem').hasClass('btn-selected')){
+				$('.pxrem').each(function(){
+					let rem = $(this).html();
+					let rem_arr = rem.match(/[^px]+|px/g);
+					rem_arr[0] = rem_arr[0] / 16;
+					rem_arr[1] = 'rem';
+					$(this).html(rem_arr.join(''));
+				});
+			};
 		};
-
-		if ($('#size-rem').hasClass('btn-selected')){
-			$('.pxrem').each(function(){
-				let rem = $(this).html();
-				let rem_arr = rem.match(/[^px]+|px/g);
-				rem_arr[0] = rem_arr[0] / 16;
-				rem_arr[1] = 'rem';
-				rem = rem_arr.join('');
-				$(this).html(rem);
-			});
-		};
-
 	};
 });

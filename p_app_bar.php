@@ -58,7 +58,7 @@
 								<dt>Page Name</dt>
 								<dd>Text: Knockout 26px (20pt)</dd>
 								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Weight: 28 Junionr Featherweight</dd>
+								<dd>Weight: 28 Junior Featherweight</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Icons</dt>
