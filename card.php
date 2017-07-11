@@ -46,7 +46,7 @@
 						<dd>Text: 15px (11pt)</dd>
 						<dd>Weight: 600</dd>
 						<dd>Line Height: <span class="pxrem">20px</span></dd>
-						<dd>Top Margin: <span class="pxrem">18px</span></dd>
+						<dd>Padding from Top: <span class="pxrem">18px</span></dd>
 					</dl>
 				</aside>
 			</div>

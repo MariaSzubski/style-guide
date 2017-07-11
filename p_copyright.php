@@ -35,18 +35,26 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>In Sidenav</dt>
-						<dd>Divider: <span class="pxrem">1px</span> #495970</dd>
+						<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 						<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 						<dd>Line height: <span class="pxrem">15px</span></dd>
 						<dd>Links: Underline</dd>
 						<dd>Nielsen Logo: nielsen_logo.svg</dd>
 						<!-- -->
 						<dt>In Page Footer</dt>
-						<dd>Minimum Height: <span class="pxrem">30px</span></dd>
-						<dd>Background Color: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
-						<dd>Text: 11px (8pt) <span title="Gray 800" class="theme">#354052</span></dd>
-						<dd>Alignment: Centered</dd>
-						<dd>Links: Underline</dd>
+						<dd>
+							<dl class="sub">
+								<dt>Styles</dt>
+								<dd>Minimum Height: <span class="pxrem">30px</span></dd>
+								<dd>Background Color: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Text: 11px (8pt) <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Alignment: Centered</dd>
+								<dd>Links: Underline</dd>
+								<!-- -->
+								<dt>Position</dt>
+								<dd class="note">Copyright footer is displayed at the bottom of the page content and should not have a fixed position in the browser window. window.</dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>

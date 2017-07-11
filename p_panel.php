@@ -33,6 +33,7 @@
 						<dt>Panel</dt>
 						<dd class="note">See Card Component</dd>
 						<dd>Padding: <span class="pxrem">24px</span></dd>
+						<dd>Margin: <span class="pxrem">24px</span></dd>
 						<!-- -->
 						<dt>Title</dt>
 						<dd>Text: 20px (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
