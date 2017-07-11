@@ -115,4 +115,15 @@ $(function(){
 			};
 		};
 	};
+
+	// Navigation Menus localStorage
+	(function details_menu(){
+		$('details').click(function(e){
+			if ($(e).hasAttr('btn-selected')){
+				localStorage.setItem('pxrem', 'px');
+			}else{
+				localStorage.setItem('pxrem', 'rem');
+			}
+		});
+	})();
 });

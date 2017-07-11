@@ -65,6 +65,7 @@
 			<li class="<?php echo ($current == "p_chips.php" ? "selected" : "")?>"><a href="p_chips.php">Chips</a></li>
 			<li class="<?php echo ($current == "p_content.php" ? "selected" : "")?>"><a href="p_content.php">Content</a></li>
 			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
+			<li class="<?php echo ($current == "p_data_context_picker.php" ? "selected" : "")?>"><a href="p_data_context_picker.php">Data Context Picker</a></li>
 			<li class="<?php echo ($current == "p_dialog.php" ? "selected" : "")?>"><a href="p_dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>

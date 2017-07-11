@@ -35,6 +35,17 @@ article{
 	& h2{
 		.text-section;
 		text-align: center;
+		position: relative;
+	}
+	
+	& h2::before{
+		content: '';
+		width: 100%;
+		border-top: solid 1px @white;
+		position: absolute;
+		left: 0;
+		top: 0;
+		z-index: 1;
 	}
 
 	& h4{
@@ -53,18 +64,6 @@ article{
 	}
 	& .full{
 		width: 100%;
-		& h2{
-			position: relative;
-		}
-		& h2::before{
-			content: '';
-			width: 100%;
-			border-top: solid 1px @white;
-			position: absolute;
-			left: 0;
-			top: 0;
-			z-index: 1;
-		}
 
 		img{
 			width: auto;

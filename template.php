@@ -48,12 +48,12 @@
 						<dd>
 							<dl class="sub">
 								<dt>Specification Suheader</dt>
-								<dd>Font Size: 13px</dd>
-								<dd>Corner Radius: 12px</dd>
-								<dd>Padding: 12px</dd>
+								<dd>Font Size: <span class="pxrem">13px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">12px</span></dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
 								<!-- -->
 								<dt>Notes</dt>
-								<dd class="note">Use px for measurements. Nunc eu sapien id diam feugiat facilisis. </dd>
+								<dd class="note">Use px for measurements. Nunc eu sapien id diam feugiat facilisis.</dd>
 								<!-- -->
 							</dl>
 						</dd>
@@ -62,7 +62,7 @@
 						<dd>
 							<dl class="sub">
 								<dt>Suheader</dt>
-								<dd>Text: 13px (9pt) #354052</dd>
+								<dd>Text: 13px (9pt) <span title="Gray 500" class="theme">#354052</span></dd>
 								<dd>Font Weight: 600</dd>
 							</dl>
 						</dd>
