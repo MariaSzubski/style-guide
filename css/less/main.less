@@ -32,6 +32,11 @@ article{
 		width: calc(100% - 304px);
 	}
 
+	& h2{
+		.text-section;
+		text-align: center;
+	}
+
 	& h4{
 		.text-label;
 		text-align: center;
@@ -48,6 +53,18 @@ article{
 	}
 	& .full{
 		width: 100%;
+		& h2{
+			position: relative;
+		}
+		& h2::before{
+			content: '';
+			width: 100%;
+			border-top: solid 1px @white;
+			position: absolute;
+			left: 0;
+			top: 0;
+			z-index: 1;
+		}
 
 		img{
 			width: auto;
@@ -155,13 +172,23 @@ aside{
 	min-width: 392px;
 	margin: 0px auto;
 
-	& h2{
-		.text-section;
-	}
+
 	& p{
 		width: auto;
 		.text-desc;
 		font-size: @text-lg;
+		margin-bottom: 16px;
+	}
+	& ul, & li{
+		font-size: @text-lg;
+		color: @gray;
+		line-height: 1.6;
+		// font-weight: 400;
+		list-style-type: circle;
+	}
+
+	& ul{
+		margin-left: 48px;
 		margin-bottom: 16px;
 	}
 }

@@ -28,13 +28,22 @@ article section{
   margin-bottom:60px;
   width:calc(100% - 304px);
 }
+article h2{
+  color:#0098f3;
+  font-size:32px;
+  font-size:2rem;
+  font-weight:400;
+  line-height:2;
+}
+article h2,article h4{
+  text-transform:uppercase;
+  text-align:center;
+}
 article h4{
   color:#989ea7;
   font-size:13px;
   font-size:.8125rem;
   font-weight:600;
-  text-transform:uppercase;
-  text-align:center;
   margin-bottom:12px;
 }
 article img{
@@ -47,6 +56,18 @@ article.iframe{
 }
 article .full{
   width:100%;
+}
+article .full h2{
+  position:relative;
+}
+article .full h2:before{
+  content:"";
+  width:100%;
+  border-top:1px solid #edeff0;
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:1;
 }
 article .full img{
   width:auto;
@@ -137,23 +158,24 @@ aside .theme:hover{
   min-width:392px;
   margin:0 auto;
 }
-.desc_pattern h2{
-  color:#0098f3;
-  font-size:32px;
-  font-size:2rem;
-  font-weight:400;
-  line-height:2;
-  text-transform:uppercase;
-}
 .desc_pattern p{
   width:auto;
-  color:#464646;
   font-size:20px;
   font-size:1.25rem;
-  line-height:1.6;
   font-weight:400;
+  margin-bottom:16px;
+}
+.desc_pattern li,.desc_pattern p,.desc_pattern ul{
+  color:#464646;
+  line-height:1.6;
   font-size:15px;
   font-size:.9375rem;
+}
+.desc_pattern li,.desc_pattern ul{
+  list-style-type:circle;
+}
+.desc_pattern ul{
+  margin-left:48px;
   margin-bottom:16px;
 }
 div.desc{

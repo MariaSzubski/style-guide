@@ -58,6 +58,7 @@
 		<summary><span>Patterns</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
+			<li class="<?php echo ($current == "p_app_structure.php" ? "selected" : "")?>"><a href="p_app_structure.php">App Structure</a></li>
 			<li class="<?php echo ($current == "p_button.php" ? "selected" : "")?>"><a href="p_button.php">Button</a></li>
 			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
