@@ -629,6 +629,9 @@ section.desc_i p{
   line-height:2;
   text-transform:uppercase;
 }
+.desc_i h2:before{
+  content:none;
+}
 .desc_i p{
   color:#464646;
   font-size:20px;

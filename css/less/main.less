@@ -37,7 +37,7 @@ article{
 		text-align: center;
 		position: relative;
 	}
-	
+
 	& h2::before{
 		content: '';
 		width: 100%;
@@ -231,15 +231,20 @@ aside{
 		margin: 0px auto;
 		text-align: center;
 	}
+
 	& h2{
 		.text-section;
 	}
+
+	& h2::before{
+		content: none;
+	}
+
 	& p{
 		.text-desc;
 		margin-bottom: 16px;
 	}
 }
-
 
 iframe{
 	height: 100%;
