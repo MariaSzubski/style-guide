@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Usage</title>
+	<title id="title">NX Guidelines &ndash; Usage</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>

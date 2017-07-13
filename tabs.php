@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Tabs</title>
+	<title id="title">NX Guidelines &ndash; Components &ndash; Tabs</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Tabs</h2>
+			<h2 id="pg_header">Components &ndash; Tabs</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>

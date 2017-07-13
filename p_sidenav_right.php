@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Sidenav (Right) Patterns</h2>
+			<h2 id="pg_header">Patterns &ndash; Sidenav (Right)</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>

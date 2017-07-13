@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Empty States</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Empty States</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Empty States</h2>
+			<h2 id="pg_header">Patterns &ndash; Empty States</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>

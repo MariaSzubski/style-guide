@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines - Type Styles</title>
+	<title id="title">NX Guidelines &ndash; Type Styles</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
