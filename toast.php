@@ -1,4 +1,4 @@
-<span class="pxrem"><?p</span>hp $current = array_pop(explode("/", $_SERVER['PHP_SELF'])); ?>
+<?php $current = array_pop(explode("/", $_SERVER['PHP_SELF'])); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +36,7 @@
 						<dt>Simple Toast</dt>
 						<dd>Height: <span class="pxrem">44px</span></dd>
 						<dd>Minimum Width: <span class="pxrem">170px</span></dd>
+						<dd>Minimum Padding: <span class="pxrem">12px</span>
 						<dd>Corner Radius: <span class="pxrem">4px</span></dd>
 						<dd>Text: 15px (11pt)</dd>
 						<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">4px</span> rgba(0,0,0,0.45)</dd>
@@ -45,22 +46,28 @@
 						<dd>
 							<dl class="sub">
 								<dt>Green (Positive)</dt>
-								<dd>Text Color: <span title="Green 700" class="theme">#1D8D0C</span></dd>
-								<dd>Background: <span title="Green 100" class="theme">#B6EEAF</span></dd>
-								<dd>Icon Background: <span title="Green 50" class="theme">#D0F7CC</span></dd>
-								<dd>Border: <span class="pxrem">1px</span> <span title="Green 600" class="theme">#23A60F</span></dd>
+								<dd>Text &amp; Icon Color: <span title="Green 700" class="theme">#1D8D0C</span></dd>
+								<dd>Background: <span title="Green 50" class="theme">#D0F7CC</span></dd>
+								<dd>Icon Background: <span title="Green 100" class="theme">#B6EEAF</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Green 400" class="theme">#40C32D</span></dd>
 								<!-- -->
 								<dt>Yellow (Warning)</dt>
-								<dd>Text Color: <span title="Yellow 700" class="theme">#E67219</span></dd>
-								<dd>Background: <span title="Yellow 100" class="theme">#FFEEBA</span></dd>
-								<dd>Icon Background: <span title="Yellow 50" class="theme">#FFF7DE</span></dd>
+								<dd>Text &amp; Icon Color: <span title="Yellow 700" class="theme">#E67219</span></dd>
+								<dd>Background: <span title="Yellow 50" class="theme">#FFF7DE</span></dd>
+								<dd>Icon Background: <span title="Yellow 100" class="theme">#FFEEBA</span></dd>
 								<dd>Border: <span class="pxrem">1px</span> <span title="Yellow 600" class="theme">#F29100</span></dd>
 								<!-- -->
 								<dt>Red (Error)</dt>
-								<dd>Text Color: <span title="Red 500" class="theme">#DD0014</span></dd>
-								<dd>Background: <span title="Red 100" class="theme">#FFC9CC</span></dd>
-								<dd>Icon Background: <span title="Red 50" class="theme">#FCE1E1</span></dd>
+								<dd>Text &amp; Icon Color: <span title="Red 500" class="theme">#DD0014</span></dd>
+								<dd>Background: <span title="Red 50" class="theme">#FCE1E1</span></dd>
+								<dd>Icon Background: <span title="Red 100" class="theme">#FFC9CC</span></dd>
 								<dd>Border: <span class="pxrem">1px</span> <span title="Red 400" class="theme">#FA4F4F</span></dd>
+								<!-- -->
+								<dt>Blue (With Actions)</dt>
+								<dd>Text Color: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Blue 400" class="theme">#00AEEF</span></dd>
+								<dd>Actions: Small Primary Flat Buttons</dd>
 							</dl>
 						</dd>
 						<!-- -->
