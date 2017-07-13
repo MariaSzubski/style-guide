@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines &ndash; Patterns &ndash; Card</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Card (Vertical)</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Patterns &ndash; Card</h2>
+			<h2 id="pg_header">Patterns &ndash; Card (Vertical)</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
@@ -21,16 +21,17 @@
 			<div id="container">
 				<section>
 					<h4>All Content Types</h4>
-					<img src="img/guide/p_card_01.png" alt="Card Layout - All Content Types">
+					<img src="img/guide/p_card_vertical_01.png" alt="Vertical Card Layout - All Content Types">
 				</section>
 				<section>
 					<h4>Card Examples</h4>
-					<img src="img/guide/p_card_02.png" alt="Card Examples">
+					<img src="img/guide/p_card_vertical_02.png" alt="Vertical Card Examples">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
+						<dd class="pg_link"><a href="p_card_horizontal.php">Horizontal Card Patterns</a></dd>
 						<dd class="pg_link"><a href="chip.php">Chip Component</a></dd>
 					</dl>
 					<!-- -->

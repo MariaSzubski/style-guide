@@ -60,7 +60,9 @@
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
 			<li class="<?php echo ($current == "p_app_structure.php" ? "selected" : "")?>"><a href="p_app_structure.php">App Structure</a></li>
 			<li class="<?php echo ($current == "p_button.php" ? "selected" : "")?>"><a href="p_button.php">Button</a></li>
-			<li class="<?php echo ($current == "p_card.php" ? "selected" : "")?>"><a href="p_card.php">Card</a></li>
+			<li class="<?php echo ($current == "p_card_horizontal.php" ? "selected" : "")?>"><a href="p_card_horizontal.php">Card (Horizontal)</a></li>
+			<li class="<?php echo ($current == "p_card_vertical.php" ? "selected" : "")?>"><a href="p_card_vertical.php">Card (Vertical)</a></li>
+			<li class="<?php echo ($current == "p_card_panel.php" ? "selected" : "")?>"><a href="p_card_panel.php">Card (Panel)</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
 			<li class="<?php echo ($current == "p_chips.php" ? "selected" : "")?>"><a href="p_chips.php">Chips</a></li>
 			<li class="<?php echo ($current == "p_content.php" ? "selected" : "")?>"><a href="p_content.php">Content</a></li>
@@ -71,7 +73,6 @@
 			<li class="<?php echo ($current == "p_empty_states.php" ? "selected" : "")?>"><a href="p_empty_states.php">Empty States</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
-			<li class="<?php echo ($current == "p_panel.php" ? "selected" : "")?>"><a href="p_panel.php">Panel</a></li>
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
 			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
