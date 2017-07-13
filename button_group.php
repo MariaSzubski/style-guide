@@ -21,11 +21,19 @@
 			<div id="container">
 				<section>
 					<h4>Secondary Button Group</h4>
-					<img src="img/guide/button_group_01.png" alt="Secondary Button Group">
+					<img src="img/guide/button_group_01.png" alt="Default Secondary Button Group">
+					<br/>
+					<img src="img/guide/button_group_02.png" alt="Small Secondary Button Group">
 				</section>
 				<section>
 					<h4>Tertiary Button Group</h4>
-					<img src="img/guide/button_group_02.png" alt="Tertiary Button Group">
+					<img src="img/guide/button_group_03.png" alt="Default Tertiary Button Group">
+					<br/>
+					<img src="img/guide/button_group_04.png" alt="Small Tertiary Button Group">
+				</section>
+				<section>
+					<h4>Toolbar Button Group</h4>
+					<img src="img/guide/button_group_05.png" alt="Default Tertiary Button Group">
 				</section>
 				<aside>
 					<dl class="related">
@@ -34,17 +42,25 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Styles</dt>
+						<dt>Action Button Group</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Notes</dt>
-								<dd class="note">Use Secondary or Tertiary Raised button style.</dd>
+								<dd class="note">Use Secondary or Tertiary Raised button style in any size.</dd>
 								<!-- -->
 								<dt>Dividers</dt>
 								<dd>Secondary Group: <span class="pxrem">1px</span> #FFFFFF</dd>
 								<dd>Tertiary Group: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
 							</dl>
 						</dd>
+						<!-- -->
+						<dt>Toolbar Group</dt>
+						<dd>Height: <span class="pxrem">28px</span></dd>
+						<dd>Button Width: <span class="pxrem">40px</span></dd>
+						<dd>Border &amp; Dividers: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
+						<dd>Hover BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+						<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
+						<dd>Selected Text: #FFFFFF</dd>
 					</dl>
 				</aside>
 			</div>
