@@ -27,6 +27,7 @@
 	<details open>
 		<summary><span>Components</span></summary>
 		<ul>
+			<li class="<?php echo ($current == "badge.php" ? "selected" : "")?>"><a href="badge.php">Badge</a></li>
 			<li class="<?php echo ($current == "button_raised.php" ? "selected" : "")?>"><a href="button_raised.php">Button (Raised)</a></li>
 			<li class="<?php echo ($current == "button_flat.php" ? "selected" : "")?>"><a href="button_flat.php">Button (Flat)</a></li>
 			<li class="<?php echo ($current == "button_group.php" ? "selected" : "")?>"><a href="button_group.php">Button Group</a></li>
