@@ -60,8 +60,8 @@
 			<li class="<?php echo ($current == "p_app_bar.php" ? "selected" : "")?>"><a href="p_app_bar.php">App Bar</a></li>
 			<li class="<?php echo ($current == "p_app_structure.php" ? "selected" : "")?>"><a href="p_app_structure.php">App Structure</a></li>
 			<li class="<?php echo ($current == "p_button.php" ? "selected" : "")?>"><a href="p_button.php">Button</a></li>
-			<li class="<?php echo ($current == "p_card_horizontal.php" ? "selected" : "")?>"><a href="p_card_horizontal.php">Card (Horizontal)</a></li>
 			<li class="<?php echo ($current == "p_card_vertical.php" ? "selected" : "")?>"><a href="p_card_vertical.php">Card (Vertical)</a></li>
+			<li class="<?php echo ($current == "p_card_wide.php" ? "selected" : "")?>"><a href="p_card_wide.php">Card (Wide)</a></li>
 			<li class="<?php echo ($current == "p_card_panel.php" ? "selected" : "")?>"><a href="p_card_panel.php">Card (Panel)</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
 			<li class="<?php echo ($current == "p_chips.php" ? "selected" : "")?>"><a href="p_chips.php">Chips</a></li>
