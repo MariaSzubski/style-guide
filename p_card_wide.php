@@ -85,6 +85,13 @@
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
 						<dd class="pg_link"><a href="p_card_vertical.php">Vertical Card Patterns</a></dd>
 					</dl>
+					<dl>
+						<dl class="dl_root">
+							<dt>Measurements</dt>
+							<dd>Basic Card Height: <span class="pxrem">90px</span></dd>
+							<dd>Accent Width: <span class="pxrem">10px</span></dd>
+							<dd>Left Padding: <span class="pxrem">20px</span></dd>
+						</dl>
 				</aside>
 			</div>
 		</article>

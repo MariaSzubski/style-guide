@@ -20,13 +20,38 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>All Content Types</h4>
-					<img src="img/guide/p_card_vertical_01.png" alt="Vertical Card Layout - All Content Types">
+					<h4>Large Card / All Content Types</h4>
+					<img src="img/guide/p_card_vertical_01.png" alt="Large Card / All Content Types">
 				</section>
+				<!-- -->
 				<section>
-					<h4>Card Examples</h4>
-					<img src="img/guide/p_card_vertical_02.png" alt="Vertical Card Examples">
+					<h4>Medium Card Examples</h4>
+					<img src="img/guide/p_card_vertical_02.png" alt="Medium Card Examples">
 				</section>
+				<!-- -->
+				<section>
+					<h4>Small Card Examples</h4>
+					<img src="img/guide/p_card_vertical_03.png" alt="Small Card Examples">
+				</section>
+				<!-- -->
+				<section>
+					<h2>Acceptable Deviations</h2>
+					<section class="full">
+						<h4>Headers &amp; Footers</h4>
+						<img src="img/guide/p_card_vertical_04.png" alt="Headers &amp; Footers">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Select States</h4>
+						<img src="img/guide/p_card_vertical_05.png" alt="Select States">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Expandable Cards</h4>
+						<img src="img/guide/p_card_vertical_06.png" alt="Expandable Cards">
+					</section>
+				</section>
+				<!-- -->
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
