@@ -167,16 +167,17 @@ aside{
 
 .desc_pattern {
 	width: auto;
-	max-width: 520px;
+	max-width: 568px;
 	min-width: 392px;
 	margin: 12px auto;
-
+	background-color: #f5f9fc;
+	padding: 16px 24px 0px 24px;
 
 	& p{
 		width: auto;
 		.text-desc;
 		font-size: @text-lg;
-		margin-bottom: 16px;
+		padding-bottom: 16px;
 	}
 	& ul, & li{
 		font-size: @text-lg;
@@ -188,7 +189,10 @@ aside{
 
 	& ul{
 		margin-left: 48px;
-		margin-bottom: 16px;
+	}
+	
+	& > ul{
+		padding-bottom: 16px;
 	}
 }
 

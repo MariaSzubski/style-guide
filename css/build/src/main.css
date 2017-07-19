@@ -152,16 +152,18 @@ aside .theme:hover{
 }
 .desc_pattern{
   width:auto;
-  max-width:520px;
+  max-width:568px;
   min-width:392px;
   margin:12px auto;
+  background-color:#f5f9fc;
+  padding:16px 24px 0;
 }
 .desc_pattern p{
   width:auto;
   font-size:20px;
   font-size:1.25rem;
   font-weight:400;
-  margin-bottom:16px;
+  padding-bottom:16px;
 }
 .desc_pattern li,.desc_pattern p,.desc_pattern ul{
   color:#464646;
@@ -174,7 +176,9 @@ aside .theme:hover{
 }
 .desc_pattern ul{
   margin-left:48px;
-  margin-bottom:16px;
+}
+.desc_pattern>ul{
+  padding-bottom:16px;
 }
 div.desc{
   position:absolute;

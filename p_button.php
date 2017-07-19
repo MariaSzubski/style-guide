@@ -43,15 +43,97 @@
 					<h2>Hierarchy</h2>
 					<section class="full">
 						<h4>Valid Button Sets</h4>
-						<img src="img/guide/p_button_05.png" alt="Primary Button Example">
+						<img src="img/guide/p_button_05.png" alt="Valid Button Sets">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Alignment</h4>
+						<div class="desc_pattern">
+							<ul>
+								<li>Buttons positioned in the bottom right of a panel.</li>
+								<li>The most common or important action is on the right.</li>
+								<li>Arrange buttons from <u>right to left</u> in CRUD order:
+									<ul>
+										<li><strong>C</strong>reate</li>
+										<li><strong>R</strong>ead (Retrieve)</li>
+										<li><strong>U</strong>pdate (Modify)</li>
+										<li><strong>D</strong>elete</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</section>
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Acceptable Deviations</h2>
+					<section class="full">
+						<h4>Vertical Card</h4>
+						<img src="img/guide/p_button_06.png" alt="Vertical Card">
+						<div class="desc_pattern">
+							<p>
+								Center align buttons at the bottom of a vertical card.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Back Button</h4>
+						<img src="img/guide/p_button_07.png" alt="Back Button">
+						<div class="desc_pattern">
+							<p>
+								Left align the back button in a wizard.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Toasts</h4>
+						<img src="img/guide/p_button_08.png" alt="Toasts">
+						<div class="desc_pattern">
+							<p>
+								Use Small Primary Flat buttons for all actions in a toast.
+							</p>
+						</div>
+					</section>
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Don't Do</h2>
+					<section class="full">
+						<h4><!-- --></h4>
+						<img src="img/guide/p_button_09.png" alt="Don’t use more than one Accent button per set or page.">
+						<div class="desc_pattern">
+							<p>Don’t use more than one Accent button per set or page.</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4><!-- --></h4>
+						<img src="img/guide/p_button_10.png" alt="Don't Do">
+						<div class="desc_pattern">
+							<p>
+								Don’t mix primary and accent buttons in a set.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4><!-- --></h4>
+						<img src="img/guide/p_button_11.png" alt="Don't Do">
+						<div class="desc_pattern">
+							<p>
+								Don’t mix button sizes in a set.
+							</p>
+						</div>
 					</section>
 				</section>
 				<!-- -->
 				<section class="full">
 					<h2>Examples</h2>
 					<section class="full">
-						<h4>Wizards</h4>
-						<img src="img/guide/p_button_09.png" alt="Primary Button Example">
+						<h4>Wizard</h4>
+						<img src="img/guide/p_button_12.png" alt="Wizard">
 					</section>
 				</section>
 			</div>
