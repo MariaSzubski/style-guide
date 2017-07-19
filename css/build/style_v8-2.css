@@ -552,9 +552,9 @@ aside .theme:hover{
 }
 .desc_pattern{
   width:auto;
-  max-width:600px;
+  max-width:520px;
   min-width:392px;
-  margin:0 auto;
+  margin:12px auto;
 }
 .desc_pattern p{
   width:auto;
