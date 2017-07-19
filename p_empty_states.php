@@ -25,6 +25,12 @@
 					<section class="full">
 						<h4><!--Pattern Title--></h4>
 						<img src="img/guide/p_empty_state_01.png" alt="Label">
+						<div class="desc_pattern">
+							<ul>
+								Takes up the entire view of parent container
+								Supporting and directional text combination teaches a future path to success.
+							</ul>
+						</div>
 					</section>
 					<!-- -->
 					<section class="full">

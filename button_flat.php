@@ -21,7 +21,7 @@
 			<div id="container">
 				<section>
 					<h4></h4>
-					<img src="img/guide/button_flat_01.png" alt="Raised Buttons">
+					<img src="img/guide/button_flat_01.png" alt="Flat Buttons">
 				</section>
 				<aside>
 					<dl class="related">
@@ -40,14 +40,14 @@
 								<!-- -->
 								<dt>Default</dt>
 								<dd>Height: <span class="pxrem">36px</span></dd>
-								<dd>Padding: <span class="pxrem">24px</span></dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
 								<dd>Margin: <span class="pxrem">12px</span></dd>
 								<dd>Text Size: 15px (11pt)</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Large</dt>
 								<dd>Height: <span class="pxrem">64px</span></dd>
-								<dd>Padding: <span class="pxrem">32px</span></dd>
+								<dd>Padding: <span class="pxrem">24px</span></dd>
 								<dd>Margin: <span class="pxrem">20px</span></dd>
 								<dd>Text Size: 30px (23pt)</dd>
 								<dd>Weight: 400</dd>
@@ -95,7 +95,6 @@
 						</dd>
 					</dl>
 				</aside>
-			</div>
 			</div>
 		</article>
 	</main>

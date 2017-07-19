@@ -33,7 +33,7 @@
 				</section>
 				<section>
 					<h4>Toolbar Button Group</h4>
-					<img src="img/guide/button_group_05.png" alt="Default Tertiary Button Group">
+					<img src="img/guide/button_group_05.png" alt="Toolbar Button Group">
 				</section>
 				<aside>
 					<dl class="related">
@@ -58,9 +58,10 @@
 						<dd>Height: <span class="pxrem">28px</span></dd>
 						<dd>Button Width: <span class="pxrem">40px</span></dd>
 						<dd>Border &amp; Dividers: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
-						<dd>Hover BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+						<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 						<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-						<dd>Selected Text: #FFFFFF</dd>
+						<dd>Selected Icon: #FFFFFF</dd>
+						<dd>Disabled Border &amp; Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 					</dl>
 				</aside>
 			</div>

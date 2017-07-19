@@ -39,7 +39,7 @@
 							<td>200</td>
 							<td>#DDE6ED</td>
 							<td>rgb(221,230,237)</td>
-							<td>Secondary Divider</td>
+							<td>Secondary Divider &amp; Selections</td>
 						</tr>
 						<tr id="g300">
 							<td>300</td>
@@ -85,7 +85,7 @@
 						</tr>
 					</table>
 				</section>
-				<!--					BLUES -->
+				<!--					BLUE -->
 				<section class="full">
 					<h4>Blue</h4>
 					<table class="colors">
