@@ -26,7 +26,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_toolbar.png" alt="Iconography - Toolbar">
 				</section>
 			</div>

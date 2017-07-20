@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/" alt="">
 					<div class="desc_pattern">
 						<h2>Section Header</h2>

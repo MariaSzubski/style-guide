@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/p_pagination_01.png" alt="Pagnation">
 				</section>
 				<aside>

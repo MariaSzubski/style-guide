@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/type_styles_01.png" alt="Type Styles">
 				</section>
 				<section class="full">

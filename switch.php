@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="desc">
-					<h4></h4>
+					
 					<img src="img/guide/switch_01.png" alt="Color Options">
 				</section>
 				<aside>

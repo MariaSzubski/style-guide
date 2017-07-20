@@ -32,6 +32,11 @@
 					<img src="img/guide/p_grid_03.png" alt="Mulit-Select Grid">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="p_multiselect.php">Multiselect Pattern</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt>Grid Styles</dt>
 						<dd>Background Color: #FFFFFF</dd>

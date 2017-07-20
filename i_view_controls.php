@@ -26,7 +26,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_view-controls.png" alt="Iconography - View Controls">
 				</section>
 			</div>

@@ -115,7 +115,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						<h4></h4>
+						
 						<img src="img/guide/p_app-structure_06.png" alt="Secondary App Structure">
 					</section>
 				</section>

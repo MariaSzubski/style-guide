@@ -26,7 +26,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_data-report-types.png" alt="Iconography - Data &amp; Report Types">
 				</section>
 			</div>

@@ -26,7 +26,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_common-actions.png" alt="Iconography - Common Actions">
 				</section>
 			</div>

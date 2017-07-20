@@ -24,7 +24,7 @@
 					<p>Coming Soon</p>
 				</div>
 				<section>
-					<h4></h4>
+					
 					<!-- <img src="img/guide/" alt=""> -->
 				</section>
 				<aside>

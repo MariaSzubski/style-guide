@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+
 					<img src="img/guide/button_raised_01.png" alt="Raised Buttons">
 				</section>
 				<aside>

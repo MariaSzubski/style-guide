@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+
 					<img src="img/guide/button_flat_01.png" alt="Flat Buttons">
 				</section>
 				<aside>

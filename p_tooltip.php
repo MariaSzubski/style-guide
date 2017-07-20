@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/p_tooltip_01.png" alt="Basic Tooltip">
 				</section>
 				<aside>

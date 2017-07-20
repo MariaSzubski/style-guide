@@ -41,14 +41,14 @@ article h2{
 article h2:before{
   content:"";
   width:100%;
-  border-top:1px solid #edeff0;
+  border-top:1px solid #bcd;
   position:absolute;
   left:0;
   top:0;
   z-index:1;
 }
 article h4{
-  color:#989ea7;
+  color:#94a3b0;
   font-size:13px;
   font-size:.8125rem;
   font-weight:600;

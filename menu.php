@@ -20,19 +20,19 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/menu_01.png" alt="Menus with and without icons">
 				</section>
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/menu_02.png" alt="Menu States">
 				</section>
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/menu_03.png" alt="Menu sizes, without dividers">
 				</section>
 				<section>
-					<h4></h4>
+					
 					<img src="img/guide/menu_04.png" alt="Menu sizes, with dividers">
 				</section>
 				<aside>

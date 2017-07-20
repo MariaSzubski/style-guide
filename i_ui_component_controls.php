@@ -26,7 +26,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_ui-component-controls.png" alt="Iconography - UI Component Controls">
 				</section>
 			</div>

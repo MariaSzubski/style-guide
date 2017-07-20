@@ -25,7 +25,7 @@
 					</p>
 				</section>
 				<section class="full">
-					<h4></h4>
+					
 					<img src="img/guide/i_communication.png" alt="Iconography - Communication">
 				</section>
 			</div>

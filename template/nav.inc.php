@@ -73,6 +73,7 @@
 			<li class="<?php echo ($current == "p_dialog.php" ? "selected" : "")?>"><a href="p_dialog.php">Dialog</a></li>
 			<li class="<?php echo ($current == "p_empty_states.php" ? "selected" : "")?>"><a href="p_empty_states.php">Empty States</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
+			<li class="<?php echo ($current == "p_multiselect.php" ? "selected" : "")?>"><a href="p_multiselect.php">Multiselect</a></li>
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
