@@ -35,7 +35,7 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Container</dt>
+						<dt>App Bar Container</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Data Texture</dt>
@@ -69,6 +69,12 @@
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>See icon component.</dd>
+								<!-- -->
+								<dt>User Initials</dt>
+								<dd>Text Size: 13px (10pt)</dd>
+								<dd>Weight: 600</dd>
+								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>N Square</dt>
 								<dd>Size: <span class="pxrem">28px</span> x <span class="pxrem">28px</span></dd>

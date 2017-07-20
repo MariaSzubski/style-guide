@@ -40,21 +40,21 @@
 								<!-- -->
 								<dt>Default</dt>
 								<dd>Height: <span class="pxrem">36px</span></dd>
-								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">12px</span></dd>
 								<dd>Margin: <span class="pxrem">12px</span></dd>
 								<dd>Text Size: 15px (11pt)</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Large</dt>
 								<dd>Height: <span class="pxrem">64px</span></dd>
-								<dd>Padding: <span class="pxrem">24px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">24px</span></dd>
 								<dd>Margin: <span class="pxrem">20px</span></dd>
 								<dd>Text Size: 30px (23pt)</dd>
 								<dd>Weight: 400</dd>
 								<!-- -->
 								<dt>Small</dt>
 								<dd>Height: <span class="pxrem">28px</span></dd>
-								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">12px</span></dd>
 								<dd>Margin: <span class="pxrem">10px</span></dd>
 								<dd>Text Size: 13px (10pt)</dd>
 								<dd>Weight: 600</dd>
