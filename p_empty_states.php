@@ -23,7 +23,7 @@
 				<section class="full">
 					<h2>Large</h2>
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_01.png" alt="Large">
 						<div class="desc_pattern">
 							<ul>
@@ -34,7 +34,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_02.png" alt="Large">
 						<div class="desc_pattern">
 							<ul>
@@ -45,9 +45,9 @@
 				</section>
 				<!-- Section 2 -->
 				<section class="full">
-					<h2>Large: Acceptable Deviations</h2>
+					<h2>Acceptable Deviations</h2>
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_03.png" alt="Large: Acceptable Deviation">
 						<div class="desc_pattern">
 							<ul>
@@ -58,7 +58,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_04.png" alt="Large: Acceptable Deviation">
 						<div class="desc_pattern">
 							<ul>
@@ -68,7 +68,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_05.png" alt="Large: Acceptable Deviation">
 						<div class="desc_pattern">
 							<ul>
@@ -81,7 +81,7 @@
 				<section class="full">
 					<h2>Large: Don't Do</h2>
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_06.png" alt="Large: Don't Do">
 						<div class="desc_pattern">
 							<ul>
@@ -92,7 +92,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_07.png" alt="Large: Don't Do">
 						<div class="desc_pattern">
 							<ul>
@@ -104,7 +104,6 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
 						<img src="img/guide/p_empty_states_08.png" alt="Large: Don't Do">
 						<div class="desc_pattern">
 							<ul>
@@ -116,7 +115,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_empty_states_09.png" alt="Large: Don't Do">
 						<div class="desc_pattern">
 							<ul>
@@ -129,68 +128,43 @@
 				<section class="full">
 					<h2>Medium</h2>
 					<section class="full">
-						
 						<img src="img/guide/p_empty_states_10.png" alt="Medium">
 						<div class="desc_pattern">
 							<ul>
 								<li>Use Case: Used as a “smaller state” when vertical space needs to be optimized and takes up full view.</li>
+								<li>Same rules and princples apply as Large Empty State.</li>
 							</ul>
 						</div>
-					</section>
-				</section>
-				<!-- Section 5 -->
-				<section class="full">
-					<h2>Medium: Acceptable Deviations</h2>
-					<section class="full">
-						
-						<img src="img/guide/p_empty_states_11.png" alt="Medium: Acceptable Deviation">
-					</section>
-					<!-- -->
-					<section class="full">
-						
-						<img src="img/guide/p_empty_states_12.png" alt="Medium: Acceptable Deviation">
-					</section>
-				</section>
-				<!-- Section 6 -->
-				<section class="full">
-					<h2>Medium: Don't Do</h2>
-					<section class="full">
-						
-						<img src="img/guide/p_empty_states_13.png" alt="Medium: Don't Do">
 					</section>
 				</section>
 				<!-- Section 7 -->
 				<section class="full">
 					<h2>Small</h2>
 					<section class="full">
-						
-						<img src="img/guide/p_empty_states_14.png" alt="Small">
-						<!-- -->
-						<section class="full">
-							
-							<img src="img/guide/p_empty_states_15.png" alt="Small">
-						</section>
-					</section>
-				</section>
-				<!-- Section 8 -->
-				<section class="full">
-					<h2>Small: Acceptable Deviations</h2>
-					<section class="full">
-						
-						<img src="img/guide/p_empty_states_16.png" alt="Small: Acceptable Deviation">
+						<img src="img/guide/p_empty_states_11.png" alt="Small">
+						<div class="desc_pattern">
+							<ul>
+								<li>Use Case: Used as a “smaller state” when vertical space needs to be optimized and takes up full view.</li>
+								<li>Same rules and princples apply as Large Empty State.</li>
+							</ul>
+						</div>
 					</section>
 				</section>
 				<!-- Section 9 -->
 				<section class="full">
 					<h2>Small: Don't Do</h2>
 					<section class="full">
-						
-						<img src="img/guide/p_empty_states_17.png" alt="Small: Don't Do">
+
+						<div class="desc_pattern">
+							<ul>
+								<li>Don't give the option for the same action twice.</li>
+							</ul>
+						</div>
+						<img src="img/guide/p_empty_states_12.png" alt="Small: Don't Do">
 					</section>
 					<!-- -->
 					<section class="full">
-						
-						<img src="img/guide/p_empty_states_17.png" alt="Small: Don't Do">
+						<img src="img/guide/p_empty_states_13.png" alt="Small: Don't Do">
 					</section>
 				</section>
 			</div>

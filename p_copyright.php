@@ -35,11 +35,20 @@
 					<!-- -->
 					<dl class="dl_root">
 						<dt>In Sidenav</dt>
-						<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
-						<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
-						<dd>Line height: <span class="pxrem">15px</span></dd>
-						<dd>Links: Underline</dd>
-						<dd>Nielsen Logo: nielsen_logo.svg</dd>
+
+						<dd>
+							<dl class="sub">
+								<dt>Styles</dt>
+								<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Line height: <span class="pxrem">15px</span></dd>
+								<dd>Links: Underline</dd>
+								<dd>Nielsen Logo: nielsen_logo.svg</dd>
+								<!-- -->
+								<dt>Position</dt>
+								<dd class="note">Copyright footer is displayed at the bottom of the menu content and can scroll off the screen.</dd>
+							</dl>
+						</dd>
 						<!-- -->
 						<dt>In Page Footer</dt>
 						<dd>

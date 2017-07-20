@@ -3,13 +3,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines &ndash; Patterns &ndash; Panel</title>
+	<title id="title">NX Guidelines &ndash; Patterns &ndash; Card (Panel)</title>
 	<link rel="stylesheet" href="css/build/style_v8-2.css">
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Patterns &ndash; Panel</h2>
+			<h2 id="pg_header">Patterns &ndash; Card (Panel)</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
@@ -20,13 +20,15 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					
+
 					<img src="img/guide/p_panel_01.png" alt="Panel">
 				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
+						<dd class="pg_link"><a href="tabs.php">Tab Component</a></dd>
+						<dd class="pg_link"><a href="p_toolbar.php">Toolbar Patterns</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

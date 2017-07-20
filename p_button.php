@@ -101,7 +101,6 @@
 				<section class="full">
 					<h2>Don't Do</h2>
 					<section class="full">
-						
 						<img src="img/guide/p_button_09.png" alt="Don’t use more than one Accent button per set or page.">
 						<div class="desc_pattern">
 							<p>Don’t use more than one Accent button per set or page.</p>
@@ -109,7 +108,6 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
 						<img src="img/guide/p_button_10.png" alt="Don't Do">
 						<div class="desc_pattern">
 							<p>
@@ -119,7 +117,7 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
+
 						<img src="img/guide/p_button_11.png" alt="Don't Do">
 						<div class="desc_pattern">
 							<p>

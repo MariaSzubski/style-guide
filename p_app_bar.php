@@ -69,6 +69,8 @@
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>See icon component.</dd>
+								<dd>Icon Divider: <span class="pxrem">1px</span> x <span class="pxrem">30px</span></dd>
+								<dd>Icon Divider Color: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 								<!-- -->
 								<dt>User Initials</dt>
 								<dd>Text Size: 13px (10pt)</dd>
