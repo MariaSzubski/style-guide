@@ -32,8 +32,12 @@
 					<img src="img/guide/button_group_04.png" alt="Small Tertiary Button Group">
 				</section>
 				<section>
-					<h4>Toolbar Button Group</h4>
-					<img src="img/guide/button_group_05.png" alt="Toolbar Button Group">
+					<h4>Secondary Icon Button Group</h4>
+					<img src="img/guide/button_group_05.png" alt="Secondary Icon Button Group">
+				</section>
+				<section>
+					<h4>Tertiary Icon Button Group</h4>
+					<img src="img/guide/button_group_06.png" alt="Tertiary Icon Button Group">
 				</section>
 				<aside>
 					<dl class="related">
@@ -54,14 +58,28 @@
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Toolbar Group</dt>
-						<dd>Height: <span class="pxrem">28px</span></dd>
-						<dd>Button Width: <span class="pxrem">40px</span></dd>
-						<dd>Border &amp; Dividers: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
-						<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-						<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-						<dd>Selected Icon: #FFFFFF</dd>
-						<dd>Disabled Border &amp; Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+						<dt>Icon Button Group</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Secondary Icon Group</dt>
+								<dd>Size: <span class="pxrem">28px</span> x <span class="pxrem">28px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
+								<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Selected Icon: #FFFFFF</dd>
+								<dd>Disabled Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+								<!-- -->
+								<dt>Tertiary Icon Group</dt>
+								<dd>Height: <span class="pxrem">28px</span></dd>
+								<dd>Width: <span class="pxrem">40px</span></dd>
+								<dd>Group Corner Radius: <span class="pxrem">4px</span></dd>
+								<dd>Border &amp; Dividers: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Selected Icon: #FFFFFF</dd>
+								<dd>Disabled Border &amp; Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+							</dl>
+						</dd>
 					</dl>
 				</aside>
 			</div>
