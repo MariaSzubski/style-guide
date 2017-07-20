@@ -43,17 +43,8 @@
 						<dd>1px <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>States</dt>
-						<dd>
-							<dl class="sub">
-								<dt>Hover</dt>
-								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-								<!-- -->
-								<dt>Selected</dt>
-								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
-								<dd>Border-Bottom: 2px <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
-							</dl>
-						</dd>
+						<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+						<dd>Selected Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 					</dl>
 				</aside>
 			</div>

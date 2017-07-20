@@ -31,6 +31,8 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="p_toolbar.php">Toolbar Patterns</a></dd>
+						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
+						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

@@ -43,6 +43,7 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="button_raised.php">Raised Button Component</a></dd>
+						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
@@ -66,7 +67,7 @@
 								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
 								<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Selected Icon: #FFFFFF</dd>
+								<dd>Selected Icon: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Disabled Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 								<!-- -->
 								<dt>Tertiary Icon Group</dt>
@@ -76,7 +77,7 @@
 								<dd>Border &amp; Dividers: <span class="pxrem">1px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Selected Icon: #FFFFFF</dd>
+								<dd>Selected Icon: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
 								<dd>Disabled Border &amp; Icon: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 							</dl>
 						</dd>

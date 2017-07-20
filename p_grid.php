@@ -28,7 +28,7 @@
 					<img src="img/guide/p_grid_02.png" alt="Large Data Grid">
 				</section>
 				<section>
-					<h4>Yellow Option for Multi-Select</h4>
+					<h4>Acceptable Deviation for Multi-Select (Yellow)</h4>
 					<img src="img/guide/p_grid_03.png" alt="Mulit-Select Grid">
 				</section>
 				<aside>
@@ -42,13 +42,9 @@
 						<dt>Row States</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Hover</dt>
-								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-								<!-- -->
-								<dt>Selected</dt>
-								<dd>Border-Bottom: <span class="pxrem">2px</span> <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Background: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
-								<dd>Optional Background for Multi-Select: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
+								<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<dd>Selected Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Multi-Select Background Option: <span title="Yellow 100" class="theme">#FFEEBA</span> (Yellow)</dd>
 							</dl>
 						</dd>
 						<!-- -->

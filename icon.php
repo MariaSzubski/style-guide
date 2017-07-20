@@ -38,24 +38,34 @@
 					</p>
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
+					</dl>
 					<dl class="dl_root">
 						<dt>Toolbar Icons</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Icon Colors</dt>
-								<dd>Dark: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Light: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
-								<dd>Background Square: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dt>Colors</dt>
+								<dd>Icon: <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
+								<dd>Selected Icon: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Selected Background: <span title="Gray 800" class="theme">#354052</span></dd>
 								<!-- -->
-								<dt>Background Square @ <span class="pxrem">32px</span></dt>
-								<dd>Padding: <span class="pxrem">12px</span></dd>
-								<dd>Corner Radius: <span class="pxrem">8px</span></dd>
+								<dt>Icon @ <span class="pxrem">16px</span></dt>
+								<dd>Between Icons: <span class="pxrem">24px</span></dd>
+								<dd>Between Select States: <span class="pxrem">12px</span></dd>
+								<dd>Selected Padding: <span class="pxrem">6px</span></dd>
+								<dd>Selected Corner Radius: <span class="pxrem">4px</span></dd>
 								<!-- -->
-								<dt>Background Square @ <span class="pxrem">16px</span></dt>
-								<dd>Padding: <span class="pxrem">6px</span></dd>
-								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
+								<dt>Icon @ <span class="pxrem">32px</span></dt>
+								<dd>Between Icons: <span class="pxrem">48px</span></dd>
+								<dd>Between Select States: <span class="pxrem">24px</span></dd>
+								<dd>Selected Padding: <span class="pxrem">12px</span></dd>
+								<dd>Selected Corner Radius: <span class="pxrem">8px</span></dd>
 							</dl>
 						</dd>
+						<!-- -->
 						<dt>App Icons</dt>
 						<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,0.45)</dd>
 						<dd>Angular Shadow: 2dp</dd>

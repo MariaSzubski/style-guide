@@ -28,6 +28,12 @@
 					<img src="img/guide/p_app_bar_02.png" alt="Icon Selected State">
 				</section>
 				<aside>
+					<dl class="related">
+						<dt>Related Content</dt>
+						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
+						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
+					</dl>
+					<!-- -->
 					<dl class="dl_root">
 						<dt>Container</dt>
 						<dd>
@@ -62,15 +68,10 @@
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Icons</dt>
-								<dd>Size: <span class="pxrem">16px</span></dd>
-								<dd>Margin Between Icons: <span class="pxrem">24px</span></dd>
-								<dd>Color: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Selected Color: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
-								<dd>Selected BG: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Selected Square: <span class="pxrem">24px</span></dd>
+								<dd>See icon component.</dd>
 								<!-- -->
 								<dt>N Square</dt>
-								<dd>Size: 24px</dd>
+								<dd>Size: <span class="pxrem">28px</span> x <span class="pxrem">28px</span></dd>
 								<dd>Icon: n_square.svg</dd>
 							</dl>
 						</dd>
