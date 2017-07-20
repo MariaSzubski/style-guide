@@ -21,11 +21,11 @@
 			<div id="container">
 				<section>
 					<h4>Small Checkbox</h4>
-					<img src="img/guide/check_01.png" alt="Checkbox Small">
+					<img src="img/guide/checkbox_01.png" alt="Checkbox Small">
 				</section>
 				<section>
 					<h4>Large Checkbox</h4>
-					<img src="img/guide/check_02.png" alt="Checkbox Large">
+					<img src="img/guide/checkbox_02.png" alt="Checkbox Large">
 				</section>
 				<aside>
 					<dl class="related">
