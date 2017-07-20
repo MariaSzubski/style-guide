@@ -80,9 +80,29 @@
 					<!-- -->
 					<section class="full">
 						<h4>Action Sheet With Scrollbar &amp; Buttons Locked</h4>
-						<img src="img/guide/p_data-context-picker_02.png" alt="Action Sheet With Scrollbar &amp; Buttons Locked">
+						<img src="img/guide/p_data-context-picker_04.png" alt="Action Sheet With Scrollbar &amp; Buttons Locked">
 					</section>
 				</section>
+				<!-- Section 3 -->
+				<section>
+					<h2>MULTIPLE CONTEXT VIEWS</h2>
+					<section class="full">
+						<div class="desc_pattern">
+							<p>
+								Some instances of the data context picker require the ability to save and manage multiple views.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>CONTEXT STATEMENT ON LOCAL HEADER WITH VIEW &amp; VIEW SAVE OPTIONS </h4>
+						<img src="img/guide/p_data-context-picker_05.png" alt="CONTEXT STATEMENT ON LOCAL HEADER WITH VIEW &amp; VIEW SAVE OPTIONS ">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>ACTION SHEET WITH SCROLLBAR &amp; BUTTONS LOCKED</h4>
+						<img src="img/guide/p_data-context-picker_06.png" alt="ACTION SHEET WITH SCROLLBAR &amp; BUTTONS LOCKED">
+					</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
