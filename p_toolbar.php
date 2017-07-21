@@ -84,10 +84,10 @@
 						<dt>Order</dt>
 						<dd class="note">Arrange toolbar actions from <mark>right to left</mark> in CRUD order:
 							<ul>
-								<li><strong>C</strong>reate</li>
-								<li><strong>R</strong>ead (Retrieve)</li>
-								<li><strong>U</strong>pdate (Modify)</li>
-								<li><strong>D</strong>elete</li>
+								<li>• <strong>C</strong>reate</li>
+								<li>• <strong>R</strong>ead (Retrieve)</li>
+								<li>• <strong>U</strong>pdate (Modify)</li>
+								<li>• <strong>D</strong>elete</li>
 							</ul>
 						</dd>
 					</dl>
