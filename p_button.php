@@ -52,7 +52,7 @@
 							<ul>
 								<li>Buttons positioned in the bottom right of a panel.</li>
 								<li>The most common or important action is on the right.</li>
-								<li>Arrange buttons from <u>right to left</u> in CRUD order:
+								<li>Arrange buttons from <mark>right to left</mark> in CRUD order:
 									<ul>
 										<li><strong>C</strong>reate</li>
 										<li><strong>R</strong>ead (Retrieve)</li>

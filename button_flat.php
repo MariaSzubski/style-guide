@@ -29,6 +29,7 @@
 						<dd class="pg_link"><a href="button_raised.php">Raised Button Component</a></dd>
 						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
 						<dd class="pg_link"><a href="p_button.php">Button Patterns</a></dd>
+						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

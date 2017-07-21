@@ -20,16 +20,20 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Toolbar Icons</h4>
-					<img src="img/guide/icon_01.png" alt="Toolbar Icons">
+					<h4>Flat Toolbar Icons</h4>
+					<img src="img/guide/icon_01.png" alt="Flat Toolbar Icons">
+				</section>
+				<section>
+					<h4>Raised Toolbar Icons</h4>
+					<img src="img/guide/icon_02.png" alt="Raised Toolbar Icons">
 				</section>
 				<section>
 					<h4>Brand Logos</h4>
-					<img src="img/guide/icon_02.png" alt="Brand Logos">
+					<img src="img/guide/icon_03.png" alt="Brand Logos">
 				</section>
 				<section>
 					<h4>App Icons</h4>
-					<img src="img/guide/icon_03.png" alt="App Icons">
+					<img src="img/guide/icon_04.png" alt="App Icons">
 				</section>
 				<section class="desc">
 					<h4>Icon Library</h4>
@@ -41,6 +45,7 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
+						<dd class="pg_link"><a href="p_toolbar.php">Toolbar Patterns</a></dd>
 					</dl>
 					<dl class="dl_root">
 						<dt>Toolbar Icons</dt>
@@ -48,9 +53,12 @@
 							<dl class="sub">
 								<dt>Colors</dt>
 								<dd>Icon: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<dd>Selected Icon: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
 								<dd>Selected Background: <span title="Gray 800" class="theme">#354052</span></dd>
+								<!-- -->
+								<dt>Raised Icon Border</dt>
+								<dd>1px <span title="Gray 500" class="theme">#94A3B0<span></dd>
 								<!-- -->
 								<dt>Icon @ <span class="pxrem">16px</span></dt>
 								<dd>Between Icons: <span class="pxrem">24px</span></dd>

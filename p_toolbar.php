@@ -19,10 +19,54 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
+				<!-- Section 1 -->
 				<section>
-					<h4>Examples of Toolbar Content</h4>
-					<img src="img/guide/p_toolbar_01.png" alt="Toolbar Patterns">
+					<h2>Alignment</h2>
+					<section class="full">
+						<h4>Left: Actions that impact panel contents</h4>
+						<img src="img/guide/p_toolbar_01.png" alt="Left: Actions that impact panel contents">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Right: Actions related to panel contents</h4>
+						<img src="img/guide/p_toolbar_02.png" alt="Right: Actions related to panel contents">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Actions Combined with Panel Title</h4>
+						<img src="img/guide/p_toolbar_03.png" alt="Actions Combined with Panel Title">
+					</section>
 				</section>
+				<!-- Section 2 -->
+				<section>
+					<h2>Examples</h2>
+					<section class="full">
+						<h4>App Menu</h4>
+						<img src="img/guide/p_toolbar_04.png" alt="App Menu">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Custom Menus or Filters</h4>
+						<img src="img/guide/p_toolbar_05.png" alt="Custom Menus or Filters">
+					</section>
+				</section>
+				<!-- Section 3 -->
+				<section>
+					<h2>Acceptable Deviations</h2>
+					<section class="full">
+						<h4>Highlighted Background</h4>
+						<img src="img/guide/p_toolbar_06.png" alt="Blue Toolbar Background">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Raised Icon Buttons</h4>
+						<img src="img/guide/p_toolbar_07.png" alt="Raised Icon Buttons">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Tertiary Icon Button Group</h4>
+						<img src="img/guide/p_toolbar_08.png" alt="Tertiary Icon Button Group">
+					</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
@@ -35,7 +79,17 @@
 						<dt>Styles</dt>
 						<dd>Group Divider: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 						<dd>Highlighted Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
-						<dd>Select Arrow: select.svg</dd>
+						<dd>Menu Arrow: select.svg</dd>
+						<!-- -->
+						<dt>Order</dt>
+						<dd class="note">Arrange toolbar actions from <mark>right to left</mark> in CRUD order:
+							<ul>
+								<li><strong>C</strong>reate</li>
+								<li><strong>R</strong>ead (Retrieve)</li>
+								<li><strong>U</strong>pdate (Modify)</li>
+								<li><strong>D</strong>elete</li>
+							</ul>
+						</dd>
 					</dl>
 				</aside>
 			</div>

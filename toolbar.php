@@ -44,13 +44,15 @@
 						<dt>Contents</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Text Buttons</dt>
+								<dt>Text Actions</dt>
 								<dd>Text: 13px (10pt) <span title="Gray 800" class="theme">#354052</span></dd>
 								<dd>Weight: 600</dd>
+								<dd>Margin Between Text: <span class="pxrem">24px</span></dd>
 								<!-- -->
 								<dt>Icons</dt>
 								<dd>Size: <span class="pxrem">16px</span></dd>
 								<dd>Margin Between Icons: <span class="pxrem">24px</span></dd>
+								<dd class="note">See Icon and Button Group Components for style options.</dd>
 							</dl>
 						</dd>
 					</dl>
