@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Nielsen Experience<br/>UI Guidelines</h1>
-		<h3>V8.2 &ndash; Updated June 28, 2017</h3>
+		<h3>V8.2 &ndash; Updated July 24, 2017</h3>
 	</header>
 
 	<details open>
@@ -77,6 +77,7 @@
 			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
+			<li class="<?php echo ($current == "p_soft_select.php" ? "selected" : "")?>"><a href="p_soft_select.php">Soft Select</a></li>
 			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "p_toolbar.php" ? "selected" : "")?>"><a href="p_toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "p_tooltip.php" ? "selected" : "")?>"><a href="p_tooltip.php">Tooltip</a></li>
