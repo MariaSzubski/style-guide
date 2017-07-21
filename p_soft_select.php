@@ -53,7 +53,7 @@
 						<h4>Soft Select Small</h4>
 						<div class="desc_pattern">
 							<p>
-								In this example, the Soft Select Small clarifies the value and allows the user to drill or level up based on the variable within the data visualization.
+								In this example, the Soft Select Small clarifies the value and allows the user to drill or navigate up a level based on the variable within the data visualization.
 							</p>
 						</div>
 						<img src="img/guide/p_soft-select_02.png" alt="Soft Select Small">

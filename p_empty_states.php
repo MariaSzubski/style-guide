@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<!-- Section 1 -->
-				<section class="full">
+				<section>
 					<h2>Large</h2>
 					<section class="full">
 
@@ -44,7 +44,7 @@
 					</section>
 				</section>
 				<!-- Section 2 -->
-				<section class="full">
+				<section>
 					<h2>Acceptable Deviations</h2>
 					<section class="full">
 
@@ -78,7 +78,7 @@
 					</section>
 				</section>
 				<!-- Section 3 -->
-				<section class="full">
+				<section>
 					<h2>Large: Don't Do</h2>
 					<section class="full">
 
@@ -125,7 +125,7 @@
 					</section>
 				</section>
 				<!-- Section 4 -->
-				<section class="full">
+				<section>
 					<h2>Medium</h2>
 					<section class="full">
 						<img src="img/guide/p_empty_states_10.png" alt="Medium">
@@ -138,7 +138,7 @@
 					</section>
 				</section>
 				<!-- Section 7 -->
-				<section class="full">
+				<section>
 					<h2>Small</h2>
 					<section class="full">
 						<img src="img/guide/p_empty_states_11.png" alt="Small">
@@ -151,7 +151,7 @@
 					</section>
 				</section>
 				<!-- Section 9 -->
-				<section class="full">
+				<section>
 					<h2>Small: Don't Do</h2>
 					<section class="full">
 
@@ -167,6 +167,41 @@
 						<img src="img/guide/p_empty_states_13.png" alt="Small: Don't Do">
 					</section>
 				</section>
+				<aside>
+					<dl class="dl_root">
+						<dt>Text</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Heading</dt>
+								<dd>Text Size: 20px (15pt)</dd>
+								<dd>Weight: 600</dd>
+								<dd>Color: <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<!-- -->
+								<dt>Body Text</dt>
+								<dd>Text Size: 13px (10pt)</dd>
+								<dd>Weight: 400</dd>
+								<dd>Color: <span title="Gray 900" class="theme">#151921</span></dd>
+								<!-- -->
+							</dl>
+						</dd>
+						<dt>Icon</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Style</dt>
+								<dd>Color: <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Border: <span class="pxrem">2px</span> <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<!-- -->
+								<dt>Large Empty State</dt>
+								<dd>Icon: <span class="pxrem">48px</span> x <span class="pxrem">48px</span></dd>
+								<dd>Circle: <span class="pxrem">120px</span> x <span class="pxrem">120px</span></dd>
+								<!-- -->
+								<dt>Medium Empty State</dt>
+								<dd>Icon Size: <span class="pxrem">40px</span> x <span class="pxrem">40px</span></dd>
+								<dd>Circle: <span class="pxrem">80px</span> x <span class="pxrem">80px</span></dd>
+							</dl>
+						</dd>
+					</dl>
+				</aside>
 			</div>
 		</article>
 	</main>
