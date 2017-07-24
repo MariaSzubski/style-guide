@@ -71,7 +71,7 @@
 								<dd>Text: 12px (9pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Uppercase</dd>
 								<dd>Padding: <span class="pxrem">12px</span></dd>
-								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">8px</span></dd>
 								<!-- -->
 								<dt>Select State</dt>
 								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
@@ -94,7 +94,7 @@
 								<dd>Text: 13px (10pt) <span title="Blue 500" class="theme">#0098F3</span></dd>
 								<dd>Case: Capitalize</dd>
 								<dd>Padding: <span class="pxrem">12px</span></dd>
-								<dd>Margin Between Tabs: <span class="pxrem">16px</span></dd>
+								<dd>Margin Between Tabs: <span class="pxrem">8px</span></dd>
 								<!-- -->
 								<dt>Select State</dt>
 								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
