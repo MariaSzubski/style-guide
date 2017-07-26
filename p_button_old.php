@@ -19,38 +19,121 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4>Implementation</h4>
-					<img src="img/guide/p_button_01.png" alt="Button Patterns">
+				<section class="full desc_i">
+					<h2>Primary</h2>
+					<img src="img/guide/p_button_01.png" alt="Primary Button Rules">
 				</section>
-				<aside>
-					<dl class="related">
-						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="button_raised.php">Raised Button Component</a></dd>
-						<dd class="pg_link"><a href="button_flat.php">Flat Button Component</a></dd>
-					</dl>
+				<!-- -->
+				<section class="full desc_i">
+					<h2>Accent</h2>
+					<img src="img/guide/p_button_02.png" alt="Accent Button Rules">
+				</section>
+				<!-- -->
+				<section class="full desc_i">
+					<h2>Secondary</h2>
+					<img src="img/guide/p_button_03.png" alt="Secondary Button Rules">
+				</section>
+				<!-- -->
+				<section class="full desc_i">
+					<h2>Tertiary</h2>
+					<img src="img/guide/p_button_04.png" alt="Tertiary Button Rules">
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Hierarchy</h2>
+					<section class="full">
+						<h4>Valid Button Sets</h4>
+						<img src="img/guide/p_button_05.png" alt="Valid Button Sets">
+					</section>
 					<!-- -->
-					<dl class="dl_root">
-						<dt>Notes</dt>
-						<dd>
-							<dl class="sub">
-								<dt>Default Button</dt>
-								<dd class="note">Blue is the default button color. Accent buttons should be used rarely to elevate an important action on the page.</dd>
-								<!-- -->
-								<dt>Color</dt>
-								<dd class="note">Don't mix colors (blue and green) in a button group.</dd>
-								<!-- -->
-								<dt>Primary Buttons</dt>
-								<dd class="note">There is only one primary action per group. It uses the Primary or Accent button style.</dd>
-								<!-- -->
-								<dt>Secondary Buttons</dt>
-								<dd class="note">Use Flat Secondary style for buttons grouped with a primary action.</dd>
-								<!-- -->
-							</dl>
-						</dd>
-					</dl>
-				</aside>
-			</div>
+					<section class="full">
+						<h4>Alignment</h4>
+						<div class="desc_pattern">
+							<ul>
+								<li>Buttons positioned in the bottom right of a panel.</li>
+								<li>The most common or important action is on the right.</li>
+								<li>Arrange buttons from <mark>right to left</mark> in CRUD order:
+									<ul>
+										<li><strong>C</strong>reate</li>
+										<li><strong>R</strong>ead (Retrieve)</li>
+										<li><strong>U</strong>pdate (Modify)</li>
+										<li><strong>D</strong>elete</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</section>
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Acceptable Deviations</h2>
+					<section class="full">
+						<h4>Vertical Card</h4>
+						<img src="img/guide/p_button_06.png" alt="Vertical Card">
+						<div class="desc_pattern">
+							<p>
+								Center align buttons at the bottom of a vertical card.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Back Button</h4>
+						<img src="img/guide/p_button_07.png" alt="Back Button">
+						<div class="desc_pattern">
+							<p>
+								Left align the back button in a wizard.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Toasts</h4>
+						<img src="img/guide/p_button_08.png" alt="Toasts">
+						<div class="desc_pattern">
+							<p>
+								Use Small Primary Flat buttons for all actions in a toast.
+							</p>
+						</div>
+					</section>
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Don't Do</h2>
+					<section class="full">
+						<img src="img/guide/p_button_09.png" alt="Don’t use more than one Accent button per set or page.">
+						<div class="desc_pattern">
+							<p>Don’t use more than one Accent button per set or page.</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<img src="img/guide/p_button_10.png" alt="Don't Do">
+						<div class="desc_pattern">
+							<p>
+								Don’t mix primary and accent buttons in a set.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+
+						<img src="img/guide/p_button_11.png" alt="Don't Do">
+						<div class="desc_pattern">
+							<p>
+								Don’t mix button sizes in a set.
+							</p>
+						</div>
+					</section>
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Examples</h2>
+					<section class="full">
+						<h4>Wizard</h4>
+						<img src="img/guide/p_button_12.png" alt="Wizard">
+					</section>
+				</section>
 			</div>
 		</article>
 	</main>

@@ -19,40 +19,16 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section class="full desc_i">
-					<h2>Primary</h2>
-					<img src="img/guide/p_button_01.png" alt="Primary Button Rules">
-				</section>
-				<!-- -->
-				<section class="full desc_i">
-					<h2>Accent</h2>
-					<img src="img/guide/p_button_02.png" alt="Accent Button Rules">
-				</section>
-				<!-- -->
-				<section class="full desc_i">
-					<h2>Secondary</h2>
-					<img src="img/guide/p_button_03.png" alt="Secondary Button Rules">
-				</section>
-				<!-- -->
-				<section class="full desc_i">
-					<h2>Tertiary</h2>
-					<img src="img/guide/p_button_04.png" alt="Tertiary Button Rules">
-				</section>
-				<!-- -->
 				<section class="full">
-					<h2>Hierarchy</h2>
+					<h2>Order &amp; Position</h2>
 					<section class="full">
-						<h4>Valid Button Sets</h4>
-						<img src="img/guide/p_button_05.png" alt="Valid Button Sets">
-					</section>
-					<!-- -->
-					<section class="full">
-						<h4>Alignment</h4>
+						<h4>Default</h4>
+						<img src="img/guide/p_button_01.png" alt="Default Button Order &amp; Position">
 						<div class="desc_pattern">
 							<ul>
-								<li>Buttons positioned in the bottom right of a panel.</li>
-								<li>The most common or important action is on the right.</li>
-								<li>Arrange buttons from <mark>right to left</mark> in CRUD order:
+								<li>Position buttons in the bottom right of a panel.</li>
+								<li>The most common or important action is on the far right.</li>
+								<li>Arrange buttons from the edge of the panel in CRUD order:
 									<ul>
 										<li><strong>C</strong>reate</li>
 										<li><strong>R</strong>ead (Retrieve)</li>
@@ -63,75 +39,123 @@
 							</ul>
 						</div>
 					</section>
-				</section>
-				<!-- -->
-				<section class="full">
-					<h2>Acceptable Deviations</h2>
+					<!-- -->
 					<section class="full">
-						<h4>Vertical Card</h4>
-						<img src="img/guide/p_button_06.png" alt="Vertical Card">
+						<h4>Acceptable Deviation: Forms</h4>
+						<img src="img/guide/p_button_02.png" alt="Acceptable Deviation: Forms">
 						<div class="desc_pattern">
 							<p>
-								Center align buttons at the bottom of a vertical card.
+								Reverse and left align buttons below a form, with the most important action on the far left.
 							</p>
 						</div>
 					</section>
 					<!-- -->
 					<section class="full">
-						<h4>Back Button</h4>
-						<img src="img/guide/p_button_07.png" alt="Back Button">
+						<h4>Acceptable Deviation: Vertical Card</h4>
+						<img src="img/guide/p_button_03.png" alt="Vertical Card">
+						<div class="desc_pattern">
+							<p>
+								Center align actions at the bottom of a Vertical Card.
+							</p>
+						</div>
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Acceptable Deviation: Back Button In a Wizard</h4>
+						<img src="img/guide/p_button_04.png" alt="Back Button">
 						<div class="desc_pattern">
 							<p>
 								Left align the back button in a wizard.
 							</p>
 						</div>
 					</section>
-					<!-- -->
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Primary Buttons</h2>
+					<div class="desc_pattern">
+						<p>
+							Primary Buttons elevate common actions in a page.
+						</p>
+						<p>
+							While there is no limit on the amount of Primary Buttons used on a page or in a set, Raised Primary Buttons should be used sparingly to highlight important actions on the screen.
+						</p>
+					</div>
+					<img src="img/guide/p_button_05.png" alt="Primary Button Examples">
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Accent Buttons</h2>
+					<div class="desc_pattern">
+						<p>
+							Accent Buttons elevate important or final actions. They generally come at the end of a workflow and represent Commit, Submit, or Create actions.
+						</p>
+						<p>
+							Use Accent Buttons sparingly, with no more than one per page. Accent Button cannot be combine with Primary Buttons in a set.
+						</p>
+					</div>
+					<img src="img/guide/p_button_06.png" alt="Accent Button Examples">
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Secondary Buttons</h2>
+					<div class="desc_pattern">
+						<p>
+							Secondary Buttons demote less common actions on a page. There is no limit on the amount of Secondary Buttons on a page.
+						</p>
+						<p>
+							Raised Secondary Buttons can also be used in a Button Group.
+						</p>
+					</div>
+					<img src="img/guide/p_button_07.png" alt="Secondary Button Examples">
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Tertiary Buttons</h2>
+					<div class="desc_pattern">
+						<p>
+							Tertiary Buttons demote actions grouped with to Secondary Buttons in a set. There is no limit on the amount of Tertiary Buttons on a page.
+						</p>
+						<p>
+							Raised Tertiary Buttons can also be used in a Button Group.
+						</p>
+					</div>
+					<img src="img/guide/p_button_08.png" alt="Tertiary Button Examples">
+				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Hierarchy</h2>
 					<section class="full">
-						<h4>Toasts</h4>
-						<img src="img/guide/p_button_08.png" alt="Toasts">
-						<div class="desc_pattern">
-							<p>
-								Use Small Primary Flat buttons for all actions in a toast.
-							</p>
-						</div>
+						<h4>Examples of Valid Button Sets</h4>
+						<img src="img/guide/p_button_09.png" alt="Valid Button Sets">
 					</section>
 				</section>
 				<!-- -->
 				<section class="full">
-					<h2>Don't Do</h2>
+					<h2>Don'ts</h2>
 					<section class="full">
-						<img src="img/guide/p_button_09.png" alt="Don’t use more than one Accent button per set or page.">
-						<div class="desc_pattern">
-							<p>Don’t use more than one Accent button per set or page.</p>
-						</div>
+					<div class="desc_pattern">
+						<p>Don’t use more than one Accent Button per set or page.</p>
+					</div>
+						<img src="img/guide/p_button_10.png" alt="Don’t use more than one Accent button per set or page.">
 					</section>
 					<!-- -->
 					<section class="full">
-						<img src="img/guide/p_button_10.png" alt="Don't Do">
-						<div class="desc_pattern">
-							<p>
-								Don’t mix primary and accent buttons in a set.
-							</p>
-						</div>
-					</section>
-					<!-- -->
-					<section class="full">
-
+					<div class="desc_pattern">
+						<p>
+							Don’t mix primary and accent buttons in a set.
+						</p>
+					</div>
 						<img src="img/guide/p_button_11.png" alt="Don't Do">
-						<div class="desc_pattern">
-							<p>
-								Don’t mix button sizes in a set.
-							</p>
-						</div>
 					</section>
-				</section>
-				<!-- -->
-				<section class="full">
-					<h2>Examples</h2>
+					<!-- -->
 					<section class="full">
-						<h4>Wizard</h4>
-						<img src="img/guide/p_button_12.png" alt="Wizard">
+					<div class="desc_pattern">
+						<p>
+							Don’t mix button sizes in a set.
+						</p>
+					</div>
+						<img src="img/guide/p_button_12.png" alt="Don't Do">
 					</section>
 				</section>
 			</div>
