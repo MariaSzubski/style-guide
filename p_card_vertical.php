@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Large Card / All Content Types</h4>
+					<h4>All Card Contents</h4>
 					<img src="img/guide/p_card_vertical_01.png" alt="Large Card / All Content Types">
 				</section>
 				<!-- -->
@@ -30,7 +30,7 @@
 				</section>
 				<!-- -->
 				<section>
-					<h4>Small Card Examples</h4>
+					<h4>Small Card</h4>
 					<img src="img/guide/p_card_vertical_03.png" alt="Small Card Examples">
 				</section>
 				<!-- -->
@@ -58,6 +58,7 @@
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
 						<dd class="pg_link"><a href="p_card_wide.php">Wide Card Patterns</a></dd>
 						<dd class="pg_link"><a href="chip.php">Chip Component</a></dd>
+						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
@@ -80,6 +81,9 @@
 								<dd>Weight: 600</dd>
 								<dd>Line Height: <span class="pxrem">20px</span></dd>
 								<!-- -->
+								<dt>Icons</dt>
+								<dd>See Icon component</dd>
+								<!-- -->
 								<dt>Date</dt>
 								<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Weight: 400</dd>
@@ -88,6 +92,11 @@
 								<dt>Description</dt>
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Line Height: <span class="pxrem">20px</span></dd>
+								<!-- -->
+								<dt>Card Expander</dt>
+								<dd class="note">Click to expand and collapse metadata. Card actions remain visible when the card is collapsed.</dd>
+								<br>
+								<dd class="note">Expandable cards are optional. Medium cards can display small amounts of metadata without expanding and collapsing.</dd>
 								<!-- -->
 								<dt>Author</dt>
 								<dd>Label: 11px (8pt)</dd>
@@ -113,13 +122,23 @@
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Small Cards</dt>
-						<dd class="note">Small Cards display up to:
-							<ul>
-								<li>• One title line</li>
-								<li>• Two subheader lines</li>
-								<li>• One thumbnail</li>
-							</ul>
+						<dt>Small Card</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Card Contents</dt>
+								<dd class="note">Small Cards display up to:
+									<ul>
+										<li>• One Title line</li>
+										<li>• Two Subheader lines</li>
+										<li>• One Thumbnail</li>
+									</ul>
+								</dd>
+								<!-- -->
+								<dt>Subheaders</dt>
+								<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
+								<dd>Weight: 400</dd>
+								<dd>Line Height: <span class="pxrem">20px</span></dd>
+							</dl>
 						</dd>
 						<!-- -->
 						<dt>Selectable Cards</dt>
