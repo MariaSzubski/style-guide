@@ -57,7 +57,7 @@
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="card.php">Card Component</a></dd>
 						<dd class="pg_link"><a href="p_card_horizontal.php">Horizontal Card Patterns</a></dd>
-						<dd class="pg_link"><a href="chip.php">Chip Component</a></dd>
+						<dd class="pg_link"><a href="chips.php">Chip Component</a></dd>
 						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
 					</dl>
 					<!-- -->
