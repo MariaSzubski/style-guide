@@ -30,7 +30,7 @@
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_card_wide.php">Wide Card Patterns</a></dd>
+						<dd class="pg_link"><a href="p_card_horizontal.php">Horizontal Card Patterns</a></dd>
 						<dd class="pg_link"><a href="p_card_vertical.php">Vertical Card Patterns</a></dd>
 						<dd class="pg_link"><a href="p_card_panel.php">Panel Patterns</a></dd>
 					</dl>
