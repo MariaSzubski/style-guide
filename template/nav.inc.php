@@ -42,6 +42,7 @@
 			<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
 			<li class="<?php echo ($current == "menu.php" ? "selected" : "")?>"><a href="menu.php">Menu</a></li>
 			<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
+			<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
 			<li class="<?php echo ($current == "progress_circular.php" ? "selected" : "")?>"><a href="progress_circular.php">Progress Circular</a></li>
 			<li class="<?php echo ($current == "progress_linear.php" ? "selected" : "")?>"><a href="progress_linear.php">Progress Linear</a></li>
 			<li class="<?php echo ($current == "radio_button.php" ? "selected" : "")?>"><a href="radio_button.php">Radio Button</a></li>
@@ -72,7 +73,6 @@
 			<li class="<?php echo ($current == "p_empty_states.php" ? "selected" : "")?>"><a href="p_empty_states.php">Empty States</a></li>
 			<li class="<?php echo ($current == "p_grid.php" ? "selected" : "")?>"><a href="p_grid.php">Grid</a></li>
 			<li class="<?php echo ($current == "p_multiselect.php" ? "selected" : "")?>"><a href="p_multiselect.php">Multiselect</a></li>
-			<li class="<?php echo ($current == "p_pagination.php" ? "selected" : "")?>"><a href="p_pagination.php">Pagination</a></li>
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
 			<li class="<?php echo ($current == "p_soft_select.php" ? "selected" : "")?>"><a href="p_soft_select.php">Soft Select</a></li>
