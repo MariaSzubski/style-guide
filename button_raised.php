@@ -20,9 +20,25 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-
 					<img src="img/guide/button_raised_01.png" alt="Raised Buttons">
 				</section>
+				<!-- -->
+				<section>
+					<h2>Drop Buttons</h2>
+					<section class="full">
+						<h4>Default</h4>
+						<img src="img/guide/button_raised_02.png" alt="Default Drop Buttons">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Small</h4>
+						<img src="img/guide/button_raised_03.png" alt="Small Drop Buttons">
+					</section>
+					<!-- -->
+					<section class="full">
+						<h4>Drop Button Menu</h4>
+						<img src="img/guide/button_raised_04.png" alt="Drop Button Menu">
+					</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
@@ -30,6 +46,7 @@
 						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
 						<dd class="pg_link"><a href="p_button.php">Button Patterns</a></dd>
 						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
+						<dd class="pg_link"><a href="menu.php">Menu Component</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
@@ -93,6 +110,23 @@
 								<dd>Selected Text: <span title="Gray 600" class="theme">#79818C</span></dd>
 								<dd>Selected BG: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
 								<dd>Disabled Text &amp; Border: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+							</dl>
+						</dd>
+						<!-- -->
+						<dt>Drop Buttons</dt>
+						<dd>
+							<dl class="sub">
+								<dt>Color &amp; Size</dt>
+								<dd>Divider &amp; Icon: #FFFFFF</dd>
+								<dd>Default Button: <span class="pxrem">36px</span> x <span class="pxrem">36px</span></dd>
+								<dd>Small Button: <span class="pxrem">28px</span> x <span class="pxrem">28px</span></dd>
+								<dd>Icon: <span class="pxrem">16px</span> x <span class="pxrem">16px</span></dd>
+								<!-- -->
+								<dt>Selected State</dt>
+								<dd class="note">Use Selected Button State shown above.</dd>
+								<!-- -->
+								<dt>Menu</dt>
+								<dd class="note">See Compact Menu Component.</dd>
 							</dl>
 						</dd>
 					</dl>
