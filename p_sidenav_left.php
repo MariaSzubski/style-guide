@@ -54,9 +54,11 @@
 								<dd>Item Line Height: <span class="pxrem">30px</span></dd>
 								<dd>Indent: <span class="pxrem">20px</span></dd>
 								<!-- -->
+								<dt>Tree View Selections</dt>
+								<dd class="note">The arrow icon expands or collapses a tree level. Clicking anywhere outside of the arrow selects the row.</dd>
+								<!-- -->
 								<dt>Icons</dt>
 								<dd>New Window: open_in.svg</dd>
-								<dd>Collapsed Folder With Selected Item: wizard_completed.png</dd>
 							</dl>
 						</dd>
 						<!-- -->
