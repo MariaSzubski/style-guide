@@ -20,9 +20,14 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					
 					<img src="img/guide/type_styles_01.png" alt="Type Styles">
 				</section>
+				<!-- -->
+				<section class="full">
+					<h2>Content Example</h2>
+					<img src="img/guide/type_styles_02.png" alt="Content Example">
+				</section>
+				<!-- -->
 				<section class="full">
 					<h2>Font Files</h2>
 					<section class="full">

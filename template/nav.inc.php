@@ -65,7 +65,6 @@
 			<li class="<?php echo ($current == "p_card_horizontal.php" ? "selected" : "")?>"><a href="p_card_horizontal.php">Card (Horizontal)</a></li>
 			<li class="<?php echo ($current == "p_card_panel.php" ? "selected" : "")?>"><a href="p_card_panel.php">Card (Panel)</a></li>
 			<li class="<?php echo ($current == "p_charts.php" ? "selected" : "")?>"><a href="p_charts.php">Charts</a></li>
-			<li class="<?php echo ($current == "p_content.php" ? "selected" : "")?>"><a href="p_content.php">Content</a></li>
 			<li class="<?php echo ($current == "p_copyright.php" ? "selected" : "")?>"><a href="p_copyright.php">Copyright</a></li>
 			<li class="<?php echo ($current == "p_data_context_picker.php" ? "selected" : "")?>"><a href="p_data_context_picker.php">Data Context Picker</a></li>
 			<li class="<?php echo ($current == "p_data_formats.php" ? "selected" : "")?>"><a href="p_data_formats.php">Data Formats</a></li>
