@@ -76,7 +76,6 @@
 			<li class="<?php echo ($current == "p_sidenav_left.php" ? "selected" : "")?>"><a href="p_sidenav_left.php">Sidenav (Left)</a></li>
 			<li class="<?php echo ($current == "p_sidenav_right.php" ? "selected" : "")?>"><a href="p_sidenav_right.php">Sidenav (Right)</a></li>
 			<li class="<?php echo ($current == "p_soft_select.php" ? "selected" : "")?>"><a href="p_soft_select.php">Soft Select</a></li>
-			<li class="<?php echo ($current == "p_tabs.php" ? "selected" : "")?>"><a href="p_tabs.php">Tabs</a></li>
 			<li class="<?php echo ($current == "p_toolbar.php" ? "selected" : "")?>"><a href="p_toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "p_tooltip.php" ? "selected" : "")?>"><a href="p_tooltip.php">Tooltip</a></li>
 			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>

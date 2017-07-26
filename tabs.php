@@ -31,10 +31,13 @@
 					<h4>Tertiary Tabs</h4>
 					<img src="img/guide/tabs_03.png" alt="Tertiary Tabs">
 				</section>
+				<section>
+					<h4>Tab Levels In Context</h4>
+					<img src="img/guide/tabs_04.png" alt="Tab Levels In Context">
+				</section>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_tabs.php">Tab Patterns</a></dd>
 						<dd class="pg_link"><a href="nav_bar.php">Nav Bar Component</a></dd>
 					</dl>
 					<!-- -->

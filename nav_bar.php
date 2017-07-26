@@ -34,7 +34,7 @@
 						<dd>Height: <span class="pxrem">42px</span></dd>
 						<dd>Background: #FFFFFF</dd>
 						<dd>Border-Top: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
-						<dd>Tab Alignment: Center</dd>
+						<dd>Tab Alignment: Left</dd>
 						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
 						<dd>Angular Equivalent: 2dp</dd>
 						<!-- -->
