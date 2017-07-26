@@ -20,9 +20,15 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					
-					<img src="img/guide/p_tooltip_01.png" alt="Basic Tooltip">
+					<img src="img/guide/p_tooltip_01.png" alt="Tooltip Patterns">
 				</section>
+				<section>
+					<h2>Acceptable Deviation</h2>
+					<div class="desc_pattern">
+						<p>Tooltips can be displayed without a carrot, if there is a technology limitation.</p>
+					</div>
+					<img src="img/guide/p_tooltip_02.png" alt="Tooltip Pattern Deviation">
+
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
@@ -41,15 +47,15 @@
 								<dt>Light</dt>
 								<dd>Text: 13px (10pt) <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: #FFFFFF</dd>
+								<!-- -->
+								<dt>Accent Color</dt>
+								<dd>Border: <span class="pxrem">2px</span> #FFFFFF</dd>
+								<dd>Background: Matches Data</dd>
 							</dl>
 						</dd>
 						<dt>Data Tooltip</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Accent Color</dt>
-								<dd>Border: <span class="pxrem">2px</span> #FFFFFF</dd>
-								<dd>Background: Matches Data</dd>
-								<!-- -->
 								<dt>Data Value</dt>
 								<dd>Text: 24pt (18pt)</dd>
 								<!-- -->
