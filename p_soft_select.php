@@ -61,12 +61,13 @@
 					<!-- -->
 					<section class="full">
 						<h4>Anatomy of the Soft Select Small</h4>
+						<img src="img/guide/p_soft-select_03.png" alt="Anatomy of the Soft Select Small">
+
 						<div class="desc_pattern">
 							<p>
 								Soft Select Small can be horizontal or vertical. It has a similar construction to a card. It incorporates the title at top and the action button row at bottom. The remainder of the space is dedicated to contextual content and / or metadata. The Soft Select Small is intended to be compact. Keep the content direct and informative.
 							</p>
 						</div>
-						<img src="img/guide/p_soft-select_03.png" alt="Anatomy of the Soft Select Small">
 					</section>
 				</section>
 				<!-- Section 3 -->

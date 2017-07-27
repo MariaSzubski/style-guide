@@ -90,7 +90,11 @@
 					<section class="full">
 						<h4>Multiselect Grids</h4>
 						<div class="desc_pattern">
-							<p>Multiselect can be applied to grids in which multiple rows need to be selected in order to perform an action. This may apply to several types of grids.</p>
+							<p>Multiselect can be applied to grids in which multiple rows need to be selected in order to perform an action. This may apply to several types of grids.
+							</p>
+							<p>
+								The arrow icon expands or collapses a tree level. Clicking anywhere outside of the arrow selects the row.
+							</p>
 						</div>
 						<img src="img/guide/p_multiselect_07.png" alt="Label">
 					</section>
