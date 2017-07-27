@@ -102,7 +102,7 @@
 								<dt>Select State</dt>
 								<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
 								<dd>Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
-								<dd>Border: <span class="pxrem">2px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Gray 400" class="theme">#BBCCDD</span></dd>
 								<dd>Box Height: <span class="pxrem">24px</span></dd>
 							</dl>
 						</dd>
