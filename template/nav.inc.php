@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Nielsen Experience<br/>UI Guidelines</h1>
-		<h3>V8.2 &ndash; Updated July 24, 2017</h3>
+		<h3>V8.2 &ndash; Updated July 27, 2017</h3>
 	</header>
 
 	<details open>

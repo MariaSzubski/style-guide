@@ -28,7 +28,17 @@
 						The visual language is infused with our new brand. It results from a collaboration between Nielsen Experience and the Global Brand team with input from Product Leadership and Engineering. The new documentation reflects the structure of several Material Design libraries.
 					</p>
 					<p>
-						We will update the standards periodically during 2017.
+						We will update the standards on a monthly basis.
+					</p>
+					<p>
+						These updates may contain minor refinements or revisions to components - the building blocks of our design system.
+					</p>
+					<p>
+						Updates will also extend the patterns. Patterns utilize a combination of several components to address a universal need.
+					</p>
+					<p>
+						We will send out an email when updates are posted. <a href="https://goo.gl/forms/BYCAU2ncshIkIexC3" target="_blank">Please sign up to receive notifications about our updates.</a>
+						<br/>
 					</p>
 				</div>
 			</div>
