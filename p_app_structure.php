@@ -22,57 +22,37 @@
 				<section class="full">
 					<div class="desc_pattern">
 						<p>
-							App structure has 3 sections: UI Areas, Primary App Structure, and Secondary App Structure. These notions have direction impacts on App Bar and Sidenav.
+							Nielsen uses two App Structures in its products, Primary App Structure and a Secondary App Structure.
+						</p>
+						<p>
+							For Applications that are more compact and have content based navigation, we recommend using the Primary App Structure.
+						</p>
+						<p>
+							For deeper apps that have several analytic areas with little overlap between these areas, we recommend the Secondary App Structure.
 						</p>
 					</div>
 				</section>
 				<!-- Section 1 -->
 				<section class="full">
-					<h2>UI Areas (Schematic)</h2>
-					<section class="full">
-						<div class="desc_pattern">
-							<p>
-								Both Primary and Secondary App Structure have the same UI Areas:
-							</p>
-							<ul>
-								<li>App Bar</li>
-								<li>Toolbar</li>
-								<li>Sidenav Right</li>
-								<li>Content</li>
-								<li>Copyright</li>
-							</ul>
-							<p>
-								Nielsen’s Secondary App Structure adds Sidenav Left.
-							</p>
-						</div>
-					</section>
-					<!-- -->
-					<section class="full">
-						<h4>Primary App Structure</h4>
-						<img src="img/guide/p_app-structure_01.png" alt="UI Areas: Primary App Structure">
-					</section>
-					<!-- -->
-					<section class="full">
-						<h4>Secondary App Structure</h4>
-						<img src="img/guide/p_app-structure_02.png" alt="UI Areas: Secondary App Structure">
-					</section>
-				</section>
-
-				<!-- Section 2 -->
-				<section class="full">
 					<h2>Primary App Structure</h2>
-					<!-- -->
 					<section class="full">
+						<h4>Schematic</h4>
+						<img src="img/guide/p_app-structure_01.png" alt="Primary App Structure Schematic">
 						<div class="desc_pattern">
-							<p>
-								As mentioned in UI Areas, Primary App Structure has only a Sidenav Right. The Primary App Structure relies on contextual navigation within the content area.
-							</p>
-							<p>
-								Use Primary App Structure in cases where:
+							<p>Use Primary App Structure in products where:
 								<ul>
 									<li>The app is straightforward and well focused</li>
-									<li>There 3 or fewer levels of navigation</li>
+									<li>There three or fewer levels of navigation</li>
 									<li>The toolbar provides the majority of the functionality</li>
+								</ul>
+							</p>
+							<p>Primary App Structure incorporates:
+								<ul>
+									<li>App Bar with 3-level Navigation</li>
+									<li>Toolbar</li>
+									<li>Sidenav Right</li>
+									<li>Page content that incorporates contextual navigation</li>
+									<li>Copyright</li>
 								</ul>
 							</p>
 						</div>
@@ -80,31 +60,29 @@
 					<!-- -->
 					<section class="full">
 						<h4>Primary App Structure: Landing Page</h4>
-						<img src="img/guide/p_app-structure_03.png" alt="Primary App Structure: Landing Page">
+						<img src="img/guide/p_app-structure_02.png" alt="Primary App Structure: Landing Page">
 					</section>
 					<!-- -->
 					<section class="full">
 						<h4>Primary App Structure: Level 2</h4>
-						<img src="img/guide/p_app-structure_04.png" alt="Primary App Structure: Level 2">
+						<img src="img/guide/p_app-structure_03.png" alt="Primary App Structure: Level 2">
 					</section>
 					<!-- -->
 					<section class="full">
 						<h4>Primary App Structure: Level 3</h4>
-						<img src="img/guide/p_app-structure_05.png" alt="Primary App Structure: Level 3">
+						<img src="img/guide/p_app-structure_04.png" alt="Primary App Structure: Level 3">
 					</section>
 				</section>
 
-				<!-- Section 3 -->
+				<!-- Section 2 -->
 				<section class="full">
 					<h2>Secondary App Structure</h2>
 					<!-- -->
 					<section class="full">
+						<h4>Schematic</h4>
+						<img src="img/guide/p_app-structure_05.png" alt="Secondary App Structure Schematic">
 						<div class="desc_pattern">
-							<p>
-								The Secondary App Structure has both Sidenav Right and Sidenav Left. The Secondary App Structure is reserved for large apps in which there are several types of analysis / actions that may be loosely associated
-							</p>
-							<p>
-								Use Secondary App Structure in cases where:
+							<p>Use this app structure when:
 								<ul>
 									<li>The app has several analysis areas that have minimal overlap</li>
 									<li>There are more than 3 levels of navigation</li>
@@ -115,10 +93,16 @@
 					</section>
 					<!-- -->
 					<section class="full">
-						
-						<img src="img/guide/p_app-structure_06.png" alt="Secondary App Structure">
+						<h4>Secondary App Structure: Landing Page</h4>
+						<div class="desc_pattern">
+							<p>
+								The Secondary App Structure has both Sidenav Right and Sidenav Left (shown above.) Secondary App Structure is reserved for large apps in which there are several types of analysis / actions that may be loosely associated.
+							</p>
+						</div>
+						<img src="img/guide/p_app-structure_06.png" alt="Secondary App Structure: Landing Page">
 					</section>
-				</section>
+
+			</section>
 			</div>
 		</article>
 	</main>
