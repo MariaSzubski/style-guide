@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Mono:400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Amatica+SC|Roboto+Condensed:400,700|Roboto:100,300,400,500,700");
 *{
   box-sizing:border-box;
-  font-family:Open Sans,sans-serif;
+  font-family:Roboto,sans-serif;
   margin:0;
   padding:0;
   border:0;
@@ -34,14 +34,14 @@ nav.default_state{
   left:0;
 }
 a:link,a:visited{
-  color:#0098f3;
+  color:#129cff;
   text-decoration:none;
 }
 a:active,a:hover{
   text-decoration:underline;
 }
 a:active{
-  color:#004c7a;
+  color:#094e80;
 }
 ::-webkit-scrollbar{
   width:12px;
@@ -88,6 +88,7 @@ a:active{
     overflow:visible;
   }
   #pg_header{
+    font-family:Roboto Condensed,sans-serif;
     font-size:2.5rem;
     color:#00aeef;
   }

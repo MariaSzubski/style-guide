@@ -12,6 +12,7 @@ main header h2,main header img{
 }
 main header h2{
   left:42px;
+  font-family:Roboto Condensed,sans-serif;
   font-size:20px;
   font-size:1.25rem;
   color:#000;
@@ -29,7 +30,8 @@ article section{
   width:calc(100% - 304px);
 }
 article h2{
-  color:#0098f3;
+  color:#2ad19b;
+  font-family:Roboto Condensed,sans-serif;
   font-size:32px;
   font-size:2rem;
   font-weight:400;
@@ -98,7 +100,7 @@ aside{
 }
 aside dl *{
   font-family:Roboto Mono,monospace;
-  color:#464646;
+  color:#444;
   font-size:13px;
   font-size:.8125rem;
   line-height:1.5;
@@ -110,7 +112,7 @@ aside dt{
   text-transform:uppercase;
   font-weight:600;
   padding-top:24px;
-  color:#0098f3;
+  color:#2ad19b;
 }
 aside dt:first-of-type{
   padding-top:0;
@@ -132,7 +134,7 @@ aside dd{
 aside .sub dt{
   text-transform:capitalize;
   font-weight:600;
-  color:#464646;
+  color:#444;
 }
 aside .sub dt:first-of-type{
   padding-top:0;
@@ -170,7 +172,7 @@ aside mark{
   padding-bottom:16px;
 }
 .desc_pattern li,.desc_pattern p,.desc_pattern ul{
-  color:#464646;
+  color:#444;
   line-height:1.6;
   font-size:15px;
   font-size:.9375rem;
@@ -201,7 +203,8 @@ section.desc p{
   text-align:center;
 }
 .desc h2{
-  color:#0098f3;
+  color:#2ad19b;
+  font-family:Roboto Condensed,sans-serif;
   font-size:32px;
   font-size:2rem;
   font-weight:400;
@@ -209,7 +212,7 @@ section.desc p{
   text-transform:uppercase;
 }
 .desc p{
-  color:#464646;
+  color:#444;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.6;
@@ -230,7 +233,8 @@ section.desc_i p{
   text-align:center;
 }
 .desc_i h2{
-  color:#0098f3;
+  color:#2ad19b;
+  font-family:Roboto Condensed,sans-serif;
   font-size:32px;
   font-size:2rem;
   font-weight:400;
@@ -241,7 +245,7 @@ section.desc_i p{
   content:none;
 }
 .desc_i p{
-  color:#464646;
+  color:#444;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.6;

@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Component &ndash; Badge</h2>
+			<h2 id="pg_header">Components &ndash; Badge</h2>
 			<div class="btn-group" role="group">
 				Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
@@ -20,7 +20,7 @@
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					
+
 					<img src="img/guide/badge_01.png" alt="Badges">
 				</section>
 

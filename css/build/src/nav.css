@@ -66,12 +66,12 @@ header button.btn-selected,header button:hover{
   transition:background-color .4s ease;
 }
 header button.btn-selected,nav{
-  background-color:#354052;
+  background-color:#243544;
 }
 nav header{
   padding:36px 24px;
   text-align:center;
-  border-bottom:1px solid #495871;
+  border-bottom:1px solid #364f65;
 }
 nav header h1{
   font-size:1.25em;
@@ -133,7 +133,7 @@ nav details[open]>summary:before{
           transform:rotate(0deg);
 }
 nav ul{
-  border-bottom:1px solid #495871;
+  border-bottom:1px solid #364f65;
   padding-bottom:24px;
 }
 nav li{
@@ -161,7 +161,7 @@ nav li.selected{
   transition:background-color .3s ease;
 }
 nav li.selected a{
-  color:#354052;
+  color:#243544;
 }
 nav a{
   position:absolute;
@@ -182,14 +182,14 @@ nav::-webkit-scrollbar{
   width:.75rem;
 }
 nav::-webkit-scrollbar-track{
-  background:#45536b;
+  background:#324a5f;
   box-shadow:inset 0 0 5px #000;
 }
 nav::-webkit-scrollbar-thumb{
   border-radius:.75rem;
-  background:#1b2029;
+  background:#121b22;
   box-shadow:inset 0 0 3px #000;
 }
 nav::-webkit-scrollbar-thumb:window-inactive{
-  background:#303a4a;
+  background:#20303d;
 }
