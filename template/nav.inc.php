@@ -1,15 +1,15 @@
 <nav class="default_state">
 	<header>
-		<h1>Nielsen Experience<br/>UI Guidelines</h1>
-		<h3>V8.2 &ndash; Updated July 27, 2017</h3>
+		<h1>Style Guide</h1>
+		<h3>Version 2.x.xx</h3>
 	</header>
 
 	<details open>
 		<summary><span>About the Guidelines</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "index.php" ? "selected" : "")?>"><a href="index.php">Introduction</a></li>
-			<li class="<?php echo ($current == "changelog.php" ? "selected" : "")?>"><a href="changelog.php">Changelog</a></li>
-			<li class="<?php echo ($current == "usage.php" ? "selected" : "")?>"><a href="usage.php">Usage</a></li>
+			<li class="<?php echo ($current == "tech_stack.php" ? "selected" : "")?>"><a href="tech_stack.php">Tech Stack</a></li>
+			<li class="<?php echo ($current == "about.php" ? "selected" : "")?>"><a href="about.php">About The Brand</a></li>
 			<li class="<?php echo ($current == "contact_us.php" ? "selected" : "")?>"><a href="contact_us.php">Contact Us</a></li>
 		</ul>
 	</details>

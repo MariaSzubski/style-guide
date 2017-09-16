@@ -3,19 +3,19 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">NX Guidelines &ndash; Components &ndash; Card</title>
-	<link rel="stylesheet" href="css/build/style_v8-2.css">
+	<title id="title">Style Guide &ndash; Components &ndash; Card</title>
+	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
 		<h2 id="pg_header">Components &ndash; Card</h2>
 			<div class="btn-group" role="group">
-				Units:
+				Measurement Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			<img src="img/n_tab.svg" alt="Nielsen" id="icon_ntab">
+			
 		</header>
 		<article id="guidelines">
 			<div id="container">

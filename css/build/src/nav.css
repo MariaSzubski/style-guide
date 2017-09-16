@@ -14,13 +14,9 @@ header #icon_nav{
   margin:auto 6px;
   padding:7px;
 }
-header #icon_ntab{
-  right:24px;
-  margin:auto;
-}
 header .btn-group{
   position:absolute;
-  right:76px;
+  right:24px;
   margin:8px 0;
   color:#94a3b0;
 }

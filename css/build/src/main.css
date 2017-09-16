@@ -168,16 +168,17 @@ aside mark{
   width:auto;
   font-size:20px;
   font-size:1.25rem;
+  line-height:1.5;
   font-weight:400;
   padding-bottom:16px;
 }
 .desc_pattern li,.desc_pattern p,.desc_pattern ul{
   color:#444;
-  line-height:1.6;
   font-size:15px;
   font-size:.9375rem;
 }
 .desc_pattern li,.desc_pattern ul{
+  line-height:1.6;
   list-style-type:circle;
 }
 .desc_pattern ul{
@@ -215,7 +216,7 @@ section.desc p{
   color:#444;
   font-size:20px;
   font-size:1.25rem;
-  line-height:1.6;
+  line-height:1.5;
   font-weight:400;
   margin-bottom:16px;
 }
@@ -248,9 +249,9 @@ section.desc_i p{
   color:#444;
   font-size:20px;
   font-size:1.25rem;
-  line-height:1.6;
+  line-height:1.5;
   font-weight:400;
-  margin-bottom:16px;
+  margin-bottom:1.1em;
 }
 iframe{
   height:100%;
