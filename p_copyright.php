@@ -15,7 +15,7 @@
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
@@ -43,7 +43,6 @@
 								<dd>Text: 11px (8pt) <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Line height: <span class="pxrem">15px</span></dd>
 								<dd>Links: Underline</dd>
-								<dd>Nielsen Logo: nielsen_logo.svg</dd>
 								<!-- -->
 								<dt>Position</dt>
 								<dd class="note">Copyright footer is displayed at the bottom of the menu content and can scroll off the screen.</dd>

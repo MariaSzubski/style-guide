@@ -15,7 +15,7 @@
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
@@ -33,7 +33,6 @@
 					<dl class="related">
 						<dt>Related Content</dt>
 						<dd class="pg_link"><a href="tooltip.php">Tooltip Component</a></dd>
-						<dd class="pg_link"><a href="reporting_palette.php">Reporting Palette</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

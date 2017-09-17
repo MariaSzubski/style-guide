@@ -96,11 +96,11 @@ aside{
   border-radius:2px;
   margin:24px auto;
   background-color:#fff;
-  border-left:1px solid #eee;
+  border-left:1px solid #cad5df;
 }
 aside dl *{
   font-family:Roboto Mono,monospace;
-  color:#444;
+  color:#333;
   font-size:13px;
   font-size:.8125rem;
   line-height:1.5;
@@ -134,7 +134,7 @@ aside dd{
 aside .sub dt{
   text-transform:capitalize;
   font-weight:600;
-  color:#444;
+  color:#333;
 }
 aside .sub dt:first-of-type{
   padding-top:0;
@@ -173,7 +173,7 @@ aside mark{
   padding-bottom:16px;
 }
 .desc_pattern li,.desc_pattern p,.desc_pattern ul{
-  color:#444;
+  color:#333;
   font-size:15px;
   font-size:.9375rem;
 }
@@ -213,7 +213,7 @@ section.desc p{
   text-transform:uppercase;
 }
 .desc p{
-  color:#444;
+  color:#333;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;
@@ -246,7 +246,7 @@ section.desc_i p{
   content:none;
 }
 .desc_i p{
-  color:#444;
+  color:#333;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;

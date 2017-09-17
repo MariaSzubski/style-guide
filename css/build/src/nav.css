@@ -70,18 +70,20 @@ nav header{
   border-bottom:1px solid #364f65;
 }
 nav header h1{
-  font-size:1.25em;
+  font-family:Roboto Condensed,sans-serif;
+  font-size:1.5em;
+  font-weight:700;
   line-height:1.5;
 }
 nav header h1,nav header h3{
   color:#edeff0;
   text-transform:uppercase;
-  font-weight:400;
 }
 nav header h3{
   margin-top:12px;
   font-size:12px;
   font-size:.75rem;
+  font-weight:400;
 }
 nav summary{
   position:relative;

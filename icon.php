@@ -15,7 +15,7 @@
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
@@ -34,12 +34,6 @@
 				<section>
 					<h4>App Icons</h4>
 					<img src="img/guide/icon_04.png" alt="App Icons">
-				</section>
-				<section class="desc">
-					<h4>Icon Library</h4>
-					<p>
-						See Iconography section in the sidebar for full Nielsen icon library. Use <a href="https://material.io/icons/" target="blank">Google Material Design</a> icons as an extended library.
-					</p>
 				</section>
 				<aside>
 					<dl class="related">

@@ -15,7 +15,7 @@
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
@@ -40,11 +40,6 @@
 					<img src="img/guide/charts_05.png" alt="Data Values">
 				</section>
 				<aside>
-					<dl class="related">
-						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="reporting_palette.php">Reporting Palette</a></dd>
-					</dl>
-					<!-- -->
 					<dl class="dl_root">
 						<dt>Chart</dt>
 						<dd>Primary Axis: <span class="pxrem">2px</span> <span title="Gray 900" class="theme">#151921</span></dd>
@@ -56,14 +51,11 @@
 						<dd>Weight: 600</dd>
 						<dd>X-Axis Orientation: Horizontal or 45º angle</dd>
 						<!-- -->
-						<dt>Data Colors</dt>
-						<dd class="note">See Reporting Palette</dd>
-						<!-- -->
 						<dt>Notes</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Using Frameworks</dt>
-								<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between Nielsen products.</dd>
+								<dd class="note">Start with the out-of-box chart styles built into a product’s framework. Use the specifications listed here drive unity between products.</dd>
 								<!-- -->
 								<dt>Primary Axis Lines</dt>
 								<dd class="note">The dark axis line highlights the baseline of the chart, usually ‘0’. These aren’t necessarily the bottom- and left-most axis lines.</dd>

@@ -1,0 +1,31 @@
+table.techstack{
+  width:670px;
+  color:#333;
+  font-size:20px;
+  font-size:1.25rem;
+  line-height:1.5;
+  font-weight:400;
+  font-size:15px;
+  font-size:.9375rem;
+  border:1px solid #cad5df;
+  vertical-align:middle;
+  margin-bottom:48px;
+}
+table.techstack thead{
+  color:#e27e88;
+  text-transform:uppercase;
+  font-weight:700;
+}
+table.techstack th{
+  padding:8px 16px;
+  text-align:left;
+}
+table.techstack td{
+  padding:16px;
+}
+table.techstack td:first-of-type{
+  font-weight:700;
+}
+table.techstack tr{
+  border-bottom:1px solid #cad5df;
+}

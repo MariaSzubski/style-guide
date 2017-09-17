@@ -1,0 +1,39 @@
+@import (reference) 'var_mix.less';
+
+
+table.techstack{
+    width: 670px;
+    //font-family: 'Roboto Mono', monospace;
+    .text-desc;
+    font-size: @text-lg;
+    border: 1px solid @matte;
+    vertical-align: middle;
+    margin-bottom: 48px;
+
+    thead{
+        //background-color: @pink;
+        //border: 1px solid @pink;
+        color: @pink;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+    th{
+        padding: 8px 16px;
+        text-align: left;
+    }
+
+    td{
+        //font-family: 'Roboto Mono', monospace;
+        padding: 16px;
+
+        &:first-of-type{
+            font-weight: 700;
+        }
+    }
+
+    tr{
+        border-bottom: 1px solid @matte;
+    }
+
+}

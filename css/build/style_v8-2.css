@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Amatica+SC|Roboto+Condensed:400,700|Roboto:100,300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Amatica+SC|Roboto+Condensed:400,700|Roboto:100,300,400,500,700|Roboto+Mono:400,700");
 *{
   box-sizing:border-box;
   font-family:Roboto,sans-serif;
@@ -98,13 +98,13 @@ a:active{
 
 table,td,tr{
   border-collapse:collapse;
-  font-family:Roboto Mono,monospace;
-  font-size:13px;
-  font-size:.8125rem;
 }
 table.colors{
+  font-size:13px;
+  font-size:.8125rem;
   width:600px;
   margin:auto;
+  font-family:Roboto Mono,monospace;
   color:#fff;
 }
 table.colors tr{
@@ -121,281 +121,249 @@ table.colors .ltbg{
   color:#243544;
 }
 table.colors #g50{
-  background-color:#f5f9fc;
+  background-color:#eceff1;
   color:#243544;
 }
 table.colors #g100{
-  background-color:#edeef0;
+  background-color:#cfd8dc;
   color:#243544;
 }
 table.colors #g200{
-  background-color:#dde6ed;
+  background-color:#b0bec5;
   color:#243544;
 }
 table.colors #g300{
-  background-color:#d5d7db;
+  background-color:#90a4ae;
   color:#243544;
 }
 table.colors #g400{
-  background-color:#bcd;
-  color:#243544;
+  background-color:#78909c;
 }
 table.colors #g500{
-  background-color:#94a3b0;
-  color:#243544;
+  background-color:#607d8b;
 }
 table.colors #g600{
-  background-color:#79818c;
+  background-color:#546e7a;
 }
 table.colors #g700{
-  background-color:#5d6574;
+  background-color:#455a64;
 }
 table.colors #g800{
-  background-color:#354052;
+  background-color:#37474f;
 }
 table.colors #g900{
-  background-color:#151921;
-}
-table.colors #b50{
-  background-color:#d4eefd;
-  color:#243544;
-}
-table.colors #b100{
-  background-color:#b4e0fc;
-  color:#243544;
-}
-table.colors #b200{
-  background-color:#8cd1fa;
-  color:#243544;
-}
-table.colors #b300{
-  background-color:#5bbff5;
-  color:#243544;
-}
-table.colors #b400{
-  background-color:#00aeef;
-}
-table.colors #b500{
-  background-color:#0098f3;
-}
-table.colors #b600{
-  background-color:#008ce0;
-}
-table.colors #b700{
-  background-color:#007bc5;
-}
-table.colors #b800{
-  background-color:#0068a6;
-}
-table.colors #b900{
-  background-color:#00568b;
+  background-color:#263238;
 }
 table.colors #gr50{
-  background-color:#d0f7cc;
+  background-color:#e0f2f1;
   color:#243544;
 }
 table.colors #gr100{
-  background-color:#b6eeaf;
+  background-color:#b2dfdb;
   color:#243544;
 }
 table.colors #gr200{
-  background-color:#90e085;
+  background-color:#80cbc4;
   color:#243544;
 }
 table.colors #gr300{
-  background-color:#66d156;
+  background-color:#4db6ac;
   color:#243544;
 }
 table.colors #gr400{
-  background-color:#40c32d;
+  background-color:#26a69a;
 }
 table.colors #gr500{
-  background-color:#26b810;
+  background-color:#009688;
 }
 table.colors #gr600{
-  background-color:#23a60f;
+  background-color:#00897b;
 }
 table.colors #gr700{
-  background-color:#1d8d0c;
+  background-color:#00796b;
 }
 table.colors #gr800{
-  background-color:#18720a;
+  background-color:#00695c;
 }
 table.colors #gr900{
-  background-color:#135807;
+  background-color:#004d40;
 }
 table.colors #y50{
-  background-color:#fff7de;
+  background-color:#fff8e1;
   color:#243544;
 }
 table.colors #y100{
-  background-color:#ffeeba;
+  background-color:#ffecb3;
   color:#243544;
 }
 table.colors #y200{
-  background-color:#ffe299;
+  background-color:#ffe082;
   color:#243544;
 }
 table.colors #y300{
-  background-color:#ffd670;
+  background-color:#ffd54f;
   color:#243544;
 }
 table.colors #y400{
-  background-color:#ffc742;
+  background-color:#ffca28;
   color:#243544;
 }
 table.colors #y500{
-  background-color:#ffb100;
+  background-color:#ffc107;
   color:#243544;
 }
 table.colors #y600{
-  background-color:#f29100;
+  background-color:#ffb300;
   color:#243544;
 }
 table.colors #y700{
-  background-color:#e67219;
+  background-color:#ffa000;
+  color:#243544;
 }
 table.colors #y800{
-  background-color:#cf5900;
+  background-color:#ff8f00;
 }
 table.colors #y900{
-  background-color:#ab4a0e;
-}
-table.colors #p50{
-  background-color:#ffdefa;
-  color:#243544;
-}
-table.colors #p100{
-  background-color:#f7bff2;
-  color:#243544;
-}
-table.colors #p200{
-  background-color:#eb9fe3;
-  color:#243544;
-}
-table.colors #p300{
-  background-color:#db78d0;
-  color:#243544;
-}
-table.colors #p400{
-  background-color:#c24abd;
-}
-table.colors #p500{
-  background-color:#b21dac;
-}
-table.colors #p600{
-  background-color:#9c1596;
-}
-table.colors #p700{
-  background-color:#80157b;
-}
-table.colors #p800{
-  background-color:#61115e;
-}
-table.colors #p900{
-  background-color:#4f0d4c;
+  background-color:#ff6f00;
 }
 table.colors #r50{
-  background-color:#fce1e1;
+  background-color:#ffebee;
   color:#243544;
 }
 table.colors #r100{
-  background-color:#ffc9cc;
+  background-color:#ffcdd2;
   color:#243544;
 }
 table.colors #r200{
-  background-color:#faa7aa;
+  background-color:#ef9a9a;
   color:#243544;
 }
 table.colors #r300{
-  background-color:#ff7d7d;
+  background-color:#e57373;
 }
 table.colors #r400{
-  background-color:#fa4f4f;
+  background-color:#ef5350;
 }
 table.colors #r500{
-  background-color:#dd0014;
+  background-color:#f44336;
 }
 table.colors #r600{
-  background-color:#bf0012;
+  background-color:#e53935;
 }
 table.colors #r700{
-  background-color:#9c000d;
+  background-color:#d32f2f;
 }
 table.colors #r800{
-  background-color:#7d000b;
+  background-color:#c62828;
 }
 table.colors #r900{
-  background-color:#610008;
+  background-color:#b71c1c;
 }
-table.colors #c1{
-  background-color:#069;
-}
-table.colors #c2{
-  background-color:#4aa;
-}
-table.colors #c3{
-  background-color:#473;
-}
-table.colors #c4{
-  background-color:#ba4;
-}
-table.colors #c5{
-  background-color:#c71;
-}
-table.colors #c6{
-  background-color:#934;
-}
-table.colors #c7{
-  background-color:#a5a;
-}
-table.colors #c8{
-  background-color:#528;
-}
-table.colors #c9{
-  background-color:#999;
+table.colors #b50{
+  background-color:#e8eaf6;
   color:#243544;
 }
-table.colors #c10{
-  background-color:#79b;
+table.colors #b100{
+  background-color:#c5cae9;
   color:#243544;
 }
-table.colors #c11{
-  background-color:#acc;
+table.colors #b200{
+  background-color:#9fa8da;
   color:#243544;
 }
-table.colors #c12{
-  background-color:#8a7;
+table.colors #b300{
+  background-color:#7986cb;
   color:#243544;
 }
-table.colors #c13{
-  background-color:#ed5;
+table.colors #b400{
+  background-color:#5c6bc0;
+}
+table.colors #b500{
+  background-color:#3f51b5;
+}
+table.colors #b600{
+  background-color:#3949ab;
+}
+table.colors #b700{
+  background-color:#303f9f;
+}
+table.colors #b800{
+  background-color:#283593;
+}
+table.colors #b900{
+  background-color:#1a237e;
+}
+table.colors #l50{
+  background-color:#f9fbe7;
   color:#243544;
 }
-table.colors #c14{
-  background-color:#da7;
+table.colors #l100{
+  background-color:#f0f4c3;
   color:#243544;
 }
-table.colors #c15{
-  background-color:#c78;
+table.colors #l200{
+  background-color:#e6ee9c;
   color:#243544;
 }
-table.colors #c16{
-  background-color:#dcd;
+table.colors #l300{
+  background-color:#dce775;
   color:#243544;
 }
-table.colors #c17{
-  background-color:#97b;
+table.colors #l400{
+  background-color:#d4e157;
   color:#243544;
 }
-table.colors #c18{
-  background-color:#777;
+table.colors #l500{
+  background-color:#cddc39;
+  color:#243544;
 }
-table.colors #t1{
-  background-color:#26b910;
+table.colors #l600{
+  background-color:#c0ca33;
+  color:#243544;
 }
-table.colors #t2{
-  background-color:#dd0014;
+table.colors #l700{
+  background-color:#afb42b;
+}
+table.colors #l800{
+  background-color:#9e9d24;
+}
+table.colors #l900{
+  background-color:#827717;
+}
+table.colors #p50{
+  background-color:#fce4ec;
+  color:#243544;
+}
+table.colors #p100{
+  background-color:#f8bbd0;
+  color:#243544;
+}
+table.colors #p200{
+  background-color:#f48fb1;
+  color:#243544;
+}
+table.colors #p300{
+  background-color:#f06292;
+  color:#243544;
+}
+table.colors #p400{
+  background-color:#ec407a;
+  color:#243544;
+}
+table.colors #p500{
+  background-color:#e91e63;
+}
+table.colors #p600{
+  background-color:#d81b60;
+}
+table.colors #p700{
+  background-color:#c2185b;
+}
+table.colors #p800{
+  background-color:#ad1457;
+}
+table.colors #p900{
+  background-color:#880e4f;
 }
 
 main{
@@ -496,11 +464,11 @@ aside{
   border-radius:2px;
   margin:24px auto;
   background-color:#fff;
-  border-left:1px solid #eee;
+  border-left:1px solid #cad5df;
 }
 aside dl *{
   font-family:Roboto Mono,monospace;
-  color:#444;
+  color:#333;
   font-size:13px;
   font-size:.8125rem;
   line-height:1.5;
@@ -534,7 +502,7 @@ aside dd{
 aside .sub dt{
   text-transform:capitalize;
   font-weight:600;
-  color:#444;
+  color:#333;
 }
 aside .sub dt:first-of-type{
   padding-top:0;
@@ -573,7 +541,7 @@ aside mark{
   padding-bottom:16px;
 }
 .desc_pattern li,.desc_pattern p,.desc_pattern ul{
-  color:#444;
+  color:#333;
   font-size:15px;
   font-size:.9375rem;
 }
@@ -613,7 +581,7 @@ section.desc p{
   text-transform:uppercase;
 }
 .desc p{
-  color:#444;
+  color:#333;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;
@@ -646,7 +614,7 @@ section.desc_i p{
   content:none;
 }
 .desc_i p{
-  color:#444;
+  color:#333;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;
@@ -729,18 +697,20 @@ nav header{
   border-bottom:1px solid #364f65;
 }
 nav header h1{
-  font-size:1.25em;
+  font-family:Roboto Condensed,sans-serif;
+  font-size:1.5em;
+  font-weight:700;
   line-height:1.5;
 }
 nav header h1,nav header h3{
   color:#edeff0;
   text-transform:uppercase;
-  font-weight:400;
 }
 nav header h3{
   margin-top:12px;
   font-size:12px;
   font-size:.75rem;
+  font-weight:400;
 }
 nav summary{
   position:relative;
@@ -847,4 +817,36 @@ nav::-webkit-scrollbar-thumb{
 }
 nav::-webkit-scrollbar-thumb:window-inactive{
   background:#20303d;
+}
+
+table.techstack{
+  width:670px;
+  color:#333;
+  font-size:20px;
+  font-size:1.25rem;
+  line-height:1.5;
+  font-weight:400;
+  font-size:15px;
+  font-size:.9375rem;
+  border:1px solid #cad5df;
+  vertical-align:middle;
+  margin-bottom:48px;
+}
+table.techstack thead{
+  color:#e27e88;
+  text-transform:uppercase;
+  font-weight:700;
+}
+table.techstack th{
+  padding:8px 16px;
+  text-align:left;
+}
+table.techstack td{
+  padding:16px;
+}
+table.techstack td:first-of-type{
+  font-weight:700;
+}
+table.techstack tr{
+  border-bottom:1px solid #cad5df;
 }

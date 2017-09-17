@@ -21,48 +21,60 @@
 			<div id="container">
 				<div class="desc_i">
 					<h2>Style Guide Tech</h2>
-					<table>
-						<tr>
-							<th>Tech</th>
-							<th>Description</th>
-						</tr>
-						<tr>
-							<td>AJAX</td>
-							<td>Page contents load dynamically to maintain user's nav position.
-								<br/>AJAX calls are loaded into the history button to that users can step backward without backing out of the site.
-								<br/>The page URL updates for easy copy and paste.
-								<br/>Site works as standard HTML without AJAX if JavaScript is disabled.</td>
-						</tr>
-						<tr>
-							<td>PX to REM Conversion</td>
-							<td>User can choose between pixels or rem units. This selection is site-wide and is saved to the browser's local storage. The values are calculated on the fly with JavaScript.</td>
-						</tr>
-						<tr>
-							<td>PHP</td>
-							<td>The css, scripts, and navigation are loaded as PHP includes for basic templating.
-								<br/>The nav menu auto-selects the correct nav item based on the page URL.</td>
-						</tr>
+					<table class="techstack">
+						<thead>
+							<tr>
+								<th>Tech</th>
+								<th>Description</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>AJAX</td>
+								<td>Page contents load dynamically to maintain user's nav position.
+									<br/>AJAX calls are loaded into the history button to that users can step backward without backing out of the site.
+									<br/>The page URL updates for easy copy and paste.
+									<br/>Site works as standard HTML without AJAX if JavaScript is disabled.
+								</td>
+							</tr>
+							<tr>
+								<td>PX to REM Conversion</td>
+								<td>User can choose between pixels or rem units. This selection is site-wide and is saved to the browser's local storage. The values are calculated on the fly with JavaScript.
+								</td>
+							</tr>
+							<tr>
+								<td>PHP</td>
+								<td>The css, scripts, and navigation are loaded as PHP includes for basic templating.
+									<br/>The nav menu auto-selects the correct nav item based on the page URL.
+								</td>
+							</tr>
+						</tbody>
 					</table>
 					<h2>Development Tools</h2>
-					<table>
-						<tr>
-							<th>Tech</th>
-							<th>Description</th>
-						</tr>
-						<tr>
-							<td>Git</td>
-							<td>Version control</td>
-						</tr>
-						<tr>
-							<td>Grunt</td>
-							<td>Compile less
-								<br/>PostCSS / Auto-Prefixer
-								<br/>Concat CSS to one file</td>
-						</tr>
-						<tr>
-							<td>LESS</td>
-							<td>CSS Pre-Processor</td>
-						</tr>
+					<table class="techstack">
+						<thead>
+							<tr>
+								<th>Tech</th>
+								<th>Description</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Git</td>
+								<td>Version control</td>
+							</tr>
+							<tr>
+								<td>Grunt</td>
+								<td>Compile less
+									<br/>PostCSS / Auto-Prefixer
+									<br/>Concat CSS to one file
+								</td>
+							</tr>
+							<tr>
+								<td>LESS</td>
+								<td>CSS Pre-Processor</td>
+							</tr>
+						</tbody>
 					</table>
 				</div>
 			</div>
