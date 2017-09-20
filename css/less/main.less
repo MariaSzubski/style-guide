@@ -24,13 +24,11 @@ main{
 }
 
 article{
-	padding: 24px;
-	position: relative;
+	display: flex;
 	min-height: calc(100% - 40px);
 	height: auto;
 	& section{
 		margin-bottom: 60px;
-		width: calc(100% - 304px);
 	}
 
 	& h2{
@@ -88,18 +86,11 @@ article{
 	}
 }
 
+
+
 aside{
-	position: absolute;
-	top: 0px;
-	right: 0px;
-	width: 304px;
-	min-height: calc(100% - 48px);
-	border-radius: 2px;
-	margin: 24px auto;
 	background-color: white;
 	border-left: 1px solid @matte;
-
-
 
 	& dl *{
 		font-family: 'Roboto Mono', monospace;

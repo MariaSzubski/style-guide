@@ -18,8 +18,8 @@
 		<summary><span>Reference</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "colors.php" ? "selected" : "")?>"><a href="colors.php">Colors</a></li>
+			<li class="<?php echo ($current == "elevation.php" ? "selected" : "")?>"><a href="elevation.php">Content Elevation</a></li>
 			<li class="<?php echo ($current == "type_styles.php" ? "selected" : "")?>"><a href="type_styles.php">Type Styles</a></li>
-			<li class="<?php echo ($current == "whiteframe.php" ? "selected" : "")?>"><a href="whiteframe.php">Whiteframe</a></li>
 		</ul>
 	</details>
 	<!-- -->

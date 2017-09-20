@@ -15,18 +15,20 @@
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4>Date Picker</h4>
-					<img src="img/guide/date_picker_01.png" alt="Date Picker">
-				</section>
-				<section>
-					<h4>Opened Date Picker</h4>
-					<img src="img/guide/date_picker_02.png" alt="Opened Calendar">
-				</section>
+				<div class="spec_content">
+					<section>
+						<h4>Date Picker</h4>
+						<img src="img/guide/date_picker_01.png" alt="Date Picker">
+					</section>
+					<section>
+						<h4>Opened Date Picker</h4>
+						<img src="img/guide/date_picker_02.png" alt="Opened Calendar">
+					</section>
+				</div>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
