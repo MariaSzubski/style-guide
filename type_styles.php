@@ -20,23 +20,89 @@
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-					<img src="img/guide/type_styles_01.png" alt="Type Styles">
-				</section>
-				<!-- -->
-				<section class="full">
-					<h2>Content Example</h2>
-					<img src="img/guide/type_styles_02.png" alt="Content Example">
-				</section>
-				<!-- -->
-				<section class="full">
-					<h2>Font Files</h2>
-					<section class="full">
-						<div class="desc_pattern">
-							<h4>Open Sans</h4>
-							<p>
-								<a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:400,600,700" target="blank">Open Sans</a> is available on Google Fonts. Use weights 400, 600, and 700.
-							</p>
-						</div>
+					<section class="type">
+						<section class="typestyle">
+							<div id="pageTitle">Page Title</div>
+							<pre>
+<!--						 -->.page_title{
+<!--						 -->	font-family: 'Roboto Condensed';
+<!--						 -->	font-size: 20px;
+<!--						 -->	font-weight: 400;
+<!--						 -->	color: #000000;
+<!--						 -->	text-transform: uppercase;
+<!--						 -->}
+<!--					 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="sectionTitle">Section Title</div>
+							<pre>
+<!--						 -->.section_title{
+<!--						 -->	font-family: 'Roboto Condensed';
+<!--						 -->	font-size: 30px;
+<!--						 -->	font-weight: 400;
+<!--						 -->	color: #00BFA5;
+<!--						 -->	text-transform: uppercase;
+<!--						 -->}
+<!--					 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="label">Label</div>
+								<pre>
+<!--						 -->.label{
+<!--						 -->	font-family: 'Roboto Condensed';
+<!--						 -->	font-size: 12px;
+<!--						 -->	font-weight: 600;
+<!--						 -->	color: #00BFA5;
+<!--						 -->	line-height: 120%;
+<!--						 -->	text-transform: uppercase;
+<!--						 -->}
+<!--						 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="lg_copy">Large Copy</div>
+							<pre>
+<!--						 -->.copy{
+<!--						 -->	font-family: 'Roboto';
+<!--						 -->	font-size: 20px;
+<!--						 -->	font-weight: 400;
+<!--						 -->	color: #37474F;
+<!--						 -->	line-height: 150%;
+<!--						 -->}
+<!--					 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="sm_copy">Small Copy</div>
+							<pre>
+<!--						 -->.copy{
+<!--						 -->	font-family: 'Roboto';
+<!--						 -->	font-size: 14px;
+<!--						 -->	font-weight: 400;
+<!--						 -->	color: #37474F;
+<!--						 -->	line-height: 150%;
+<!--						 -->}
+<!--					 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="footnotes">Footnotes</div>
+								<pre>
+<!--							 -->.footnotes{
+<!--							 -->	font-family: 'Roboto Mono';
+<!--							 -->	font-size: 11px;
+<!--							 -->	font-weight: 400;
+<!--							 -->	color: #37474F;
+<!--							 -->	line-height: 170%;
+<!--							 -->}
+<!--						 --></pre>
+						</section>
+						<section class="typestyle">
+							<div id="links">Links</div>
+								<pre>
+<!--							 -->a{
+<!--							 -->	color: #FB9700;
+<!--							 -->	&amp;:hover{ text-decoration: underline; }
+<!--							 -->}
+<!--						 --></pre>
+						</section>
 					</section>
 				</section>
 			</div>

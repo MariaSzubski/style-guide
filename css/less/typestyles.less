@@ -1,0 +1,97 @@
+@import (reference) 'var_mix.less';
+.type{
+    display: flex;
+    flex-flow: row;
+	flex-wrap: wrap;
+    justify-content: center;
+}
+
+.typestyle{
+    position: relative;
+    flex-basis: 50%;
+	min-width: 320px;
+    max-width: 400px;
+    height: auto;
+    margin: 1rem;
+    padding: 0rem;
+    border-radius: 2px;
+    box-shadow: 0px 1px 4px rgba(0,0,0,.25);
+
+    & div:first-child{
+        padding: 0px 1rem;
+        height: 4rem;
+        line-height: 4rem;
+        vertical-align: middle;
+    }
+
+    pre {
+        font-family: 'Roboto Mono', monospace;
+        background-color: @white;
+        color: @navy;
+        font-size: @text-xs;
+        line-height: 170%;
+        white-space: pre;
+        tab-size: 4;
+        overflow-x: auto;
+        display: block;
+        padding: 1em;
+        height: 100%;
+    }
+
+    & #pageTitle{
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        color: #000000;
+    	text-transform: uppercase;
+    }
+
+    & #sectionTitle{
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 30px;
+        font-weight: 400;
+        color: #00BFA5;
+    	text-transform: uppercase;
+    }
+
+    & #label{
+        font-family: 'Roboto', sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        color: #94a3b0;
+        text-transform: uppercase;
+    }
+
+    & #lg_copy{
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        color: #37474F;
+    }
+
+    & #sm_copy{
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #37474F;
+    }
+
+    & #footnotes{
+        font-family: 'Roboto Mono', monospace;
+        font-size: 11px;
+        font-weight: 400;
+        color: #37474F;
+
+    }
+
+    & #links {
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: @blue;
+        &:hover{
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    }
+}

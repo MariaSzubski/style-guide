@@ -9,7 +9,6 @@
 		<ul>
 			<li class="<?php echo ($current == "index.php" ? "selected" : "")?>"><a href="index.php">Introduction</a></li>
 			<li class="<?php echo ($current == "tech_stack.php" ? "selected" : "")?>"><a href="tech_stack.php">Tech Stack</a></li>
-			<li class="<?php echo ($current == "about.php" ? "selected" : "")?>"><a href="about.php">About The Brand</a></li>
 			<li class="<?php echo ($current == "contact_us.php" ? "selected" : "")?>"><a href="contact_us.php">Contact Us</a></li>
 		</ul>
 	</details>
@@ -27,8 +26,15 @@
 		<summary><span>Components</span></summary>
 		<ul>
 			<li class="<?php echo ($current == "component_01.php" ? "selected" : "")?>"><a href="component_01.php">Aliquam Finibus Dui</a></li>
-			<li class="<?php echo ($current == "component_02.php" ? "selected" : "")?>"><a href="component_02.php">Maecenas Nec Tellus</a></li>
-			<li class="<?php echo ($current == "component_03.php" ? "selected" : "")?>"><a href="component_03.php">Nam Luctus Velit</a></li>
+			<li class="<?php echo ($current == "component_02.php" ? "selected" : "")?>"><a href="component_02.php">Curabitur Viverra</a></li>
+			<li class="<?php echo ($current == "component_03.php" ? "selected" : "")?>"><a href="component_03.php">Etiam Aliquam</a></li>
+			<li class="<?php echo ($current == "component_04.php" ? "selected" : "")?>"><a href="component_04.php">Fusce Volutpat</a></li>
+			<li class="<?php echo ($current == "component_05.php" ? "selected" : "")?>"><a href="component_05.php">Integer Nec Ligula</a></li>
+			<li class="<?php echo ($current == "component_06.php" ? "selected" : "")?>"><a href="component_06.php">Ligula Pellentesque</a></li>
+			<li class="<?php echo ($current == "component_07.php" ? "selected" : "")?>"><a href="component_07.php">Maecenas Nec Tellus</a></li>
+			<li class="<?php echo ($current == "component_08.php" ? "selected" : "")?>"><a href="component_08.php">Nam Luctus Velit</a></li>
+			<li class="<?php echo ($current == "component_09.php" ? "selected" : "")?>"><a href="component_09.php">Praesent quis</a></li>
+			<li class="<?php echo ($current == "component_10.php" ? "selected" : "")?>"><a href="component_10.php">Quisque ut neque</a></li>
 		</ul>
 	</details>
 	<!-- -->
@@ -55,19 +61,6 @@
 			<li class="<?php echo ($current == "p_toolbar.php" ? "selected" : "")?>"><a href="p_toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "p_tooltip.php" ? "selected" : "")?>"><a href="p_tooltip.php">Tooltip</a></li>
 			<li class="<?php echo ($current == "p_wizard.php" ? "selected" : "")?>"><a href="p_wizard.php">Wizard</a></li>
-		</ul>
-	</details>
-	<!-- -->
-	<details open>
-		<summary><span>Iconography</span></summary>
-		<ul>
-			<li class="<?php echo ($current == "i_app_bar.php" ? "selected" : "")?>"><a href="i_app_bar.php">App Bar</a></li>
-			<li class="<?php echo ($current == "i_common_actions.php" ? "selected" : "")?>"><a href="i_common_actions.php">Common Actions</a></li>
-			<li class="<?php echo ($current == "i_communication.php" ? "selected" : "")?>"><a href="i_communication.php">Communication</a></li>
-			<li class="<?php echo ($current == "i_data_report_types.php" ? "selected" : "")?>"><a href="i_data_report_types.php">Data &amp; Report Types</a></li>
-			<li class="<?php echo ($current == "i_toolbar.php" ? "selected" : "")?>"><a href="i_toolbar.php">Toolbar</a></li>
-			<li class="<?php echo ($current == "i_ui_component_controls.php" ? "selected" : "")?>"><a href="i_ui_component_controls.php">UI Component Controls</a></li>
-			<li class="<?php echo ($current == "i_view_controls.php" ? "selected" : "")?>"><a href="i_view_controls.php">View Controls</a></li>
 		</ul>
 	</details>
 </nav>

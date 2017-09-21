@@ -33,7 +33,7 @@ header button{
   padding:.3125rem .75rem;
   background:#94a3b0;
   color:#94a3b0;
-  color:#edeff0;
+  color:#edf1f4;
   text-align:center;
   vertical-align:middle;
   -webkit-user-select:none;
@@ -76,7 +76,7 @@ nav header h1{
   line-height:1.5;
 }
 nav header h1,nav header h3{
-  color:#edeff0;
+  color:#edf1f4;
   text-transform:uppercase;
 }
 nav header h3{
@@ -91,7 +91,7 @@ nav summary{
   font-size:.9375rem;
   text-transform:uppercase;
   font-weight:600;
-  color:#edeff0;
+  color:#edf1f4;
   height:32px;
   padding:0 24px 24px;
   outline:none;
@@ -154,7 +154,7 @@ nav li:hover{
   cursor:pointer;
 }
 nav li.selected{
-  background-color:#edeff0;
+  background-color:#edf1f4;
   -webkit-transition:background-color .3s ease;
   transition:background-color .3s ease;
 }
@@ -170,7 +170,7 @@ nav a{
   font-size:.8125rem;
 }
 nav a,nav a:link,nav a:visited{
-  color:#edeff0;
+  color:#edf1f4;
 }
 nav a:hover{
   text-decoration:none;
