@@ -19,15 +19,9 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<div class="desc_i">
+				<section class="full">
 					<h2>Style Guide Tech</h2>
 					<table class="techstack">
-						<thead>
-							<tr>
-								<th>Tech</th>
-								<th>Description</th>
-							</tr>
-						</thead>
 						<tbody>
 							<tr>
 								<td>AJAX</td>
@@ -52,31 +46,25 @@
 					</table>
 					<h2>Development Tools</h2>
 					<table class="techstack">
-						<thead>
-							<tr>
-								<th>Tech</th>
-								<th>Description</th>
-							</tr>
-						</thead>
 						<tbody>
 							<tr>
 								<td>Git</td>
 								<td>Version control</td>
 							</tr>
 							<tr>
-								<td>Grunt</td>
-								<td>Compile less
-									<br/>PostCSS / Auto-Prefixer
-									<br/>Concat CSS to one file
-								</td>
-							</tr>
-							<tr>
 								<td>LESS</td>
 								<td>CSS Pre-Processor</td>
 							</tr>
+							<tr>
+								<td>Grunt</td>
+								<td>Watch and compile LESS files
+									<br/>Add vendor prefixes
+									<br/>Concatenate CSS to one file
+								</td>
+							</tr>
 						</tbody>
 					</table>
-				</div>
+				</section>
 			</div>
 		</article>
 	</main>

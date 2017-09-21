@@ -1,5 +1,6 @@
 table.techstack{
   width:670px;
+  margin:auto;
   color:#37474f;
   font-size:20px;
   font-size:1.25rem;
@@ -11,21 +12,47 @@ table.techstack{
   vertical-align:middle;
   margin-bottom:48px;
 }
-table.techstack thead{
-  color:#e27e88;
-  text-transform:uppercase;
-  font-weight:700;
+table.techstack tr{
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
 }
-table.techstack th{
-  padding:8px 16px;
-  text-align:left;
+table.techstack tr:not(:last-of-type){
+  border-bottom:1px solid #cad5df;
+}
+table.techstack tr:first-child{
+  -webkit-box-flex:1;
+      -ms-flex:1;
+          flex:1;
 }
 table.techstack td{
   padding:16px;
+  -webkit-box-flex:6;
+      -ms-flex:6;
+          flex:6;
 }
 table.techstack td:first-of-type{
   font-weight:700;
+  -webkit-box-flex:1;
+      -ms-flex:1;
+          flex:1;
 }
-table.techstack tr{
-  border-bottom:1px solid #cad5df;
+@media (max-width:840px){
+  table.techstack{
+    width:calc(100% - .5em);
+  }
+  table.techstack tr{
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+        -ms-flex-flow:column;
+            flex-flow:column;
+  }
+  table.techstack td{
+    -webkit-box-flex:1;
+        -ms-flex:1;
+            flex:1;
+  }
+  table.techstack td:first-of-type{
+    padding-bottom:0;
+  }
 }

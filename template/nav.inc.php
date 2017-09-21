@@ -9,7 +9,6 @@
 		<ul>
 			<li class="<?php echo ($current == "index.php" ? "selected" : "")?>"><a href="index.php">Introduction</a></li>
 			<li class="<?php echo ($current == "tech_stack.php" ? "selected" : "")?>"><a href="tech_stack.php">Tech Stack</a></li>
-			<li class="<?php echo ($current == "contact_us.php" ? "selected" : "")?>"><a href="contact_us.php">Contact Us</a></li>
 		</ul>
 	</details>
 	<!-- -->

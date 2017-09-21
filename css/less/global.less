@@ -116,11 +116,11 @@ a{
 
 @media (max-width: 1200px) {
 	main{
-		left: 12px;
-		width: calc(100% - 12px);
+		left: 0.75rem;
+		width: calc(100% -0.75rem);
 		&.default_state{
-			left: 12px;
-			width: calc(100% - 12px);
+			left: 0.75rem;
+			width: calc(100% - 0.75rem);
 		}
 	}
 	nav{
@@ -154,5 +154,32 @@ a{
 	}
 	.dl_root{
 		margin: 24px 0px;
+	}
+}
+
+@media (max-width:	480px){
+	main{
+		left: 0rem;
+		width: 100%;
+		height: 100%;
+		overflow: auto;
+		transition: .45s ease-in-out;
+		&.default_state{
+			left: 0rem;
+			width: 100%;
+			height: 100%;
+			transition: .45s ease-in-out;
+		}
+	}
+	nav{
+		left:0px;
+		top: 2.5rem;
+		height: calc(100% - 2.5rem);
+		width: 85%;
+		transition: .45s ease-in-out;
+		&.default_state{
+			left: -85%;
+			transition: 0s ease-in-out;
+		}
 	}
 }

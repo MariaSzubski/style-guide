@@ -36,28 +36,18 @@ article h2{
   font-size:2rem;
   font-weight:400;
   line-height:2;
+  position:relative;
+}
+article h2,article h4{
   text-transform:uppercase;
   text-align:center;
-  position:relative;
   margin-bottom:12px;
-}
-article h2:before{
-  content:"";
-  width:100%;
-  border-top:1px solid #bcd;
-  position:absolute;
-  left:0;
-  top:0;
-  z-index:1;
 }
 article h4{
   color:#94a3b0;
   font-size:13px;
   font-size:.8125rem;
   font-weight:600;
-  text-transform:uppercase;
-  text-align:center;
-  margin-bottom:12px;
 }
 article img{
   display:block;
@@ -238,9 +228,6 @@ section.desc_i p{
   font-weight:400;
   line-height:2;
   text-transform:uppercase;
-}
-.desc_i h2:before{
-  content:none;
 }
 .desc_i p{
   color:#37474f;

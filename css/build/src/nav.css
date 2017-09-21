@@ -64,6 +64,9 @@ header button.btn-selected,header button:hover{
 header button.btn-selected,nav{
   background-color:#1e313b;
 }
+nav{
+  z-index:1;
+}
 nav header{
   padding:36px 24px;
   text-align:center;

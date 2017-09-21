@@ -52,7 +52,7 @@
 <!--						 -->	font-family: 'Roboto Condensed';
 <!--						 -->	font-size: 12px;
 <!--						 -->	font-weight: 600;
-<!--						 -->	color: #00BFA5;
+<!--						 -->	color: #94A3B0;
 <!--						 -->	line-height: 120%;
 <!--						 -->	text-transform: uppercase;
 <!--						 -->}
