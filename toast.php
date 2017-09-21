@@ -3,29 +3,33 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Toast</title>
+	<title id="title">Style Guide &ndash; Components &ndash; Nam Luctus Velit</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Toast</h2>
+			<h2 id="pg_header">Components &ndash; Nam Luctus Velit</h2>
 			<div class="btn-group" role="group">
 				Measurement Units:
 				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
 			</div>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
+
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section>
-					<h4>Simple Toast</h4>
-					<img src="img/guide/toast_01.png" alt="Simple Toast">
+					<h4>Sed volutpat sem</h4>
+					<img src="img/guide/fpo_200.png" alt="Sed Volutpat Sem">
 				</section>
 				<section>
-					<h4>Notification</h4>
-					<img src="img/guide/toast_02.png" alt="Notification">
+					<h4>Vivamus In Nunc</h4>
+					<img src="img/guide/fpo_200.png" alt="Vivamus In Nunc">
+				</section>
+				<section>
+					<h4>Etiam At Nulla</h4>
+					<img src="img/guide/fpo_200.png" alt="Etiam At Nulla">
 				</section>
 				<aside>
 					<dl class="dl_root">

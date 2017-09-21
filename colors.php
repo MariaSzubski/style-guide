@@ -19,6 +19,7 @@
 		</header>
 		<article id="guidelines">
 			<div id="container">
+				<section class="full">
 				<!--					GRAY -->
 				<section class="full">
 					<h4>Gray</h4>
@@ -481,6 +482,7 @@
 						</tr>
 					</table>
 				</section>
+			</section>
 			</div>
 		</article>
 	</main>

@@ -61,7 +61,11 @@ article h4{
 }
 article img{
   display:block;
-  margin:0 auto;
+  -ms-flex-item-align:center;
+      -ms-grid-row-align:center;
+      align-self:center;
+  margin:0 24px;
+  max-width:600px;
 }
 article.iframe{
   height:calc(100% - 40px);

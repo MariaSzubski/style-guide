@@ -117,7 +117,7 @@ a:active{
     left:0;
   }
 }
-@media (max-width:768px){
+@media (max-width:840px){
   #container{
     -webkit-box-direction:normal;
         -ms-flex-flow:column;
@@ -142,9 +142,9 @@ a:active{
     border-top:1px solid #cad5df;
   }
   .spec_content{
-    -webkit-box-flex:1;
-        -ms-flex-positive:1;
-            flex-grow:1;
+    -webkit-box-flex:0;
+        -ms-flex-positive:0;
+            flex-grow:0;
   }
   .dl_root{
     margin:24px 0;

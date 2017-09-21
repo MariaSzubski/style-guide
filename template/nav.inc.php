@@ -1,7 +1,7 @@
 <nav class="default_state">
 	<header>
 		<h1>Style Guide</h1>
-		<h3>Version 2.x.xx</h3>
+		<h3>Version x.x.xx</h3>
 	</header>
 
 	<details open>
@@ -26,32 +26,9 @@
 	<details open>
 		<summary><span>Components</span></summary>
 		<ul>
-			<li class="<?php echo ($current == "badge.php" ? "selected" : "")?>"><a href="badge.php">Badge</a></li>
-			<li class="<?php echo ($current == "button_raised.php" ? "selected" : "")?>"><a href="button_raised.php">Button (Raised)</a></li>
-			<li class="<?php echo ($current == "button_flat.php" ? "selected" : "")?>"><a href="button_flat.php">Button (Flat)</a></li>
-			<li class="<?php echo ($current == "button_group.php" ? "selected" : "")?>"><a href="button_group.php">Button Group</a></li>
-			<li class="<?php echo ($current == "card.php" ? "selected" : "")?>"><a href="card.php">Card</a></li>
-			<li class="<?php echo ($current == "checkbox.php" ? "selected" : "")?>"><a href="checkbox.php">Checkbox</a></li>
-			<li class="<?php echo ($current == "chips.php" ? "selected" : "")?>"><a href="chips.php">Chips</a></li>
-			<li class="<?php echo ($current == "date_picker.php" ? "selected" : "")?>"><a href="date_picker.php">Date Picker</a></li>
-			<li class="<?php echo ($current == "dialog.php" ? "selected" : "")?>"><a href="dialog.php">Dialog</a></li>
-			<li class="<?php echo ($current == "divider.php" ? "selected" : "")?>"><a href="divider.php">Divider</a></li>
-			<li class="<?php echo ($current == "icon.php" ? "selected" : "")?>"><a href="icon.php">Icon</a></li>
-			<li class="<?php echo ($current == "input.php" ? "selected" : "")?>"><a href="input.php">Input</a></li>
-			<li class="<?php echo ($current == "list.php" ? "selected" : "")?>"><a href="list.php">List</a></li>
-			<li class="<?php echo ($current == "menu.php" ? "selected" : "")?>"><a href="menu.php">Menu</a></li>
-			<li class="<?php echo ($current == "nav_bar.php" ? "selected" : "")?>"><a href="nav_bar.php">Nav Bar</a></li>
-			<li class="<?php echo ($current == "pagination.php" ? "selected" : "")?>"><a href="pagination.php">Pagination</a></li>
-			<li class="<?php echo ($current == "progress_circular.php" ? "selected" : "")?>"><a href="progress_circular.php">Progress Circular</a></li>
-			<li class="<?php echo ($current == "progress_linear.php" ? "selected" : "")?>"><a href="progress_linear.php">Progress Linear</a></li>
-			<li class="<?php echo ($current == "radio_button.php" ? "selected" : "")?>"><a href="radio_button.php">Radio Button</a></li>
-			<li class="<?php echo ($current == "select.php" ? "selected" : "")?>"><a href="select.php">Select</a></li>
-			<li class="<?php echo ($current == "sidenav.php" ? "selected" : "")?>"><a href="sidenav.php">Sidenav</a></li>
-			<li class="<?php echo ($current == "switch.php" ? "selected" : "")?>"><a href="switch.php">Switch</a></li>
-			<li class="<?php echo ($current == "tabs.php" ? "selected" : "")?>"><a href="tabs.php">Tabs</a></li>
-			<li class="<?php echo ($current == "toast.php" ? "selected" : "")?>"><a href="toast.php">Toast</a></li>
-			<li class="<?php echo ($current == "toolbar.php" ? "selected" : "")?>"><a href="toolbar.php">Toolbar</a></li>
-			<li class="<?php echo ($current == "tooltip.php" ? "selected" : "")?>"><a href="tooltip.php">Tooltip</a></li>
+			<li class="<?php echo ($current == "component_01.php" ? "selected" : "")?>"><a href="component_01.php">Aliquam Finibus Dui</a></li>
+			<li class="<?php echo ($current == "component_02.php" ? "selected" : "")?>"><a href="component_02.php">Maecenas Nec Tellus</a></li>
+			<li class="<?php echo ($current == "component_03.php" ? "selected" : "")?>"><a href="component_03.php">Nam Luctus Velit</a></li>
 		</ul>
 	</details>
 	<!-- -->
@@ -91,14 +68,6 @@
 			<li class="<?php echo ($current == "i_toolbar.php" ? "selected" : "")?>"><a href="i_toolbar.php">Toolbar</a></li>
 			<li class="<?php echo ($current == "i_ui_component_controls.php" ? "selected" : "")?>"><a href="i_ui_component_controls.php">UI Component Controls</a></li>
 			<li class="<?php echo ($current == "i_view_controls.php" ? "selected" : "")?>"><a href="i_view_controls.php">View Controls</a></li>
-		</ul>
-	</details>
-	<!-- -->
-	<details open>
-		<summary><span>Examples</span></summary>
-		<ul>
-			<li class="<?php echo ($current == "ex_multi-panel.php" ? "selected" : "")?>"><a href="ex_multi-panel.php">Multi-Panel Layout</a></li>
-			<li class="<?php echo ($current == "ex_single-panel.php" ? "selected" : "")?>"><a href="ex_single-panel.php">Single Panel Layout</a></li>
 		</ul>
 	</details>
 </nav>
