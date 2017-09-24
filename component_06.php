@@ -3,34 +3,28 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Checkbox</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Ligula Pellentesque</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Checkbox</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Ligula Pellentesque</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4>Small Checkbox</h4>
-					<img src="img/guide/checkbox_01.png" alt="Checkbox Small">
-				</section>
-				<section>
-					<h4>Large Checkbox</h4>
-					<img src="img/guide/checkbox_02.png" alt="Checkbox Large">
-				</section>
+				<div class="spec_content">
+					<section>
+						<h4>Etiam Arcu Tortor</h4>
+						<img src="img/guide/fpo_500.svg" alt="Component Name">
+					</section>
+				</div>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="radio_button.php">Radio Button Component</a></dd>
+						<dd class="pg_link"><a href="component_10.php">Quisque Ut Neque</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

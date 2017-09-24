@@ -10,82 +10,12 @@
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Colors</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-
 		</header>
 		<article id="guidelines">
 			<div id="container">
 				<section class="full">
-				<!--					GRAY -->
-				<section class="full">
-					<h4>Gray</h4>
-					<table class="colors">
-						<tr id="g50">
-							<td>50</td>
-							<td>#ECEFF1</td>
-							<td>rgb(245,249,252)</td>
-							<td></td>
-						</tr>
-						<tr id="g100">
-							<td>100</td>
-							<td>#CFD8DC</td>
-							<td>rgb(237,238,240)</td>
-							<td></td>
-						</tr>
-						<tr id="g200">
-							<td>200</td>
-							<td>#B0BEC5</td>
-							<td>rgb(221,230,237)</td>
-							<td>Secondary Divider</td>
-						</tr>
-						<tr id="g300">
-							<td>300</td>
-							<td>#90A4AE</td>
-							<td>rgb(213,215,219)</td>
-							<td>Disabled Content</td>
-						</tr>
-						<tr id="g400">
-							<td>400</td>
-							<td>#78909C</td>
-							<td>rgb(187,204,221)</td>
-							<td>Primary Dividers</td>
-						</tr>
-						<tr id="g500">
-							<td>500</td>
-							<td>#607D8B</td>
-							<td>rgb(155,170,184)</td>
-							<td>Secondary Text</td>
-						</tr>
-						<tr id="g600">
-							<td>600</td>
-							<td>#546E7A</td>
-							<td>rgb(121,129,140)</td>
-							<td></td>
-						</tr>
-						<tr id="g700">
-							<td>700</td>
-							<td>#455A64</td>
-							<td>rgb(93,101,116)</td>
-							<td></td>
-						</tr>
-						<tr id="g800">
-							<td>800</td>
-							<td>#37474F</td>
-							<td>rgb(53,64,82)</td>
-							<td>Titles &amp; Icons</td>
-						</tr>
-						<tr id="g900">
-							<td>900</td>
-							<td>#263238</td>
-							<td>rgb(21,25,33)</td>
-							<td>Body Copy</td>
-						</tr>
-					</table>
-				</section>
 				<!--					TEAL -->
 				<section class="full">
 					<h4>TEAL</h4>
@@ -479,6 +409,72 @@
 							<td>#880E4F</td>
 							<td>rgb(79,13,76)</td>
 							<td></td>
+						</tr>
+					</table>
+				</section>
+				<!--					GRAY -->
+				<section class="full">
+					<h4>Gray</h4>
+					<table class="colors">
+						<tr id="g50">
+							<td>50</td>
+							<td>#ECEFF1</td>
+							<td>rgb(245,249,252)</td>
+							<td></td>
+						</tr>
+						<tr id="g100">
+							<td>100</td>
+							<td>#CFD8DC</td>
+							<td>rgb(237,238,240)</td>
+							<td></td>
+						</tr>
+						<tr id="g200">
+							<td>200</td>
+							<td>#B0BEC5</td>
+							<td>rgb(221,230,237)</td>
+							<td>Secondary Divider</td>
+						</tr>
+						<tr id="g300">
+							<td>300</td>
+							<td>#90A4AE</td>
+							<td>rgb(213,215,219)</td>
+							<td>Disabled Content</td>
+						</tr>
+						<tr id="g400">
+							<td>400</td>
+							<td>#78909C</td>
+							<td>rgb(187,204,221)</td>
+							<td>Primary Dividers</td>
+						</tr>
+						<tr id="g500">
+							<td>500</td>
+							<td>#607D8B</td>
+							<td>rgb(155,170,184)</td>
+							<td>Secondary Text</td>
+						</tr>
+						<tr id="g600">
+							<td>600</td>
+							<td>#546E7A</td>
+							<td>rgb(121,129,140)</td>
+							<td></td>
+						</tr>
+						<tr id="g700">
+							<td>700</td>
+							<td>#455A64</td>
+							<td>rgb(93,101,116)</td>
+							<td></td>
+						</tr>
+						<tr id="g800">
+							<td>800</td>
+							<td>#37474F</td>
+							<td>rgb(53,64,82)</td>
+							<td>Titles &amp; Icons</td>
+						</tr>
+						<tr id="g900">
+							<td>900</td>
+							<td>#263238</td>
+							<td>rgb(21,25,33)</td>
+							<td>Body Copy</td>
 						</tr>
 					</table>
 				</section>

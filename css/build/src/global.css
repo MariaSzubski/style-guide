@@ -15,7 +15,7 @@ body,html,main{
 main{
   position:absolute;
   left:0;
-  width:100%;
+  width:calc(100% - .75rem);
   overflow:auto;
 }
 main.default_state{
@@ -39,7 +39,8 @@ nav.default_state{
   -webkit-box-orient:horizontal;
       -ms-flex-flow:row;
           flex-flow:row;
-  padding-top:12px;
+  padding-top:24px;
+  padding-top:1.5rem;
 }
 #container,section{
   display:-webkit-box;

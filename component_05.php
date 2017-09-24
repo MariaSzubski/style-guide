@@ -3,27 +3,32 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Component &ndash; Badge</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Integer Nec Ligula</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Badge</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Integer Nec Ligula</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-
-					<img src="img/guide/badge_01.png" alt="Badges">
-				</section>
-
+				<div class="spec_content">
+					<section>
+						<h4>Aliquam malesuada</h4>
+						<img src="img/guide/fpo_200.svg" alt="Sed Volutpat Sem">
+					</section>
+					<section>
+						<h4>Vivamus In Nunc</h4>
+						<img src="img/guide/fpo_200.svg" alt="Vivamus In Nunc">
+					</section>
+					<section>
+						<h4>Etiam At Nulla</h4>
+						<img src="img/guide/fpo_200.svg" alt="Etiam At Nulla">
+					</section>
+				</div>
 				<aside>
 					<dl class="dl_root">
 						<dt>Badge</dt>

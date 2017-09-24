@@ -3,30 +3,36 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Dialog</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Etiam Aliquam</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Dialog</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Etiam Aliquam</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4</h4>
-					<img src="img/guide/dialog_01.png" alt="Dialogs">
-				</section>
+				<div class="spec_content">
+					<section>
+						<h4>Aenean luctus</h4>
+						<img src="img/guide/fpo_200.svg" alt="Sed Volutpat Sem">
+					</section>
+					<section>
+						<h4>Vivamus In Nunc</h4>
+						<img src="img/guide/fpo_200.svg" alt="Vivamus In Nunc">
+					</section>
+					<section>
+						<h4>Etiam At Nulla</h4>
+						<img src="img/guide/fpo_200.svg" alt="Etiam At Nulla">
+					</section>
+				</div>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_dialog.php">Dialog Patterns</a></dd>
+						<dd class="pg_link"><a href="component_01.php">Aliquam Finibus Dui</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

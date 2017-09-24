@@ -3,38 +3,28 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Menu</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Quisque Ut Neque</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Menu</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Quisque Ut Neque</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					
-					<img src="img/guide/menu_01.png" alt="Menus with and without icons">
-				</section>
-				<section>
-					
-					<img src="img/guide/menu_02.png" alt="Menu States">
-				</section>
-				<section>
-					
-					<img src="img/guide/menu_03.png" alt="Menu sizes, without dividers">
-				</section>
-				<section>
-					
-					<img src="img/guide/menu_04.png" alt="Menu sizes, with dividers">
-				</section>
+				<div class="spec_content">
+					<section>
+						<h4>Donec at interdum</h4>
+						<img src="img/guide/fpo_400.svg" alt="Component Name">
+					</section>
+					<section>
+						<h4>Vestibulum elementum</h4>
+						<img src="img/guide/fpo_200.svg" alt="Component Name">
+					</section>
+				</div>
 				<aside>
 					<dl class="dl_root">
 						<dt>Container</dt>

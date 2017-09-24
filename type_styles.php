@@ -10,12 +10,8 @@
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Type Styles</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-
 		</header>
 		<article id="guidelines">
 			<div id="container">

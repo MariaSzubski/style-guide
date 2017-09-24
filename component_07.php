@@ -10,10 +10,7 @@
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Components &ndash; Maecenas Nec Tellus</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 		</header>
 		<article id="guidelines">
@@ -29,15 +26,6 @@
 					</section>
 				</div>
 				<aside>
-					<dl class="related">
-						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="button_flat.php">Flat Button Component</a></dd>
-						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
-						<dd class="pg_link"><a href="p_button.php">Button Patterns</a></dd>
-						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
-						<dd class="pg_link"><a href="menu.php">Menu Component</a></dd>
-					</dl>
-					<!-- -->
 					<dl class="dl_root">
 						<dt>Measurements</dt>
 						<dd>

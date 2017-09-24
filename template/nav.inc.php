@@ -32,8 +32,8 @@
 			<li class="<?php echo ($current == "component_06.php" ? "selected" : "")?>"><a href="component_06.php">Ligula Pellentesque</a></li>
 			<li class="<?php echo ($current == "component_07.php" ? "selected" : "")?>"><a href="component_07.php">Maecenas Nec Tellus</a></li>
 			<li class="<?php echo ($current == "component_08.php" ? "selected" : "")?>"><a href="component_08.php">Nam Luctus Velit</a></li>
-			<li class="<?php echo ($current == "component_09.php" ? "selected" : "")?>"><a href="component_09.php">Praesent quis</a></li>
-			<li class="<?php echo ($current == "component_10.php" ? "selected" : "")?>"><a href="component_10.php">Quisque ut neque</a></li>
+			<li class="<?php echo ($current == "component_09.php" ? "selected" : "")?>"><a href="component_09.php">Praesent Quis</a></li>
+			<li class="<?php echo ($current == "component_10.php" ? "selected" : "")?>"><a href="component_10.php">Quisque Ut Neque</a></li>
 		</ul>
 	</details>
 	<!-- -->

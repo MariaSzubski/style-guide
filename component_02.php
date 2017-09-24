@@ -3,36 +3,33 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Card</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Curabitur Viverra</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-		<h2 id="pg_header">Components &ndash; Card</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Curabitur Viverra</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<h4>Default Card</h4>
-					<img src="img/guide/card_01.png" alt="Default Card">
-				</section>
-				<section>
-					<h4>Locked Card</h4>
-					<img src="img/guide/card_02.png" alt="Locked Card">
-				</section>
+				<div class="spec_content">
+					<section>
+						<h4>Curabitur Dignissim</h4>
+						<img src="img/guide/fpo_400.svg" alt="Component Name">
+					</section>
+					<section>
+						<h4>Vestibulum elementum</h4>
+						<img src="img/guide/fpo_200.svg" alt="Component Name">
+					</section>
+				</div>
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="p_card_horizontal.php">Horizontal Card Patterns</a></dd>
-						<dd class="pg_link"><a href="p_card_vertical.php">Vertical Card Patterns</a></dd>
-						<dd class="pg_link"><a href="p_card_panel.php">Panel Patterns</a></dd>
+						<dd class="pg_link"><a href="component_05.php">Integer Nec Ligula</a></dd>
+						<dd class="pg_link"><a href="component_07.php">Maecenas Nec Tellus</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">

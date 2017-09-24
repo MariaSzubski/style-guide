@@ -15,7 +15,7 @@ body,html,main{
 main{
   position:absolute;
   left:0;
-  width:100%;
+  width:calc(100% - .75rem);
   overflow:auto;
 }
 main.default_state{
@@ -39,7 +39,8 @@ nav.default_state{
   -webkit-box-orient:horizontal;
       -ms-flex-flow:row;
           flex-flow:row;
-  padding-top:12px;
+  padding-top:24px;
+  padding-top:1.5rem;
 }
 #container,section{
   display:-webkit-box;
@@ -757,6 +758,12 @@ header #icon_nav{
 }
 header .btn-group{
   position:absolute;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-align:center;
+      -ms-flex-align:center;
+          align-items:center;
   right:24px;
   margin:8px 0;
   color:#94a3b0;
@@ -769,43 +776,43 @@ header .btn-group,header button{
 }
 header button{
   display:inline-block;
-  border-radius:.25rem;
-  padding:5px 12px;
-  padding:.3125rem .75rem;
-  background:#94a3b0;
+  border-radius:.1875rem;
+  padding:6px 12px;
+  padding:.375rem .75rem;
   color:#94a3b0;
-  color:#edf1f4;
-  text-align:center;
-  vertical-align:middle;
+  color:#455a64;
   -webkit-user-select:none;
      -moz-user-select:none;
       -ms-user-select:none;
           user-select:none;
   cursor:pointer;
   outline:none;
-  -webkit-transition:background-color .4s ease;
-  transition:background-color .4s ease;
+  background:-webkit-linear-gradient(#cfd8dc,#cfd8dc);
+  background:linear-gradient(#cfd8dc,#cfd8dc);
 }
 header button:first-of-type{
   border-top-right-radius:0;
   border-bottom-right-radius:0;
+  margin-left:12px;
+  margin-left:.75rem;
 }
 header button:last-of-type{
-  margin-left:1px;
   border-top-left-radius:0;
   border-bottom-left-radius:0;
 }
 header button:hover{
-  background-color:#5d6574;
+  background:-webkit-linear-gradient(#b0bec5,#b0bec5);
+  background:linear-gradient(#b0bec5,#b0bec5);
 }
-header button.btn-selected,header button:hover{
-  -webkit-transition:background-color .4s ease;
-  transition:background-color .4s ease;
-}
-header button.btn-selected,nav{
-  background-color:#1e313b;
+header button.btn-selected{
+  background:-webkit-linear-gradient(#546e7a,#37474f);
+  background:linear-gradient(#546e7a,#37474f);
+  background-position:100px;
+  color:#fff;
+  text-shadow:0 2px 0 #263238;
 }
 nav{
+  background-color:#1e313b;
   z-index:1;
 }
 nav header{

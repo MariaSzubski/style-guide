@@ -16,6 +16,8 @@ header{
 
 	.btn-group{
 		position: absolute;
+		display: flex;
+		align-items: center;
 		right: 24px;
 		margin: 8px 0px;
 		.text-label;
@@ -23,37 +25,35 @@ header{
 
 	button{
 		display: inline-block;
-		border-radius: .25rem;
-		padding: 0.3125rem 0.75rem;
-		background: #94A3B0;
+		border-radius: 0.1875rem;
+		padding: 0.375rem 0.75rem;
 		.text-label;
-		color: @white;
-		text-align: center;
-		vertical-align: middle;
+		color: #455A64;
 		user-select: none;
 		cursor: pointer;
 		outline: none;
-		transition: background-color .4s ease;
+		background:linear-gradient(#CFD8DC,#CFD8DC);
 
 		&:first-of-type{
 			border-top-right-radius: 0rem;
 			border-bottom-right-radius: 0rem;
+			margin-left: 0.75rem;
 		}
 
 		&:last-of-type{
-			margin-left:1px;
 			border-top-left-radius: 0rem;
 			border-bottom-left-radius: 0rem;
 		}
 
 		&:hover{
-			background-color: #5D6574;
-			transition: background-color .4s ease;
+			background:linear-gradient(#B0BEC5,	#B0BEC5);
 		}
 
 		&.btn-selected{
-			background-color: @navy;
-			transition: background-color .4s ease;
+			background: linear-gradient(#546E7A,#37474F);
+			background-position:100px;
+			color: #FFF;
+			text-shadow: 0px 2px 0px #263238;
 		}
 	}
 }

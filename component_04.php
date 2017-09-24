@@ -3,52 +3,25 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title id="title">Style Guide &ndash; Components &ndash; Button (Raised)</title>
+	<title id="title">Style Guide &ndash; Component &ndash; Fusce Volutpat</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Button (Raised)</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<h2 id="pg_header">Components &ndash; Fusce Volutpat</h2>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
-			
 		</header>
 		<article id="guidelines">
 			<div id="container">
-				<section>
-					<img src="img/guide/button_raised_01.png" alt="Raised Buttons">
-				</section>
-				<!-- -->
-				<section>
-					<h2>Drop Buttons</h2>
-					<section class="full">
-						<h4>Default</h4>
-						<img src="img/guide/button_raised_02.png" alt="Default Drop Buttons">
+				<div class="spec_content">
+					<section>
+						<h4>Cras posuere</h4>
+						<img src="img/guide/fpo_500.svg" alt="Component Name">
 					</section>
-					<!-- -->
-					<section class="full">
-						<h4>Small</h4>
-						<img src="img/guide/button_raised_03.png" alt="Small Drop Buttons">
-					</section>
-					<!-- -->
-					<section class="full">
-						<h4>Drop Button Menu</h4>
-						<img src="img/guide/button_raised_04.png" alt="Drop Button Menu">
-					</section>
+				</div>
 				<aside>
-					<dl class="related">
-						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="button_flat.php">Flat Button Component</a></dd>
-						<dd class="pg_link"><a href="button_group.php">Button Group Component</a></dd>
-						<dd class="pg_link"><a href="p_button.php">Button Patterns</a></dd>
-						<dd class="pg_link"><a href="icon.php">Icon Component</a></dd>
-						<dd class="pg_link"><a href="menu.php">Menu Component</a></dd>
-					</dl>
-					<!-- -->
 					<dl class="dl_root">
 						<dt>Measurements</dt>
 						<dd>

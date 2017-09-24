@@ -10,10 +10,7 @@
 	<main class="default_state">
 		<header>
 			<h2 id="pg_header">Components &ndash; Aliquam Finibus Dui</h2>
-			<div class="btn-group" role="group">
-				Measurement Units:
-				<button type="button" id="size-px" class="btn-selected">px</button><button type="button" id="size-rem">rem</button>
-			</div>
+			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 		</header>
 		<article id="guidelines">
@@ -27,7 +24,7 @@
 				<aside>
 					<dl class="related">
 						<dt>Related Content</dt>
-						<dd class="pg_link"><a href="input.php">Input Component</a></dd>
+						<dd class="pg_link"><a href="component_02.php">Curabitur Viverra</a></dd>
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
