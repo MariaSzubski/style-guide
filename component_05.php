@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+	<?php require 'template/meta.inc.php'; ?>
 	<title id="title">Style Guide &ndash; Component &ndash; Integer Nec Ligula</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>

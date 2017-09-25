@@ -1,8 +1,8 @@
-g<?php $current = array_pop(explode("/", $_SERVER['PHP_SELF'])); ?>
+<?php $current = array_pop(explode("/", $_SERVER['PHP_SELF'])); ?>
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+	<?php require 'template/meta.inc.php'; ?>
 	<title id="title">Style Guide &ndash; Patterns &ndash; Morbi vel feugiat</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>

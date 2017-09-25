@@ -60,6 +60,12 @@ $(function(){
 					$('nav,main').toggleClass('default_state', 700, 'easeOutExpo').css('overflow', 'auto');
 			}
 		});
+		$('nav ul').click(function(e){
+			e.stopPropagation();
+			if (($(document ).width() <= 670) && (!$('nav').hasClass('default_state'))){
+					$('nav,main').toggleClass('default_state',  700, 'easeOutExpo').css('overflow', 'auto');
+			}
+		});
 	})();
 
 

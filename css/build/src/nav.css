@@ -23,22 +23,27 @@ header .btn-group{
       -ms-flex-align:center;
           align-items:center;
   right:24px;
-  margin:8px 0;
+  right:1.5rem;
+  margin:7px 0;
+  margin:.4375rem 0;
   color:#94a3b0;
-}
-header .btn-group,header button{
   font-size:13px;
   font-size:.8125rem;
+}
+header .btn-group,header button{
   font-weight:600;
   text-transform:uppercase;
 }
 header button{
   display:inline-block;
   border-radius:.1875rem;
-  padding:6px 12px;
-  padding:.375rem .75rem;
-  color:#94a3b0;
+  padding:7.5px 12px;
+  padding:.46875rem .75rem;
   color:#455a64;
+  font-size:11px;
+  font-size:.6875rem;
+  line-height:11px;
+  line-height:.6875rem;
   -webkit-user-select:none;
      -moz-user-select:none;
       -ms-user-select:none;
@@ -46,8 +51,8 @@ header button{
   cursor:pointer;
   outline:none;
   background-color:#cfd8dc;
-  -webkit-transition:all .5s ease;
-  transition:all .5s ease;
+  -webkit-transition:background-color .5s ease;
+  transition:background-color .5s ease;
 }
 header button:first-of-type{
   border-top-right-radius:0;
@@ -61,6 +66,8 @@ header button:last-of-type{
 }
 header button:hover{
   background-color:#b0bec5;
+}
+header button.btn-selected,header button:hover{
   -webkit-transition:background-color .2s ease;
   transition:background-color .2s ease;
 }
@@ -68,10 +75,6 @@ header button.btn-selected{
   background-color:#2f4d5d;
   background-position:100px;
   color:#fff;
-  -webkit-transition:background-color .2s ease;
-  transition:background-color .2s ease;
-  -webkit-transition:all .5s ease;
-  transition:all .5s ease;
 }
 nav{
   background-color:#1e313b;

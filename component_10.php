@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+	<?php require 'template/meta.inc.php'; ?>
 	<title id="title">Style Guide &ndash; Component &ndash; Quisque Ut Neque</title>
 	<?php require 'template/css.inc.php'; ?>
 </head>
@@ -33,8 +33,8 @@
 						<dd>Optional Dividers: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
 						<!-- -->
 						<dt>Measurements</dt>
-						<dd>Left &amp; Right Padding: <span class="pxrem">12px</dd>
-						<dd>Row Height (Default): <span class="pxrem">48px</dd>
+						<dd>Left &amp; Right Padding: <span class="pxrem">12px</span></dd>
+						<dd>Row Height (Default): <span class="pxrem">48px</span></dd>
 						<dd>Row Height (Compact): <span class="pxrem">36px</span></dd>
 						<!-- -->
 						<dt>Content</dt>
