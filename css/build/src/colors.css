@@ -93,11 +93,11 @@ table.colors #gr900{
   background-color:#004d40;
 }
 table.colors #y50{
-  background-color:#fff8e1;
+  background-color:#fff7de;
   color:#1e313b;
 }
 table.colors #y100{
-  background-color:#ffecb3;
+  background-color:#ffeeba;
   color:#1e313b;
 }
 table.colors #y200{
@@ -134,12 +134,8 @@ table.colors #r50{
   background-color:#ffebee;
   color:#1e313b;
 }
-table.colors #r100{
+table.colors #r100,table.colors #r200{
   background-color:#ffcdd2;
-  color:#1e313b;
-}
-table.colors #r200{
-  background-color:#ef9a9a;
   color:#1e313b;
 }
 table.colors #r300{

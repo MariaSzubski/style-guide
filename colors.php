@@ -88,13 +88,13 @@
 					<table class="colors">
 						<tr id="y50">
 							<td>50</td>
-							<td>#FFF8E1</td>
+							<td>#FFF7DE</td>
 							<td>rgb(255,247,222)</td>
 							<td></td>
 						</tr>
 						<tr id="y100">
 							<td>100</td>
-							<td>#FFECB3</td>
+							<td>#FFEEBA</td>
 							<td>rgb(255,238,186)</td>
 							<td></td>
 						</tr>
@@ -166,7 +166,7 @@
 						</tr>
 						<tr id="r200">
 							<td>200</td>
-							<td>#EF9A9A</td>
+							<td>#FFCDD2</td>
 							<td>rgb(250,167,170)</td>
 							<td></td>
 						</tr>
@@ -418,7 +418,7 @@
 					<table class="colors">
 						<tr id="g50">
 							<td>50</td>
-							<td>#ECEFF1</td>
+							<td>#CFD8DC</td>
 							<td>rgb(245,249,252)</td>
 							<td></td>
 						</tr>

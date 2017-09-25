@@ -33,18 +33,15 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Panel</dt>
+						<dt>Phasellus maximus</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Locked Background: <span title="Gray 50" class="theme">#F5F9FC</span></dd>
-						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
-						<dd>Angular Shadow: 2dp</dd>
-						<dd>Padding: <span class="pxrem">16px</span></dd>
+						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">4px</span> rgba(0,0,0,.25)</dd>
+						<dd>Padding: <span class="pxrem">14px</span></dd>
 						<!-- -->
-						<dt>Title</dt>
-						<dd>Text: 15px (11pt)</dd>
+						<dt>Fusce efficitur</dt>
+						<dd>Text: 14px</dd>
 						<dd>Weight: 600</dd>
-						<dd>Line Height: <span class="pxrem">20px</span></dd>
-						<dd>Padding from Top: <span class="pxrem">18px</span></dd>
+						<dd>Line Height: <span class="pxrem">18px</span></dd>
 					</dl>
 				</aside>
 			</div>

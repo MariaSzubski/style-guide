@@ -28,31 +28,31 @@
 							<dl class="sub">
 								<dt>Off</dt>
 								<dd>Thumb: #FFFFFF</dd>
-								<dd>Track: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+								<dd>Track: <span title="Gray 200" class="theme">#B0BEC5</span></dd>
 								<!-- -->
 								<dt>Off, Disabled</dt>
-								<dd>Thumb: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
-								<dd>Track: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Thumb: <span title="Gray 300" class="theme">#90A4AE</span></dd>
+								<dd>Track: <span title="Gray 100" class="theme">#CFD8DC</span></dd>
 								<!-- -->
 								<dt>On</dt>
-								<dd>Thumb: <span title="Green 500" class="theme">#26B810</span></dd>
-								<dd>Track: <span title="Green 100" class="theme">#B6EEAF</span></dd>
+								<dd>Thumb: <span title="Teal 500" class="theme">#009688</span></dd>
+								<dd>Track: <span title="Teal 100" class="theme">#B2DFDB</span></dd>
 								<!-- -->
 								<dt>Invalid</dt>
-								<dd>Thumb: 	<span title="Red 500" class="theme">#DD0014</span></dd>
-								<dd>Track: <span title="Red 100" class="theme">#FFC9CC</span></dd>
+								<dd>Thumb: 	<span title="Red 500" class="theme">#F44336</span></dd>
+								<dd>Track: <span title="Red 100" class="theme">#FFCDD2</span></dd>
 								<!-- -->
-								<dt>Accent (Blue)</dt>
-								<dd>Thumb: <span title="Blue 500" class="theme">#0098F3</span></dd>
-								<dd>Track: <span title="Blue 100" class="theme">#B4E0FC</span></dd>
+								<dt>Accent (Indigo)</dt>
+								<dd>Thumb: <span title="Indigo 500" class="theme">#3F51B5</span></dd>
+								<dd>Track: <span title="Indigo 100" class="theme">#C5CAE9</span></dd>
 								<!-- -->
-								<dt>Accent (Purple)</dt>
-								<dd>Thumb: <span title="Purple 500" class="theme">#B21DAC</span></dd>
-								<dd>Track: <span title="Purple 100" class="theme">#F7BFF2</span></dd>
+								<dt>Accent (Pink)</dt>
+								<dd>Thumb: <span title="Pink 500" class="theme">#E91E63</span></dd>
+								<dd>Track: <span title="Pink 100" class="theme">#F8BBD0</span></dd>
 								<!-- -->
 								<dt>On, Disabled</dt>
-								<dd>Thumb: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
-								<dd>Track: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+								<dd>Thumb: <span title="Gray 300" class="theme">#90A4AE</span></dd>
+								<dd>Track: <span title="Gray 100" class="theme">#CFD8DC</span></dd>
 							</dl>
 						</dd>
 					</dl>

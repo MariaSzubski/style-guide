@@ -36,24 +36,23 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Page Mask</dt>
-						<dd>rgba(245,249,252,0.6)</dd>
+						<dt>Donec tincidunt</dt>
+						<dd>rgbargb(245,249,252,.6)</dd>
 						<!-- -->
-						<dt>Dialog</dt>
+						<dt>Duis massa sem</dt>
 
 						<dd>
 							<dl class="sub">
 								<dt>Container</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">4px</span> rgba(0,0,0,0.45)</dd>
-								<dd>Angular Shadow: 6dp</dd>
+								<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">16px</span> rgba(0,0,0,0.25)</dd>
 								<!-- -->
 								<dt>Title</dt>
-								<dd>Text: 20px (15pt) <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Text: 22px <span title="Gray 800" class="theme">#37474F</span></dd>
 								<dd>Weight: 600</dd>
 								<dd>Case: Capitalize</dd>
-								<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
-								<dd>Title Bar Height: <span class="pxrem">42px</span></dd>
+								<dd>Divider: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#B0BEC5</span></dd>
+								<dd>App Bar Height: <span class="pxrem">40px</span></dd>
 							</dl>
 						</dd>
 					</dl>

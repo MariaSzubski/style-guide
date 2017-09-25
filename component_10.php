@@ -29,21 +29,21 @@
 					<dl class="dl_root">
 						<dt>Container</dt>
 						<dd>Background: #FFFFFF</dd>
-						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">2px</span> rgba(0,0,0,.45)</dd>
-						<dd>Optional Dividers: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Box Shadow: <span class="pxrem">0px</span> <span class="pxrem">1px</span> <span class="pxrem">4px</span> rgba(0,0,0,.25)</dd>
+						<dd>Dividers: <span class="pxrem">1px</span> <span title="Gray 200" class="theme">#B0BEC5</span></dd>
 						<!-- -->
 						<dt>Measurements</dt>
-						<dd>Left &amp; Right Padding: <span class="pxrem">12px</span></dd>
-						<dd>Row Height (Default): <span class="pxrem">48px</span></dd>
-						<dd>Row Height (Compact): <span class="pxrem">36px</span></dd>
+						<dd>Left &amp; Right Padding: <span class="pxrem">10px</span></dd>
+						<dd>Row Height (Default): <span class="pxrem">42px</span></dd>
+						<dd>Row Height (Compact): <span class="pxrem">32px</span></dd>
 						<!-- -->
 						<dt>Content</dt>
-						<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
-						<dd>Icon Color: <span title="Gray 800" class="theme">#354052</span></dd>
+						<dd>Text: 16px <span title="Gray 800" class="theme">#37474F</span></dd>
+						<dd>Icon Color: <span title="Gray 800" class="theme">#37474F</span></dd>
 						<!-- -->
 						<dt>States</dt>
-						<dd>Hover Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-						<dd>Selected Background: <span title="Gray 200" class="theme">#DDE6ED</span></dd>
+						<dd>Hover Background: <span title="Indigo 50" class="theme">#E8EAF6</span></dd>
+						<dd>Selected Background: <span title="Gray 200" class="theme">#B0BEC5</span></dd>
 					</dl>
 				</aside>
 			</div>

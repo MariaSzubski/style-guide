@@ -31,29 +31,29 @@
 						<dd>
 							<dl class="sub">
 								<dt>All Buttons</dt>
-								<dd>Corner Radius: <span class="pxrem">4px</span></dd>
+								<dd>Corner Radius: <span class="pxrem">2px</span></dd>
 								<dd>Text Color: #FFFFFF</dd>
 								<dd>Case: Uppercase</dd>
 								<!-- -->
 								<dt>Default</dt>
-								<dd>Height: <span class="pxrem">36px</span></dd>
-								<dd>Padding L/R: <span class="pxrem">12px</span></dd>
-								<dd>Margin: <span class="pxrem">12px</span></dd>
-								<dd>Text Size: 15px (11pt)</dd>
+								<dd>Height: <span class="pxrem">32px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">10px</span></dd>
+								<dd>Margin: <span class="pxrem">4px</span></dd>
+								<dd>Text Size: 16px</dd>
 								<dd>Weight: 600</dd>
 								<!-- -->
 								<dt>Large</dt>
-								<dd>Height: <span class="pxrem">64px</span></dd>
-								<dd>Padding L/R: <span class="pxrem">24px</span></dd>
-								<dd>Margin: <span class="pxrem">20px</span></dd>
-								<dd>Text Size: 30px (23pt)</dd>
+								<dd>Height: <span class="pxrem">48px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">20px</span></dd>
+								<dd>Margin: <span class="pxrem">18px</span></dd>
+								<dd>Text Size: 28px</dd>
 								<dd>Weight: 400</dd>
 								<!-- -->
 								<dt>Small</dt>
-								<dd>Height: <span class="pxrem">28px</span></dd>
-								<dd>Padding L/R: <span class="pxrem">12px</span></dd>
-								<dd>Margin: <span class="pxrem">10px</span></dd>
-								<dd>Text Size: 13px (10pt)</dd>
+								<dd>Height: <span class="pxrem">24px</span></dd>
+								<dd>Padding L/R: <span class="pxrem">10px</span></dd>
+								<dd>Margin: <span class="pxrem">4px</span></dd>
+								<dd>Text Size: 12px</dd>
 								<dd>Weight: 600</dd>
 							</dl>
 						</dd>
@@ -62,48 +62,42 @@
 						<dd>
 							<dl class="sub">
 								<dt>Primary</dt>
-								<dd>Static: <span title="Blue 500" class="theme">#0098F3</span></dd>
-								<dd>Hover: <span title="Blue 700" class="theme">#007BC5</span></dd>
-								<dd>Selected: <span title="Blue 900" class="theme">#00568B</span></dd>
-								<dd>Disabled: <span title="Blue 100" class="theme">#B4E0FC</span></dd>
+								<dd>Static: <span title="Indigo 500" class="theme">#3F51B5</span></dd>
+								<dd>Hover: <span title="Indigo 700" class="theme">#007BC5</span></dd>
+								<dd>Selected: <span title="Indigo 900" class="theme">#1A237E</span></dd>
+								<dd>Disabled: <span title="Indigo 100" class="theme">#C5CAE9</span></dd>
 								<!-- -->
 								<dt>Accent</dt>
-								<dd>Static: <span title="Green 500" class="theme">#26B810</span></dd>
-								<dd>Hover: <span title="Green 700" class="theme">#1D8D0C</span></dd>
-								<dd>Selected: <span title="Green 900" class="theme">#135807</span></dd>
-								<dd>Disabled: <span title="Green 100" class="theme">#B6EEAF</span></dd>
+								<dd>Static: <span title="Teal 500" class="theme">#009688</span></dd>
+								<dd>Hover: <span title="Teal 700" class="theme">#00796B</span></dd>
+								<dd>Selected: <span title="Teal 900" class="theme">#004D40</span></dd>
+								<dd>Disabled: <span title="Teal 100" class="theme">#B2DFDB</span></dd>
 								<!-- -->
 								<dt>Secondary</dt>
 								<dd>Static: <span title="Gray 500" class="theme">#94A3B0</span></dd>
-								<dd>Hover: <span title="Gray 700" class="theme">#5D6574</span></dd>
-								<dd>Selected: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Disabled: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+								<dd>Hover: <span title="Gray 700" class="theme">#455A64</span></dd>
+								<dd>Selected: <span title="Gray 800" class="theme">#37474F</span></dd>
+								<dd>Disabled: <span title="Gray 300" class="theme">#90A4AE</span></dd>
 								<!-- -->
 								<dt>Tertiary</dt>
 								<dd>Static Text: <span title="Gray 500" class="theme">#94A3B0</span></dd>
 								<dd>Border: <span title="Gray 500" class="theme">#94A3B0</span></dd>
-								<dd>Hover Text:	<span title="Gray 600" class="theme">#79818C</span></dd>
-								<dd>Hover BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
-								<dd>Selected Text: <span title="Gray 600" class="theme">#79818C</span></dd>
-								<dd>Selected BG: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
-								<dd>Disabled Text &amp; Border: <span title="Gray 300" class="theme">#D5D7DB</span></dd>
+								<dd>Hover Text:	<span title="Gray 600" class="theme">#546E7A</span></dd>
+								<dd>Hover BG: <span title="Gray 100" class="theme">#CFD8DC</span></dd>
+								<dd>Selected Text: <span title="Gray 600" class="theme">#546E7A</span></dd>
+								<dd>Selected BG: <span title="Gray 300" class="theme">#90A4AE</span></dd>
+								<dd>Disabled Text &amp; Border: <span title="Gray 300" class="theme">#90A4AE</span></dd>
 							</dl>
 						</dd>
 						<!-- -->
-						<dt>Drop Buttons</dt>
+						<dt>Menu Buttons</dt>
 						<dd>
 							<dl class="sub">
 								<dt>Color &amp; Size</dt>
 								<dd>Divider &amp; Icon: #FFFFFF</dd>
-								<dd>Default Button: <span class="pxrem">36px</span> x <span class="pxrem">36px</span></dd>
-								<dd>Small Button: <span class="pxrem">28px</span> x <span class="pxrem">28px</span></dd>
-								<dd>Icon: <span class="pxrem">16px</span> x <span class="pxrem">16px</span></dd>
-								<!-- -->
-								<dt>Selected State</dt>
-								<dd class="note">Use Selected Button State shown above.</dd>
-								<!-- -->
-								<dt>Menu</dt>
-								<dd class="note">See Compact Menu Component.</dd>
+								<dd>Default Button: <span class="pxrem">32px</span> x <span class="pxrem">32px</span></dd>
+								<dd>Small Button: <span class="pxrem">24px</span> x <span class="pxrem">24px</span></dd>
+								<dd>Icon: <span class="pxrem">12px</span> x <span class="pxrem">12px</span></dd>
 							</dl>
 						</dd>
 					</dl>

@@ -32,39 +32,39 @@
 				<aside>
 					<dl class="dl_root">
 						<dt>Sed volutpat sem</dt>
-						<dd>Height: <span class="pxrem">44px</span></dd>
-						<dd>Minimum Width: <span class="pxrem">170px</span></dd>
-						<dd>Minimum Padding: <span class="pxrem">12px</span></dd>
-						<dd>Corner Radius: <span class="pxrem">4px</span></dd>
-						<dd>Text: 15px (11pt)</dd>
-						<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">4px</span> rgba(0,0,0,0.45)</dd>
-						<dd>Angular Shadow: 6dp</dd>
+						<dd>Height: <span class="pxrem">42px</span></dd>
+						<dd>Minimum Width: <span class="pxrem">140px</span></dd>
+						<dd>Minimum Padding: <span class="pxrem">10px</span></dd>
+						<dd>Corner Radius: <span class="pxrem">3px</span></dd>
+						<dd>Text: 14px</dd>
+						<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">2px</span> <span class="pxrem">8px</span> rgba(0,0,0,0.25)</dd>
+
 						<!-- -->
 						<dt>Vivamus In Nunc</dt>
 						<dd>
 							<dl class="sub">
-								<dt>Green (Positive)</dt>
-								<dd>Text &amp; Icon Color: <span title="Green 700" class="theme">#1D8D0C</span></dd>
-								<dd>Background: <span title="Green 50" class="theme">#D0F7CC</span></dd>
-								<dd>Icon Background: <span title="Green 100" class="theme">#B6EEAF</span></dd>
-								<dd>Border: <span class="pxrem">1px</span> <span title="Green 400" class="theme">#40C32D</span></dd>
+								<dt>Teal (Positive)</dt>
+								<dd>Text &amp; Icon Color: <span title="Teal 700" class="theme">#00796B</span></dd>
+								<dd>Background: <span title="Teal 50" class="theme">#E0F2F1</span></dd>
+								<dd>Icon Background: <span title="Teal 100" class="theme">#B2DFDB</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Teal 400" class="theme">#26A69A</span></dd>
 								<!-- -->
-								<dt>Yellow (Warning)</dt>
-								<dd>Text &amp; Icon Color: <span title="Yellow 700" class="theme">#E67219</span></dd>
-								<dd>Background: <span title="Yellow 50" class="theme">#FFF7DE</span></dd>
-								<dd>Icon Background: <span title="Yellow 100" class="theme">#FFEEBA</span></dd>
-								<dd>Border: <span class="pxrem">1px</span> <span title="Yellow 600" class="theme">#F29100</span></dd>
+								<dt>Amber (Warning)</dt>
+								<dd>Text &amp; Icon Color: <span title="Amber 700" class="theme">#FFA000</span></dd>
+								<dd>Background: <span title="Amber 50" class="theme">#FFF7DE</span></dd>
+								<dd>Icon Background: <span title="Amber 100" class="theme">#FFEEBA</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Amber 600" class="theme">#FFB300</span></dd>
 								<!-- -->
 								<dt>Red (Error)</dt>
-								<dd>Text &amp; Icon Color: <span title="Red 500" class="theme">#DD0014</span></dd>
-								<dd>Background: <span title="Red 50" class="theme">#FCE1E1</span></dd>
-								<dd>Icon Background: <span title="Red 100" class="theme">#FFC9CC</span></dd>
-								<dd>Border: <span class="pxrem">1px</span> <span title="Red 400" class="theme">#FA4F4F</span></dd>
+								<dd>Text &amp; Icon Color: <span title="Red 500" class="theme">#F44336</span></dd>
+								<dd>Background: <span title="Red 50" class="theme">#FFEBEE</span></dd>
+								<dd>Icon Background: <span title="Red 100" class="theme">#FFCDD2</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Red 400" class="theme">#EF5350</span></dd>
 								<!-- -->
-								<dt>Blue (With Actions)</dt>
-								<dd>Text Color: <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Background: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-								<dd>Border: <span class="pxrem">1px</span> <span title="Blue 400" class="theme">#00AEEF</span></dd>
+								<dt>Indigo (Actions)</dt>
+								<dd>Text Color: <span title="Gray 800" class="theme">#37474F</span></dd>
+								<dd>Background: <span title="Indigo 50" class="theme">#E8EAF6</span></dd>
+								<dd>Border: <span class="pxrem">1px</span> <span title="Indigo 400" class="theme">#5C6BC0</span></dd>
 								<dd>Actions: Small Primary Flat Buttons</dd>
 							</dl>
 						</dd>
@@ -74,19 +74,17 @@
 							<dl class="sub">
 								<dt>Container</dt>
 								<dd>Background: #FFFFFF</dd>
-								<dd>Padding: <span class="pxrem">16px</span></dd>
-								<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">4px</span> rgba(0,0,0,0.45)</dd>
-								<dd>Angular Shadow: 6dp</dd>
-								<dd>Margin Between Notifications: <span class="pxrem">10px</span></dd>
+								<dd>Padding: <span class="pxrem">12px</span></dd>
+								<dd>Box Shadow:	<span class="pxrem">0px</span> <span class="pxrem">2px</span> <span class="pxrem">8px</span> rgba(0,0,0,0.25)</dd>
 								<!-- -->
 								<dt>Header</dt>
-								<dd>Text: 15px (11pt) <span title="Gray 800" class="theme">#354052</span></dd>
+								<dd>Text: 16px <span title="Gray 800" class="theme">#37474F</span></dd>
 								<dd>Weight: 600</dd>
-								<dd>Line Height: <span class="pxrem">20px</span></dd>
+								<dd>Line Height: <span class="pxrem">16px</span></dd>
 								<!-- -->
 								<dt>Description</dt>
-								<dd>Text: 13px (10pt) <span title="Gray 800" class="theme">#354052</span></dd>
-								<dd>Line Height: <span class="pxrem">20px</span></dd>
+								<dd>Text: 12px <span title="Gray 800" class="theme">#37474F</span></dd>
+								<dd>Line Height: <span class="pxrem">18px</span></dd>
 							</dl>
 						</dd>
 					</dl>

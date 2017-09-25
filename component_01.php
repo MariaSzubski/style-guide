@@ -28,14 +28,11 @@
 					</dl>
 					<!-- -->
 					<dl class="dl_root">
-						<dt>Use Case</dt>
-						<dd class="note">Uses standard Input Component</dd>
-						<!-- -->
 						<dt>Pellentesque vitae</dt>
-						<dd>Text Color: <span title="Gray 900" class="theme">#151921</span></dd>
-						<dd>Hover BG: <span title="Blue 50" class="theme">#D4EEFD</span></dd>
-						<dd>Selected Text: <span title="Gray 800" class="theme">#354052</span></dd>
-						<dd>Selected BG: <span title="Gray 100" class="theme">#EDEEF0</span></dd>
+						<dd>Text Color: <span title="Gray 900" class="theme">#263238</span></dd>
+						<dd>Hover BG: <span title="Indigo 50" class="theme">#E8EAF6</span></dd>
+						<dd>Selected Text: <span title="Gray 800" class="theme">#37474F</span></dd>
+						<dd>Selected BG: <span title="Gray 100" class="theme">#CFD8DC</span></dd>
 					</dl>
 				</aside>
 			</div>

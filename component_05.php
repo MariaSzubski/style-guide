@@ -31,7 +31,7 @@
 				</div>
 				<aside>
 					<dl class="dl_root">
-						<dt>Badge</dt>
+						<dt>Orci varius</dt>
 						<dd>
 							<!-- -->
 							<dl class="sub">
@@ -39,13 +39,10 @@
 								<dd>Height: <span class="pxrem">12px</span></dd>
 								<dd>Min Width: <span class="pxrem">12px</span></dd>
 								<dd>Corner Radius: <span class="pxrem">6px</span></dd>
-								<dd>Background Color: <span title="Red 500" class="theme">#DD0014</span></dd>
-								<!-- -->
-								<dt>Badge Width</dt>
-								<dd class="note">Badge expands to accomodate up to 4 digitas and an ellipsis. Truncate longer values.</dd>
+								<dd>Background Color: <span title="Red 500" class="theme">#F44336</span></dd>
 								<!-- -->
 								<dt>Numbers</dt>
-								<dd>Text: 11px (8pt) #FFFFFF</dd>
+								<dd>Text: 10px #FFFFFF</dd>
 								<dd>Weight: 600</dd>
 							</dl>
 						</dd>
