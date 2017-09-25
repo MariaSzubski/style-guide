@@ -84,9 +84,15 @@ $(function(){
 		// ----------------- Check localStorage and convert units
 		function toggle_pxrem(){
 			(localStorage.pxrem == undefined) ? localStorage.setItem('pxrem', 'px') : null;
-			$('.btn-group button').removeClass('btn-selected');
-			(localStorage.pxrem == 'rem') ?	$('#size-rem').addClass('btn-selected') : null;
-			(localStorage.pxrem == 'px') ? $('#size-px').addClass('btn-selected') : null;
+
+			(localStorage.pxrem == 'rem') ?
+				($('#size-px').removeClass('btn-selected'),
+				$('#size-rem').addClass('btn-selected'))
+				: null;
+			(localStorage.pxrem == 'px') ?
+				($('#size-rem').removeClass('btn-selected'),
+				$('#size-px').addClass('btn-selected'))
+				: null;
 			convert();
 		}
 

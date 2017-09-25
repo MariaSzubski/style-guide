@@ -32,7 +32,8 @@ header{
 		user-select: none;
 		cursor: pointer;
 		outline: none;
-		background:linear-gradient(#CFD8DC,#CFD8DC);
+		background-color: #CFD8DC;
+		transition: all .5s ease;
 
 		&:first-of-type{
 			border-top-right-radius: 0rem;
@@ -46,14 +47,16 @@ header{
 		}
 
 		&:hover{
-			background:linear-gradient(#B0BEC5,	#B0BEC5);
+			background-color:#B0BEC5;
+			transition: background-color .2s ease;
 		}
 
 		&.btn-selected{
-			background: linear-gradient(#546E7A,#37474F);
+			background-color: #2F4D5D;
 			background-position:100px;
 			color: #FFF;
-			text-shadow: 0px 2px 0px #263238;
+			transition: background-color .2s ease;
+			transition: all .5s ease;
 		}
 	}
 }

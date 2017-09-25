@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-	<path fill="#ECEFF1" d="M596,0H4C1.8,0,0,1.8,0,4v392c0,2.2,1.8,4,4,4h592c2.2,0,4-1.8,4-4V4C600,1.8,598.2,0,596,0L596,0z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600px" height="400px" viewBox="0 0 600 400">
+	<polyline fill="#EDEFF1" stroke="none" points="0,0 600,0 600,400 0,400 0,0"/>
 	<path fill="#CFD8DC" d="M250.635,200.324h-28.828V238h-10.723v-85.312h44.414v9.199h-33.691v29.238h28.828V200.324L250.635,200.324
 		z"/>
 	<path fill="#CFD8DC" d="M279.463,204.602V238H268.74v-85.312h27.188c7.93,0,14.159,2.373,18.691,7.119
