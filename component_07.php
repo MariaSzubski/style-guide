@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Components &ndash; Maecenas Nec Tellus</h2>
+			<h2 id="pg_header"><span>Components &ndash; </span>Maecenas Nec Tellus</h2>
 			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 		</header>

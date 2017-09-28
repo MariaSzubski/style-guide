@@ -429,7 +429,7 @@ main header h2,main header img{
   -webkit-transform:translateY(-50%);
           transform:translateY(-50%);
 }
-main header h2{
+main header h2,main header span{
   left:42px;
   font-family:Roboto Condensed,sans-serif;
   font-size:20px;

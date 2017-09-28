@@ -9,7 +9,7 @@
 <body>
 	<main class="default_state">
 		<header>
-			<h2 id="pg_header">Patterns &ndash; Ut Vitae Magna</h2>
+			<h2 id="pg_header"><span>Patterns &ndash; </span>Ut Vitae Magna</h2>
 			<?php require 'template/units.inc.php'; ?>
 			<img src="img/hamburger.svg" alt="Navigation" id="icon_nav">
 		</header>
