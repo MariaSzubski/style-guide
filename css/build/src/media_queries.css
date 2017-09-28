@@ -155,7 +155,7 @@
     min-width:none;
   }
   .desc_pattern{
-    min-width:auto;
+    min-width:100%;
     padding:1.25rem;
   }
 }

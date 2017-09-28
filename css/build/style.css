@@ -431,7 +431,11 @@ article{
   height:auto;
 }
 article section{
-  margin-bottom:60px;
+  margin-bottom:64px;
+  margin-bottom:4rem;
+}
+article section.full>section.full:last-of-type{
+  margin-bottom:0;
 }
 article h2{
   color:#00bfa5;
@@ -452,6 +456,10 @@ article h4{
   font-size:13px;
   font-size:.8125rem;
   font-weight:600;
+}
+article section.full>h4:not(:first-of-type){
+  margin-top:48px;
+  margin-top:3rem;
 }
 article img{
   display:block;
@@ -488,6 +496,8 @@ article .guide_link a{
 aside{
   background-color:#fff;
   border-left:1px solid #cad5df;
+  padding-bottom:24px;
+  padding-bottom:1.5rem;
 }
 aside dl *{
   font-family:Roboto Mono,monospace;
@@ -551,9 +561,9 @@ aside mark{
   width:auto;
   max-width:568px;
   min-width:392px;
-  margin:12px auto;
+  margin:12px auto 0;
   background-color:#f5f9fc;
-  padding:16px 24px 0;
+  padding:16px 24px;
 }
 .desc_pattern p{
   width:auto;
@@ -578,9 +588,6 @@ aside mark{
 }
 .desc_pattern ul{
   margin-left:48px;
-}
-.desc_pattern>ul{
-  padding-bottom:16px;
 }
 div.desc{
   position:absolute;
@@ -667,9 +674,6 @@ header #icon_nav{
 }
 header .btn-group{
   position:absolute;
-  display:-webkit-box;
-  display:-ms-flexbox;
-  display:flex;
   -webkit-box-align:center;
       -ms-flex-align:center;
           align-items:center;
@@ -682,11 +686,16 @@ header .btn-group{
   font-size:.8125rem;
 }
 header .btn-group,header button{
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
   font-weight:600;
   text-transform:uppercase;
 }
 header button{
-  display:inline-block;
+  -webkit-box-pack:center;
+      -ms-flex-pack:center;
+          justify-content:center;
   border-radius:.1875rem;
   padding:7.5px 12px;
   padding:.46875rem .75rem;
@@ -871,6 +880,8 @@ table.techstack{
   font-size:.9375rem;
   border:1px solid #cad5df;
   vertical-align:middle;
+}
+table.techstack:not(:last-of-type){
   margin-bottom:48px;
 }
 table.techstack tr{
@@ -912,6 +923,7 @@ table.techstack td:first-of-type{
   -webkit-box-pack:center;
       -ms-flex-pack:center;
           justify-content:center;
+  margin-bottom:0;
 }
 .typestyle{
   position:relative;
@@ -1155,7 +1167,7 @@ table.techstack td:first-of-type{
     min-width:none;
   }
   .desc_pattern{
-    min-width:auto;
+    min-width:100%;
     padding:1.25rem;
   }
 }

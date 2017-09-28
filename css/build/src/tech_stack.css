@@ -10,6 +10,8 @@ table.techstack{
   font-size:.9375rem;
   border:1px solid #cad5df;
   vertical-align:middle;
+}
+table.techstack:not(:last-of-type){
   margin-bottom:48px;
 }
 table.techstack tr{

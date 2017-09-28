@@ -29,9 +29,7 @@
 									<li>Donec vestibulum justo turpis</li>
 								</ul>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>blandit nibh egestas eget</h4>
 							<img src="img/guide/fpo_md_200.svg" alt="penatibus et magnis">
 							<div class="desc_pattern">
@@ -44,14 +42,13 @@
 					<!-- -->
 					<section class="full">
 						<h2>Fusce dolor quam</h2>
+						<h4>vel tempor nunc</h4>
 						<div class="desc_pattern">
 							<p>
 								Vestibulum non mauris ipsum. Nullam varius sagittis nisl elementum sollicitudin. Nullam venenatis lacus diam, in laoreet ex egestas a. Pellentesque congue mollis ligula, vel tempor nunc mattis ut.
 							</p>
 						</div>
-					</section>
 					<!-- -->
-					<section class="full">
 						<h4>pellentesque finibus odio</h4>
 						<img src="img/guide/fpo_md_600.svg" alt="penatibus et magnis">
 					</section>

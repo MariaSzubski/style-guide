@@ -29,9 +29,7 @@
 									<li>Donec vestibulum justo turpis</li>
 								</ul>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>blandit nibh egestas eget</h4>
 							<img src="img/guide/fpo_md_200.svg" alt="penatibus et magnis">
 							<div class="desc_pattern">
@@ -39,9 +37,7 @@
 									In luctus cursus sagittis. Praesent lacus diam, tincidunt ultrices tincidunt in, lobortis id ante. Fusce eget elit eu augue imperdiet varius ac sed elit. Sed purus leo, faucibus lacinia dapibus in, scelerisque sed leo.
 								</p>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>Nullam suscipit</h4>
 							<img src="img/guide/fpo_md_400.svg" alt="penatibus et magnis">
 							<div class="desc_pattern">
@@ -59,14 +55,10 @@
 								Vestibulum non mauris ipsum. Nullam varius sagittis nisl elementum sollicitudin. Nullam venenatis lacus diam, in laoreet ex egestas a. Pellentesque congue mollis ligula, vel tempor nunc mattis ut.
 							</p>
 						</div>
-					</section>
-					<!-- -->
-					<section class="full">
+						<!-- -->
 						<h4>pellentesque finibus odio</h4>
 						<img src="img/guide/fpo_500.svg" alt="penatibus et magnis">
-					</section>
-					<!-- -->
-					<section class="full">
+						<!-- -->
 						<h4>Interdum et malesuada fames</h4>
 						<img src="img/guide/fpo_200.svg" alt="penatibus et magnis">
 						<div class="desc_pattern">

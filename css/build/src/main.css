@@ -27,7 +27,11 @@ article{
   height:auto;
 }
 article section{
-  margin-bottom:60px;
+  margin-bottom:64px;
+  margin-bottom:4rem;
+}
+article section.full>section.full:last-of-type{
+  margin-bottom:0;
 }
 article h2{
   color:#00bfa5;
@@ -48,6 +52,10 @@ article h4{
   font-size:13px;
   font-size:.8125rem;
   font-weight:600;
+}
+article section.full>h4:not(:first-of-type){
+  margin-top:48px;
+  margin-top:3rem;
 }
 article img{
   display:block;
@@ -84,6 +92,8 @@ article .guide_link a{
 aside{
   background-color:#fff;
   border-left:1px solid #cad5df;
+  padding-bottom:24px;
+  padding-bottom:1.5rem;
 }
 aside dl *{
   font-family:Roboto Mono,monospace;
@@ -147,9 +157,9 @@ aside mark{
   width:auto;
   max-width:568px;
   min-width:392px;
-  margin:12px auto;
+  margin:12px auto 0;
   background-color:#f5f9fc;
-  padding:16px 24px 0;
+  padding:16px 24px;
 }
 .desc_pattern p{
   width:auto;
@@ -174,9 +184,6 @@ aside mark{
 }
 .desc_pattern ul{
   margin-left:48px;
-}
-.desc_pattern>ul{
-  padding-bottom:16px;
 }
 div.desc{
   position:absolute;

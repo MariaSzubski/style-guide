@@ -28,7 +28,11 @@ article{
 	min-height: calc(100% - 40px);
 	height: auto;
 	& section{
-		margin-bottom: 60px;
+		margin-bottom: 4rem;
+	}
+
+	& section.full > section.full:last-of-type{
+		margin-bottom: 0px;
 	}
 
 	& h2{
@@ -42,6 +46,10 @@ article{
 		.text-label;
 		text-align: center;
 		margin-bottom: 12px;
+	}
+
+	& section.full > h4:not(:first-of-type){
+		margin-top: 3rem;
 	}
 
 	& img{
@@ -82,6 +90,7 @@ article{
 aside{
 	background-color: white;
 	border-left: 1px solid @matte;
+	padding-bottom: 1.5rem;
 
 	& dl *{
 		font-family: 'Roboto Mono', monospace;
@@ -158,9 +167,9 @@ aside{
 	width: auto;
 	max-width: 568px;
 	min-width: 392px;
-	margin: 12px auto;
+	margin: 12px auto 0px auto;
 	background-color: #f5f9fc;
-	padding: 16px 24px 0px 24px;
+	padding: 16px 24px 16px 24px;
 
 	& p{
 		width: auto;
@@ -183,9 +192,6 @@ aside{
 		margin-left: 48px;
 	}
 
-	& > ul{
-		padding-bottom: 16px;
-	}
 }
 
 .desc{

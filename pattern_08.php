@@ -21,9 +21,7 @@
 						<section class="full">
 							<h4>varius dignissim</h4>
 							<img src="img/guide/fpo_md_600.svg" alt="penatibus et magnis">
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>blandit nibh egestas eget</h4>
 							<img src="img/guide/fpo_md_200.svg" alt="penatibus et magnis">
 							<div class="desc_pattern">

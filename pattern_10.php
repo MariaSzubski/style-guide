@@ -37,14 +37,10 @@
 									Vivamus venenatis massa quis sem bibendum rhoncus. In sed risus ex. Aliquam euismod urna at quam faucibus dictum eget molestie augue. Vestibulum et augue dignissim nisl finibus ultrices vel ac erat. Phasellus blandit viverra arcu vitae euismod.
 								</p>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>Nullam molestie auctor </h4>
 							<img src="img/guide/fpo_lg_200.svg" alt="Nullam molestie auctor ">
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>nisi pulvinar interdum</h4>
 							<img src="img/guide/fpo_lg_200.svg" alt="nisi pulvinar interdum">
 						</section>
@@ -62,9 +58,7 @@
 									Auctor nisl nec vulputate. Mauris vestibulum maximus justo.
 								</p>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>Snibh sed lectus</h4>
 							<img src="img/guide/fpo_md_600.svg" alt="nisi pulvinar interdum">
 							<div class="desc_pattern">

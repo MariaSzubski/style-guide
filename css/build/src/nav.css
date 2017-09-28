@@ -16,9 +16,6 @@ header #icon_nav{
 }
 header .btn-group{
   position:absolute;
-  display:-webkit-box;
-  display:-ms-flexbox;
-  display:flex;
   -webkit-box-align:center;
       -ms-flex-align:center;
           align-items:center;
@@ -31,11 +28,16 @@ header .btn-group{
   font-size:.8125rem;
 }
 header .btn-group,header button{
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
   font-weight:600;
   text-transform:uppercase;
 }
 header button{
-  display:inline-block;
+  -webkit-box-pack:center;
+      -ms-flex-pack:center;
+          justify-content:center;
   border-radius:.1875rem;
   padding:7.5px 12px;
   padding:.46875rem .75rem;

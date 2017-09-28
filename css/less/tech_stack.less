@@ -8,8 +8,11 @@ table.techstack{
     font-size: @text-lg;
     border: 1px solid @matte;
     vertical-align: middle;
-    margin-bottom: 48px;
 
+    &:not(:last-of-type){
+        margin-bottom: 48px;
+    }
+    
     tr{
         &:not(:last-of-type){
             border-bottom: 1px solid @matte;

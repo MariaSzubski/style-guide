@@ -39,7 +39,6 @@
 							</div>
 						</section>
 					</section>
-
 					<!-- Section 2 -->
 					<section class="full">
 						<h2>Suspendisse potenti</h2>
@@ -52,9 +51,7 @@
 									Auctor nisl nec vulputate. Mauris vestibulum maximus justo.
 								</p>
 							</div>
-						</section>
-						<!-- -->
-						<section class="full">
+							<!-- -->
 							<h4>Snibh sed lectus</h4>
 							<img src="img/guide/fpo_md_600.svg" alt="nisi pulvinar interdum">
 							<div class="desc_pattern">
