@@ -4,7 +4,7 @@ table,td,tr{
 table.colors{
   font-size:13px;
   font-size:.8125rem;
-  width:calc(100% - 48px);
+  width:calc(100% - 3rem);
   min-width:320px;
   max-width:600px;
   margin:auto;

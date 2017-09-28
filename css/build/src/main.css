@@ -153,18 +153,22 @@ aside mark{
 }
 .desc_pattern p{
   width:auto;
+  color:#37474f;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;
   font-weight:400;
-  padding-bottom:16px;
-}
-.desc_pattern li,.desc_pattern p,.desc_pattern ul{
-  color:#37474f;
   font-size:15px;
   font-size:.9375rem;
 }
+.desc_pattern p:not(:last-of-type){
+  padding-bottom:16px;
+  padding-bottom:1rem;
+}
 .desc_pattern li,.desc_pattern ul{
+  font-size:15px;
+  font-size:.9375rem;
+  color:#37474f;
   line-height:1.6;
   list-style-type:circle;
 }

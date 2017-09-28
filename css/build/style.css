@@ -88,21 +88,6 @@ a:active,a:hover{
 a:active{
   color:#7e4c00;
 }
-::-webkit-scrollbar{
-  width:12px;
-  width:.75rem;
-}
-::-webkit-scrollbar-track{
-  box-shadow:inset 0 0 5px rgba(0,0,0,.4);
-}
-::-webkit-scrollbar-thumb{
-  border-radius:.75rem;
-  background:#d5d9dc;
-  box-shadow:inset 0 0 3px rgba(0,0,0,.4);
-}
-::-webkit-scrollbar-thumb:window-inactive{
-  background:#e6eaed;
-}
 
 table,td,tr{
   border-collapse:collapse;
@@ -110,7 +95,7 @@ table,td,tr{
 table.colors{
   font-size:13px;
   font-size:.8125rem;
-  width:calc(100% - 48px);
+  width:calc(100% - 3rem);
   min-width:320px;
   max-width:600px;
   margin:auto;
@@ -572,18 +557,22 @@ aside mark{
 }
 .desc_pattern p{
   width:auto;
+  color:#37474f;
   font-size:20px;
   font-size:1.25rem;
   line-height:1.5;
   font-weight:400;
-  padding-bottom:16px;
-}
-.desc_pattern li,.desc_pattern p,.desc_pattern ul{
-  color:#37474f;
   font-size:15px;
   font-size:.9375rem;
 }
+.desc_pattern p:not(:last-of-type){
+  padding-bottom:16px;
+  padding-bottom:1rem;
+}
 .desc_pattern li,.desc_pattern ul{
+  font-size:15px;
+  font-size:.9375rem;
+  color:#37474f;
   line-height:1.6;
   list-style-type:circle;
 }
@@ -1065,6 +1054,22 @@ table.techstack td:first-of-type{
     margin:24px 0;
   }
 }
+@media (min-width:671px){
+  ::-webkit-scrollbar{
+    width:.75rem;
+  }
+  ::-webkit-scrollbar-track{
+    box-shadow:inset 0 0 5px rgba(0,0,0,.4);
+  }
+  ::-webkit-scrollbar-thumb{
+    border-radius:.75rem;
+    background:#d5d9dc;
+    box-shadow:inset 0 0 3px rgba(0,0,0,.4);
+  }
+  ::-webkit-scrollbar-thumb:window-inactive{
+    background:#e6eaed;
+  }
+}
 @media (max-width:670px){
   table.techstack{
     width:calc(100% - .5em);
@@ -1117,6 +1122,14 @@ table.techstack td:first-of-type{
   nav.default_state{
     left:-85%;
   }
+  div.desc_i{
+    width:calc(100% - 2.5rem);
+    font-size:.8125rem;
+    top:4rem;
+  }
+  .desc_i p{
+    font-size:1rem;
+  }
 }
 @media (max-width:480px){
   header .btn-group{
@@ -1131,5 +1144,18 @@ table.techstack td:first-of-type{
   }
   header span{
     display:none;
+  }
+  table.colors{
+    font-size:.75rem;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+  }
+  .typestyle{
+    min-width:none;
+  }
+  .desc_pattern{
+    min-width:auto;
+    padding:1.25rem;
   }
 }

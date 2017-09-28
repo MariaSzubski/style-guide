@@ -16,17 +16,19 @@
 		<article id="guidelines">
 			<div id="container">
 				<div class="spec_content">
-					<div class="elevation">
-						<div class="elevation" id="level_1">
-							<h4>Level 1 : Content Panels</h4>
-							<div class="elevation" id="level_2">
-								<h4>Level 2 : App Bar &amp; Menus</h4>
-								<div class="elevation" id="level_3">
-									<h4>Level 3 : Overlays</h4>
+					<section>
+						<div class="elevation">
+							<div class="elevation" id="level_1">
+								<h4>Level 1 : Content Panels</h4>
+								<div class="elevation" id="level_2">
+									<h4>Level 2 : App Bar &amp; Menus</h4>
+									<div class="elevation" id="level_3">
+										<h4>Level 3 : Overlays</h4>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</section>
 				</div>
 				<aside>
 					<dl class="dl_root">
@@ -46,9 +48,6 @@
 								<dd>Box Shadow: <br><span class="pxrem">0px</span> <span class="pxrem">3px</span> <span class="pxrem">16px</span> rgba(0,0,0,.25)</dd>
 							</dl>
 						</dd>
-						<!-- -->
-						<dt></dt>
-						<dd></dd>
 					</dl>
 				</aside>
 			</div>

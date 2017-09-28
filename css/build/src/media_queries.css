@@ -54,6 +54,22 @@
     margin:24px 0;
   }
 }
+@media (min-width:671px){
+  ::-webkit-scrollbar{
+    width:.75rem;
+  }
+  ::-webkit-scrollbar-track{
+    box-shadow:inset 0 0 5px rgba(0,0,0,.4);
+  }
+  ::-webkit-scrollbar-thumb{
+    border-radius:.75rem;
+    background:#d5d9dc;
+    box-shadow:inset 0 0 3px rgba(0,0,0,.4);
+  }
+  ::-webkit-scrollbar-thumb:window-inactive{
+    background:#e6eaed;
+  }
+}
 @media (max-width:670px){
   table.techstack{
     width:calc(100% - .5em);
@@ -106,6 +122,14 @@
   nav.default_state{
     left:-85%;
   }
+  div.desc_i{
+    width:calc(100% - 2.5rem);
+    font-size:.8125rem;
+    top:4rem;
+  }
+  .desc_i p{
+    font-size:1rem;
+  }
 }
 @media (max-width:480px){
   header .btn-group{
@@ -120,5 +144,18 @@
   }
   header span{
     display:none;
+  }
+  table.colors{
+    font-size:.75rem;
+    width:100%;
+    min-width:100%;
+    max-width:100%;
+  }
+  .typestyle{
+    min-width:none;
+  }
+  .desc_pattern{
+    min-width:auto;
+    padding:1.25rem;
   }
 }

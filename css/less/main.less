@@ -166,13 +166,16 @@ aside{
 		width: auto;
 		.text-desc;
 		font-size: @text-lg;
-		padding-bottom: 16px;
 	}
+
+	& p:not(:last-of-type){
+		padding-bottom: 1rem;
+	}
+
 	& ul, & li{
 		font-size: @text-lg;
 		color: @gray;
 		line-height: 1.6;
-		// font-weight: 400;
 		list-style-type: circle;
 	}
 
