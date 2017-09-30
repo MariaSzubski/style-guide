@@ -12,7 +12,7 @@ table.techstack{
     &:not(:last-of-type){
         margin-bottom: 48px;
     }
-    
+
     tr{
         &:not(:last-of-type){
             border-bottom: 1px solid @matte;
@@ -31,6 +31,10 @@ table.techstack{
         &:first-of-type{
             font-weight: 700;
             flex: 1;
+        }
+
+        & p:not(:first-of-type){
+            margin-top: 1rem;
         }
     }
 }

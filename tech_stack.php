@@ -21,21 +21,44 @@
 						<tbody>
 							<tr>
 								<td>AJAX</td>
-								<td>Page contents load dynamically to maintain user's nav position.
-									<br/>AJAX calls are loaded into the history button to that users can step backward without backing out of the site.
-									<br/>The page URL updates for easy copy and paste.
-									<br/>Site works as standard HTML without AJAX if JavaScript is disabled.
+								<td>
+									<p>
+										Page contents load dynamically with AJAX. This allows for a persistent nav menu that doesn't reload as the user clicks through content.
+									</p>
+									<p>
+										AJAX calls are loaded into the browser history to that users can step backward without backing out of the site. The page URL also updates easy copy/paste and bookmarking.
+									</p>
+									<p>
+										If JavaScript is disabled the site works as standard HTML.
+									</p>
 								</td>
 							</tr>
 							<tr>
 								<td>PX to REM Conversion</td>
-								<td>User can choose between pixels or rem units. This selection is site-wide and is saved to the browser's local storage. The values are calculated on the fly with JavaScript.
+								<td>
+									Users can choose between pixels or rem units. This selection is site-wide and is saved to the browser's local storage. The values are calculated on the fly with JavaScript.
 								</td>
 							</tr>
 							<tr>
 								<td>PHP</td>
-								<td>The css, scripts, and navigation are loaded as PHP includes for basic templating.
-									<br/>The nav menu auto-selects the correct nav item based on the page URL.
+								<td>
+									<p>
+										The navigation menu, scripts, CSS, unit switcher, and meta tags are loaded with PHP includes for basic templating.
+									</p>
+									<p>
+										The nav menu auto-selects the correct nav item based on the content's URL.
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>Responsive Design</td>
+								<td>
+									<p>
+										This style guide is responsive using flexbox to display the content at any screen size. On wide monitors the nav menu is pinned open by default and sites next to a multi-column spec layout. Below 1200px the nav menu collapses by default and can be opened on hover.
+									</p>
+									<p>
+										As the screen continues to scale down the content switches to a single column layout and the nav bar moves completely off the screen. On small handheld devices the page header is simplified to prevent overlapping content.
+									</p>
 								</td>
 							</tr>
 						</tbody>

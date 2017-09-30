@@ -909,6 +909,10 @@ table.techstack td:first-of-type{
       -ms-flex:1;
           flex:1;
 }
+table.techstack td p:not(:first-of-type){
+  margin-top:16px;
+  margin-top:1rem;
+}
 
 .type{
   display:-webkit-box;
