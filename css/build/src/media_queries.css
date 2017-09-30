@@ -106,7 +106,7 @@
   main header{
     border-bottom:1px solid #edf1f4;
   }
-  main header h2{
+  main header h2,main header h2>span{
     font-size:.9375rem;
   }
   nav{
