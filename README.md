@@ -1,4 +1,4 @@
-![Style Guide Responsive Layout](https://github.com/MariaSzubski/Current-Portfolio/blob/revise_layout/img/style_guide/lg/showcase_style-guide.png)
+![Style Guide Responsive Layout](https://github.com/MariaSzubski/mariaszubski.github.io/blob/master/showcase_bg_style-guide.png)
 
 This Style Guide is a template for a documentation website for a brand or project. It displays font styles, color palette, web components, pattern recommendations. It is built with AJAX and PHP and is responsive at all device sizes. If JavaScript is disabled the site works as standard HTML.
 
